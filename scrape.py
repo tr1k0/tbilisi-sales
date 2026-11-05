@@ -344,11 +344,33 @@ def shopify_item(w):
 
 
 # ---------------- Telegram ----------------
+def tg_chat_from_updates(tok):
+    """Личный чат, из которого боту писали /start (Telegram хранит сообщения 24 часа)."""
+    try:
+        d = json.loads(urllib.request.urlopen(f"https://api.telegram.org/bot{tok}/getUpdates", timeout=30).read())
+        for u in reversed(d.get("result", [])):
+            ch = (u.get("message") or {}).get("chat") or {}
+            if ch.get("type") == "private":
+                return str(ch["id"])
+    except Exception as e:
+        log("Telegram: getUpdates —", type(e).__name__)
+    return None
+
+
 def tg_send(text):
     tok, chat = os.environ.get("TG_TOKEN"), os.environ.get("TG_CHAT_ID")
-    if not tok or not chat:
-        log("Telegram: TG_TOKEN или TG_CHAT_ID не заданы — сообщение не отправлено")
+    if not tok:
+        log("Telegram: TG_TOKEN не задан — сообщение не отправлено")
         return False
+    # номер чата не задан или это номер самого бота → берём чат, где написали /start
+    if not chat or chat == tok.split(":")[0]:
+        found = tg_chat_from_updates(tok)
+        if not found:
+            log("Telegram: нет номера чата — напиши боту /start и запусти снова")
+            return False
+        log("Telegram: TG_CHAT_ID неверный, использую чат из /start")
+        text = ("⚙️ Сохрани в секрет TG_CHAT_ID репозитория этот номер: <code>" + found + "</code>\n\n") + text
+        chat = found
     chunks, cur = [], ""
     for line in text.split("\n"):
         if len(cur) + len(line) > 3800:
