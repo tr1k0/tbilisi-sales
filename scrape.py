@@ -295,8 +295,9 @@ def md_items(ws):
         comp = "; ".join(", ".join(f"{x.get('percentage')}% {x.get('name')}" for x in part.get("composition", [])) for part in det.get("composition", []))
         img = None
         try:
-            xm = det["xmedia"][0]
-            img = f"https://static.massimodutti.net/3/photos{xm['path']}/{xm['xmediaItems'][0]['medias'][0]['idMedia']}2.jpg?w=750"
+            xms = det.get("xmedia") or []
+            xm = next((x for x in xms if str(x.get("colorCode")) == str(c.get("id"))), xms[0])
+            img = xm["xmediaItems"][0]["medias"][0]["url"] + "&w=750"
         except Exception:
             pass
         res[w["id"]] = {"ok": True, "price": price, "old": old, "color": c.get("name"), "sizes_all": [s.get("name") for s in sz],
