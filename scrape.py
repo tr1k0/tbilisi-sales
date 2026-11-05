@@ -320,7 +320,9 @@ def to_gel(x, cur):
     """Цена в валюте → ₾; дороже 300 ₾ — НДС 18% и сбор при ввозе."""
     if cur == "GEL":
         return x
-    g = x * CFG["rates"].get(cur, 1)
+    if cur not in CFG["rates"]:
+        raise ValueError(f"неизвестная валюта {cur}")
+    g = x * CFG["rates"][cur]
     return g * (1 + CFG["import_vat"]) + CFG["import_fee"] if g > 300 else g
 
 
@@ -478,10 +480,11 @@ def main():
             r = zara_item(w)
         elif w["store"] == "md":
             r = md_res.get(w["id"], {"ok": False, "err": "?"})
-        elif w["store"] == "shopify":
-            r = shopify_item(w)
-        elif w["store"] == "ld":
-            r = ld_item(w)
+        elif w["store"] in ("shopify", "ld"):
+            try:
+                r = shopify_item(w) if w["store"] == "shopify" else ld_item(w)
+            except ValueError as e:
+                r = {"ok": False, "err": f"{urllib.parse.urlparse(w['url']).netloc}: {e}"}
         else:
             r = {"ok": False, "err": w.get("why_untracked", "не отслеживается")}
         plan.append({**{k: w.get(k) for k in ("id", "name", "wave", "store", "url", "plan_price", "size", "group")}, **r,

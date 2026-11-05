@@ -304,16 +304,8 @@
    "price": 599.0,
    "old": null
   },
-  "pwvc-harrington": {
-   "price": 20198,
-   "old": null
-  },
   "barbour-ashby": {
    "price": 1342,
-   "old": null
-  },
-  "lavenham-raydon": {
-   "price": 11643,
    "old": null
   },
   "cz-leather": {
@@ -334,10 +326,6 @@
   },
   "md-wool-overshirt": {
    "price": 470.0,
-   "old": null
-  },
-  "alpha-m65": {
-   "price": 6215,
    "old": null
   },
   "cz-down": {
@@ -400,16 +388,8 @@
    "price": 179.0,
    "old": null
   },
-  "drakes-cardigan": {
-   "price": 13826,
-   "old": null
-  },
   "md-oxford": {
    "price": 290.0,
-   "old": null
-  },
-  "drakes-ocbd": {
-   "price": 7867,
    "old": null
   },
   "cz-poplin": {
@@ -430,18 +410,6 @@
   },
   "md-wool-shirt": {
    "price": 470.0,
-   "old": null
-  },
-  "og-benoit": {
-   "price": 7395,
-   "old": null
-  },
-  "drakes-chambray": {
-   "price": 9637,
-   "old": null
-  },
-  "og-dungaree": {
-   "price": 3914,
    "old": null
   },
   "pf-camp": {
@@ -466,10 +434,6 @@
   },
   "sunspel-loopback": {
    "price": 627,
-   "old": null
-  },
-  "loopwheeler": {
-   "price": 7454,
    "old": null
   },
   "ald-hoodie": {
@@ -532,10 +496,6 @@
    "price": 690.0,
    "old": null
   },
-  "paraboot-chambord": {
-   "price": 15596,
-   "old": null
-  },
   "md-chelsea": {
    "price": 690.0,
    "old": null
@@ -558,10 +518,6 @@
   },
   "jordan-1-low": {
    "price": 402,
-   "old": null
-  },
-  "onitsuka-mx66": {
-   "price": 2734,
    "old": null
   },
   "sebago-dock": {
@@ -588,10 +544,6 @@
    "price": 1135,
    "old": null
   },
-  "timex-marlin": {
-   "price": 8516,
-   "old": null
-  },
   "persol-649": {
    "price": 801,
    "old": null
@@ -611,10 +563,6 @@
   "jmm-torino": {
    "price": 4433,
    "old": null
-  },
-  "vitaly-integer": {
-   "price": 2111,
-   "old": 3023
   },
   "miansai-4mm": {
    "price": 641,
@@ -646,10 +594,6 @@
   },
   "dents-gloves": {
    "price": 231,
-   "old": null
-  },
-  "drakes-tie": {
-   "price": 6156,
    "old": null
   },
   "cz-tie": {
