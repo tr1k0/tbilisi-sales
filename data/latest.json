@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:27+04:00",
+ "updated": "2026-11-05T15:41+04:00",
  "sizes": "Размеры: верх M (иногда S), на этикетках Zara 38–42; низ 175 см / талия 78–80 см; обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -851,6 +851,8 @@
     "15"
    ],
    "sizes_avail": [
+    "5",
+    "5.5",
     "6.5",
     "7",
     "7.5",
@@ -983,12 +985,14 @@
     "6.5",
     "7.5",
     "8",
+    "8.5",
     "9",
     "9.5",
     "10"
    ],
    "mine": [
     "8",
+    "8.5",
     "9"
    ],
    "need_size": true,
@@ -2614,10 +2618,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 17100.0,
+   "price_foreign": 1050.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 20198,
+   "cur": "USD",
+   "price": 3365,
    "old": null,
    "sizes_all": [
     "2 XS",
@@ -2639,7 +2643,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/pwvc-harrington.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "barbour-ashby",
@@ -2670,10 +2674,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 9850.0,
+   "price_foreign": 410.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 11643,
+   "cur": "USD",
+   "price": 1326,
    "old": null,
    "sizes_all": [
     "XS",
@@ -2780,7 +2784,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/lavenham-raydon.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "cz-leather",
@@ -2972,9 +2976,15 @@
    "plan_price": 1544,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "allsaints.com: цены в разметке страницы нет",
-   "img": "assets/cat/allsaints-cora-suede.webp"
+   "ok": true,
+   "price": 519,
+   "price_foreign": 119.2,
+   "cur": "GBP",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/cat/allsaints-cora-suede.webp",
+   "note": "Цена 119.2 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "md-wool-bomber",
@@ -3072,10 +3082,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 5250.0,
+   "price_foreign": 250.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 6215,
+   "cur": "USD",
+   "price": 816,
    "old": null,
    "sizes_all": [
     "OLIVE / XXS",
@@ -3146,7 +3156,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/alpha-m65.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "buzz-m65",
@@ -3915,10 +3925,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 11700.0,
+   "price_foreign": 395.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 13826,
+   "cur": "GBP",
+   "price": 1675,
    "old": null,
    "sizes_all": [
     "XXS",
@@ -3943,7 +3953,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/drakes-cardigan.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "md-oxford",
@@ -3996,10 +4006,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 6650.0,
+   "price_foreign": 225.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 7867,
+   "cur": "GBP",
+   "price": 963,
    "old": null,
    "sizes_all": [
     "14",
@@ -4028,7 +4038,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/drakes-ocbd.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "cz-poplin",
@@ -4205,10 +4215,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 6250.0,
+   "price_foreign": 275.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 7395,
+   "cur": "EUR",
+   "price": 1026,
    "old": null,
    "sizes_all": [
     "XS",
@@ -4227,7 +4237,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/og-benoit.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в EUR пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "drakes-chambray",
@@ -4239,10 +4249,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 8150.0,
+   "price_foreign": 275.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 9637,
+   "cur": "GBP",
+   "price": 1172,
    "old": null,
    "sizes_all": [
     "XS",
@@ -4267,7 +4277,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/drakes-chambray.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "og-dungaree",
@@ -4279,10 +4289,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 3300.0,
+   "price_foreign": 145.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 3914,
+   "cur": "EUR",
+   "price": 550,
    "old": null,
    "sizes_all": [
     "XXS",
@@ -4300,7 +4310,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/og-dungaree.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в EUR пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "ol-box-shirt",
@@ -4325,10 +4335,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 125.0,
+   "price_foreign": 144.0,
    "old_foreign": null,
-   "cur": "EUR",
-   "price": 477,
+   "cur": "USD",
+   "price": 479,
    "old": null,
    "sizes_all": [
     "XS",
@@ -4351,7 +4361,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/pf-camp.webp",
-   "note": "Цена в EUR пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "cz-pima-polo",
@@ -4548,7 +4558,6 @@
     "XX Large / Navy / Standard"
    ],
    "sizes_avail": [
-    "Extra Small / Navy / Standard",
     "Small / Navy / Standard",
     "Medium / Navy / Standard",
     "Large / Navy / Standard",
@@ -4556,7 +4565,6 @@
     "XX Large / Navy / Standard"
    ],
    "mine": [
-    "Extra Small / Navy / Standard",
     "Small / Navy / Standard",
     "Medium / Navy / Standard",
     "Large / Navy / Standard",
@@ -4618,10 +4626,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 6300.0,
+   "price_foreign": 335.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 7454,
+   "cur": "USD",
+   "price": 1087,
    "old": null,
    "sizes_all": [
     "S",
@@ -4644,7 +4652,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/loopwheeler.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "ald-hoodie",
@@ -5169,9 +5177,11 @@
     "33",
     "34",
     "36",
+    "38",
     "40"
    ],
    "mine": [
+    "38",
     "40"
    ],
    "need_size": true,
@@ -5488,10 +5498,10 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price_foreign": 13200.0,
+   "price_foreign": 691.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 15596,
+   "cur": "USD",
+   "price": 2222,
    "old": null,
    "sizes_all": [
     "3",
@@ -5541,7 +5551,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/paraboot-chambord.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "churchs-shannon",
@@ -5812,10 +5822,10 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price_foreign": 2300.0,
+   "price_foreign": 120.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 2734,
+   "cur": "USD",
+   "price": 402,
    "old": null,
    "sizes_all": [
     "3",
@@ -5853,7 +5863,7 @@
    "need_size": true,
    "comp": "",
    "img": "assets/cat/onitsuka-mx66.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "nb-990v6",
@@ -6200,10 +6210,10 @@
    "size": null,
    "group": "site",
    "ok": true,
-   "price_foreign": 7200.0,
+   "price_foreign": 299.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 8516,
+   "cur": "USD",
+   "price": 973,
    "old": null,
    "sizes_all": [
     "Default Title"
@@ -6217,7 +6227,7 @@
    "need_size": false,
    "comp": "",
    "img": "assets/cat/timex-marlin.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "seiko-presage",
@@ -6351,10 +6361,10 @@
    "size": null,
    "group": "site",
    "ok": true,
-   "price_foreign": 175.0,
+   "price_foreign": 275.0,
    "old_foreign": null,
-   "cur": "GBP",
-   "price": 753,
+   "cur": "USD",
+   "price": 896,
    "old": null,
    "sizes_all": [
     "M|Medium / Camo / Prescription",
@@ -6425,7 +6435,7 @@
    "need_size": false,
    "comp": "",
    "img": "assets/cat/cubitts.webp",
-   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "op-gregory",
@@ -6880,11 +6890,11 @@
    "size": null,
    "group": "site",
    "ok": true,
-   "price_foreign": 1772.0,
-   "old_foreign": 2545.0,
-   "cur": "MXN",
-   "price": 2111,
-   "old": 3023,
+   "price_foreign": 94.0,
+   "old_foreign": 135.0,
+   "cur": "USD",
+   "price": 254,
+   "old": 450,
    "sizes_all": [
     "6.5in",
     "7in",
@@ -6914,12 +6924,9 @@
     "9in",
     "6.5in",
     "7in",
-    "7.5in",
     "8in",
-    "8.5in",
     "9in",
     "6.5in",
-    "7in",
     "7.5in",
     "8in",
     "8.5in",
@@ -6934,12 +6941,9 @@
     "9in",
     "6.5in",
     "7in",
-    "7.5in",
     "8in",
-    "8.5in",
     "9in",
     "6.5in",
-    "7in",
     "7.5in",
     "8in",
     "8.5in",
@@ -6948,7 +6952,7 @@
    "need_size": false,
    "comp": "",
    "img": "assets/cat/vitaly-integer.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "miansai-2mm",
@@ -7338,10 +7342,10 @@
    "size": null,
    "group": "site",
    "ok": true,
-   "price_foreign": 5200.0,
+   "price_foreign": 175.0,
    "old_foreign": null,
-   "cur": "MXN",
-   "price": 6156,
+   "cur": "GBP",
+   "price": 753,
    "old": null,
    "sizes_all": [
     "ONESIZE"
@@ -7355,7 +7359,7 @@
    "need_size": false,
    "comp": "",
    "img": "assets/cat/drakes-tie.webp",
-   "note": "Цена в MXN пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "cz-tie",
@@ -7885,15 +7889,6 @@
  ],
  "markdowns_rejected": [
   {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
    "name": "COMFORT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773030",
    "price": 79.0,
@@ -7959,6 +7954,15 @@
   {
    "name": "100% LYOCELL RELAXED FIT TROUSERS",
    "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -8075,20 +8079,20 @@
   "✓ mack-dunkeld 3350  размер: 38,40,42",
   "✓ cz-manteco-jacket 599.0  размер: S",
   "· cos-pea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ pwvc-harrington 20198  размер: ",
+  "✓ pwvc-harrington 3365  размер: ",
   "✓ barbour-ashby 1342  размер: ",
-  "✓ lavenham-raydon 11643  размер: S,M,Sable Black / XXL,S,M,S,M,Lamp Black / XXL,Lamp Black / XXXL,S,M,Suffolk Navy / XXL,Suffolk Navy / XXXL,S,M,S,M",
+  "✓ lavenham-raydon 1326  размер: S,M,Sable Black / XXL,S,M,S,M,Lamp Black / XXL,Lamp Black / XXXL,S,M,Suffolk Navy / XXL,Suffolk Navy / XXXL,S,M,S,M",
   "✓ cz-leather 529.0  размер: S",
   "✓ md-nappa-bomber 1400.0  размер: S,M",
   "✓ schott-618 3270  размер: 38,40,42,38,40,42",
   "✓ md-suede-bomber 1300.0  размер: S,M",
-  "· allsaints-cora-suede None  allsaints.com: цены в разметке страницы нет",
+  "✓ allsaints-cora-suede 519  размер: ",
   "· md-wool-bomber None  Massimo Dutti: в ссылке нет номера товара (pelement)",
   "· cos-padded-bomber None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-wool-overshirt 470.0  размер: S,M",
   "· carhartt-michigan None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· laboureur None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ alpha-m65 6215  размер: S,M,S,M,S,M",
+  "✓ alpha-m65 816  размер: S,M,S,M,S,M",
   "· buzz-m65 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cz-down 429.0  размер: S,M",
   "✓ md-parka 690.0  размер: ",
@@ -8123,19 +8127,19 @@
   "✓ npeal-temple 1800  размер: S,M",
   "· bc-halfzip None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cz-cardigan 179.0  размер: M",
-  "✓ drakes-cardigan 13826  размер: S,M",
+  "✓ drakes-cardigan 1675  размер: S,M",
   "✓ md-oxford 290.0  размер: M,M",
-  "✓ drakes-ocbd 7867  размер: ",
+  "✓ drakes-ocbd 963  размер: ",
   "✓ cz-poplin 179.0  размер: S,M",
   "✓ md-twill 290.0  размер: ",
   "✓ md-cotton-cash 390.0  размер: S,M",
   "✓ cz-flannel 129.0  размер: M",
   "✓ md-wool-shirt 470.0  размер: S,M",
-  "✓ og-benoit 7395  размер: ",
-  "✓ drakes-chambray 9637  размер: S,M",
-  "✓ og-dungaree 3914  размер: ",
+  "✓ og-benoit 1026  размер: ",
+  "✓ drakes-chambray 1172  размер: S,M",
+  "✓ og-dungaree 550  размер: ",
   "· ol-box-shirt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ pf-camp 477  размер: S,M",
+  "✓ pf-camp 479  размер: S,M",
   "✓ cz-pima-polo 129.0  размер: S,M",
   "✓ cz-pique-navy 179.0  размер: M",
   "· md-ls-polo None  Massimo Dutti: в ссылке нет номера товара (pelement)",
@@ -8144,9 +8148,9 @@
   "· lacoste-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· uq-airism None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· smedley-tee None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ rc-terry 265  размер: Extra Small / Navy / Standard,Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
+  "✓ rc-terry 265  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
   "✓ sunspel-loopback 627  размер: S,M",
-  "✓ loopwheeler 7454  размер: S,M",
+  "✓ loopwheeler 1087  размер: S,M",
   "✓ ald-hoodie 641  размер: S,M",
   "· carhartt-hoodie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cz-suit-trousers 219.0  размер: 40",
@@ -8168,7 +8172,7 @@
   "· uq-wide-jeans None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· levis-501 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-linen-bermuda 290.0  размер: S,M",
-  "✓ ob-bulldog 963  размер: 40",
+  "✓ ob-bulldog 963  размер: 38,40",
   "· vilebrequin None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-suede-loafer 400.0  размер: 42,42,43,43",
   "✓ md-leather-loafer 600.0  размер: 42,43",
@@ -8181,7 +8185,7 @@
   "· prada-monolith None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-blucher 690.0  размер: 42,43",
   "· cos-derby None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ paraboot-chambord 15596  размер: 9,10",
+  "✓ paraboot-chambord 2222  размер: 9,10",
   "· churchs-shannon None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-chelsea 690.0  размер: 42,43",
   "· cos-chelsea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8196,7 +8200,7 @@
   "✓ nike-am1 498  размер: ",
   "✓ jordan-1-low 402  размер: ",
   "· puma-speedcat None  kith.com: цены в разметке страницы нет",
-  "✓ onitsuka-mx66 2734  размер: ",
+  "✓ onitsuka-mx66 402  размер: ",
   "· nb-990v6 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· asics-k14 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
@@ -8210,7 +8214,7 @@
   "· mango-belt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· andersons-woven None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ seiko-srpd55 1135  размер: ",
-  "✓ timex-marlin 8516  размер: Default Title",
+  "✓ timex-marlin 973  размер: Default Title",
   "· seiko-presage None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· hamilton-quartz None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· cartier-tank None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8218,12 +8222,12 @@
   "· casio-vintage None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· rayban-wayfarer None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ persol-649 801  размер: 52-20,54-20,56-20,52-20RX,54-20RX,56-20RX",
-  "✓ cubitts 753  размер: M|Medium / Camo / Prescription,M|Medium / Camo / Non-Prescription,M|Medium / Black / Prescription,M|Medium / Black / Non-Prescription,M|Medium / Peony / Prescription,M|Medium / Peony / Non-Prescription,M|Medium / Khaki / Prescription,M|Medium / Khaki / Non-Prescription,M|Medium / Amber / Prescription,M|Medium / Amber / Non-Prescription,L|Large / Camo / Prescription,L|Large / Camo / Non-Prescription,L|Large / Black / Prescription,L|Large / Black / Non-Prescription,L|Large / Peony / Prescription,L|Large / Peony / Non-Prescription,L|Large / Khaki / Prescription,L|Large / Khaki / Non-Prescription,L|Large / Amber / Prescription,L|Large / Amber / Non-Prescription",
+  "✓ cubitts 896  размер: M|Medium / Camo / Prescription,M|Medium / Camo / Non-Prescription,M|Medium / Black / Prescription,M|Medium / Black / Non-Prescription,M|Medium / Peony / Prescription,M|Medium / Peony / Non-Prescription,M|Medium / Khaki / Prescription,M|Medium / Khaki / Non-Prescription,M|Medium / Amber / Prescription,M|Medium / Amber / Non-Prescription,L|Large / Camo / Prescription,L|Large / Camo / Non-Prescription,L|Large / Black / Prescription,L|Large / Black / Non-Prescription,L|Large / Peony / Prescription,L|Large / Peony / Non-Prescription,L|Large / Khaki / Prescription,L|Large / Khaki / Non-Prescription,L|Large / Amber / Prescription,L|Large / Amber / Non-Prescription",
   "✓ op-gregory 1339  размер: 47-23,45-23,50-23,47-23RX,50-23RX,45-23RX",
   "✓ moscot-lemtosh 1103  размер: 44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ jmm-torino 4433  размер: ",
-  "✓ vitaly-integer 2111 3023 размер: 6.5in,7in,7.5in,8in,8.5in,9in,6.5in,7in,7.5in,8in,8.5in,9in,6.5in,7in,7.5in,8in,8.5in,9in",
+  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in,9in,6.5in,7in,8in,9in,6.5in,7.5in,8in,8.5in,9in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
   "· tomwood-cushion None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8241,7 +8245,7 @@
   "· lp-grande-unita None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ dents-gloves 231  размер: S,M,L,XL,S,M,L,XL",
   "· causse-gloves None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ drakes-tie 6156  размер: ONESIZE",
+  "✓ drakes-tie 753  размер: ONESIZE",
   "✓ cz-tie 109.0  размер: M",
   "· bv-card None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· hermes-calvi None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",

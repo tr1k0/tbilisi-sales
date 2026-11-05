@@ -150,6 +150,7 @@
    "price": 721,
    "mine": [
     "8",
+    "8.5",
     "9"
    ]
   },
@@ -413,7 +414,7 @@
    "old": null
   },
   "pf-camp": {
-   "price": 477,
+   "price": 479,
    "old": null
   },
   "cz-pima-polo": {
@@ -549,7 +550,7 @@
    "old": null
   },
   "cubitts": {
-   "price": 753,
+   "price": 896,
    "old": null
   },
   "op-gregory": {
@@ -614,6 +615,66 @@
   },
   "ombre-leather": {
    "price": 148,
+   "old": null
+  },
+  "pwvc-harrington": {
+   "price": 3365,
+   "old": null
+  },
+  "lavenham-raydon": {
+   "price": 1326,
+   "old": null
+  },
+  "allsaints-cora-suede": {
+   "price": 519,
+   "old": null
+  },
+  "alpha-m65": {
+   "price": 816,
+   "old": null
+  },
+  "drakes-cardigan": {
+   "price": 1675,
+   "old": null
+  },
+  "drakes-ocbd": {
+   "price": 963,
+   "old": null
+  },
+  "og-benoit": {
+   "price": 1026,
+   "old": null
+  },
+  "drakes-chambray": {
+   "price": 1172,
+   "old": null
+  },
+  "og-dungaree": {
+   "price": 550,
+   "old": null
+  },
+  "loopwheeler": {
+   "price": 1087,
+   "old": null
+  },
+  "paraboot-chambord": {
+   "price": 2222,
+   "old": null
+  },
+  "onitsuka-mx66": {
+   "price": 402,
+   "old": null
+  },
+  "timex-marlin": {
+   "price": 973,
+   "old": null
+  },
+  "vitaly-integer": {
+   "price": 254,
+   "old": 450
+  },
+  "drakes-tie": {
+   "price": 753,
    "old": null
   }
  },
