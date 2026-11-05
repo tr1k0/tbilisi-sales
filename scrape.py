@@ -424,6 +424,46 @@ def shopify_item(w):
             "comp": "", "img": img, "note": f"Цена в {cur} пересчитана в ₾ с НДС 18% и сбором, без доставки"}
 
 
+# ---------------- Погода в Тбилиси (Open-Meteo, без ключа) ----------------
+WD = ["понедельник", "вторник", "среда", "четверг", "пятница", "суббота", "воскресенье"]
+WCODE = [((0,), "ясно"), ((1, 2), "малооблачно"), ((3,), "пасмурно"), ((45, 48), "туман"), ((51, 53, 55, 56, 57), "морось"),
+         ((61, 63, 65, 66, 67), "дождь"), ((71, 73, 75, 77), "снег"), ((80, 81, 82), "ливень"), ((85, 86), "снегопад"), ((95, 96, 99), "гроза")]
+
+
+def wtext(code):
+    return next((t for cs, t in WCODE if code in cs), "")
+
+
+def wseason(tmax):
+    """Сезон сайта по дневному максимуму (как в «Годе в Тбилиси»)."""
+    return "sum" if tmax >= 25 else "wm" if tmax >= 15 else "cm" if tmax >= 10 else "win"
+
+
+def weather():
+    u = ("https://api.open-meteo.com/v1/forecast?latitude=41.7151&longitude=44.8271&timezone=Asia%2FTbilisi&forecast_days=2"
+         "&daily=temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_sum,"
+         "precipitation_probability_max,weather_code,wind_speed_10m_max&hourly=temperature_2m,apparent_temperature")
+    d, st = get(u, tries=2)
+    if not d or "daily" not in d:
+        log("Погода недоступна:", st)
+        return None
+    D, H = d["daily"], d["hourly"]
+    out = []
+    for i, day in enumerate(D["time"]):
+        ev = [j for j, t in enumerate(H["time"]) if t.startswith(day) and 20 <= int(t[11:13]) <= 22]
+        avg = lambda k: round(sum(H[k][j] for j in ev) / len(ev), 1) if ev else None
+        dt = datetime.date.fromisoformat(day)
+        tmax = D["temperature_2m_max"][i]
+        out.append({"date": day, "weekday": WD[dt.weekday()], "wd": dt.weekday(), "tmax": tmax, "tmin": D["temperature_2m_min"][i],
+                    "feel_max": D["apparent_temperature_max"][i], "feel_min": D["apparent_temperature_min"][i],
+                    "eve": avg("temperature_2m"), "eve_feel": avg("apparent_temperature"),
+                    "precip": D["precipitation_sum"][i], "pop": D["precipitation_probability_max"][i],
+                    "code": D["weather_code"][i], "sky": wtext(D["weather_code"][i]), "wind": D["wind_speed_10m_max"][i],
+                    "eff": round((tmax + D["apparent_temperature_max"][i]) / 2, 1),
+                    "season": wseason((tmax + D["apparent_temperature_max"][i]) / 2)})
+    return out
+
+
 # ---------------- Telegram ----------------
 def tg_chat_from_updates(tok):
     """Личный чат, из которого боту писали /start (Telegram хранит сообщения 24 часа)."""
@@ -574,8 +614,19 @@ def main():
               "markdowns_nosize": group([x for x in md if x["verdict"] == "nosize"]),
               "markdowns_rejected": [{k: x[k] for k in ("name", "url", "price", "old", "disc", "comp", "reason")} for x in md if x["verdict"] == "skip"],
               "log": LOG[-200:]}
+    wx = weather()
+    if wx:
+        wpath = os.path.join(DATA, "weather.json")
+        wh = load(wpath, {})
+        wh[wx[0]["date"]] = {**wx[0], "at": NOW.strftime("%H:%M")}
+        wh = dict(sorted(wh.items())[-400:])
+        latest["weather"] = {"today": wx[0], "tomorrow": wx[1] if len(wx) > 1 else None,
+                             "recent": list(wh.values())[-21:]}
+        log(f"Погода: {wx[0]['weekday']}, {wx[0]['tmax']}°/{wx[0]['tmin']}°, {wx[0]['sky']}, осадки {wx[0]['pop']}%")
     if not dry:
         save(os.path.join(DATA, "latest.json"), latest)
+        if wx:
+            save(wpath, wh)
         save(hist_path, hist)
         state["first"] = False
         # чистим старые уценки, чтобы файл не рос
