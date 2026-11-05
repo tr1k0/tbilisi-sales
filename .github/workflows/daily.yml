@@ -6,7 +6,12 @@ on:
     - cron: "0 0,11,17 20-30 11 *" # Black Friday: ещё 3 раза в день
     - cron: "0 0,11,17 1-2 12 *"
     - cron: "0 0,11,17 1-31 1 *"   # январская распродажа
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      hello:
+        description: "Отправить проверочное сообщение в Telegram"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -28,6 +33,7 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          FORCE_HELLO: ${{ github.event.inputs.hello }}
         run: python scrape.py
       - name: Сохранить данные
         run: |

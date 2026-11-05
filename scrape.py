@@ -361,6 +361,9 @@ def tg_send(text):
         body = urllib.parse.urlencode({"chat_id": chat, "text": ch, "parse_mode": "HTML", "disable_web_page_preview": "true"}).encode()
         try:
             urllib.request.urlopen(urllib.request.Request(f"https://api.telegram.org/bot{tok}/sendMessage", data=body), timeout=30).read()
+        except urllib.error.HTTPError as e:
+            log("Telegram: ошибка", e.code, e.read().decode("utf-8", "replace")[:300])
+            ok = False
         except Exception as e:
             log("Telegram: ошибка", type(e).__name__)
             ok = False
@@ -376,6 +379,7 @@ def main():
     dry = "--dry" in sys.argv
     state = load(os.path.join(DATA, "state.json"), {"plan": {}, "md_seen": {}, "first": True})
     first = state.get("first", True) or not state.get("plan")
+    first = first or os.environ.get("FORCE_HELLO") == "true"
     hist_path = os.path.join(DATA, "history", NOW.strftime("%Y-%m") + ".json")
     hist = load(hist_path, {})
 
