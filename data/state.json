@@ -159,6 +159,518 @@
     "9",
     "10"
    ]
+  },
+  "w1-chelsea": {
+   "price": 219.0,
+   "old": null
+  },
+  "w1-belt": {
+   "price": 129.0,
+   "old": null
+  },
+  "w4-scarf": {
+   "price": 179.0,
+   "old": null
+  },
+  "w4-penny": {
+   "price": 219.0,
+   "old": null
+  },
+  "w1-trainers": {
+   "price": 219.0,
+   "old": null
+  },
+  "w1-halfzip": {
+   "price": 179.0,
+   "old": null
+  },
+  "w3-jumper": {
+   "price": 219.0,
+   "old": null
+  },
+  "w4-rollneck": {
+   "price": 199.0,
+   "old": null
+  },
+  "w4-polo": {
+   "price": 290.0,
+   "old": null
+  },
+  "w4-derby": {
+   "price": 299.0,
+   "old": null
+  },
+  "w4-suede": {
+   "price": 529.0,
+   "old": null
+  },
+  "w4-suede-loafer": {
+   "price": 179.0,
+   "old": null
+  },
+  "w5-bermuda-khaki": {
+   "price": 159.0,
+   "old": null
+  },
+  "p-watch2": {
+   "price": 2887,
+   "old": null
+  },
+  "p-g9": {
+   "price": 1298,
+   "old": 1524
+  },
+  "m-acne-jeans": {
+   "price": 2155,
+   "old": null
+  },
+  "m-af1": {
+   "price": 386,
+   "old": null
+  },
+  "m-z-white-shirt": {
+   "price": 179.0,
+   "old": null
+  },
+  "m-z-black-shirt": {
+   "price": 179.0,
+   "old": null
+  },
+  "b-dunk": {
+   "price": 386,
+   "old": null
+  },
+  "b-samba": {
+   "price": 297,
+   "old": null
+  },
+  "c-coat": {
+   "price": 559.0,
+   "old": null
+  },
+  "c-cable": {
+   "price": 179.0,
+   "old": null
+  },
+  "c-jeans": {
+   "price": 179.0,
+   "old": null
+  },
+  "c-boots": {
+   "price": 259.0,
+   "old": null
+  },
+  "c-bag": {
+   "price": 179.0,
+   "old": null
+  },
+  "d-coat": {
+   "price": 529.0,
+   "old": null
+  },
+  "d-rollneck": {
+   "price": 129.0,
+   "old": null
+  },
+  "d-merino": {
+   "price": 179.0,
+   "old": null
+  },
+  "d-pleated": {
+   "price": 299.0,
+   "old": null
+  },
+  "d-trainers": {
+   "price": 219.0,
+   "old": null
+  },
+  "d-belt": {
+   "price": 179.0,
+   "old": null
+  },
+  "p-bb54": {
+   "price": 15074,
+   "old": null
+  },
+  "md-wool-coat": {
+   "price": 1200.0,
+   "old": null
+  },
+  "mack-dunkeld": {
+   "price": 3350,
+   "old": null
+  },
+  "cz-manteco-jacket": {
+   "price": 599.0,
+   "old": null
+  },
+  "pwvc-harrington": {
+   "price": 20198,
+   "old": null
+  },
+  "barbour-ashby": {
+   "price": 1342,
+   "old": null
+  },
+  "lavenham-raydon": {
+   "price": 11643,
+   "old": null
+  },
+  "cz-leather": {
+   "price": 529.0,
+   "old": null
+  },
+  "md-nappa-bomber": {
+   "price": 1400.0,
+   "old": null
+  },
+  "schott-618": {
+   "price": 3270,
+   "old": null
+  },
+  "md-suede-bomber": {
+   "price": 1300.0,
+   "old": null
+  },
+  "md-wool-overshirt": {
+   "price": 470.0,
+   "old": null
+  },
+  "alpha-m65": {
+   "price": 6215,
+   "old": null
+  },
+  "cz-down": {
+   "price": 429.0,
+   "old": null
+  },
+  "md-parka": {
+   "price": 690.0,
+   "old": null
+  },
+  "md-cold-blazer": {
+   "price": 800.0,
+   "old": null
+  },
+  "md-hound-blazer": {
+   "price": 900.0,
+   "old": null
+  },
+  "ss-havana": {
+   "price": 1589,
+   "old": null
+  },
+  "cz-suit-anth": {
+   "price": 429.0,
+   "old": null
+  },
+  "cz-suit-black": {
+   "price": 499.0,
+   "old": null
+  },
+  "md-suit-navy": {
+   "price": 1400.0,
+   "old": null
+  },
+  "md-cash-bottle": {
+   "price": 690.0,
+   "old": null
+  },
+  "joe-cash": {
+   "price": 2094,
+   "old": null
+  },
+  "md-cable": {
+   "price": 400.0,
+   "old": null
+  },
+  "cz-knit-polo": {
+   "price": 179.0,
+   "old": null
+  },
+  "md-cash-polo": {
+   "price": 750.0,
+   "old": null
+  },
+  "npeal-temple": {
+   "price": 1800,
+   "old": null
+  },
+  "cz-cardigan": {
+   "price": 179.0,
+   "old": null
+  },
+  "drakes-cardigan": {
+   "price": 13826,
+   "old": null
+  },
+  "md-oxford": {
+   "price": 290.0,
+   "old": null
+  },
+  "drakes-ocbd": {
+   "price": 7867,
+   "old": null
+  },
+  "cz-poplin": {
+   "price": 179.0,
+   "old": null
+  },
+  "md-twill": {
+   "price": 290.0,
+   "old": null
+  },
+  "md-cotton-cash": {
+   "price": 390.0,
+   "old": null
+  },
+  "cz-flannel": {
+   "price": 129.0,
+   "old": null
+  },
+  "md-wool-shirt": {
+   "price": 470.0,
+   "old": null
+  },
+  "og-benoit": {
+   "price": 7395,
+   "old": null
+  },
+  "drakes-chambray": {
+   "price": 9637,
+   "old": null
+  },
+  "og-dungaree": {
+   "price": 3914,
+   "old": null
+  },
+  "pf-camp": {
+   "price": 477,
+   "old": null
+  },
+  "cz-pima-polo": {
+   "price": 129.0,
+   "old": null
+  },
+  "cz-pique-navy": {
+   "price": 179.0,
+   "old": null
+  },
+  "sunspel-riviera": {
+   "price": 606,
+   "old": null
+  },
+  "rc-terry": {
+   "price": 265,
+   "old": null
+  },
+  "sunspel-loopback": {
+   "price": 627,
+   "old": null
+  },
+  "loopwheeler": {
+   "price": 7454,
+   "old": null
+  },
+  "ald-hoodie": {
+   "price": 641,
+   "old": null
+  },
+  "cz-suit-trousers": {
+   "price": 219.0,
+   "old": null
+  },
+  "md-darts-black": {
+   "price": 400.0,
+   "old": null
+  },
+  "md-cord": {
+   "price": 290.0,
+   "old": null
+  },
+  "cz-selvedge": {
+   "price": 259.0,
+   "old": null
+  },
+  "md-relaxed-jeans": {
+   "price": 290.0,
+   "old": null
+  },
+  "md-selvedge": {
+   "price": 470.0,
+   "old": null
+  },
+  "apc-pns": {
+   "price": 861,
+   "old": null
+  },
+  "acne-1996": {
+   "price": 1740,
+   "old": null
+  },
+  "md-linen-bermuda": {
+   "price": 290.0,
+   "old": null
+  },
+  "ob-bulldog": {
+   "price": 963,
+   "old": null
+  },
+  "md-suede-loafer": {
+   "price": 400.0,
+   "old": null
+  },
+  "md-leather-loafer": {
+   "price": 600.0,
+   "old": null
+  },
+  "cj-boston": {
+   "price": 2596,
+   "old": null
+  },
+  "md-blucher": {
+   "price": 690.0,
+   "old": null
+  },
+  "paraboot-chambord": {
+   "price": 15596,
+   "old": null
+  },
+  "md-chelsea": {
+   "price": 690.0,
+   "old": null
+  },
+  "md-suede-boot": {
+   "price": 600.0,
+   "old": null
+  },
+  "nike-killshot": {
+   "price": 270,
+   "old": null
+  },
+  "nike-af1": {
+   "price": 386,
+   "old": null
+  },
+  "nike-am1": {
+   "price": 498,
+   "old": null
+  },
+  "jordan-1-low": {
+   "price": 402,
+   "old": null
+  },
+  "onitsuka-mx66": {
+   "price": 2734,
+   "old": null
+  },
+  "sebago-dock": {
+   "price": 546,
+   "old": null
+  },
+  "cz-laptop": {
+   "price": 259.0,
+   "old": null
+  },
+  "md-tote": {
+   "price": 900.0,
+   "old": null
+  },
+  "cc-isar": {
+   "price": 1151,
+   "old": null
+  },
+  "md-belt": {
+   "price": 230.0,
+   "old": null
+  },
+  "seiko-srpd55": {
+   "price": 1135,
+   "old": null
+  },
+  "timex-marlin": {
+   "price": 8516,
+   "old": null
+  },
+  "persol-649": {
+   "price": 801,
+   "old": null
+  },
+  "cubitts": {
+   "price": 753,
+   "old": null
+  },
+  "op-gregory": {
+   "price": 1339,
+   "old": null
+  },
+  "moscot-lemtosh": {
+   "price": 1103,
+   "old": null
+  },
+  "jmm-torino": {
+   "price": 4433,
+   "old": null
+  },
+  "vitaly-integer": {
+   "price": 2111,
+   "old": 3023
+  },
+  "miansai-4mm": {
+   "price": 641,
+   "old": null
+  },
+  "legramme-7g": {
+   "price": 1666,
+   "old": null
+  },
+  "ald-cap": {
+   "price": 189,
+   "old": null
+  },
+  "cz-wool-scarf": {
+   "price": 129.0,
+   "old": null
+  },
+  "md-fringe-scarf": {
+   "price": 290.0,
+   "old": null
+  },
+  "md-cash-scarf": {
+   "price": 690.0,
+   "old": null
+  },
+  "begg-arran": {
+   "price": 1215,
+   "old": null
+  },
+  "dents-gloves": {
+   "price": 231,
+   "old": null
+  },
+  "drakes-tie": {
+   "price": 6156,
+   "old": null
+  },
+  "cz-tie": {
+   "price": 109.0,
+   "old": null
+  },
+  "cdlp-boxer": {
+   "price": 450,
+   "old": null
+  },
+  "sunspel-boxer": {
+   "price": 544,
+   "old": null
+  },
+  "bresciani": {
+   "price": 93,
+   "old": null
+  },
+  "ombre-leather": {
+   "price": 148,
+   "old": null
   }
  },
  "md_seen": {
@@ -238,6 +750,19 @@
    "checked": "2026-11-05"
   },
   "545465620": {
+   "checked": "2026-11-05",
+   "told": "2026-11-05",
+   "told_price": 99.0
+  },
+  "555071597": {
+   "checked": "2026-11-05"
+  },
+  "545422945": {
+   "checked": "2026-11-05",
+   "told": "2026-11-05",
+   "told_price": 99.0
+  },
+  "555354850": {
    "checked": "2026-11-05",
    "told": "2026-11-05",
    "told_price": 99.0
