@@ -149,7 +149,8 @@ def zara_color(prod, url, hint=None):
 
 def zara_img(c):
     try:
-        x = c["xmedia"][0]
+        xs = c["xmedia"]
+        x = next((m for m in xs if m.get("type") == "image" and ".jpg" in (m.get("url") or "")), xs[0])
         return x["url"].replace("{width}", "750")
     except Exception:
         return None
@@ -365,10 +366,24 @@ def ld_item(w):
                         img = img[0] if isinstance(img, list) and img else img
                         img = img.get("url") if isinstance(img, dict) else img
                         best = (p, cur or "USD", "InStock" in str(of.get("availability", "InStock")), img)
+    old = None
+    if not best:  # разметка schema.org в HTML (itemprop), так отдаёт Mango
+        m = re.search(r'itemprop="price"[^>]*content="([\d.,]+)"', body, re.I) or re.search(r'content="([\d.,]+)"[^>]*itemprop="price"', body, re.I)
+        c = re.search(r'itemprop="priceCurrency"[^>]*content="([A-Z]{3})"', body, re.I)
+        if m:
+            im = re.search(r'itemprop="image"[^>]*(?:href|content)="([^"]+)"', body, re.I) or re.search(r'property="og:image"[^>]*content="([^"]+)"', body, re.I)
+            best = (float(m.group(1).replace(",", ".")), c.group(1) if c else "USD", True, im.group(1) if im else None)
+            # зачёркнутая цена: «… price [GEL 699,00 ]» рядом с «Current price [GEL 579,00 ]»
+            cur_m = re.search(r'Current price \[[A-Z]{3} ([\d.,]+) \]', body)
+            if cur_m:
+                seg = body[max(0, cur_m.start() - 1500):cur_m.end() + 1500]
+                prices = [float(x.replace(".", "").replace(",", ".")) for x in re.findall(r'price \[[A-Z]{3} ([\d.,]+) \]', seg)]
+                if prices and max(prices) > best[0] * 1.01:
+                    old = max(prices)
     if not best:
         return {"ok": False, "err": f"{host}: цены в разметке страницы нет"}
     p, cur, instock, img = best
-    return {"ok": True, "price": round(to_gel(p, cur)), "price_foreign": p, "cur": cur, "old": None, "need_size": False,
+    return {"ok": True, "price": round(to_gel(p, cur)), "price_foreign": p, "cur": cur, "old": round(to_gel(old, cur)) if old else None, "need_size": False,
             "in_stock": instock, "img": img if isinstance(img, str) and img.startswith("http") else None,
             "note": ("" if cur == "GEL" else f"Цена {p:g} {cur} пересчитана в ₾ с НДС 18% и сбором, без доставки") + ("" if instock else " · нет в наличии")}
 
@@ -487,7 +502,7 @@ def main():
                 r = {"ok": False, "err": f"{urllib.parse.urlparse(w['url']).netloc}: {e}"}
         else:
             r = {"ok": False, "err": w.get("why_untracked", "не отслеживается")}
-        plan.append({**{k: w.get(k) for k in ("id", "name", "wave", "store", "url", "plan_price", "size", "group")}, **r,
+        plan.append({**{k: w.get(k) for k in ("id", "name", "wave", "store", "url", "plan_price", "size", "group", "alt_of", "alt_label") if w.get(k) is not None or k in ("id", "name", "store", "url")}, **r,
                      # у Zara и MD — живое фото нужного цвета; у остальных — фото с сайта (без фона), если есть
                      "img": (r.get("img") or w.get("img")) if w["store"] in ("zara", "md") else (w.get("img") or r.get("img"))})
         log(("✓" if r.get("ok") else "·"), w["id"], r.get("price"), r.get("old") or "", ("размер: " + ",".join(r.get("mine", []))) if r.get("ok") else r.get("err"))
@@ -513,9 +528,9 @@ def main():
             reasons.append(f"цена {fm(prev['price'])} → {fm(p['price'])} ₾")
         elif not prev and p.get("old"):
             reasons.append(f"скидка: было {fm(p['old'])}, сейчас {fm(p['price'])} ₾")
-        if p.get("need_size") and p.get("mine") and not prev.get("mine"):
+        if prev and p.get("need_size") and p.get("mine") and not prev.get("mine"):
             reasons.append("появился твой размер: " + ", ".join(p["mine"]))
-        if p.get("need_size") and not p.get("mine") and prev.get("mine"):
+        if prev and p.get("need_size") and not p.get("mine") and prev.get("mine"):
             reasons.append("твой размер закончился")
         if reasons and not first:
             news_plan.append((p, reasons))
