@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:35+04:00",
+ "updated": "2026-11-05T07:47+04:00",
  "sizes": "Размеры: верх M (иногда S), низ 175 см / талия 78–80 см, обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -25,11 +25,13 @@
    ],
    "sizes_avail": [
     "38",
+    "40",
     "42",
     "44"
    ],
    "mine": [
-    "38"
+    "38",
+    "40"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -846,9 +848,61 @@
    "url": "https://meermin.com/products/514270-black-softcalf-e",
    "plan_price": 720,
    "size": "shoes",
-   "ok": false,
-   "err": "meermin.com: 429",
-   "img": null
+   "ok": true,
+   "price_foreign": 220.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 721,
+   "old": null,
+   "sizes_all": [
+    "2",
+    "3",
+    "4",
+    "4.5",
+    "5",
+    "5.5",
+    "6",
+    "6.5",
+    "7",
+    "7.5",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "11.5",
+    "12",
+    "12.5",
+    "13",
+    "13.5",
+    "14",
+    "14.5",
+    "15"
+   ],
+   "sizes_avail": [
+    "6",
+    "6.5",
+    "7.5",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "11.5"
+   ],
+   "mine": [
+    "8",
+    "8.5",
+    "9"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "https://cdn.shopify.com/s/files/1/0312/7659/7384/files/R2_51427054190000SE_1.jpg?v=1758054701",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "m-loafer-suede",
@@ -858,9 +912,54 @@
    "url": "https://meermin.com/products/514270-brown-suede-e",
    "plan_price": 720,
    "size": "shoes",
-   "ok": false,
-   "err": "meermin.com: 429",
-   "img": null
+   "ok": true,
+   "price_foreign": 220.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 721,
+   "old": null,
+   "sizes_all": [
+    "2",
+    "3",
+    "4",
+    "4.5",
+    "5",
+    "5.5",
+    "6",
+    "6.5",
+    "7",
+    "7.5",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "11.5",
+    "12",
+    "12.5",
+    "13",
+    "13.5",
+    "14",
+    "14.5",
+    "15"
+   ],
+   "sizes_avail": [
+    "6.5",
+    "7.5",
+    "8",
+    "9",
+    "9.5"
+   ],
+   "mine": [
+    "8",
+    "9"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "https://cdn.shopify.com/s/files/1/0312/7659/7384/files/R2_514270141700003E_1.jpg?v=1739654191",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "m-sneaker",
@@ -870,9 +969,46 @@
    "url": "https://olivercabell.com/products/low-1-white-mens",
    "plan_price": 595,
    "size": "shoes",
-   "ok": false,
-   "err": "olivercabell.com: 429",
-   "img": null
+   "ok": true,
+   "price_foreign": 179.99,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 593,
+   "old": null,
+   "sizes_all": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ],
+   "sizes_avail": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ],
+   "mine": [
+    "9",
+    "10"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "https://cdn.shopify.com/s/files/1/1002/1104/files/Low1White_1.jpg?v=1742224497",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "m-belt",
@@ -1155,7 +1291,7 @@
   }
  ],
  "log": [
-  "✓ w1-jeans 129.0  размер: 38",
+  "✓ w1-jeans 129.0  размер: 38,40",
   "✓ w1-oxford 109.0  размер: S,M",
   "✓ w4-oxford 109.0  размер: S,M",
   "✓ w5-merino 230.0  размер: S,M",
@@ -1186,9 +1322,9 @@
   "· p-gloves None  Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
   "· p-persol None  Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
   "✓ m-chelsea 864  размер: 8,8.5,9",
-  "· m-loafer-black None  meermin.com: 429",
-  "· m-loafer-suede None  meermin.com: 429",
-  "· m-sneaker None  olivercabell.com: 429",
+  "✓ m-loafer-black 721  размер: 8,8.5,9",
+  "✓ m-loafer-suede 721  размер: 8,9",
+  "✓ m-sneaker 593  размер: 9,10",
   "· m-belt None  Ссылки на конкретную модель ещё нет — модель выбирается позже",
   "Zara: категорий для уценок — 57",
   "Zara: уценок от 30% — 22"
