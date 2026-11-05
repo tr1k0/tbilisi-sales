@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T07:52+04:00",
+ "updated": "2026-11-05T12:08+04:00",
  "sizes": "Размеры: верх M (иногда S), низ 175 см / талия 78–80 см, обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -27,7 +27,8 @@
     "38",
     "40",
     "42",
-    "44"
+    "44",
+    "46"
    ],
    "mine": [
     "38",
@@ -61,8 +62,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ],
    "mine": [
     "S",
@@ -1025,9 +1025,9 @@
  ],
  "markdowns": [
   {
-   "pid": "549169925",
+   "pid": "549169926",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
    "price": 159.0,
    "old": 259.0,
    "disc": 39,
@@ -1035,8 +1035,8 @@
    "family": "WIND-JACKET",
    "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/e8fa/9ed7/79e648fda3be/2b0356c52029/04302370600-p/04302370600-p.jpg?ts=1787304467296&w=750",
-   "color": "Red",
+   "img": "https://static.zara.net/assets/public/860d/d608/e16a47079724/bf36845e450a/04302370800-p/04302370800-p.jpg?ts=1787228361813&w=750",
+   "color": "Black",
    "mine": [
     "M",
     "S"
@@ -1046,6 +1046,15 @@
    "reason": "",
    "store": "Zara",
    "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
+     "img": "https://static.zara.net/assets/public/860d/d608/e16a47079724/bf36845e450a/04302370800-p/04302370800-p.jpg?ts=1787228361813&w=750",
+     "mine": [
+      "M"
+     ],
+     "price": 159.0
+    },
     {
      "color": "Red",
      "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
@@ -1066,21 +1075,53 @@
      "price": 159.0
     }
    ]
+  },
+  {
+   "pid": "545465620",
+   "name": "COTTON REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
+   "price": 99.0,
+   "old": 159.0,
+   "disc": 38,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/cfc9/24d4/00dc4cb88b82/881fc2c38eac/09598454916-p/09598454916-p.jpg?ts=1787065786846&w=750",
+   "color": "Grey green",
+   "mine": [
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Grey green",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
+     "img": "https://static.zara.net/assets/public/cfc9/24d4/00dc4cb88b82/881fc2c38eac/09598454916-p/09598454916-p.jpg?ts=1787065786846&w=750",
+     "mine": [
+      "M"
+     ],
+     "price": 99.0
+    }
+   ]
   }
  ],
  "markdowns_nosize": [
   {
-   "pid": "549169926",
-   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
-   "price": 159.0,
-   "old": 259.0,
-   "disc": 39,
+   "pid": "555354849",
+   "name": "REGULAR FIT COTTON-CASHMERE JUMPER",
+   "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
+   "price": 99.0,
+   "old": 179.0,
+   "disc": 45,
    "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "WIND-JACKET",
-   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 80% cotton, 20% cashmere",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/860d/d608/e16a47079724/bf36845e450a/04302370800-p/04302370800-p.jpg?ts=1787228361813&w=750",
+   "img": "https://static.zara.net/assets/public/a4e5/2edb/0b734432acd0/ea7860111601/02893319800-p/02893319800-p.jpg?ts=1788362631109&w=750",
    "color": "Black",
    "mine": [],
    "size_class": "top",
@@ -1090,10 +1131,10 @@
    "colors": [
     {
      "color": "Black",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
-     "img": "https://static.zara.net/assets/public/860d/d608/e16a47079724/bf36845e450a/04302370800-p/04302370800-p.jpg?ts=1787228361813&w=750",
+     "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
+     "img": "https://static.zara.net/assets/public/a4e5/2edb/0b734432acd0/ea7860111601/02893319800-p/02893319800-p.jpg?ts=1788362631109&w=750",
      "mine": [],
-     "price": 159.0
+     "price": 99.0
     }
    ]
   },
@@ -1327,6 +1368,6 @@
   "✓ m-sneaker 593  размер: 9,10",
   "· m-belt None  Ссылки на конкретную модель ещё нет — модель выбирается позже",
   "Zara: категорий для уценок — 57",
-  "Zara: уценок от 30% — 22"
+  "Zara: уценок от 30% — 24"
  ]
 }
