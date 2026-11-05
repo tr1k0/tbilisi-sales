@@ -1,0 +1,38 @@
+name: Скидки
+
+on:
+  schedule:
+    - cron: "0 5 * * *"            # каждый день 09:00 по Тбилиси
+    - cron: "0 0,11,17 20-30 11 *" # Black Friday: ещё 3 раза в день
+    - cron: "0 0,11,17 1-2 12 *"
+    - cron: "0 0,11,17 1-31 1 *"   # январская распродажа
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Собрать цены
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python scrape.py
+      - name: Сохранить данные
+        run: |
+          git config user.name "sales-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Цены $(TZ=Asia/Tbilisi date +%F\ %H:%M)"
+          git push

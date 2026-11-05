@@ -1,0 +1,129 @@
+{
+ "sizes_note": "Размеры: верх M (иногда S), низ 175 см / талия 78–80 см, обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
+ "sizes": {
+  "top": [
+   "S",
+   "M"
+  ],
+  "tailoring": [
+   "46",
+   "48"
+  ],
+  "bottom": [
+   "38",
+   "40",
+   "S",
+   "M"
+  ],
+  "shoes": [
+   "42",
+   "43"
+  ],
+  "shoes_uk": [
+   "8",
+   "8.5",
+   "9"
+  ],
+  "shoes_us": [
+   "9",
+   "9.5",
+   "10"
+  ],
+  "belt": [
+   "85",
+   "90"
+  ]
+ },
+ "rates": {
+  "USD": 2.7,
+  "EUR": 3.1,
+  "GBP": 3.55
+ },
+ "import_vat": 0.18,
+ "import_fee": 20,
+ "markdown": {
+  "min_discount": 30,
+  "max_checks_per_run": 80,
+  "zara_sections": [
+   "JACKETS",
+   "COATS",
+   "BLAZERS",
+   "KNITWEAR",
+   "SWEATERS",
+   "CARDIGANS",
+   "TROUSERS",
+   "JEANS",
+   "SHIRTS",
+   "OVERSHIRTS",
+   "POLO",
+   "T-SHIRTS",
+   "SHOES",
+   "BOOTS",
+   "LOAFERS",
+   "SUITS",
+   "SPECIAL PRICES",
+   "SALE"
+  ],
+  "skip_words": [
+   "ATHLETICZ",
+   "TRAINING",
+   "TECHNICAL",
+   "GRAPHIC",
+   "PRINT",
+   "SLOGAN",
+   "RIPPED",
+   "DISTRESSED",
+   "FAUX",
+   "LEATHER EFFECT",
+   "SUEDE EFFECT",
+   "SUEDE-FINISH",
+   "PUFFER",
+   "HOODIE",
+   "SWEATSHIRT",
+   "JOGGER",
+   "CARGO",
+   "BAGGY",
+   "BALLOON",
+   "SKINNY",
+   "CROPPED",
+   "PYJAMA",
+   "SOCKS",
+   "UNDERWEAR",
+   "BOXER",
+   "KIDS",
+   "PERFUME",
+   "BOXY",
+   "CHECK",
+   "COMBINED",
+   "CONTRAST",
+   "BARREL",
+   "OVERSIZE",
+   "WIDE-LEG",
+   "WIDE LEG",
+   "EMBROIDER",
+   "PATCH",
+   "TIE-DYE",
+   "CROCHET"
+  ],
+  "natural": [
+   "wool",
+   "merino",
+   "cashmere",
+   "alpaca",
+   "mohair",
+   "camel",
+   "silk",
+   "linen",
+   "flax",
+   "cotton",
+   "leather",
+   "cow leather",
+   "lamb leather",
+   "goat leather",
+   "sheep leather",
+   "suede",
+   "yak"
+  ],
+  "min_natural_pct": 80
+ }
+}
