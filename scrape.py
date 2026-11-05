@@ -27,14 +27,16 @@ def log(*a):
     print(s, flush=True)
 
 
-def get(url, tries=2):
+def get(url, tries=2, timeout=30, accept="application/json,text/plain,*/*", raw=False):
     """GET JSON с паузой между запросами. Возвращает (json|None, статус)."""
     for i in range(tries):
         time.sleep(1.2 + random.random())
-        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json,text/plain,*/*", "Accept-Language": "en"})
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": accept, "Accept-Language": "en"})
         try:
-            with urllib.request.urlopen(req, timeout=30) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 body = r.read().decode("utf-8", "replace")
+            if raw:
+                return body, 200
             try:
                 return json.loads(body), 200
             except ValueError:
@@ -269,12 +271,16 @@ def md_items(ws):
     res = {w["id"]: {"ok": False, "err": "Massimo Dutti: в ссылке нет номера товара (pelement)"} for w in ws}
     if not ids:
         return res
-    d, st = get(MD + ",".join(ids))
-    if not d:
-        for w in ids.values():
-            res[w["id"]] = {"ok": False, "err": f"Massimo Dutti: {st}"}
-        return res
-    for p in d.get("products", []):
+    prods = []
+    keys = list(ids)
+    for i in range(0, len(keys), 20):
+        d, st = get(MD + ",".join(keys[i:i + 20]))
+        if not d:
+            for k in keys[i:i + 20]:
+                res[ids[k]["id"]] = {"ok": False, "err": f"Massimo Dutti: {st}"}
+            continue
+        prods += d.get("products", [])
+    for p in prods:
         w = ids.get(str(p.get("id")))
         if not w:
             continue
@@ -306,16 +312,77 @@ def md_items(ws):
     return res
 
 
-# ---------------- Shopify (Meermin, Oliver Cabell, Johnstons) ----------------
+# ---------------- Shopify (любой магазин с /products/) ----------------
+CUR = {}
+
+
+def to_gel(x, cur):
+    """Цена в валюте → ₾; дороже 300 ₾ — НДС 18% и сбор при ввозе."""
+    if cur == "GEL":
+        return x
+    g = x * CFG["rates"].get(cur, 1)
+    return g * (1 + CFG["import_vat"]) + CFG["import_fee"] if g > 300 else g
+
+
+# ---------------- прочие сайты: данные о товаре в разметке (JSON-LD) ----------------
+def ld_item(w):
+    body, st = get(w["url"], tries=1, timeout=20, accept="text/html", raw=True)
+    host = urllib.parse.urlparse(w["url"]).netloc.replace("www.", "")
+    if not body:
+        return {"ok": False, "err": f"{host}: {st}"}
+    best = None
+    for blk in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', body, re.S):
+        try:
+            data = json.loads(blk.strip())
+        except ValueError:
+            continue
+        stack = data if isinstance(data, list) else [data]
+        while stack:
+            o = stack.pop()
+            if isinstance(o, list):
+                stack += o
+                continue
+            if not isinstance(o, dict):
+                continue
+            stack += [v for k, v in o.items() if k in ("@graph", "hasVariant", "mainEntity")]
+            t = o.get("@type")
+            if t == "Product" or (isinstance(t, list) and "Product" in t):
+                offs = o.get("offers") or []
+                offs = offs if isinstance(offs, list) else [offs]
+                for of in offs:
+                    if not isinstance(of, dict):
+                        continue
+                    p = of.get("price") or of.get("lowPrice")
+                    cur = of.get("priceCurrency")
+                    try:
+                        p = float(str(p).replace(",", ".").replace(" ", ""))
+                    except (TypeError, ValueError):
+                        continue
+                    if p > 0 and (best is None or p < best[0]):
+                        img = o.get("image")
+                        img = img[0] if isinstance(img, list) and img else img
+                        img = img.get("url") if isinstance(img, dict) else img
+                        best = (p, cur or "USD", "InStock" in str(of.get("availability", "InStock")), img)
+    if not best:
+        return {"ok": False, "err": f"{host}: цены в разметке страницы нет"}
+    p, cur, instock, img = best
+    return {"ok": True, "price": round(to_gel(p, cur)), "price_foreign": p, "cur": cur, "old": None, "need_size": False,
+            "in_stock": instock, "img": img if isinstance(img, str) and img.startswith("http") else None,
+            "note": ("" if cur == "GEL" else f"Цена {p:g} {cur} пересчитана в ₾ с НДС 18% и сбором, без доставки") + ("" if instock else " · нет в наличии")}
+
+
+# ---------------- Shopify ----------------
 def shopify_item(w):
     u = re.sub(r"[?#].*$", "", w["url"])
     d, st = get(u + ".js")
     if not d or "variants" not in d:
         return {"ok": False, "err": f"{urllib.parse.urlparse(u).netloc}: {st}"}
     host = urllib.parse.urlparse(u).netloc
-    cart, _ = get(f"https://{host}/cart.js")  # валюта магазина
-    cur = (cart or {}).get("currency") or ("EUR" if "meermin" in host else "USD")
-    kind = "shopify-uk" if "meermin" in host else "shopify-us"
+    if host not in CUR:
+        cart, _ = get(f"https://{host}/cart.js")  # валюта магазина
+        CUR[host] = (cart or {}).get("currency")
+    cur = CUR[host] or ("EUR" if "meermin" in host else "USD")
+    kind = {"uk": "shopify-uk", "us": "shopify-us"}.get(w.get("sizes_kind"), "eu")
     wanted = want_sizes(w.get("size"), kind)
     vs = d["variants"]
     price = min(v["price"] for v in vs) / 100
@@ -329,15 +396,12 @@ def shopify_item(w):
     for v in vs:
         v["title"] = vt(v)
     avail = [v.get("title") for v in vs if v.get("available")]
-    rate = CFG["rates"].get(cur, 1)
-    gel = price * rate
-    if gel > 300:
-        gel = gel * (1 + CFG["import_vat"]) + CFG["import_fee"]
+    gel = to_gel(price, cur)
     img = d.get("featured_image")
     if img and img.startswith("//"):
         img = "https:" + img
     return {"ok": True, "price_foreign": price, "old_foreign": old, "cur": cur, "price": round(gel),
-            "old": round(old * rate * (1 + CFG["import_vat"]) + CFG["import_fee"]) if old else None,
+            "old": round(to_gel(old, cur)) if old else None,
             "sizes_all": [v.get("title") for v in vs], "sizes_avail": avail,
             "mine": [n for n in avail if size_ok(n, wanted)] if wanted else avail, "need_size": bool(wanted),
             "comp": "", "img": img, "note": f"Цена в {cur} пересчитана в ₾ с НДС 18% и сбором, без доставки"}
@@ -416,21 +480,31 @@ def main():
             r = md_res.get(w["id"], {"ok": False, "err": "?"})
         elif w["store"] == "shopify":
             r = shopify_item(w)
+        elif w["store"] == "ld":
+            r = ld_item(w)
         else:
             r = {"ok": False, "err": w.get("why_untracked", "не отслеживается")}
-        plan.append({**{k: w.get(k) for k in ("id", "name", "wave", "store", "url", "plan_price", "size")}, **r,
-                     "img": r.get("img") or w.get("img")})
+        plan.append({**{k: w.get(k) for k in ("id", "name", "wave", "store", "url", "plan_price", "size", "group")}, **r,
+                     # у Zara и MD — живое фото нужного цвета; у остальных — фото с сайта (без фона), если есть
+                     "img": (r.get("img") or w.get("img")) if w["store"] in ("zara", "md") else (w.get("img") or r.get("img"))})
         log(("✓" if r.get("ok") else "·"), w["id"], r.get("price"), r.get("old") or "", ("размер: " + ",".join(r.get("mine", []))) if r.get("ok") else r.get("err"))
 
     # 2) уценки Zara
     md = zara_markdowns(state.setdefault("md_seen", {}))
 
     # 3) новости: сравнение с прошлым днём
-    news_plan, news_md = [], []
+    news_plan, news_md, news_other = [], [], []
     for p in plan:
         if not p.get("ok"):
             continue
         prev = state["plan"].get(p["id"], {})
+        if p.get("group", "plan") != "plan":  # остальные вещи сайта: только цена
+            if prev.get("price") and p["price"] <= prev["price"] * 0.95:
+                news_other.append((p, f"цена {fm(prev['price'])} → {fm(p['price'])} ₾"))
+            elif p.get("old") and not prev.get("old"):
+                news_other.append((p, f"скидка: было {fm(p['old'])}, сейчас {fm(p['price'])} ₾"))
+            state["plan"][p["id"]] = {"price": p["price"], "old": p.get("old")}
+            continue
         reasons = []
         if prev.get("price") and p["price"] < prev["price"] - 0.5:
             reasons.append(f"цена {fm(prev['price'])} → {fm(p['price'])} ₾")
@@ -475,7 +549,9 @@ def main():
         day["z" + x["pid"]] = x["price"]
 
     # 5) файлы для сайта
-    latest = {"updated": NOW.isoformat(timespec="minutes"), "sizes": CFG["sizes_note"], "plan": plan,
+    latest = {"updated": NOW.isoformat(timespec="minutes"), "sizes": CFG["sizes_note"],
+              "plan": [p for p in plan if p.get("group", "plan") == "plan"],
+              "others": [p for p in plan if p.get("group", "plan") != "plan"],
               "markdowns": sorted(group([x for x in md if x["verdict"] == "ok"]), key=lambda x: -x["disc"]),
               "markdowns_nosize": group([x for x in md if x["verdict"] == "nosize"]),
               "markdowns_rejected": [{k: x[k] for k in ("name", "url", "price", "old", "disc", "comp", "reason")} for x in md if x["verdict"] == "skip"],
@@ -492,9 +568,10 @@ def main():
     # 6) Telegram
     lines = []
     if first:
-        ok = sum(1 for p in plan if p.get("ok"))
+        ok = sum(1 for p in plan if p.get("ok") and p.get("group", "plan") == "plan")
+        ok2 = sum(1 for p in plan if p.get("ok") and p.get("group", "plan") != "plan")
         lines.append(f"<b>Сборщик скидок запущен</b> · {TODAY}")
-        lines.append(f"Отслеживаю {ok} вещей из плана и уценки Zara от {CFG['markdown']['min_discount']}%. Дальше пишу только когда есть новости.")
+        lines.append(f"Отслеживаю {ok} вещей из плана, ещё {ok2} вещей с сайта и уценки Zara от {CFG['markdown']['min_discount']}%. Дальше пишу только когда есть новости.")
     if news_plan:
         lines.append("\n<b>Вещи из плана</b>")
         for p, rs in news_plan:
@@ -506,6 +583,12 @@ def main():
                          + (f" · цвета: {html.escape(', '.join(c['color'] or '' for c in x['colors']))}" if len(x["colors"]) > 1 else ""))
         if len(news_md) > 25:
             lines.append(f"…и ещё {len(news_md) - 25} — на сайте в разделе «Скидки»")
+    if news_other and not first:
+        lines.append(f"\n<b>Другие вещи с сайта</b> ({len(news_other)})")
+        for p, why in news_other[:15]:
+            lines.append(f"• <a href=\"{html.escape(p['url'])}\">{html.escape(p['name'])}</a> — {why}")
+        if len(news_other) > 15:
+            lines.append(f"…и ещё {len(news_other) - 15} — на сайте")
     if lines:
         lines.append("\nВсё подробно: https://looksmaxing-kappa.vercel.app/#sales")
         msg = "\n".join(lines)
