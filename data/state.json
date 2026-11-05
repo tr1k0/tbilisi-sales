@@ -17,7 +17,6 @@
   "w4-oxford": {
    "price": 109.0,
    "mine": [
-    "S",
     "M"
    ]
   },
@@ -675,6 +674,212 @@
   },
   "drakes-tie": {
    "price": 753,
+   "old": null
+  },
+  "w3-polo": {
+   "price": 190.0,
+   "mine": []
+  },
+  "w5-polo-white~1": {
+   "price": 109.0,
+   "mine": [
+    "S",
+    "M"
+   ]
+  },
+  "w5-polo-white~2": {
+   "price": 109.0,
+   "mine": [
+    "S",
+    "M"
+   ]
+  },
+  "w5-polo-white~3": {
+   "price": 99.0,
+   "mine": [
+    "S",
+    "M"
+   ]
+  },
+  "w5-sandals~1": {
+   "price": 330.0,
+   "mine": [
+    "42",
+    "43"
+   ]
+  },
+  "w5-sandals~2": {
+   "price": 330.0,
+   "mine": [
+    "42",
+    "42",
+    "43"
+   ]
+  },
+  "w5-sandals~3": {
+   "price": 470.0,
+   "mine": [
+    "42",
+    "43"
+   ]
+  },
+  "w5-sandals~4": {
+   "price": 199.0,
+   "mine": [
+    "42",
+    "43"
+   ]
+  },
+  "w5-sandals~5": {
+   "price": 149.0,
+   "mine": [
+    "42",
+    "43"
+   ]
+  },
+  "w5-swim~1": {
+   "price": 190.0,
+   "mine": [
+    "S",
+    "M"
+   ]
+  },
+  "w5-swim~2": {
+   "price": 109.0,
+   "mine": [
+    "M"
+   ]
+  },
+  "w5-belt-woven~1": {
+   "price": 190.0,
+   "mine": [
+    "90"
+   ]
+  },
+  "w5-belt-woven~2": {
+   "price": 290.0,
+   "mine": [
+    "90"
+   ]
+  },
+  "w5-belt-woven~3": {
+   "price": 179.0,
+   "mine": [
+    "S-M"
+   ]
+  },
+  "w5-belt-woven~4": {
+   "price": 109.0,
+   "mine": [
+    "S-M"
+   ]
+  },
+  "p-coat": {
+   "price": 2219,
+   "mine": []
+  },
+  "p-allsaints": {
+   "price": 2247,
+   "mine": []
+  },
+  "p-watch": {
+   "price": 7666,
+   "mine": []
+  },
+  "p-watch-bb58": {
+   "price": 16667,
+   "mine": []
+  },
+  "p-watch-silver": {
+   "price": 7666,
+   "old": null
+  },
+  "p-straps~1": {
+   "price": 135,
+   "mine": [
+    "24mm"
+   ]
+  },
+  "p-straps~2": {
+   "price": 175,
+   "mine": [
+    "Stainless Steel",
+    "Black PVD"
+   ]
+  },
+  "p-straps~3": {
+   "price": 202,
+   "mine": [
+    "18mm",
+    "20mm",
+    "22mm",
+    "24mm",
+    "24mm",
+    "20mm",
+    "22mm",
+    "18mm",
+    "22mm",
+    "24mm",
+    "22mm",
+    "20mm",
+    "24mm",
+    "22mm",
+    "24mm",
+    "20mm",
+    "18mm",
+    "20mm"
+   ]
+  },
+  "m-belt~1": {
+   "price": 230.0,
+   "mine": [
+    "90"
+   ]
+  },
+  "m-belt~2": {
+   "price": 230.0,
+   "mine": [
+    "85",
+    "90"
+   ]
+  },
+  "m-belt~3": {
+   "price": 230.0,
+   "mine": [
+    "85",
+    "90"
+   ]
+  },
+  "md-wool-bomber": {
+   "price": 700.0,
+   "old": null
+  },
+  "md-ls-polo": {
+   "price": 190.0,
+   "old": null
+  },
+  "run-zara": {
+   "price": 259.0,
+   "old": null
+  },
+  "run-peg40": {
+   "price": 195,
+   "old": null
+  },
+  "run-peg41gtx": {
+   "price": 200,
+   "old": null
+  },
+  "shave-razor": {
+   "price": 55,
+   "old": null
+  },
+  "shave-blades": {
+   "price": 95,
+   "old": null
+  },
+  "shave-gel": {
+   "price": 33,
    "old": null
   }
  },

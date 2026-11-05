@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:56+04:00",
+ "updated": "2026-11-05T20:28+04:00",
  "sizes": "Размеры: верх M (иногда S), на этикетках Zara 38–42; низ 175 см / талия 78–80 см; обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -97,14 +97,12 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL",
     "XXL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -361,13 +359,29 @@
    "name": "Трикотажное поло, тёмно-синее",
    "wave": "b4",
    "store": "md",
-   "url": "https://www.massimodutti.com/ge/en/100-cotton-knit-polo-sweater-l01369201",
+   "url": "https://www.massimodutti.com/ge/en/100-cotton-knit-polo-sweater-l01369201?pelement=62127399",
    "plan_price": 190,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Massimo Dutti: в ссылке нет номера товара (pelement)",
-   "img": "assets/items/polo-navy.webp"
+   "ok": true,
+   "price": 190.0,
+   "old": 230.0,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "L"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "https://static.massimodutti.net/assets/public/cc1b/2091/32f5418aa8e3/9cee44fbb530/01369201401-o2/01369201401-o2.jpg?ts=1782829032303&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-linen-white",
@@ -581,17 +595,114 @@
    "cur": "GEL"
   },
   {
-   "id": "w5-polo-white",
-   "name": "Поло-пике, белое или голубое",
+   "id": "w5-polo-white~1",
+   "name": "Zara: выстиранное поло-пике, голубое",
    "wave": "b5",
-   "store": null,
-   "url": null,
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/washed-pique-regular-fit-polo-shirt-p04087315.html",
    "plan_price": 129,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Ссылки на конкретную модель ещё нет — модель выбирается позже",
-   "img": null
+   "alt_of": "w5-polo-white",
+   "alt_label": "Поло-пике, белое или голубое",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Faded blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "https://static.zara.net/assets/public/ac9f/ca93/d7914cbda3a6/e3cc9a42c236/04087315428-p/04087315428-p.jpg?ts=1785927109241&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-polo-white~2",
+   "name": "Zara: ретро-поло, белое (97% хлопок)",
+   "wave": "b5",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/retro-regular-fit-polo-shirt-p04092401.html",
+   "plan_price": 129,
+   "size": "top",
+   "group": "plan",
+   "alt_of": "w5-polo-white",
+   "alt_label": "Поло-пике, белое или голубое",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 97% cotton, 3% elastane",
+   "img": "https://static.zara.net/assets/public/7586/2ae3/e5ea4345b00c/50c6b5633e55/04092401251-p/04092401251-p.jpg?ts=1785840334242&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-polo-white~3",
+   "name": "Zara: поло с вертикальной фактурой, белое",
+   "wave": "b5",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/vertical-texture-polo-shirt-p00526410.html",
+   "plan_price": 129,
+   "size": "top",
+   "group": "plan",
+   "alt_of": "w5-polo-white",
+   "alt_label": "Поло-пике, белое или голубое",
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton, 98% cotton, 2% elastane",
+   "img": "https://static.zara.net/assets/public/22ad/f93b/30c24df6bfeb/87c1e77b23f1/00526410251-p/00526410251-p.jpg?ts=1785853849369&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-tee-white",
@@ -666,69 +777,457 @@
    "cur": "GEL"
   },
   {
-   "id": "w5-sandals",
-   "name": "Кожаные сандалии или эспадрильи",
+   "id": "w5-sandals~1",
+   "name": "Massimo Dutti: кожаные эспадрильи, тёмно-синие",
    "wave": "b5",
-   "store": null,
-   "url": null,
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/leather-espadrilles-l12916750?pelement=62913731",
    "plan_price": 159,
    "size": "shoes",
    "group": "plan",
-   "ok": false,
-   "err": "Ссылки на конкретную модель ещё нет — модель выбирается позже",
-   "img": null
+   "alt_of": "w5-sandals",
+   "alt_label": "Кожаные сандалии или эспадрильи",
+   "ok": true,
+   "price": 330.0,
+   "old": null,
+   "color": "Dark blue",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% goat leather; 100% rubber; 100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/f860/38d3/4f1042bda3d7/070947238b1d/12921750407-r/12921750407-r.jpg?ts=1778744545717&w=750",
+   "cur": "GEL"
   },
   {
-   "id": "w5-swim",
-   "name": "Однотонные плавки, тёмно-синие",
+   "id": "w5-sandals~2",
+   "name": "Massimo Dutti: эспадрильи с замшей",
    "wave": "b5",
-   "store": null,
-   "url": null,
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/espadrille-with-split-suede-leather-panel-l12906750?pelement=62892614",
+   "plan_price": 159,
+   "size": "shoes",
+   "group": "plan",
+   "alt_of": "w5-sandals",
+   "alt_label": "Кожаные сандалии или эспадрильи",
+   "ok": true,
+   "price": 330.0,
+   "old": null,
+   "color": "Dark blue",
+   "sizes_all": [
+    "39",
+    "39",
+    "40",
+    "40",
+    "41",
+    "41",
+    "42",
+    "42",
+    "43",
+    "43",
+    "44",
+    "44",
+    "45",
+    "45",
+    "46",
+    "46"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "40",
+    "41",
+    "42",
+    "42",
+    "43",
+    "45",
+    "45",
+    "46"
+   ],
+   "mine": [
+    "42",
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 100% sheep leather; 100% rubber; 100% sheep leather",
+   "img": "https://static.massimodutti.net/assets/public/404f/d8f6/00a0455c848b/fb78f31468b1/12904750407-o14/12904750407-o14.jpg?ts=1772527644637&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-sandals~3",
+   "name": "Massimo Dutti: кожаные сандалии с пряжками",
+   "wave": "b5",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/buckled-split-leather-sandals-l12936750?pelement=62892488",
+   "plan_price": 159,
+   "size": "shoes",
+   "group": "plan",
+   "alt_of": "w5-sandals",
+   "alt_label": "Кожаные сандалии или эспадрильи",
+   "ok": true,
+   "price": 470.0,
+   "old": null,
+   "color": "OCHRE",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_avail": [
+    "40",
+    "42",
+    "43",
+    "44"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 100% cow leather; 100% rubber; 100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/3b24/3869/7e374bf68a2b/d3cb272436b3/12936750713-o5/12936750713-o5.jpg?ts=1777908007418&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-sandals~4",
+   "name": "Zara: кожаные эспадрильи",
+   "wave": "b5",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/leather-espadrilles-p12760720.html",
+   "plan_price": 159,
+   "size": "shoes",
+   "group": "plan",
+   "alt_of": "w5-sandals",
+   "alt_label": "Кожаные сандалии или эспадрильи",
+   "ok": true,
+   "price": 199.0,
+   "old": null,
+   "color": "Sand Brown",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 60% jute, 40% polyurethane",
+   "img": "https://static.zara.net/assets/public/6d6c/02cc/cd6346f28882/ac31f2c09501/12760720107-a2/12760720107-a2.jpg?ts=1778244533626&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-sandals~5",
+   "name": "Zara: кожаные сандалии на двух ремешках",
+   "wave": "b5",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/double-strap-leather-sandals-p12738720.html",
+   "plan_price": 159,
+   "size": "shoes",
+   "group": "plan",
+   "alt_of": "w5-sandals",
+   "alt_label": "Кожаные сандалии или эспадрильи",
+   "ok": true,
+   "price": 149.0,
+   "old": null,
+   "color": "Chocolate",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester",
+   "img": "https://static.zara.net/assets/public/559a/d780/da4f4ae8964b/f56242b38175/12738720721-a2/12738720721-a2.jpg?ts=1779877710760&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-swim~1",
+   "name": "Massimo Dutti: однотонные плавки, тёмно-синие",
+   "wave": "b5",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/plain-swim-trunks-l00689199?pelement=61731600",
    "plan_price": 99,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Ссылки на конкретную модель ещё нет — модель выбирается позже",
-   "img": null
+   "alt_of": "w5-swim",
+   "alt_label": "Однотонные плавки, тёмно-синие",
+   "ok": true,
+   "price": 190.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "100% polyamide; 100% polyester",
+   "img": "https://static.massimodutti.net/assets/public/0ead/2172/e27a409cb4d3/5d20a969dc56/00689188401-o6/00689188401-o6.jpg?ts=1779805572062&w=750",
+   "cur": "GEL"
   },
   {
-   "id": "w5-belt-woven",
-   "name": "Плетёный летний ремень",
+   "id": "w5-swim~2",
+   "name": "Zara: длинные мягкие плавки, тёмно-синие",
    "wave": "b5",
-   "store": null,
-   "url": null,
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/soft-long-swimming-trunks-p00495317.html",
+   "plan_price": 99,
+   "size": "top",
+   "group": "plan",
+   "alt_of": "w5-swim",
+   "alt_label": "Однотонные плавки, тёмно-синие",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyester",
+   "img": "https://static.zara.net/assets/public/f021/1cf1/1a40456682ea/bc68a59e2abe/00495317401-a1/00495317401-a1.jpg?ts=1785855378304&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-belt-woven~1",
+   "name": "Massimo Dutti: плетёный кожаный ремень, коричневый",
+   "wave": "b5",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/braided-leather-belt-l02745305?pelement=62568988",
    "plan_price": 99,
    "size": "belt",
    "group": "plan",
-   "ok": false,
-   "err": "Ссылки на конкретную модель ещё нет — модель выбирается позже",
-   "img": null
+   "alt_of": "w5-belt-woven",
+   "alt_label": "Плетёный летний ремень",
+   "ok": true,
+   "price": 190.0,
+   "old": null,
+   "color": "BROWN",
+   "sizes_all": [
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/ff22/7ac4/eaa8468987ca/67f2d5d0b8a2/02745305700-o5/02745305700-o5.jpg?ts=1781247782628&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-belt-woven~2",
+   "name": "Massimo Dutti: плетёный ремень из наппы, чёрный",
+   "wave": "b5",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/braided-nappa-leather-belt-l02533310?pelement=62892474",
+   "plan_price": 99,
+   "size": "belt",
+   "group": "plan",
+   "alt_of": "w5-belt-woven",
+   "alt_label": "Плетёный летний ремень",
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "90",
+    "100"
+   ],
+   "mine": [
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/7214/f785/37f44e94825e/56e93733ce3d/02533310800-c/02533310800-c.png?ts=1769500863864&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-belt-woven~3",
+   "name": "Zara: плетёный кожаный ремень",
+   "wave": "b5",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/braided-leather-belt-p02823312.html",
+   "plan_price": 99,
+   "size": "belt",
+   "group": "plan",
+   "alt_of": "w5-belt-woven",
+   "alt_label": "Плетёный летний ремень",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "S-M",
+    "L-XL"
+   ],
+   "sizes_avail": [
+    "S-M",
+    "L-XL"
+   ],
+   "mine": [
+    "S-M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cow leather",
+   "img": "https://static.zara.net/assets/public/13c4/c592/af724f4a9cbc/0dbfe477c45a/02823312700-a1/02823312700-a1.jpg?ts=1791548329514&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "w5-belt-woven~4",
+   "name": "Zara: плетёный эластичный ремень",
+   "wave": "b5",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/braided-stretch-belt-p02823301.html",
+   "plan_price": 99,
+   "size": "belt",
+   "group": "plan",
+   "alt_of": "w5-belt-woven",
+   "alt_label": "Плетёный летний ремень",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Sand",
+   "sizes_all": [
+    "S-M",
+    "L-XL"
+   ],
+   "sizes_avail": [
+    "S-M",
+    "L-XL"
+   ],
+   "mine": [
+    "S-M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 55% polyester, 45% elastodiene, 100% cow leather",
+   "img": "https://static.zara.net/assets/public/2052/6fc2/0a274ce2bcaf/c0b53d30a0a2/02823301711-a1/02823301711-a1.jpg?ts=1780564515567&w=750",
+   "cur": "GEL"
   },
   {
    "id": "p-coat",
    "name": "Пальто BOSS из шерсти с кашемиром",
    "wave": "b1",
-   "store": null,
+   "store": "ld",
    "url": "https://www.hugoboss.com/uk/slim-fit-formal-coat-in-wool-with-cashmere/hbeu50571557_404.html",
-   "plan_price": null,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
-   "img": "assets/prem/p-boss.webp"
+   "ok": true,
+   "price": 2219,
+   "price_foreign": 525.0,
+   "cur": "GBP",
+   "old": null,
+   "need_size": false,
+   "in_stock": false,
+   "img": "assets/prem/p-boss.webp",
+   "note": "Цена 525 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки · нет в наличии"
   },
   {
    "id": "p-allsaints",
    "name": "Кожаная куртка AllSaints Cora",
    "wave": "b2",
-   "store": null,
+   "store": "ld",
    "url": "https://www.allsaints.com/us/menswear/cora-leather-jacket/USM064LB-451.html",
-   "plan_price": null,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
-   "img": "assets/prem/p-allsaints.webp"
+   "ok": true,
+   "price": 2247,
+   "price_foreign": 699.0,
+   "cur": "USD",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/prem/p-allsaints.webp",
+   "note": "Цена 699 USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "p-scarf",
@@ -736,8 +1235,6 @@
    "wave": "b1",
    "store": "shopify",
    "url": "https://johnstonsofelgin.com/en-us/products/dark-navy-cashmere-scarf",
-   "plan_price": null,
-   "size": null,
    "group": "plan",
    "ok": true,
    "price_foreign": 295.0,
@@ -761,29 +1258,196 @@
   },
   {
    "id": "p-watch",
-   "name": "Часы Longines Conquest 38, чёрные, на браслете",
+   "name": "Longines Conquest 38, чёрный, на браслете — новый",
    "wave": "b4",
-   "store": null,
-   "url": "https://www.longines.com/en-fi/store/id/arttime-tbilisi-1645751",
-   "plan_price": null,
-   "size": null,
+   "store": "shopify",
+   "url": "https://teddybaldassarre.com/products/conquest-2023-38mm-black",
    "group": "plan",
-   "ok": false,
-   "err": "Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
-   "img": "assets/prem/p-conquest.webp"
+   "ok": true,
+   "price_foreign": 2400.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 7666,
+   "old": null,
+   "sizes_all": [
+    "Default Title"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "",
+   "img": "assets/prem/p-conquest.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
-   "id": "p-straps",
-   "name": "Ремешки к Conquest: чёрный каучук FKM и тёмная замша",
+   "id": "p-watch-bb58",
+   "name": "Tudor Black Bay 58 (2026), чёрный, на браслете — новый",
    "wave": "b4",
-   "store": null,
-   "url": null,
-   "plan_price": null,
-   "size": null,
+   "store": "shopify",
+   "url": "https://teddybaldassarre.com/products/tudor-black-bay-58-39mm-black-on-3-link-bracelet",
    "group": "plan",
-   "ok": false,
-   "err": "Ссылки на конкретную модель ещё нет — модель выбирается позже",
-   "img": null
+   "ok": true,
+   "price_foreign": 5225.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 16667,
+   "old": null,
+   "sizes_all": [
+    "Default Title"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "",
+   "img": "assets/prem/p-bb58-new.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "p-straps~1",
+   "name": "Strapcode: чёрный каучук FKM, 19–24 мм",
+   "wave": "b4",
+   "store": "shopify",
+   "url": "https://strapcode.com/products/le-ru-fkm01a-biw01-xx",
+   "group": "plan",
+   "alt_of": "p-straps",
+   "alt_label": "Ремешки к Conquest: чёрный каучук FKM и тёмная замша",
+   "ok": true,
+   "price_foreign": 49.99,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 135,
+   "old": null,
+   "sizes_all": [
+    "19mm",
+    "20mm",
+    "21mm",
+    "22mm",
+    "24mm"
+   ],
+   "sizes_avail": [
+    "24mm"
+   ],
+   "mine": [
+    "24mm"
+   ],
+   "need_size": false,
+   "comp": "",
+   "img": "https://cdn.shopify.com/s/files/1/0022/9792/1591/products/Strapcode-Watch-Bands-W_FKM01A-22A20BIW01-1.jpg?v=1747618543",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "p-straps~2",
+   "name": "Barton: чёрный каучук Elite FKM",
+   "wave": "b4",
+   "store": "shopify",
+   "url": "https://bartonwatchbands.com/products/black-elite-fkm-rubber-watch-band-tudor-black-bay-58-pro-20mm",
+   "group": "plan",
+   "alt_of": "p-straps",
+   "alt_label": "Ремешки к Conquest: чёрный каучук FKM и тёмная замша",
+   "ok": true,
+   "price_foreign": 64.99,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 175,
+   "old": null,
+   "sizes_all": [
+    "Stainless Steel",
+    "Black PVD"
+   ],
+   "sizes_avail": [
+    "Stainless Steel",
+    "Black PVD"
+   ],
+   "mine": [
+    "Stainless Steel",
+    "Black PVD"
+   ],
+   "need_size": false,
+   "comp": "",
+   "img": "https://cdn.shopify.com/s/files/1/0835/8495/files/FKM_BlackSS.jpg?v=1762445628",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "p-straps~3",
+   "name": "Barton: тёмно-серая итальянская замша",
+   "wave": "b4",
+   "store": "shopify",
+   "url": "https://bartonwatchbands.com/products/slate-grey-suede-beige-stitching",
+   "group": "plan",
+   "alt_of": "p-straps",
+   "alt_label": "Ремешки к Conquest: чёрный каучук FKM и тёмная замша",
+   "ok": true,
+   "price_foreign": 74.99,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 202,
+   "old": null,
+   "sizes_all": [
+    "18mm",
+    "20mm",
+    "22mm",
+    "24mm",
+    "18mm",
+    "24mm",
+    "20mm",
+    "22mm",
+    "18mm",
+    "22mm",
+    "24mm",
+    "22mm",
+    "20mm",
+    "18mm",
+    "24mm",
+    "22mm",
+    "24mm",
+    "20mm",
+    "18mm",
+    "20mm"
+   ],
+   "sizes_avail": [
+    "18mm",
+    "20mm",
+    "22mm",
+    "24mm",
+    "24mm",
+    "20mm",
+    "22mm",
+    "18mm",
+    "22mm",
+    "24mm",
+    "22mm",
+    "20mm",
+    "24mm",
+    "22mm",
+    "24mm",
+    "20mm",
+    "18mm",
+    "20mm"
+   ],
+   "mine": [
+    "18mm",
+    "20mm",
+    "22mm",
+    "24mm",
+    "24mm",
+    "20mm",
+    "22mm",
+    "18mm",
+    "22mm",
+    "24mm",
+    "22mm",
+    "20mm",
+    "24mm",
+    "22mm",
+    "24mm",
+    "20mm",
+    "18mm",
+    "20mm"
+   ],
+   "need_size": false,
+   "comp": "",
+   "img": "https://cdn.shopify.com/s/files/1/0835/8495/products/SUQR-SLATE-SS-DT1-20.jpg?v=1762444862",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "p-gloves",
@@ -791,8 +1455,6 @@
    "wave": "b1",
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/hestra-elisabeth-gloves-14210-100",
-   "plan_price": null,
-   "size": null,
    "group": "plan",
    "ok": false,
    "err": "Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
@@ -804,8 +1466,6 @@
    "wave": "b5",
    "store": null,
    "url": "https://www.careofcarl.com/en/persol-0po0714-sunglasses-havana-green",
-   "plan_price": null,
-   "size": null,
    "group": "plan",
    "ok": false,
    "err": "Магазин не отдаёт цены без браузера или закрыт защитой от ботов",
@@ -1051,24 +1711,147 @@
    "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
-   "id": "m-belt",
-   "name": "Ремень Massimo Dutti из гладкой кожи",
+   "id": "m-belt~1",
+   "name": "Massimo Dutti: ремень из наппы, чёрный",
    "wave": "b1",
-   "store": null,
-   "url": null,
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/nappa-leather-belt-l02746305?pelement=64738803",
    "plan_price": 230,
    "size": "belt",
    "group": "plan",
-   "ok": false,
-   "err": "Ссылки на конкретную модель ещё нет — модель выбирается позже",
-   "img": null
+   "alt_of": "m-belt",
+   "alt_label": "Ремень Massimo Dutti из гладкой кожи",
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/9daa/edee/fb254c298782/85b2f6720cdf/02746305800-r/02746305800-r.jpg?ts=1785762337192&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "m-belt~2",
+   "name": "Massimo Dutti: классический ремень с отстрочкой",
+   "wave": "b1",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/leather-dress-belt-with-topstitching-l02320305?pelement=61732504",
+   "plan_price": 230,
+   "size": "belt",
+   "group": "plan",
+   "alt_of": "m-belt",
+   "alt_label": "Ремень Massimo Dutti из гладкой кожи",
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [
+    "85",
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/efe3/409a/36764e689737/1d44cf357626/02320305800-r/02320305800-r.jpg?ts=1749713196394&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "m-belt~3",
+   "name": "Massimo Dutti: ремень из наппы с отстрочкой",
+   "wave": "b1",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/nappa-leather-belt-with-topstitching-l02732305?pelement=63724693",
+   "plan_price": 230,
+   "size": "belt",
+   "group": "plan",
+   "alt_of": "m-belt",
+   "alt_label": "Ремень Massimo Dutti из гладкой кожи",
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "85",
+    "90",
+    "95",
+    "100"
+   ],
+   "mine": [
+    "85",
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/166e/7b97/5616473caa51/116d0d37e48e/02732305800-r/02732305800-r.jpg?ts=1785762338448&w=750",
+   "cur": "GEL"
   }
  ],
  "others": [
   {
+   "id": "p-watch-silver",
+   "name": "Longines Conquest 38, серебристый — для варианта «двое часов»",
+   "store": "shopify",
+   "url": "https://teddybaldassarre.com/products/conquest-2023-38mm-silver",
+   "group": "optional",
+   "ok": true,
+   "price_foreign": 2400.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 7666,
+   "old": null,
+   "sizes_all": [
+    "Default Title"
+   ],
+   "sizes_avail": [
+    "Default Title"
+   ],
+   "mine": [
+    "Default Title"
+   ],
+   "need_size": false,
+   "comp": "",
+   "img": "assets/prem/p-conquest-silver.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
    "id": "w1-chelsea",
    "name": "Замшевые челси, коричневые",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=557338861",
    "plan_price": 219,
@@ -1091,9 +1874,11 @@
    ],
    "sizes_avail": [
     "39",
+    "40",
     "41",
     "42",
     "43",
+    "44",
     "46",
     "47"
    ],
@@ -1109,7 +1894,6 @@
   {
    "id": "w1-belt",
    "name": "Кожаный ремень, двусторонний",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/reversible-leather-belt-p06907402.html?v1=555080505",
    "plan_price": 129,
@@ -1135,11 +1919,9 @@
   {
    "id": "w4-scarf",
    "name": "Тёмно-синий шарф, шерсть с кашемиром",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/wool-blend-knit-scarf-p02142327.html",
    "plan_price": 179,
-   "size": null,
    "group": "optional",
    "ok": true,
    "price": 179.0,
@@ -1162,7 +1944,6 @@
   {
    "id": "w4-penny",
    "name": "Пенни-лоферы, бордовые или чёрные",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-penny-loafers-p12678720.html",
    "plan_price": 219,
@@ -1191,6 +1972,7 @@
     "43",
     "44",
     "45",
+    "46",
     "47"
    ],
    "mine": [
@@ -1205,7 +1987,6 @@
   {
    "id": "w1-trainers",
    "name": "Белые кожаные кеды",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-trainers-p12227720.html?v1=545494519",
    "plan_price": 219,
@@ -1248,7 +2029,6 @@
   {
    "id": "w1-halfzip",
    "name": "Half-zip, тёмно-синий",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/purl-knit-quarter-zip-jumper-p03332310.html?v1=545409940",
    "plan_price": 179,
@@ -1279,7 +2059,6 @@
   {
    "id": "w3-jumper",
    "name": "Шерстяной V-свитер, серо-зелёный",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-v-neck-jumper-p02893367.html?v1=567151736",
    "plan_price": 219,
@@ -1310,7 +2089,6 @@
   {
    "id": "w4-rollneck",
    "name": "Молочная водолазка из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-high-neck-jumper-p02893216.html",
    "plan_price": 199,
@@ -1341,7 +2119,6 @@
   {
    "id": "w4-polo",
    "name": "Бордовое трикотажное поло из мериноса",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-merino-wool-knit-polo-sweater-l01168210?pelement=61735980",
    "plan_price": 290,
@@ -1374,7 +2151,6 @@
   {
    "id": "w4-derby",
    "name": "Чёрные кожаные дерби",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-derby-shoes-p12407820.html",
    "plan_price": 299,
@@ -1418,7 +2194,6 @@
   {
    "id": "w4-suede",
    "name": "Тёмно-синяя замшевая куртка",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/suede-finish-leather-regular-fit-jacket-p08281333.html",
    "plan_price": 529,
@@ -1449,7 +2224,6 @@
   {
    "id": "w4-suede-loafer",
    "name": "Замшевые лоферы на лето",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/casual-leather-loafers-p12629820.html",
    "plan_price": 179,
@@ -1492,7 +2266,6 @@
   {
    "id": "w5-bermuda-khaki",
    "name": "Бермуды со складками, светлый хаки",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/pleated-wide-leg-bermuda-shorts-p00840300.html",
    "plan_price": 159,
@@ -1530,11 +2303,8 @@
   {
    "id": "p-watch2",
    "name": "Вторые часы для моря: Certina DS Action Diver 38 на каучуке",
-   "wave": null,
    "store": "shopify",
    "url": "https://teddybaldassarre.com/products/ds-action-diver-38-blue",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": true,
    "price_foreign": 900.0,
@@ -1559,11 +2329,8 @@
   {
    "id": "p-watch3",
    "name": "Третьи, тонкие вечерние: Hamilton Khaki Field Mechanical 38 на чёрной коже",
-   "wave": null,
    "store": null,
    "url": "https://www.hamiltonwatch.com/en-us/h69439931-khaki-field-mechanical.html",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -1572,11 +2339,8 @@
   {
    "id": "p-g9",
    "name": "Харрингтон Baracuta G9",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.stuartslondon.com/products/baracuta-g9-harrington-jacket-slate-black",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": true,
    "price_foreign": 305.15,
@@ -1610,11 +2374,8 @@
   {
    "id": "p-smedley",
    "name": "Поло John Smedley Belper",
-   "wave": null,
    "store": null,
    "url": "https://www.johnsmedley.com/uk/belper-black",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -1623,11 +2384,8 @@
   {
    "id": "p-paraboot",
    "name": "Дерби Paraboot Michael",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/paraboot-michael-173585",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -1636,11 +2394,8 @@
   {
    "id": "p-bedale",
    "name": "Вощёная куртка Barbour Bedale, тёмно-синяя",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163110267",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -1649,11 +2404,8 @@
   {
    "id": "p-bag",
    "name": "Кожаная сумка Ronning",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/ronning-everyday-bag-lea-bag-blk",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -1662,11 +2414,8 @@
   {
    "id": "p-card",
    "name": "Картхолдер A.P.C.",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/a-p-c-andre-card-holder-pxawv-h63028-iak",
-   "plan_price": null,
-   "size": null,
    "group": "optional",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -1675,7 +2424,6 @@
   {
    "id": "m-cos-sweater",
    "name": "Чёрный свитер на молнии из мериноса",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-us/search?q=merino%20wool%20zip-up%20mock-neck",
    "plan_price": 300,
@@ -1688,7 +2436,6 @@
   {
    "id": "m-acne-jeans",
    "name": "Широкие светлые джинсы Acne Studios",
-   "wave": null,
    "store": "ld",
    "url": "https://www.acnestudios.com/us/en/acne-studios-1981m-fn-light-blue-vintage/B00348-228.html",
    "plan_price": 1810,
@@ -1707,7 +2454,6 @@
   {
    "id": "m-nb-2002r",
    "name": "New Balance 2002R, серые",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/new-balance-m2002rda-m2002rda",
    "plan_price": 290,
@@ -1720,7 +2466,6 @@
   {
    "id": "m-carhartt-hoodie",
    "name": "Серое худи Carhartt WIP",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/carhartt-wip-hooded-nelson-sweat-i029963-2lrg",
    "plan_price": 430,
@@ -1733,7 +2478,6 @@
   {
    "id": "m-fog-pants",
    "name": "Спортивные штаны Essentials",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/fear-of-god-essentials-vintage-sweatpants-130sp267952fw",
    "plan_price": 210,
@@ -1746,7 +2490,6 @@
   {
    "id": "m-af1",
    "name": "Nike Air Force 1 '07, белые",
-   "wave": null,
    "store": "ld",
    "url": "https://www.ssense.com/en-us/men/product/nike/white-air-force-1-07-sneakers/19375701",
    "plan_price": 310,
@@ -1765,7 +2508,6 @@
   {
    "id": "m-ol-jacket",
    "name": "Чёрная куртка Our Legacy",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/our-legacy-crown-black-night-drape-twill-casino-jacket-m4261cjb",
    "plan_price": 2010,
@@ -1778,7 +2520,6 @@
   {
    "id": "m-z-white-shirt",
    "name": "Белая рубашка из поплина Zara",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/regular-fit-cotton-poplin-shirt-p01007778.html?v1=594817487",
    "plan_price": 179,
@@ -1812,7 +2553,6 @@
   {
    "id": "m-xt6",
    "name": "Salomon XT-6, чёрные",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/salomon-xt-6-l41086600",
    "plan_price": 590,
@@ -1825,7 +2565,6 @@
   {
    "id": "m-ami-sweater",
    "name": "Чёрный свитер AMI Paris",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/ami-paris-crewneck-sweater-with-contrasted-ami-de-coeur-uks838-018-009",
    "plan_price": 1000,
@@ -1838,7 +2577,6 @@
   {
    "id": "m-drm-1461",
    "name": "Dr. Martens 1461, чёрные",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/dr-martens-1461-shoe-11838002-blk",
    "plan_price": 510,
@@ -1851,7 +2589,6 @@
   {
    "id": "m-sl-jacket",
    "name": "Кожаная куртка Saint Laurent",
-   "wave": null,
    "store": null,
    "url": "https://www.ysl.com/en-us/search?q=leather%20jacket",
    "plan_price": 11340,
@@ -1864,7 +2601,6 @@
   {
    "id": "m-z-black-shirt",
    "name": "Чёрная свободная рубашка Zara",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/relaxed-fit-cotton-poplin-shirt-p05588409.html?v1=594817567",
    "plan_price": 179,
@@ -1894,7 +2630,6 @@
   {
    "id": "m-ol-trousers",
    "name": "Чёрные брюки Our Legacy",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/our-legacy-slack-trouser-m2264sb",
    "plan_price": 950,
@@ -1907,7 +2642,6 @@
   {
    "id": "m-prada-boots",
    "name": "Кожаные ботинки Prada",
-   "wave": null,
    "store": null,
    "url": "https://www.prada.com/us/en/search.html?q=boots",
    "plan_price": 3110,
@@ -1920,7 +2654,6 @@
   {
    "id": "b-ma1",
    "name": "Чёрный бомбер MA-1",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/alpha-industries-ma-1-heritage-bomber-jacket-100101-515",
    "plan_price": 700,
@@ -1933,7 +2666,6 @@
   {
    "id": "b-arc",
    "name": "Куртка Arc'teryx Beta",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/arcteryx-beta-gore-tex-jacket-x000010868-002291",
    "plan_price": 1240,
@@ -1946,7 +2678,6 @@
   {
    "id": "b-mac",
    "name": "Бежевый плащ",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/dunst-refined-mac-coat-udtr6c102i2",
    "plan_price": 850,
@@ -1959,7 +2690,6 @@
   {
    "id": "b-burgundy",
    "name": "Бордовый свитер Barbour",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/barbour-barbour-scottish-made-donegal-crew-mkn1755re94",
    "plan_price": 960,
@@ -1972,7 +2702,6 @@
   {
    "id": "b-breton",
    "name": "Бретонка AMI Paris",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/ami-paris-long-sleeve-boxy-fit-mariniere-t-shirt-uts375-je0210-a044",
    "plan_price": 610,
@@ -1985,7 +2714,6 @@
   {
    "id": "b-cargo",
    "name": "Чёрные карго Carhartt WIP",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/carhartt-wip-kade-cargo-pant-i035585-8906",
    "plan_price": 460,
@@ -1998,7 +2726,6 @@
   {
    "id": "b-jeans",
    "name": "Чёрные широкие джинсы Levi's",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/levis-578-baggy-jeans-a4750-0020-blk",
    "plan_price": 350,
@@ -2011,7 +2738,6 @@
   {
    "id": "b-dunk",
    "name": "Nike Dunk Low, белые с серым",
-   "wave": null,
    "store": "ld",
    "url": "https://www.ssense.com/en-us/men/product/nike/white-and-gray-dunk-low-retro-sneakers/19375041",
    "plan_price": 310,
@@ -2030,7 +2756,6 @@
   {
    "id": "b-samba",
    "name": "Adidas Samba OG, серые",
-   "wave": null,
    "store": "ld",
    "url": "https://www.ssense.com/en-us/men/product/adidas-originals/gray-samba-og-sneakers/19273021",
    "plan_price": 300,
@@ -2049,7 +2774,6 @@
   {
    "id": "b-loafer",
    "name": "Чёрные пенни-лоферы Bass Weejuns",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/bass-weejuns-larson-penny-loafer-ba11010h-000",
    "plan_price": 690,
@@ -2062,11 +2786,9 @@
   {
    "id": "b-beanie",
    "name": "Чёрная шапка Carhartt WIP",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-us/products/carhartt-wip-blevin-beanie-i037097-89xx",
    "plan_price": 120,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -2075,7 +2797,6 @@
   {
    "id": "c-coat",
    "name": "Тёмно-синее двубортное пальто",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/wool-blend-double-breasted-coat-p06446765.html",
    "plan_price": 559,
@@ -2109,7 +2830,6 @@
   {
    "id": "c-cable",
    "name": "Тёмно-синий свитер с косами",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/cable-knit-cotton-and-wool-jumper-p09598333.html",
    "plan_price": 179,
@@ -2126,7 +2846,8 @@
    ],
    "sizes_avail": [
     "M",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
     "M"
@@ -2139,7 +2860,6 @@
   {
    "id": "c-jeans",
    "name": "Графитовые прямые джинсы",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/straight-leg-jeans-p05359360.html",
    "plan_price": 179,
@@ -2159,6 +2879,7 @@
    ],
    "sizes_avail": [
     "40",
+    "42",
     "44",
     "46"
    ],
@@ -2173,7 +2894,6 @@
   {
    "id": "c-boots",
    "name": "Чёрные кожаные ботинки",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-boots-p12016821.html",
    "plan_price": 259,
@@ -2213,11 +2933,9 @@
   {
    "id": "c-bag",
    "name": "Чёрная кожаная сумка через плечо",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-crossbody-bag-p13622720.html",
    "plan_price": 179,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 179.0,
@@ -2240,7 +2958,6 @@
   {
    "id": "d-coat",
    "name": "Пальто в ёлочку из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-herringbone-double-breasted-coat-p06441666.html",
    "plan_price": 529,
@@ -2274,7 +2991,6 @@
   {
    "id": "d-rollneck",
    "name": "Чёрная водолазка",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/basic-high-neck-jumper-p00304330.html",
    "plan_price": 129,
@@ -2307,7 +3023,6 @@
   {
    "id": "d-merino",
    "name": "Тёмно-синий джемпер из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/regular-fit-100-wool-jumper-p04216304.html",
    "plan_price": 179,
@@ -2338,7 +3053,6 @@
   {
    "id": "d-pleated",
    "name": "Графитовые шерстяные брюки со складками",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-pleated-trousers-manteco--p01102554.html",
    "plan_price": 299,
@@ -2370,7 +3084,6 @@
   {
    "id": "d-trainers",
    "name": "Белые кожаные кеды в стиле ретро",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/retro-style-leather-trainers-p12233820.html",
    "plan_price": 219,
@@ -2406,7 +3119,6 @@
   {
    "id": "d-belt",
    "name": "Чёрный кожаный ремень",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/dress-leather-belt-p06907411.html",
    "plan_price": 179,
@@ -2421,8 +3133,12 @@
     "90 (M)",
     "95 (L)"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "90 (M)"
+   ],
+   "mine": [
+    "90 (M)"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
    "img": "https://static.zara.net/assets/public/43c3/0e7e/1b29490b85a1/8a4add182dd0/06907411800-a1/06907411800-a1.jpg?ts=1791295350961&w=750",
@@ -2431,11 +3147,9 @@
   {
    "id": "p-khaki-auto",
    "name": "Часы Hamilton Khaki Field Auto 38",
-   "wave": null,
    "store": null,
    "url": "https://www.hamiltonwatch.com/en-us/h70455133-khaki-field-auto.html",
    "plan_price": 2282,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -2444,11 +3158,9 @@
   {
    "id": "p-bb54",
    "name": "Часы Tudor Black Bay 54",
-   "wave": null,
    "store": "shopify",
    "url": "https://teddybaldassarre.com/products/tudor-black-bay-54-manufacture-calibre-mt5400-37mm-black-on-bracelet",
    "plan_price": 12758,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 4725.0,
@@ -2473,7 +3185,6 @@
   {
    "id": "md-wool-coat",
    "name": "Пальто из 100% шерсти",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-wool-coat-with-lapel-collar-l03671571?pelement=65420126",
    "plan_price": 1200,
@@ -2509,7 +3220,6 @@
   {
    "id": "cos-df-coat",
    "name": "Чёрное пальто из двусторонней шерсти",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/coatsjackets/wool/product/tailored-double-faced-wool-blend-coat-black-1336467001",
    "plan_price": 865,
@@ -2522,7 +3232,6 @@
   {
    "id": "mack-dunkeld",
    "name": "Плащ Mackintosh Dunkeld",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.mackintosh.com/products/mens-dunkeld-raintec-3-4-length-coat-navy",
    "plan_price": 2502,
@@ -2566,7 +3275,6 @@
   {
    "id": "cz-manteco-jacket",
    "name": "Короткое пальто Manteco, шерсть с кашемиром",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/regular-fit-wool-blend-jacket-p04517500.html",
    "plan_price": 599,
@@ -2584,8 +3292,7 @@
    ],
    "sizes_avail": [
     "S",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "S"
@@ -2598,7 +3305,6 @@
   {
    "id": "cos-pea",
    "name": "Бушлат COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/coatsjackets/wool/product/double-breasted-wool-short-pea-coat-navy-mlange-1294465003",
    "plan_price": 772,
@@ -2611,7 +3317,6 @@
   {
    "id": "pwvc-harrington",
    "name": "Харрингтон Private White V.C. Ventile",
-   "wave": null,
    "store": "shopify",
    "url": "https://privatewhitevc.com/products/the-ventile-harrington-midnight-navy",
    "plan_price": 2502,
@@ -2648,7 +3353,6 @@
   {
    "id": "barbour-ashby",
    "name": "Вощёная куртка Barbour Ashby",
-   "wave": null,
    "store": "ld",
    "url": "https://www.barbour.com/us/ashby-wax-jacket-MWX0339NY92.html",
    "plan_price": 1075,
@@ -2667,7 +3371,6 @@
   {
    "id": "lavenham-raydon",
    "name": "Стёганая куртка Lavenham Raydon",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.lavenhamjackets.com/products/raydon-men-s",
    "plan_price": 630,
@@ -2789,7 +3492,6 @@
   {
    "id": "cz-leather",
    "name": "Чёрная кожаная куртка из овчины",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/faded-effect-leather-jacket-p05388757.html",
    "plan_price": 529,
@@ -2806,12 +3508,9 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "L"
    ],
-   "mine": [
-    "S"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
    "img": "https://static.zara.net/assets/public/a608/160b/bdb642c3a304/fd7997a04a16/05388757800-p/05388757800-p.jpg?ts=1788794677547&w=750",
@@ -2820,7 +3519,6 @@
   {
    "id": "md-nappa-bomber",
    "name": "Кожаный бомбер из наппы",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/nappa-leather-bomber-jacket-l03452471?pelement=63726055",
    "plan_price": 1400,
@@ -2854,7 +3552,6 @@
   {
    "id": "schott-618",
    "name": "Косуха Schott 618 Perfecto",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.schottnyc.com/products/618-classic-perfecto-steerhide-leather-motorcycle-jacket",
    "plan_price": 2754,
@@ -2934,7 +3631,6 @@
   {
    "id": "md-suede-bomber",
    "name": "Тёмно-синий замшевый бомбер",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/suede-bomber-jacket-l03447466?pelement=63782578",
    "plan_price": 1300,
@@ -2970,7 +3666,6 @@
   {
    "id": "allsaints-cora-suede",
    "name": "Замшевая куртка AllSaints Cora",
-   "wave": null,
    "store": "ld",
    "url": "https://allsaints.com/men/sale/cora-suede-jacket/M064LB-3988.html",
    "plan_price": 1544,
@@ -2989,20 +3684,40 @@
   {
    "id": "md-wool-bomber",
    "name": "Шерстяной бомбер",
-   "wave": null,
    "store": "md",
-   "url": "https://www.massimodutti.com/ge/en/100-wool-total-look-bomber-jacket-l02619357",
+   "url": "https://www.massimodutti.com/ge/en/100-wool-total-look-bomber-jacket-l02619357?pelement=65075594",
    "plan_price": 700,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: в ссылке нет номера товара (pelement)",
-   "img": "assets/cat/md-wool-bomber.webp"
+   "ok": true,
+   "price": 700.0,
+   "old": null,
+   "color": "DEEP BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "100% wool; 100% viscose",
+   "img": "https://static.massimodutti.net/assets/public/ef9a/7b25/dfa0455aa689/0636ff6ff8bb/02619357462-o2/02619357462-o2.jpg?ts=1787748354856&w=750",
+   "cur": "GEL"
   },
   {
    "id": "cos-padded-bomber",
    "name": "Стёганый бомбер COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/coatsjackets/bomberjackets/product/padded-funnel-neck-bomber-jacket-navy-1341010002",
    "plan_price": 555,
@@ -3015,7 +3730,6 @@
   {
    "id": "md-wool-overshirt",
    "name": "Шерстяной овершот",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-wool-overshirt-with-pockets-l02031271?pelement=66851773",
    "plan_price": 470,
@@ -3049,7 +3763,6 @@
   {
    "id": "carhartt-michigan",
    "name": "Рабочая куртка Carhartt WIP Michigan",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/1647597324660122",
    "plan_price": 648,
@@ -3062,7 +3775,6 @@
   {
    "id": "laboureur",
    "name": "Рабочая куртка Le Laboureur",
-   "wave": null,
    "store": null,
    "url": "https://empereur.fr/en/traditional-clothing/4714-le-laboureur-work-jacket.html",
    "plan_price": 366,
@@ -3075,7 +3787,6 @@
   {
    "id": "alpha-m65",
    "name": "Полевая куртка Alpha M-65",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.alphaindustries.com/products/mjm24000c1-m-65-field-jacket-heritage",
    "plan_price": 608,
@@ -3161,7 +3872,6 @@
   {
    "id": "buzz-m65",
    "name": "Полевая куртка Buzz Rickson's M-65",
-   "wave": null,
    "store": null,
    "url": "https://www.buzzricksons.jp/news/3171/",
    "plan_price": 1067,
@@ -3174,7 +3884,6 @@
   {
    "id": "cz-down",
    "name": "Чёрный пуховик",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/80-down---20-feather-water-repellent-jacket-p03411001.html",
    "plan_price": 329,
@@ -3210,7 +3919,6 @@
   {
    "id": "md-parka",
    "name": "Тёмно-синяя стёганая парка",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/short-quilted-parka-with-pocket-details-l03255416?pelement=63984967",
    "plan_price": 690,
@@ -3238,7 +3946,6 @@
   {
    "id": "arc-thorium",
    "name": "Пуховик Arc'teryx Thorium",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/arcteryx-thorium-hooded-down-jacket-x000010657-002291",
    "plan_price": 1350,
@@ -3251,7 +3958,6 @@
   {
    "id": "tnf-nuptse",
    "name": "Пуховик The North Face Nuptse",
-   "wave": null,
    "store": null,
    "url": "https://en.zalando.de/the-north-face-1996-retro-nuptse-unisex-down-jacket-black-th322t005-q16.html",
    "plan_price": 891,
@@ -3264,7 +3970,6 @@
   {
    "id": "cp-shell",
    "name": "Куртка C.P. Company",
-   "wave": null,
    "store": null,
    "url": "https://www.cpcompany.com/en-gb/21CMOW080A110475G880.html",
    "plan_price": 2420,
@@ -3277,7 +3982,6 @@
   {
    "id": "lp-traveller",
    "name": "Куртка Loro Piana Traveller",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-us/mens/product/loro-piana/clothing/lightweight-waterproof-jackets/traveller-shell-jacket/46376663162903840",
    "plan_price": 9855,
@@ -3290,7 +3994,6 @@
   {
    "id": "md-cold-blazer",
    "name": "Пиджак из холодной шерсти",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/textured-cold-wool-blazer-l02584397?pelement=63187201",
    "plan_price": 800,
@@ -3333,7 +4036,6 @@
   {
    "id": "md-hound-blazer",
    "name": "Зелёный пиджак в гусиную лапку",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-wool-houndstooth-blazer-l02852395?pelement=66952885",
    "plan_price": 900,
@@ -3371,20 +4073,18 @@
   {
    "id": "mango-turin",
    "name": "Пиджак Mango Turin",
-   "wave": null,
-   "store": null,
+   "store": "ld",
    "url": "https://shop.mango.com/ge/en/p/men/blazers/suit/turin-suit-jacket--100-virgin-wool--slim-fit/37016326/49/00",
    "plan_price": 579,
    "size": "tailoring",
    "group": "site",
    "ok": false,
-   "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
+   "err": "shop.mango.com: 429",
    "img": "assets/cat/mango-turin.webp"
   },
   {
    "id": "ss-havana",
    "name": "Пиджак Suitsupply Havana",
-   "wave": null,
    "store": "ld",
    "url": "https://suitsupply.com/en-de/men/jackets/navy-tailored-fit-havana-suit-jacket/C6904.html",
    "plan_price": 1082,
@@ -3403,7 +4103,6 @@
   {
    "id": "reiss-hope",
    "name": "Пиджак Reiss Hope",
-   "wave": null,
    "store": null,
    "url": "https://en.zalando.de/reiss-blazer-jacket-navy-rb022a07i-k11.html",
    "plan_price": 965,
@@ -3416,7 +4115,6 @@
   {
    "id": "boglioli-k",
    "name": "Пиджак Boglioli K-Jacket",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163171497",
    "plan_price": 4619,
@@ -3429,7 +4127,6 @@
   {
    "id": "cos-cash-blazer",
    "name": "Кашемировый пиджак COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/suits/blazers/product/unstructured-double-faced-wool-blend-blazer-charcoal-mlange-1358340001",
    "plan_price": 1857,
@@ -3442,7 +4139,6 @@
   {
    "id": "cz-suit-anth",
    "name": "Костюм из 100% шерсти, антрацит",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-regular-fit-suit-blazer-p04070639.html",
    "plan_price": 688,
@@ -3475,7 +4171,6 @@
   {
    "id": "cz-suit-black",
    "name": "Чёрный костюм из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-regular-fit-suit-blazer-p01220767.html",
    "plan_price": 798,
@@ -3508,7 +4203,6 @@
   {
    "id": "md-suit-navy",
    "name": "Тёмно-синий костюм из холодной шерсти",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-cool-wool-suit-blazer-l03639539?pelement=62899775",
    "plan_price": 1870,
@@ -3542,7 +4236,6 @@
   {
    "id": "ss-lazio",
    "name": "Костюм Suitsupply Milano, чёрный",
-   "wave": null,
    "store": "ld",
    "url": "https://suitsupply.com/en-de/men/suits",
    "plan_price": 1950,
@@ -3555,7 +4248,6 @@
   {
    "id": "uq-merino",
    "name": "Джемпер Uniqlo Extra Fine Merino",
-   "wave": null,
    "store": null,
    "url": "https://www.uniqlo.com/us/en/products/E469410-000",
    "plan_price": 124,
@@ -3568,7 +4260,6 @@
   {
    "id": "md-cash-bottle",
    "name": "Бутылочный кашемировый джемпер",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-cashmere-round-neck-knit-sweater-l01352215?pelement=62566746",
    "plan_price": 690,
@@ -3604,7 +4295,6 @@
   {
    "id": "cos-cash",
    "name": "Кашемировый джемпер COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/knitwear/jumpers/cashmere/product/chunky-cashmere-jumper-black-1338801001",
    "plan_price": 555,
@@ -3617,7 +4307,6 @@
   {
    "id": "joe-cash",
    "name": "Кашемир Johnstons of Elgin",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.johnstonsofelgin.com/products/lunan-navy-classic-crew-jumper",
    "plan_price": 1980,
@@ -3658,7 +4347,6 @@
   {
    "id": "md-cable",
    "name": "Графитовый свитер с косами",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-wool-cableknit-sweater-l01416222?pelement=63726145",
    "plan_price": 400,
@@ -3692,7 +4380,6 @@
   {
    "id": "rl-cable-cash",
    "name": "Кашемировый свитер с косами Polo Ralph Lauren",
-   "wave": null,
    "store": null,
    "url": "https://www.ralphlauren.com/men-clothing-sweaters/the-iconic-cable-knit-cashmere-sweater/0073318206.html",
    "plan_price": 1345,
@@ -3705,7 +4392,6 @@
   {
    "id": "cz-knit-polo",
    "name": "Трикотажное поло из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-knit-polo-shirt-p04216306.html",
    "plan_price": 179,
@@ -3736,7 +4422,6 @@
   {
    "id": "md-cash-polo",
    "name": "Кашемировое поло",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-cashmere-knit-polo-sweater-l01282215?pelement=62574247",
    "plan_price": 750,
@@ -3769,7 +4454,6 @@
   {
    "id": "cos-brushed-polo",
    "name": "Поло из шерсти COS, тёмно-красное",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/knitwear/jumpers/product/brushed-wool-polo-shirt-dark-red-mlange-1302327005",
    "plan_price": 276,
@@ -3782,7 +4466,6 @@
   {
    "id": "smedley-isis",
    "name": "Поло John Smedley Isis",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163073006",
    "plan_price": 648,
@@ -3795,7 +4478,6 @@
   {
    "id": "smedley-cherwell",
    "name": "Водолазка John Smedley Cherwell",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/904191",
    "plan_price": 810,
@@ -3808,7 +4490,6 @@
   {
    "id": "cos-cash-funnel",
    "name": "Кашемировая водолазка COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/knitwear/jumpers/cashmere/product/chunky-cashmere-funnel-neck-jumper-black-1364783001",
    "plan_price": 865,
@@ -3821,20 +4502,18 @@
   {
    "id": "mango-merino-zip",
    "name": "Мериносовый half-zip Mango",
-   "wave": null,
-   "store": null,
+   "store": "ld",
    "url": "https://shop.mango.com/ge/en/p/men/sweaters-and-cardigans/100-wool/100-merino-wool-sweater-with-zip-neck/37015982/56/00",
    "plan_price": 219,
    "size": "top",
    "group": "site",
    "ok": false,
-   "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
+   "err": "shop.mango.com: 429",
    "img": "assets/cat/mango-merino-zip.webp"
   },
   {
    "id": "npeal-temple",
    "name": "Кашемировый quarter-zip N.Peal Temple",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.npeal.com/products/mens-temple-jacquard-half-zip-cashmere-jumper-navy-blue-grigio-blue",
    "plan_price": 1530,
@@ -3874,7 +4553,6 @@
   {
    "id": "bc-halfzip",
    "name": "Кашемировый half-zip Brunello Cucinelli",
-   "wave": null,
    "store": null,
    "url": "https://shop.brunellocucinelli.com/en-ge/men/ready-to-wear/knitwear/cashmere-sweater-252M2200124CFF33.html",
    "plan_price": 4526,
@@ -3887,7 +4565,6 @@
   {
    "id": "cz-cardigan",
    "name": "Кардиган из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-regular-fit-cardigan-p04216305.html",
    "plan_price": 179,
@@ -3918,7 +4595,6 @@
   {
    "id": "drakes-cardigan",
    "name": "Кардиган Drake's из ягнячьей шерсти",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.drakes.com/products/navy-lambswool-6-button-cardigan-1",
    "plan_price": 1422,
@@ -3958,7 +4634,6 @@
   {
    "id": "md-oxford",
    "name": "Оксфорд Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/regular-fit-100-cotton-oxford-shirt-l02103266?pelement=65668445",
    "plan_price": 290,
@@ -3999,7 +4674,6 @@
   {
    "id": "drakes-ocbd",
    "name": "Оксфорд Drake's",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.drakes.com/products/white-oxford-cotton-cloth-button-down-shirt-1",
    "plan_price": 702,
@@ -4043,7 +4717,6 @@
   {
    "id": "cz-poplin",
    "name": "Белая рубашка из поплина",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/cotton-regular-fit-shirt-p04703881.html",
    "plan_price": 179,
@@ -4077,7 +4750,6 @@
   {
    "id": "md-twill",
    "name": "Рубашка из твила",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-cotton-twill-regular-fit-shirt-l02106297?pelement=63984995",
    "plan_price": 290,
@@ -4108,7 +4780,6 @@
   {
    "id": "md-cotton-cash",
    "name": "Рубашка из хлопка с кашемиром",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/regular-fit-cotton-blend-shirt-l02082303?pelement=65040673",
    "plan_price": 390,
@@ -4142,7 +4813,6 @@
   {
    "id": "cz-flannel",
    "name": "Зелёная фланелевая рубашка в клетку",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/check-flannel-shirt-p04280163.html",
    "plan_price": 129,
@@ -4174,7 +4844,6 @@
   {
    "id": "md-wool-shirt",
    "name": "Шерстяная рубашка",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-wool-regular-fit-shirt-l02114273?pelement=65728039",
    "plan_price": 400,
@@ -4208,7 +4877,6 @@
   {
    "id": "og-benoit",
    "name": "Фланелевая рубашка Officine Générale Benoit",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.officinegenerale.com/products/benoit-shirt-checked-cotton-darknavy-white",
    "plan_price": 1121,
@@ -4242,7 +4910,6 @@
   {
    "id": "drakes-chambray",
    "name": "Рубашка из шамбре Drake's",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.drakes.com/products/blue-cotton-chambray-two-pocket-work-shirt",
    "plan_price": 1013,
@@ -4282,7 +4949,6 @@
   {
    "id": "og-dungaree",
    "name": "Рубашка Officine Générale Dungaree",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.officinegenerale.com/products/dungaree-shirt-bleached-chambray-bleached-chambray",
    "plan_price": 581,
@@ -4315,7 +4981,6 @@
   {
    "id": "ol-box-shirt",
    "name": "Рубашка Our Legacy Beyond, чёрная",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663162960898",
    "plan_price": 1116,
@@ -4328,7 +4993,6 @@
   {
    "id": "pf-camp",
    "name": "Рубашка Portuguese Flannel с отложным воротником",
-   "wave": null,
    "store": "shopify",
    "url": "https://portugueseflannel.com/products/belavista-navy-6",
    "plan_price": 581,
@@ -4366,7 +5030,6 @@
   {
    "id": "cz-pima-polo",
    "name": "Чёрное поло из пима-хлопка",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/regular-fit-pima-cotton-polo-shirt-p04274301.html",
    "plan_price": 129,
@@ -4400,7 +5063,6 @@
   {
    "id": "cz-pique-navy",
    "name": "Тёмно-синее поло-пике",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/lightweight-regular-fit-pique-polo-shirt-p04231342.html",
    "plan_price": 179,
@@ -4432,20 +5094,39 @@
   {
    "id": "md-ls-polo",
    "name": "Поло с длинным рукавом",
-   "wave": null,
    "store": "md",
-   "url": "https://www.massimodutti.com/ge/en/100-cotton-long-sleeve-polo-shirt-l00844175",
+   "url": "https://www.massimodutti.com/ge/en/100-cotton-long-sleeve-polo-shirt-l00844175?pelement=62327181",
    "plan_price": 230,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: в ссылке нет номера товара (pelement)",
-   "img": "assets/cat/md-ls-polo.webp"
+   "ok": true,
+   "price": 190.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "https://static.massimodutti.net/assets/public/4990/33d8/fa094e8da46a/9c142e48f83e/00844175401-o1/00844175401-o1.jpg?ts=1782995987204&w=750",
+   "cur": "GEL"
   },
   {
    "id": "sunspel-riviera",
    "name": "Поло Sunspel Riviera",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.sunspel.com/products/mens-regular-fit-riviera-polo-shirt-in-navy-mpol1076-buaa",
    "plan_price": 504,
@@ -4485,7 +5166,6 @@
   {
    "id": "rl-polo",
    "name": "Поло Ralph Lauren",
-   "wave": null,
    "store": null,
    "url": "https://en.zalando.de/polo-ralph-lauren-custom-long-sleeved-top-navy-po222p079-k18.html",
    "plan_price": 437,
@@ -4498,7 +5178,6 @@
   {
    "id": "lacoste-polo",
    "name": "Поло Lacoste",
-   "wave": null,
    "store": null,
    "url": "https://en.zalando.de/lacoste-polo-shirt-navy-blue-la222q0a4-k11.html",
    "plan_price": 407,
@@ -4511,7 +5190,6 @@
   {
    "id": "uq-airism",
    "name": "Футболка Uniqlo U AIRism",
-   "wave": null,
    "store": null,
    "url": "https://www.uniqlo.com/us/en/products/E474244-000",
    "plan_price": 72,
@@ -4524,7 +5202,6 @@
   {
    "id": "smedley-tee",
    "name": "Мериносовая футболка John Smedley",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163073018",
    "plan_price": 594,
@@ -4537,7 +5214,6 @@
   {
    "id": "rc-terry",
    "name": "Свитшот Reigning Champ",
-   "wave": null,
    "store": "shopify",
    "url": "https://reigningchamp.com/products/midweight-terry-standard-crewneck-navy",
    "plan_price": 265,
@@ -4579,7 +5255,6 @@
   {
    "id": "sunspel-loopback",
    "name": "Свитшот Sunspel Loopback",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.sunspel.com/products/mens-cotton-loopback-sweatshirt-in-navy",
    "plan_price": 504,
@@ -4619,7 +5294,6 @@
   {
    "id": "loopwheeler",
    "name": "Свитшот Loopwheeler LW250",
-   "wave": null,
    "store": "shopify",
    "url": "https://loopwheeler.jp/products/lw01-tubular-crewneck-sweatshirt-marine-navy",
    "plan_price": 405,
@@ -4657,10 +5331,8 @@
   {
    "id": "ald-hoodie",
    "name": "Худи Aimé Leon Dore",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.aimeleondore.com/products/crest-hoodie-11",
-   "plan_price": null,
    "size": "top",
    "group": "site",
    "ok": true,
@@ -4697,10 +5369,8 @@
   {
    "id": "carhartt-hoodie",
    "name": "Худи Carhartt WIP",
-   "wave": null,
    "store": null,
    "url": "https://en.zalando.de/carhartt-wip-hooded-chase-hoodie-schwarzgold-c1422s0ez-q11.html",
-   "plan_price": null,
    "size": "top",
    "group": "site",
    "ok": false,
@@ -4710,7 +5380,6 @@
   {
    "id": "cz-suit-trousers",
    "name": "Брюки из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-regular-fit-suit-trousers-p04071639.html",
    "plan_price": 259,
@@ -4743,7 +5412,6 @@
   {
    "id": "md-darts-black",
    "name": "Чёрные шерстяные брюки",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-wool-relaxed-fit-pants-with-darts-l00170010?pelement=67149007",
    "plan_price": 400,
@@ -4779,7 +5447,6 @@
   {
    "id": "cos-pleated-wool",
    "name": "Шерстяные брюки COS со складками",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/trousers/relaxed-fit/straightleg/product/pleated-wool-relaxed-fit-straight-leg-trousers-navy-1289393005",
    "plan_price": 462,
@@ -4792,7 +5459,6 @@
   {
    "id": "uq-pleated-wide",
    "name": "Широкие брюки Uniqlo со складками",
-   "wave": null,
    "store": null,
    "url": "https://www.uniqlo.com/us/en/products/E462197-000",
    "plan_price": 144,
@@ -4805,7 +5471,6 @@
   {
    "id": "md-cord",
    "name": "Вельветовые брюки",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/slim-fit-corduroy-pants-l00185011?pelement=62812094",
    "plan_price": 290,
@@ -4828,8 +5493,7 @@
     "40",
     "42",
     "44",
-    "46",
-    "48"
+    "46"
    ],
    "mine": [
     "38",
@@ -4843,7 +5507,6 @@
   {
    "id": "cos-cord",
    "name": "Чёрные вельветовые брюки COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/menswear/trousers/relaxed-fit/taperedleg/product/pleated-relaxed-fit-tapered-corduroy-trousers-black-1358453001",
    "plan_price": 307,
@@ -4856,7 +5519,6 @@
   {
    "id": "bc-trousers",
    "name": "Брюки Brunello Cucinelli",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163119544",
    "plan_price": 5195,
@@ -4869,7 +5531,6 @@
   {
    "id": "therow-trousers",
    "name": "Брюки The Row",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163135033",
    "plan_price": 3506,
@@ -4882,7 +5543,6 @@
   {
    "id": "lp-trousers",
    "name": "Брюки Loro Piana Jan, тёмно-серые",
-   "wave": null,
    "store": null,
    "url": "https://us.loropiana.com/en/c/man/trousers-and-bermudas",
    "plan_price": 4545,
@@ -4895,7 +5555,6 @@
   {
    "id": "cz-selvedge",
    "name": "Прямые селвидж-джинсы",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/selvedge-turn-up-straight-leg-jeans-p03991344.html",
    "plan_price": 259,
@@ -4927,7 +5586,6 @@
   {
    "id": "md-relaxed-jeans",
    "name": "Свободные джинсы индиго",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/relaxedfit-jeans-l00502121?pelement=62812113",
    "plan_price": 290,
@@ -4959,7 +5617,6 @@
   {
    "id": "md-selvedge",
    "name": "Селвидж-джинсы Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/selvedge-fit-jeans-l00504145?pelement=63406030",
    "plan_price": 470,
@@ -4990,7 +5647,6 @@
   {
    "id": "levis-568",
    "name": "Джинсы Levi's 568 Stay Loose",
-   "wave": null,
    "store": null,
    "url": "https://www.levi.com/US/en_US/premium/men/568-stay-loose-mens-jeans/p/290370057",
    "plan_price": 227,
@@ -5003,7 +5659,6 @@
   {
    "id": "apc-pns",
    "name": "Джинсы A.P.C. Petit New Standard",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.apcstore.com/products/petit-new-standard-jeans-iai-cozzi-m09047",
    "plan_price": 651,
@@ -5054,7 +5709,6 @@
   {
    "id": "ol-third-cut",
    "name": "Джинсы Our Legacy Third Cut",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/1647597350498048",
    "plan_price": 583,
@@ -5067,7 +5721,6 @@
   {
    "id": "acne-1996",
    "name": "Джинсы Acne Studios 1996",
-   "wave": null,
    "store": "ld",
    "url": "https://www.acnestudios.com/us/en/B00513-900.html",
    "plan_price": 1458,
@@ -5086,7 +5739,6 @@
   {
    "id": "uq-wide-jeans",
    "name": "Широкие джинсы Uniqlo",
-   "wave": null,
    "store": null,
    "url": "https://www.uniqlo.com/us/en/products/E482868-000",
    "plan_price": 144,
@@ -5099,7 +5751,6 @@
   {
    "id": "levis-501",
    "name": "Джинсы Levi's 501",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/levis-lvc-1955-501-jeans-50155-0099-blu",
    "plan_price": 320,
@@ -5112,7 +5763,6 @@
   {
    "id": "md-linen-bermuda",
    "name": "Льняные бермуды Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-linen-short-bermuda-shorts-l00197006?pelement=64294645",
    "plan_price": 290,
@@ -5146,10 +5796,8 @@
   {
    "id": "ob-bulldog",
    "name": "Плавки Orlebar Brown Bulldog",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.orlebarbrown.com/products/bulldog-navy-swimwear-250030",
-   "plan_price": null,
    "size": "bottom",
    "group": "site",
    "ok": true,
@@ -5192,10 +5840,8 @@
   {
    "id": "vilebrequin",
    "name": "Плавки Vilebrequin",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163138763",
-   "plan_price": null,
    "size": "bottom",
    "group": "site",
    "ok": false,
@@ -5205,7 +5851,6 @@
   {
    "id": "md-suede-loafer",
    "name": "Замшевые лоферы Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/split-suede-leather-loafer-l12400850?pelement=61733751",
    "plan_price": 400,
@@ -5265,7 +5910,6 @@
   {
    "id": "md-leather-loafer",
    "name": "Кожаные лоферы Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/smooth-leather-loafer-l12522850?pelement=65269515",
    "plan_price": 600,
@@ -5305,7 +5949,6 @@
   {
    "id": "cos-penny",
    "name": "Пенни-лоферы COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/accessories/shoes/formal/product/leather-penny-loafers-brown-1358390001",
    "plan_price": 462,
@@ -5318,7 +5961,6 @@
   {
    "id": "bass-larson",
    "name": "Лоферы G.H. Bass Weejuns Larson",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/bass-weejuns-easy-weejun-larson-penny-loafer-ba11711d-000",
    "plan_price": 473,
@@ -5331,7 +5973,6 @@
   {
    "id": "cj-boston",
    "name": "Лоферы Crockett & Jones Boston",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.crockettandjones.com/products/boston-black-calf",
    "plan_price": 2142,
@@ -5386,7 +6027,6 @@
   {
    "id": "gucci-horsebit",
    "name": "Лоферы Gucci Horsebit 1953",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-us/mens/product/gucci/shoes/loafers/horsebit-leather-loafers/1647597300726676",
    "plan_price": 2943,
@@ -5399,7 +6039,6 @@
   {
    "id": "weston-180",
    "name": "Лоферы J.M. Weston 180",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/jm-weston/shoes/loafers/180-leather-loafers/29012654081993864",
    "plan_price": 2772,
@@ -5412,7 +6051,6 @@
   {
    "id": "lp-summer-walk",
    "name": "Лоферы Loro Piana Summer Walk",
-   "wave": null,
    "store": null,
    "url": "https://us.loropiana.com/en/shoes/man/loafers/summer-anton-walk-loafer-FAQ5514_8000.html",
    "plan_price": 2646,
@@ -5425,7 +6063,6 @@
   {
    "id": "prada-monolith",
    "name": "Лоферы Prada Monolith",
-   "wave": null,
    "store": null,
    "url": "https://www.prada.com/us/en/men/shoes/loafers/products.Monolith_brushed_leather_loafers.2DE129_B4L_F0002.html",
    "plan_price": 3564,
@@ -5438,7 +6075,6 @@
   {
    "id": "md-blucher",
    "name": "Дерби Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/leather-dress-blucher-shoe-l12708850?pelement=63013909",
    "plan_price": 690,
@@ -5478,7 +6114,6 @@
   {
    "id": "cos-derby",
    "name": "Дерби COS с квадратным носом",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/accessories/shoes/derbyshoes/product/square-toe-leather-derby-shoes-black-1358047001",
    "plan_price": 555,
@@ -5491,7 +6126,6 @@
   {
    "id": "paraboot-chambord",
    "name": "Дерби Paraboot Chambord",
-   "wave": null,
    "store": "shopify",
    "url": "https://kith.com/products/pb710709",
    "plan_price": 1863,
@@ -5556,7 +6190,6 @@
   {
    "id": "churchs-shannon",
    "name": "Дерби Church's Shannon",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-us/mens/product/church-s/shoes/derby-shoes/shannon-full-grain-leather-derby-shoes/1647597343217080",
    "plan_price": 3294,
@@ -5569,7 +6202,6 @@
   {
    "id": "md-chelsea",
    "name": "Челси Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/leather-chelsea-boots-l12010850?pelement=62495062",
    "plan_price": 690,
@@ -5611,7 +6243,6 @@
   {
    "id": "cos-chelsea",
    "name": "Челси COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/accessories/shoes/boots/product/leather-chelsea-boots-black-1358049001",
    "plan_price": 617,
@@ -5624,7 +6255,6 @@
   {
    "id": "sl-wyatt",
    "name": "Челси Saint Laurent Wyatt",
-   "wave": null,
    "store": null,
    "url": "https://www.mytheresa.com/int/en/men/must-haves/saint-laurent-wyatt",
    "plan_price": 3255,
@@ -5637,7 +6267,6 @@
   {
    "id": "md-suede-boot",
    "name": "Замшевые ботинки Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/split-suede-leather-ankle-boot-l12018850?pelement=64176333",
    "plan_price": 600,
@@ -5674,7 +6303,6 @@
   {
    "id": "redwing-ir",
    "name": "Ботинки Red Wing Iron Ranger",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.toddsnyder.com/products/red-wing-iron-ranger-black-black",
    "plan_price": 945,
@@ -5687,7 +6315,6 @@
   {
    "id": "clarks-desert",
    "name": "Дезерты Clarks Desert Boot",
-   "wave": null,
    "store": null,
    "url": "https://en.zalando.de/clarks-originals-desert-boot-casual-lace-ups-brown-cl612k00l-o16.html",
    "plan_price": 486,
@@ -5700,7 +6327,6 @@
   {
    "id": "cp-achilles",
    "name": "Кеды Common Projects Achilles Low",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163149604",
    "plan_price": 1310,
@@ -5713,7 +6339,6 @@
   {
    "id": "adidas-sl72",
    "name": "Кеды Adidas SL 72 OG",
-   "wave": null,
    "store": null,
    "url": "https://www.adidas.be/en/sl-72-og-shoes/IF1940.html",
    "plan_price": 270,
@@ -5726,7 +6351,6 @@
   {
    "id": "nike-killshot",
    "name": "Кеды Nike Killshot 2 Leather",
-   "wave": null,
    "store": "ld",
    "url": "https://www.nike.com/t/killshot-2-leather-mens-shoes-72M7D1/432997-107",
    "plan_price": 270,
@@ -5745,7 +6369,6 @@
   {
    "id": "nike-af1",
    "name": "Кроссовки Nike Air Force 1 '07, белые",
-   "wave": null,
    "store": "ld",
    "url": "https://www.nike.com/t/air-force-1-07-mens-shoes-jBrhbr/CW2288-111",
    "plan_price": 311,
@@ -5764,7 +6387,6 @@
   {
    "id": "nike-am1",
    "name": "Кроссовки Nike Air Max 1",
-   "wave": null,
    "store": "ld",
    "url": "https://www.nike.com/t/air-max-1-royals-mens-shoes-5as6ZVJ7/IQ2916-100",
    "plan_price": 405,
@@ -5783,7 +6405,6 @@
   {
    "id": "jordan-1-low",
    "name": "Кроссовки Air Jordan 1 Low — только стритвир",
-   "wave": null,
    "store": "ld",
    "url": "https://www.nike.com/t/air-jordan-1-low-mens-shoes-w9HO9jOz/553558-058",
    "plan_price": 324,
@@ -5802,7 +6423,6 @@
   {
    "id": "puma-speedcat",
    "name": "Кеды Puma Speedcat OG",
-   "wave": null,
    "store": "ld",
    "url": "https://kith.com/search?q=puma+speedcat+og",
    "plan_price": 270,
@@ -5815,7 +6435,6 @@
   {
    "id": "onitsuka-mx66",
    "name": "Кеды Onitsuka Tiger Mexico 66",
-   "wave": null,
    "store": "shopify",
    "url": "https://kith.com/products/ot1183c102-001",
    "plan_price": 321,
@@ -5868,7 +6487,6 @@
   {
    "id": "nb-990v6",
    "name": "Кроссовки New Balance 990v6",
-   "wave": null,
    "store": null,
    "url": "https://www.newbalance.ca/en_ca/pd/made-in-usa-990v6/U990V6-45189.html",
    "plan_price": 540,
@@ -5881,7 +6499,6 @@
   {
    "id": "asics-k14",
    "name": "Кроссовки ASICS Gel-Kayano 14",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/asics-gel-kayano-14-1203a537-200",
    "plan_price": 432,
@@ -5894,7 +6511,6 @@
   {
    "id": "birk-boston",
    "name": "Клоги Birkenstock Boston",
-   "wave": null,
    "store": "ld",
    "url": "https://www.birkenstock.com/gr-en/models/boston/",
    "plan_price": 512,
@@ -5907,7 +6523,6 @@
   {
    "id": "sebago-dock",
    "name": "Топсайдеры Sebago Docksides",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.sebago-usa.com/products/docksides-portland-blue-navy",
    "plan_price": 378,
@@ -6013,11 +6628,9 @@
   {
    "id": "cz-laptop",
    "name": "Кожаный чехол для ноутбука",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/leather-laptop-case-p13723820.html",
    "plan_price": 259,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 259.0,
@@ -6040,11 +6653,9 @@
   {
    "id": "md-tote",
    "name": "Кожаный тоут Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/nappa-leather-tote-bag-l02757310?pelement=61735897",
    "plan_price": 900,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 900.0,
@@ -6063,11 +6674,9 @@
   {
    "id": "cc-isar",
    "name": "Рюкзак Côte&Ciel Isar",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.coteetciel.com/products/isar-m-ecoyarn-black",
    "plan_price": 878,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 355.0,
@@ -6092,11 +6701,9 @@
   {
    "id": "porter-tanker",
    "name": "Сумка Porter-Yoshida Tanker",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/porter-yoshida-co/accessories/backpacks/tanker-daypack-nylon-twill-backpack/46376663162968740",
    "plan_price": 1764,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6105,11 +6712,9 @@
   {
    "id": "bv-arco",
    "name": "Тоут Bottega Veneta Arco",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/bottega-veneta/accessories/totes/large-arco-intrecciato-leather-tote-bag/1647597345538637",
    "plan_price": 11628,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6118,7 +6723,6 @@
   {
    "id": "md-belt",
    "name": "Ремень Massimo Dutti из наппы",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/nappa-leather-belt-l02746305?pelement=64743872",
    "plan_price": 230,
@@ -6152,20 +6756,18 @@
   {
    "id": "mango-belt",
    "name": "Ремень Mango из кожи",
-   "wave": null,
-   "store": null,
+   "store": "ld",
    "url": "https://shop.mango.com/ge/en/p/men/belts-and-braces/belts/100-bovine-leather-belt/37011365/99/00",
    "plan_price": 159,
    "size": "belt",
    "group": "site",
    "ok": false,
-   "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
+   "err": "shop.mango.com: 429",
    "img": "assets/cat/mango-belt.webp"
   },
   {
    "id": "andersons-woven",
    "name": "Плетёный ремень Anderson's",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-be/mens/product/anderson-s/accessories/fabric-belts/35cm-leather-trimmed-woven-elastic-belt/666467151991249",
    "plan_price": 342,
@@ -6178,11 +6780,9 @@
   {
    "id": "seiko-srpd55",
    "name": "Часы Seiko 5 Sports SRPD55",
-   "wave": null,
    "store": "shopify",
    "url": "https://seikousa.com/products/srpd55",
    "plan_price": 945,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 350.0,
@@ -6203,11 +6803,9 @@
   {
    "id": "timex-marlin",
    "name": "Часы Timex Marlin Automatic",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.timex.com/products/marlin-automatic-40mm-leather-strap-watch-tw2v44600",
    "plan_price": 927,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 299.0,
@@ -6232,11 +6830,9 @@
   {
    "id": "seiko-presage",
    "name": "Часы Seiko Presage Cocktail Time",
-   "wave": null,
    "store": null,
    "url": "https://www.seikowatches.com/us-en/products/presage/srpb41j1",
    "plan_price": 1148,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6245,11 +6841,9 @@
   {
    "id": "hamilton-quartz",
    "name": "Часы Hamilton Khaki Field Quartz",
-   "wave": null,
    "store": null,
    "url": "https://www.hamiltonwatch.com/en-us/h69401930-khaki-field-quartz.html",
    "plan_price": 1148,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6258,11 +6852,9 @@
   {
    "id": "cartier-tank",
    "name": "Часы Cartier Tank Must",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663162940313",
    "plan_price": 10125,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6271,11 +6863,9 @@
   {
    "id": "rolex-op36",
    "name": "Часы Rolex Oyster Perpetual 36",
-   "wave": null,
    "store": null,
    "url": "https://www.rolex.com/watches/oyster-perpetual/m126000-0001",
    "plan_price": 18225,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6284,11 +6874,8 @@
   {
    "id": "casio-vintage",
    "name": "Часы Casio Vintage",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/casio-f91-vintage-trackers-watch-abl-100we-2aef",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6297,11 +6884,9 @@
   {
    "id": "rayban-wayfarer",
    "name": "Очки Ray-Ban Wayfarer",
-   "wave": null,
    "store": null,
    "url": "https://www.edel-optics.co.uk/WAYFARER-(RB2140-6773R5",
    "plan_price": 630,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6310,11 +6895,9 @@
   {
    "id": "persol-649",
    "name": "Очки Persol 649",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.persol.com/de-at/products/0po0649-24_31",
    "plan_price": 760,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 245.0,
@@ -6354,11 +6937,9 @@
   {
    "id": "cubitts",
    "name": "Оправа Cubitts",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.cubitts.com/products/oseney",
    "plan_price": 540,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 275.0,
@@ -6440,11 +7021,9 @@
   {
    "id": "op-gregory",
    "name": "Очки Oliver Peoples Gregory Peck",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.oliverpeoples.com/en-us/products/0ov5186-1005",
    "plan_price": 1118,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 414.0,
@@ -6484,11 +7063,9 @@
   {
    "id": "moscot-lemtosh",
    "name": "Очки Moscot Lemtosh",
-   "wave": null,
    "store": "shopify",
    "url": "https://moscot.com/products/lemtosh",
    "plan_price": 999,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 340.0,
@@ -6843,11 +7420,9 @@
   {
    "id": "gm-lang",
    "name": "Очки Gentle Monster Lang 01",
-   "wave": null,
    "store": null,
    "url": "https://endclothing.com/us/gentle-monster-lang-sunglasses-lang-01-k.html",
    "plan_price": 662,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -6856,11 +7431,9 @@
   {
    "id": "jmm-torino",
    "name": "Очки Jacques Marie Mage Torino",
-   "wave": null,
    "store": "shopify",
    "url": "https://jacquesmariemage.com/products/torino-ti",
    "plan_price": 5994,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 1385.0,
@@ -6883,11 +7456,9 @@
   {
    "id": "vitaly-integer",
    "name": "Браслет Vitaly Integer",
-   "wave": null,
    "store": "shopify",
    "url": "https://vitalydesign.com/products/integer",
    "plan_price": 400,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 94.0,
@@ -6921,7 +7492,6 @@
     "7.5in",
     "8in",
     "8.5in",
-    "9in",
     "6.5in",
     "7in",
     "8in",
@@ -6938,7 +7508,6 @@
     "7.5in",
     "8in",
     "8.5in",
-    "9in",
     "6.5in",
     "7in",
     "8in",
@@ -6957,11 +7526,9 @@
   {
    "id": "miansai-2mm",
    "name": "Цепь Miansai Cuban 2 мм",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.toddsnyder.com/products/miansai-2mm-sterling-silver-chain-silver",
    "plan_price": 365,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "www.toddsnyder.com: 403",
@@ -6970,11 +7537,9 @@
   {
    "id": "miansai-4mm",
    "name": "Браслет Miansai Cuban 4 мм",
-   "wave": null,
    "store": "shopify",
    "url": "https://miansai.com/products/4mm-cuban-chain-bracelet-sterling-silver",
    "plan_price": 527,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 195.0,
@@ -7002,11 +7567,9 @@
   {
    "id": "tomwood-cushion",
    "name": "Перстень Tom Wood Cushion",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/tom-wood-cushion-ring-satin-100372",
    "plan_price": 1104,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7015,11 +7578,9 @@
   {
    "id": "legramme-7g",
    "name": "Браслет Le Gramme 7g",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.legramme.com/products/bracelet_7g_argent-925_brosse_lisse_cable",
    "plan_price": 1404,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 450.0,
@@ -7055,11 +7616,9 @@
   {
    "id": "hermes-ancre",
    "name": "Браслет Hermès Chaîne d'Ancre",
-   "wave": null,
    "store": null,
    "url": "https://www.hermes.com/us/en/product/chaine-d-ancre-bracelet-medium-model-H101994Bv00014/",
    "plan_price": 5198,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7068,11 +7627,9 @@
   {
    "id": "ald-cap",
    "name": "Кепка Aimé Leon Dore",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.aimeleondore.com/products/cafe-leon-dore-logo-hat",
    "plan_price": 149,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 70.0,
@@ -7097,11 +7654,9 @@
   {
    "id": "acne-face-beanie",
    "name": "Шапка Acne Studios Face",
-   "wave": null,
    "store": null,
    "url": "https://endclothing.com/gb/acne-studios-pana-face-beanie-c40270-633.html",
    "plan_price": 504,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7110,11 +7665,8 @@
   {
    "id": "carhartt-watch-hat",
    "name": "Шапка Carhartt WIP Watch Hat",
-   "wave": null,
    "store": null,
    "url": "https://www.endclothing.com/en-row/products/carhartt-wip-blevin-beanie-i037097-89xx",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7123,11 +7675,8 @@
   {
    "id": "rl-cap",
    "name": "Кепка Polo Ralph Lauren",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163039929",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7136,11 +7685,9 @@
   {
    "id": "cz-wool-scarf",
    "name": "Шарф из 100% шерсти",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-wool-knit-scarf-p01942305.html",
    "plan_price": 129,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 129.0,
@@ -7163,11 +7710,9 @@
   {
    "id": "md-fringe-scarf",
    "name": "Шарф с бахромой Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/wool-blend-scarf-with-fringing-l02691330?pelement=64340035",
    "plan_price": 290,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 290.0,
@@ -7190,11 +7735,9 @@
   {
    "id": "md-cash-scarf",
    "name": "Кашемировый шарф Massimo Dutti",
-   "wave": null,
    "store": "md",
    "url": "https://www.massimodutti.com/ge/en/100-cashmere-fineknit-scarf-l02692330?pelement=64340029",
    "plan_price": 690,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 690.0,
@@ -7217,11 +7760,9 @@
   {
    "id": "cos-cash-scarf",
    "name": "Кашемировый шарф COS",
-   "wave": null,
    "store": null,
    "url": "https://www.cos.com/en-de/men/accessories/hatsscarvesgloves/scarves/cashmere/product/fringed-cashmere-scarf-navy-mlange-1367584002",
    "plan_price": 307,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7230,11 +7771,9 @@
   {
    "id": "begg-arran",
    "name": "Шарф Begg x Co Arran",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.beggxco.com/products/mens-navy-wine-arran-reversible-small-cashmere-scarf",
    "plan_price": 900,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 375.0,
@@ -7259,11 +7798,9 @@
   {
    "id": "lp-grande-unita",
    "name": "Шарф Loro Piana Grande Unita",
-   "wave": null,
    "store": null,
    "url": "https://us.loropiana.com/en/man/accessories/scarves/grande-unita-scarf-FAP1950_8000.html",
    "plan_price": 1688,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7272,11 +7809,8 @@
   {
    "id": "dents-gloves",
    "name": "Перчатки Dents",
-   "wave": null,
    "store": "shopify",
    "url": "https://dents.co.uk/products/men-s-handsewn-three-point-lined-leather-gloves",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 65.0,
@@ -7322,11 +7856,8 @@
   {
    "id": "causse-gloves",
    "name": "Кожаные перчатки Canali с кашемиром",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163067505",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7335,11 +7866,9 @@
   {
    "id": "drakes-tie",
    "name": "Шёлковый галстук Drake's",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.drakes.com/products/navy-and-green-line-stripe-repp-silk-tipped-tie",
    "plan_price": 594,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 175.0,
@@ -7364,11 +7893,8 @@
   {
    "id": "cz-tie",
    "name": "Узкий галстук Zara",
-   "wave": null,
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-silk-slim-fit-tie-p09569412.html",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": true,
    "price": 109.0,
@@ -7391,11 +7917,9 @@
   {
    "id": "bv-card",
    "name": "Визитница Bottega Veneta Intrecciato",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163174169",
    "plan_price": 2025,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7404,11 +7928,9 @@
   {
    "id": "hermes-calvi",
    "name": "Визитница Hermès Calvi",
-   "wave": null,
    "store": null,
    "url": "https://www.hermes.com/us/en/search/?s=calvi",
    "plan_price": 1476,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7417,11 +7939,8 @@
   {
    "id": "sl-wallet",
    "name": "Кошелёк Saint Laurent",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163034679",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7430,11 +7949,8 @@
   {
    "id": "uq-boxers",
    "name": "Боксеры Uniqlo AIRism / Supima",
-   "wave": null,
    "store": null,
    "url": "https://www.uniqlo.com/us/en/products/E482556-000",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7443,11 +7959,9 @@
   {
    "id": "cdlp-boxer",
    "name": "Боксеры CDLP 3 шт.",
-   "wave": null,
    "store": "shopify",
    "url": "https://cdlp.com/products/3-mens-boxer-brief-black",
    "plan_price": 234,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 135.0,
@@ -7490,11 +8004,9 @@
   {
    "id": "sunspel-boxer",
    "name": "Шорты-боксеры Sunspel",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.sunspel.com/products/mens-sea-island-cotton-boxer-short-in-white-mbox4712-whaa",
    "plan_price": 170,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 125.0,
@@ -7530,11 +8042,9 @@
   {
    "id": "falke-airport",
    "name": "Носки Falke Airport",
-   "wave": null,
    "store": null,
    "url": "https://www.mrporter.com/en-gb/mens/product/46376663163213709",
    "plan_price": 70,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7543,11 +8053,8 @@
   {
    "id": "pantherella",
    "name": "Носки Pantherella",
-   "wave": null,
    "store": null,
    "url": "https://www.pantherella.com/mens-socks/special-collection/laburnum",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7556,11 +8063,8 @@
   {
    "id": "bresciani",
    "name": "Носки Bresciani",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.bresciani.it/products/calze-uomo-essentials-mario-navy-blue",
-   "plan_price": null,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 30.0,
@@ -7630,11 +8134,9 @@
   {
    "id": "jazz-club",
    "name": "Maison Margiela Replica Jazz Club",
-   "wave": null,
    "store": null,
    "url": "https://www.sephora.fr/p/replica-jazz-club---eau-de-toilette-ambree-boisee-P1000216168.html",
    "plan_price": 471,
-   "size": null,
    "group": "site",
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7643,11 +8145,9 @@
   {
    "id": "ombre-leather",
    "name": "Tom Ford Ombré Leather",
-   "wave": null,
    "store": "shopify",
    "url": "https://www.tomfordbeauty.com/products/ombre-leather-eau-de-parfum",
    "plan_price": 446,
-   "size": null,
    "group": "site",
    "ok": true,
    "price_foreign": 55.0,
@@ -7679,17 +8179,117 @@
    "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
-   "id": "m-belt",
-   "name": "Ремень Massimo Dutti из гладкой кожи",
-   "wave": null,
-   "store": "md",
-   "url": "https://www.massimodutti.com/ge/en/",
-   "plan_price": 230,
-   "size": "belt",
+   "id": "run-zara",
+   "name": "Беговые кроссовки Zara Brightfoam",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/brightfoam-running-trainers-p12382720.html",
+   "plan_price": 259,
+   "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: в ссылке нет номера товара (pelement)",
-   "img": "assets/cat/md-belt.webp"
+   "ok": true,
+   "price": 259.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 70% polyurethane thermoplastic, 30% polyester; Lining: 85% polyester, 15% elastane; Sole: 100% rubber; Insole: 80% polyester, 20% ethylene vinyl acetate; Tongue: 100% polyurethane",
+   "img": "https://static.zara.net/assets/public/5ff2/3d32/6300472a9bac/fa97991ce447/12382720001-a10/12382720001-a10.jpg?ts=1780991619851&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "run-peg40",
+   "name": "Nike Pegasus 40 — бег по асфальту",
+   "store": "ld",
+   "url": "https://nike.ge/product/nike-air-zoom-pegasus-40/",
+   "plan_price": 195,
+   "group": "site",
+   "ok": true,
+   "price": 195,
+   "price_foreign": 195.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/run-peg40.webp",
+   "note": ""
+  },
+  {
+   "id": "run-peg41gtx",
+   "name": "Nike Pegasus 41 GORE-TEX — бег зимой и в дождь",
+   "store": "ld",
+   "url": "https://nike.ge/product/nike-air-zoom-pegasus-41-gtx/",
+   "plan_price": 200,
+   "group": "site",
+   "ok": true,
+   "price": 200,
+   "price_foreign": 200.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/run-peg41gtx.webp",
+   "note": ""
+  },
+  {
+   "id": "shave-razor",
+   "name": "Станок Gillette Fusion5 + 2 кассеты",
+   "store": "ld",
+   "url": "https://gpc.ge/ka/details/care-products-for-men/shaving-machines/jileti-mamakacis-saparsi-danadgari-Fusion5-Sport-2-kaseta?product=9952",
+   "plan_price": 55,
+   "group": "site",
+   "ok": true,
+   "price": 55,
+   "price_foreign": 54.95,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/shave-razor.webp",
+   "note": ""
+  },
+  {
+   "id": "shave-blades",
+   "name": "Кассеты Gillette Fusion5 ProGlide",
+   "store": "ld",
+   "url": "https://gpc.ge/ka/details/care-products-for-men/shaving-machines/jileti-mamakacis-saparsi-kaseta-Fusion5-Proglide?product=9946",
+   "plan_price": 95,
+   "group": "site",
+   "ok": true,
+   "price": 95,
+   "price_foreign": 94.95,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/shave-blades.webp",
+   "note": ""
+  },
+  {
+   "id": "shave-gel",
+   "name": "Гель для бритья Gillette Fusion5 для чувствительной кожи",
+   "store": "ld",
+   "url": "https://gpc.ge/ka/details/care-products-for-men/shaving-gel-foam-cream/jileti-mamakacis-saparsi-geli-mgrZnobiare-kanis-Fusion-5?product=86356",
+   "plan_price": 33,
+   "group": "site",
+   "ok": true,
+   "price": 33,
+   "price_foreign": 32.95,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/shave-gel.webp",
+   "note": ""
   }
  ],
  "markdowns": [
@@ -7724,47 +8324,6 @@
       "M"
      ],
      "price": 159.0
-    },
-    {
-     "color": "Navy blue",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
-     "img": "https://static.zara.net/assets/public/a44b/069c/46ee44b4bc3c/f962d210cf5f/04302370401-p/04302370401-p.jpg?ts=1787228334850&w=750",
-     "mine": [
-      "S"
-     ],
-     "price": 159.0
-    }
-   ]
-  },
-  {
-   "pid": "545422945",
-   "name": "COTTON-LINEN REGULAR FIT KNIT POLO SHIRT",
-   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
-   "price": 99.0,
-   "old": 159.0,
-   "disc": 38,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 70% cotton, 30% linen",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/f687/f700/adba42829e30/3f6fd465f566/03920398712-p/03920398712-p.jpg?ts=1785915528045&w=750",
-   "color": "Ecru",
-   "mine": [
-    "M"
-   ],
-   "size_class": "top",
-   "verdict": "ok",
-   "reason": "",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Ecru",
-     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
-     "img": "https://static.zara.net/assets/public/f687/f700/adba42829e30/3f6fd465f566/03920398712-p/03920398712-p.jpg?ts=1785915528045&w=750",
-     "mine": [
-      "M"
-     ],
-     "price": 99.0
     }
    ]
   }
@@ -7795,62 +8354,13 @@
      "img": "https://static.zara.net/assets/public/860d/d608/e16a47079724/bf36845e450a/04302370800-p/04302370800-p.jpg?ts=1787228361813&w=750",
      "mine": [],
      "price": 159.0
-    }
-   ]
-  },
-  {
-   "pid": "555354849",
-   "name": "REGULAR FIT COTTON-CASHMERE JUMPER",
-   "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
-   "price": 99.0,
-   "old": 179.0,
-   "disc": 45,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 80% cotton, 20% cashmere",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/a4e5/2edb/0b734432acd0/ea7860111601/02893319800-p/02893319800-p.jpg?ts=1788362631109&w=750",
-   "color": "Black",
-   "mine": [],
-   "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
-   "store": "Zara",
-   "colors": [
+    },
     {
-     "color": "Black",
-     "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
-     "img": "https://static.zara.net/assets/public/a4e5/2edb/0b734432acd0/ea7860111601/02893319800-p/02893319800-p.jpg?ts=1788362631109&w=750",
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
+     "img": "https://static.zara.net/assets/public/a44b/069c/46ee44b4bc3c/f962d210cf5f/04302370401-p/04302370401-p.jpg?ts=1787228334850&w=750",
      "mine": [],
-     "price": 99.0
-    }
-   ]
-  },
-  {
-   "pid": "545465620",
-   "name": "COTTON REGULAR FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
-   "price": 99.0,
-   "old": 159.0,
-   "disc": 38,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 100% cotton",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/cfc9/24d4/00dc4cb88b82/881fc2c38eac/09598454916-p/09598454916-p.jpg?ts=1787065786846&w=750",
-   "color": "Grey green",
-   "mine": [],
-   "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Grey green",
-     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
-     "img": "https://static.zara.net/assets/public/cfc9/24d4/00dc4cb88b82/881fc2c38eac/09598454916-p/09598454916-p.jpg?ts=1787065786846&w=750",
-     "mine": [],
-     "price": 99.0
+     "price": 159.0
     }
    ]
   }
@@ -8029,17 +8539,12 @@
   }
  ],
  "log": [
-  "✓ c-coat 559.0  размер: S,M",
-  "✓ c-cable 179.0  размер: M",
-  "✓ c-jeans 179.0  размер: 40",
-  "✓ c-boots 259.0  размер: 42,43",
-  "✓ c-bag 179.0  размер: ONE SIZE ONLY",
   "✓ d-coat 529.0  размер: S,M",
   "✓ d-rollneck 129.0  размер: S,M",
   "✓ d-merino 179.0  размер: M",
   "✓ d-pleated 299.0  размер: 38",
   "✓ d-trainers 219.0  размер: 42,43",
-  "✓ d-belt 179.0  размер: ",
+  "✓ d-belt 179.0  размер: 90 (M)",
   "· p-khaki-auto None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ p-bb54 15074  размер: Default Title",
   "✓ md-wool-coat 1200.0  размер: S,M",
@@ -8050,12 +8555,12 @@
   "✓ pwvc-harrington 3365  размер: ",
   "✓ barbour-ashby 1342  размер: ",
   "✓ lavenham-raydon 1326  размер: S,M,Sable Black / XXL,S,M,S,M,Lamp Black / XXL,Lamp Black / XXXL,S,M,Suffolk Navy / XXL,Suffolk Navy / XXXL,S,M,S,M",
-  "✓ cz-leather 529.0  размер: S",
+  "✓ cz-leather 529.0  размер: ",
   "✓ md-nappa-bomber 1400.0  размер: S,M",
   "✓ schott-618 3270  размер: 38,40,42,38,40,42",
   "✓ md-suede-bomber 1300.0  размер: S,M",
   "✓ allsaints-cora-suede 519  размер: ",
-  "· md-wool-bomber None  Massimo Dutti: в ссылке нет номера товара (pelement)",
+  "✓ md-wool-bomber 700.0  размер: S,M",
   "· cos-padded-bomber None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-wool-overshirt 470.0  размер: S,M",
   "· carhartt-michigan None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8070,7 +8575,7 @@
   "· lp-traveller None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-cold-blazer 800.0  размер: 48",
   "✓ md-hound-blazer 900.0  размер: 46,48",
-  "· mango-turin None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
+  "· mango-turin None  shop.mango.com: 429",
   "✓ ss-havana 1589  размер: ",
   "· reiss-hope None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· boglioli-k None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8091,7 +8596,7 @@
   "· smedley-isis None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· smedley-cherwell None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· cos-cash-funnel None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· mango-merino-zip None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
+  "· mango-merino-zip None  shop.mango.com: 429",
   "✓ npeal-temple 1800  размер: S,M",
   "· bc-halfzip None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cz-cardigan 179.0  размер: M",
@@ -8110,7 +8615,7 @@
   "✓ pf-camp 479  размер: S,M",
   "✓ cz-pima-polo 129.0  размер: S,M",
   "✓ cz-pique-navy 179.0  размер: M",
-  "· md-ls-polo None  Massimo Dutti: в ссылке нет номера товара (pelement)",
+  "✓ md-ls-polo 190.0  размер: S,M",
   "✓ sunspel-riviera 606  размер: S,M",
   "· rl-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· lacoste-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8179,7 +8684,7 @@
   "· porter-tanker None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bv-arco None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-belt 230.0  размер: 90",
-  "· mango-belt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
+  "· mango-belt None  shop.mango.com: 429",
   "· andersons-woven None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ seiko-srpd55 1135  размер: ",
   "✓ timex-marlin 973  размер: Default Title",
@@ -8195,7 +8700,7 @@
   "✓ moscot-lemtosh 1103  размер: 44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ jmm-torino 4433  размер: ",
-  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in,9in,6.5in,7in,8in,9in,6.5in,7.5in,8in,8.5in,9in",
+  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in,6.5in,7in,8in,9in,6.5in,7.5in,8in,8.5in,9in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
   "· tomwood-cushion None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8226,8 +8731,13 @@
   "✓ bresciani 93  размер: 9 1 2,10,10 1 2,11,11 1 2,12,12 1 2,13,9 1 2,10,10 1 2,11,11 1 2,12,12 1 2,13",
   "· jazz-club None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ ombre-leather 148  размер: 1.7 fl oz,0.34 fl oz,3.4 fl oz,5.0 fl oz",
-  "· m-belt None  Massimo Dutti: в ссылке нет номера товара (pelement)",
+  "✓ run-zara 259.0  размер: ",
+  "✓ run-peg40 195  размер: ",
+  "✓ run-peg41gtx 200  размер: ",
+  "✓ shave-razor 55  размер: ",
+  "✓ shave-blades 95  размер: ",
+  "✓ shave-gel 33  размер: ",
   "Zara: категорий для уценок — 57",
-  "Zara: уценок от 30% — 25"
+  "Zara: уценок от 30% — 22"
  ]
 }
