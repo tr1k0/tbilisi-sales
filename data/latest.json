@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:56+04:00",
+ "updated": "2026-11-06T16:43+04:00",
  "sizes": "Размеры: верх M (иногда S), на этикетках Zara 38–42; низ 175 см / талия 78–80 см; обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -25,12 +25,10 @@
     "48"
    ],
    "sizes_avail": [
-    "36",
     "38",
     "40",
     "42",
-    "44",
-    "48"
+    "46"
    ],
    "mine": [
     "38",
@@ -97,12 +95,13 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
-    "XL",
     "XXL"
    ],
    "mine": [
+    "S",
     "M"
    ],
    "need_size": true,
@@ -203,13 +202,10 @@
    ],
    "sizes_avail": [
     "S",
-    "M",
-    "L",
     "XL"
    ],
    "mine": [
-    "S",
-    "M"
+    "S"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cashmere",
@@ -374,9 +370,7 @@
     "XL",
     "XXL"
    ],
-   "sizes_avail": [
-    "L"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "100% cotton",
@@ -547,7 +541,6 @@
    "sizes_avail": [
     "36",
     "38",
-    "42",
     "44",
     "46",
     "48"
@@ -828,7 +821,7 @@
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
    "ok": true,
-   "price": 330.0,
+   "price": 400.0,
    "old": null,
    "color": "Dark blue",
    "sizes_all": [
@@ -899,7 +892,8 @@
     "40",
     "42",
     "43",
-    "44"
+    "44",
+    "45"
    ],
    "mine": [
     "42",
@@ -1121,7 +1115,8 @@
    ],
    "sizes_avail": [
     "90",
-    "100"
+    "100",
+    "105"
    ],
    "mine": [
     "90"
@@ -1734,7 +1729,6 @@
    ],
    "sizes_avail": [
     "90",
-    "95",
     "100",
     "105"
    ],
@@ -1879,6 +1873,7 @@
     "42",
     "43",
     "44",
+    "45",
     "46",
     "47"
    ],
@@ -1909,8 +1904,12 @@
     "95 (L)",
     "100 (XL)"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "90 (M)"
+   ],
+   "mine": [
+    "90 (M)"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
    "img": "https://static.zara.net/assets/public/10d4/ef6c/06b248cb8165/a390249ea18c/06907402800-a1/06907402800-a1.jpg?ts=1763995496776&w=750",
@@ -1972,6 +1971,7 @@
     "43",
     "44",
     "45",
+    "46",
     "47"
    ],
    "mine": [
@@ -2074,8 +2074,7 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "M"
@@ -2877,7 +2876,6 @@
    ],
    "sizes_avail": [
     "40",
-    "42",
     "44",
     "46"
    ],
@@ -3290,7 +3288,8 @@
    ],
    "sizes_avail": [
     "S",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
     "S"
@@ -3337,7 +3336,6 @@
    ],
    "sizes_avail": [
     "2 XS",
-    "5 L",
     "6 XL",
     "7",
     "8"
@@ -3699,13 +3697,11 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -4731,13 +4727,11 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -4828,7 +4822,6 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
     "XL"
    ],
    "mine": [
@@ -4997,10 +4990,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 144.0,
+   "price_foreign": 143.0,
    "old_foreign": null,
    "cur": "USD",
-   "price": 479,
+   "price": 476,
    "old": null,
    "sizes_all": [
     "XS",
@@ -5395,11 +5388,13 @@
     "46"
    ],
    "sizes_avail": [
+    "38",
     "40",
     "42",
     "46"
    ],
    "mine": [
+    "38",
     "40"
    ],
    "need_size": true,
@@ -6220,7 +6215,6 @@
     "46"
    ],
    "sizes_avail": [
-    "39",
     "40",
     "41",
     "42",
@@ -6738,7 +6732,6 @@
    ],
    "sizes_avail": [
     "90",
-    "95",
     "100",
     "105"
    ],
@@ -7489,7 +7482,6 @@
     "7.5in",
     "8in",
     "8.5in",
-    "6.5in",
     "7in",
     "8in",
     "9in",
@@ -7505,7 +7497,6 @@
     "7.5in",
     "8in",
     "8.5in",
-    "6.5in",
     "7in",
     "8in",
     "9in",
@@ -8321,11 +8312,48 @@
       "M"
      ],
      "price": 159.0
+    },
+    {
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
+     "img": "https://static.zara.net/assets/public/a44b/069c/46ee44b4bc3c/f962d210cf5f/04302370401-p/04302370401-p.jpg?ts=1787228334850&w=750",
+     "mine": [
+      "M"
+     ],
+     "price": 159.0
     }
    ]
   }
  ],
  "markdowns_nosize": [
+  {
+   "pid": "545422944",
+   "name": "COTTON-LINEN REGULAR FIT KNIT POLO SHIRT",
+   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422944",
+   "price": 99.0,
+   "old": 159.0,
+   "disc": 38,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 70% cotton, 30% linen",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/9d35/6575/2f7d4a969bf5/74e6ee2c7ef4/03920398700-p/03920398700-p.jpg?ts=1785836564730&w=750",
+   "color": "Brown",
+   "mine": [],
+   "size_class": "top",
+   "verdict": "nosize",
+   "reason": "твоего размера нет",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Brown",
+     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422944",
+     "img": "https://static.zara.net/assets/public/9d35/6575/2f7d4a969bf5/74e6ee2c7ef4/03920398700-p/03920398700-p.jpg?ts=1785836564730&w=750",
+     "mine": [],
+     "price": 99.0
+    }
+   ]
+  },
   {
    "pid": "549169926",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
@@ -8351,25 +8379,18 @@
      "img": "https://static.zara.net/assets/public/860d/d608/e16a47079724/bf36845e450a/04302370800-p/04302370800-p.jpg?ts=1787228361813&w=750",
      "mine": [],
      "price": 159.0
-    },
-    {
-     "color": "Navy blue",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
-     "img": "https://static.zara.net/assets/public/a44b/069c/46ee44b4bc3c/f962d210cf5f/04302370401-p/04302370401-p.jpg?ts=1787228334850&w=750",
-     "mine": [],
-     "price": 159.0
     }
    ]
   }
  ],
  "markdowns_rejected": [
   {
-   "name": "COMFORT SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773030",
+   "name": "RELAXED FIT 100% LYOCELL TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
-   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane",
+   "comp": "Outer Shell: 100% lyocell",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
@@ -8429,15 +8450,6 @@
   {
    "name": "100% LYOCELL RELAXED FIT TROUSERS",
    "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -8557,7 +8569,7 @@
   "✓ schott-618 3270  размер: 38,40,42,38,40,42",
   "✓ md-suede-bomber 1300.0  размер: S,M",
   "✓ allsaints-cora-suede 519  размер: ",
-  "✓ md-wool-bomber 700.0  размер: S,M",
+  "✓ md-wool-bomber 700.0  размер: M",
   "· cos-padded-bomber None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-wool-overshirt 470.0  размер: S,M",
   "· carhartt-michigan None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8600,7 +8612,7 @@
   "✓ drakes-cardigan 1675  размер: S,M",
   "✓ md-oxford 290.0  размер: M,M",
   "✓ drakes-ocbd 963  размер: ",
-  "✓ cz-poplin 179.0  размер: S,M",
+  "✓ cz-poplin 179.0  размер: M",
   "✓ md-twill 290.0  размер: ",
   "✓ md-cotton-cash 390.0  размер: S,M",
   "✓ cz-flannel 129.0  размер: M",
@@ -8609,7 +8621,7 @@
   "✓ drakes-chambray 1172  размер: S,M",
   "✓ og-dungaree 550  размер: ",
   "· ol-box-shirt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ pf-camp 479  размер: S,M",
+  "✓ pf-camp 476  размер: S,M",
   "✓ cz-pima-polo 129.0  размер: S,M",
   "✓ cz-pique-navy 179.0  размер: M",
   "✓ md-ls-polo 190.0  размер: S,M",
@@ -8623,7 +8635,7 @@
   "✓ loopwheeler 1087  размер: S,M",
   "✓ ald-hoodie 641  размер: S,M",
   "· carhartt-hoodie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-suit-trousers 219.0  размер: 40",
+  "✓ cz-suit-trousers 219.0  размер: 38,40",
   "✓ md-darts-black 400.0  размер: 38,40",
   "· cos-pleated-wool None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· uq-pleated-wide None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8697,7 +8709,7 @@
   "✓ moscot-lemtosh 1103  размер: 44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ jmm-torino 4433  размер: ",
-  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in,6.5in,7in,8in,9in,6.5in,7.5in,8in,8.5in,9in",
+  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in,7in,8in,9in,6.5in,7.5in,8in,8.5in,9in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
   "· tomwood-cushion None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8739,39 +8751,39 @@
  ],
  "weather": {
   "today": {
-   "date": "2026-11-05",
-   "weekday": "четверг",
-   "wd": 3,
-   "tmax": 15.5,
-   "tmin": 9.0,
-   "feel_max": 11.5,
-   "feel_min": 3.0,
-   "eve": 10.3,
-   "eve_feel": 3.5,
-   "precip": 0.9,
-   "pop": 70,
-   "code": 80,
-   "sky": "ливень",
-   "wind": 37.8,
-   "eff": 13.5,
-   "season": "cm"
-  },
-  "tomorrow": {
    "date": "2026-11-06",
    "weekday": "пятница",
    "wd": 4,
-   "tmax": 11.3,
-   "tmin": 7.2,
-   "feel_max": 7.7,
-   "feel_min": 2.3,
-   "eve": 8.7,
-   "eve_feel": 5.9,
-   "precip": 0.0,
-   "pop": 35,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 29.3,
-   "eff": 9.5,
+   "tmax": 12.2,
+   "tmin": 7.0,
+   "feel_max": 9.2,
+   "feel_min": 2.6,
+   "eve": 9.7,
+   "eve_feel": 8.1,
+   "precip": 0.3,
+   "pop": 50,
+   "code": 61,
+   "sky": "дождь",
+   "wind": 29.4,
+   "eff": 10.7,
+   "season": "cm"
+  },
+  "tomorrow": {
+   "date": "2026-11-07",
+   "weekday": "суббота",
+   "wd": 5,
+   "tmax": 9.0,
+   "tmin": 6.5,
+   "feel_max": 7.4,
+   "feel_min": 0.8,
+   "eve": 6.7,
+   "eve_feel": 1.1,
+   "precip": 9.5,
+   "pop": 100,
+   "code": 61,
+   "sky": "дождь",
+   "wind": 27.5,
+   "eff": 8.2,
    "season": "win"
   },
   "recent": [
@@ -8793,6 +8805,25 @@
     "eff": 13.5,
     "season": "cm",
     "at": "20:56"
+   },
+   {
+    "date": "2026-11-06",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 12.2,
+    "tmin": 7.0,
+    "feel_max": 9.2,
+    "feel_min": 2.6,
+    "eve": 9.7,
+    "eve_feel": 8.1,
+    "precip": 0.3,
+    "pop": 50,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 29.4,
+    "eff": 10.7,
+    "season": "cm",
+    "at": "16:43"
    }
   ]
  }
