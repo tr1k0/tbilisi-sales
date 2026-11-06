@@ -427,13 +427,13 @@
  },
  {
   "id": "p-allsaints",
-  "name": "Кожаная куртка AllSaints Cora",
+  "name": "Кожаный бомбер Massimo Dutti из наппы",
   "wave": "b2",
-  "store": "ld",
-  "url": "https://www.allsaints.com/us/menswear/cora-leather-jacket/USM064LB-451.html",
-  "plan_price": null,
+  "store": "md",
+  "url": "https://www.massimodutti.com/ge/en/nappa-leather-bomber-jacket-l03452471?pelement=63726055",
+  "plan_price": 1400,
   "size": "top",
-  "img": "assets/prem/p-allsaints.webp",
+  "img": "assets/cat/md-nappa-bomber.webp",
   "group": "plan"
  },
  {
@@ -839,15 +839,15 @@
  },
  {
   "id": "p-bedale",
-  "name": "Вощёная куртка Barbour Bedale, тёмно-синяя",
+  "name": "Тёмный мак Mackintosh Dunkeld",
   "wave": null,
-  "store": null,
-  "url": "https://www.mrporter.com/en-gb/mens/product/46376663163110267",
-  "plan_price": null,
-  "size": null,
-  "img": "assets/cat/barbour-bedale.webp",
+  "store": "shopify",
+  "url": "https://www.mackintosh.com/products/mens-dunkeld-raintec-3-4-length-coat-navy",
+  "plan_price": 2502,
+  "size": "top",
+  "img": "assets/cat/mack-dunkeld.webp",
   "group": "optional",
-  "why_untracked": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов"
+  "sizes_kind": "eu"
  },
  {
   "id": "p-bag",
@@ -1348,18 +1348,6 @@
   "why_untracked": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов"
  },
  {
-  "id": "mack-dunkeld",
-  "name": "Плащ Mackintosh Dunkeld",
-  "wave": null,
-  "store": "shopify",
-  "url": "https://www.mackintosh.com/products/mens-dunkeld-raintec-3-4-length-coat-navy",
-  "plan_price": 2502,
-  "size": "top",
-  "img": "assets/cat/mack-dunkeld.webp",
-  "group": "site",
-  "sizes_kind": "eu"
- },
- {
   "id": "cz-manteco-jacket",
   "name": "Короткое пальто Manteco, шерсть с кашемиром",
   "wave": null,
@@ -1426,17 +1414,6 @@
   "plan_price": 529,
   "size": "top",
   "img": "assets/cat/cz-leather.webp",
-  "group": "site"
- },
- {
-  "id": "md-nappa-bomber",
-  "name": "Кожаный бомбер из наппы",
-  "wave": null,
-  "store": "md",
-  "url": "https://www.massimodutti.com/ge/en/nappa-leather-bomber-jacket-l03452471?pelement=63726055",
-  "plan_price": 1400,
-  "size": "top",
-  "img": "assets/cat/md-nappa-bomber.webp",
   "group": "site"
  },
  {
