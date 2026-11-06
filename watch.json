@@ -3514,5 +3514,60 @@
   "size": null,
   "img": "assets/care/shave-gel.webp",
   "group": "site"
+ },
+ {
+  "id": "z-trench",
+  "name": "Тёмный мак Zara, антрацит",
+  "wave": "b4",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/regular-fit-water-repellent-trench-coat-p05854400.html?v1=567416307",
+  "plan_price": 379,
+  "size": "top",
+  "img": "assets/items/z-trench.webp",
+  "group": "plan"
+ },
+ {
+  "id": "z-retro",
+  "name": "Тонкие ретро-кеды Zara, серая кожа",
+  "wave": "b2",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/retro-leather-trainers-p12220820.html?v1=547843032",
+  "plan_price": 179,
+  "size": "shoes",
+  "img": "assets/items/z-retro.webp",
+  "group": "plan"
+ },
+ {
+  "id": "z-knit-blue",
+  "name": "Синий свитер Zara",
+  "wave": "b3",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/textured-relaxed-fit-jumper-p05536312.html?v1=557357372",
+  "plan_price": 159,
+  "size": "top",
+  "img": "assets/items/z-knit-blue.webp",
+  "group": "plan"
+ },
+ {
+  "id": "z-track",
+  "name": "Тёмно-синяя олимпийка Zara",
+  "wave": "b4",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/contrast-retro-track-jacket-p00526334.html?v1=551789018",
+  "plan_price": 179,
+  "size": "top",
+  "img": "assets/items/z-track.webp",
+  "group": "plan"
+ },
+ {
+  "id": "z-cap",
+  "name": "Тёмно-синяя кепка Zara",
+  "wave": "b3",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/cap-with-contrast-fastening-p03920692.html?v1=568425521",
+  "plan_price": 69,
+  "size": null,
+  "img": "assets/items/z-cap.webp",
+  "group": "plan"
  }
 ]
