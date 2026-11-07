@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:43+04:00",
+ "updated": "2026-11-07T15:30+04:00",
  "sizes": "Размеры: верх M (иногда S), на этикетках Zara 38–42; низ 175 см / талия 78–80 см; обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -27,8 +27,7 @@
    "sizes_avail": [
     "38",
     "40",
-    "42",
-    "46"
+    "42"
    ],
    "mine": [
     "38",
@@ -95,13 +94,11 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XXL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -166,16 +163,11 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
-    "M",
     "L",
     "XL",
     "XXL"
    ],
-   "mine": [
-    "S",
-    "M"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
    "img": "https://static.zara.net/assets/public/1a1d/b907/68684f4e9061/b854a47e56c4/01887410800-p/01887410800-p.jpg?ts=1789049380542&w=750",
@@ -202,10 +194,12 @@
    ],
    "sizes_avail": [
     "S",
+    "M",
     "XL"
    ],
    "mine": [
-    "S"
+    "S",
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cashmere",
@@ -370,8 +364,12 @@
     "XL",
     "XXL"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "S"
+   ],
+   "mine": [
+    "S"
+   ],
    "need_size": true,
    "comp": "100% cotton",
    "img": "https://static.massimodutti.net/assets/public/cc1b/2091/32f5418aa8e3/9cee44fbb530/01369201401-o2/01369201401-o2.jpg?ts=1782829032303&w=750",
@@ -821,7 +819,7 @@
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
    "ok": true,
-   "price": 400.0,
+   "price": 330.0,
    "old": null,
    "color": "Dark blue",
    "sizes_all": [
@@ -850,7 +848,6 @@
     "42",
     "42",
     "43",
-    "45",
     "45",
     "46"
    ],
@@ -1115,6 +1112,7 @@
    ],
    "sizes_avail": [
     "90",
+    "95",
     "100",
     "105"
    ],
@@ -1208,21 +1206,37 @@
   },
   {
    "id": "p-allsaints",
-   "name": "Кожаная куртка AllSaints Cora",
+   "name": "Кожаный бомбер Massimo Dutti из наппы",
    "wave": "b2",
-   "store": "ld",
-   "url": "https://www.allsaints.com/us/menswear/cora-leather-jacket/USM064LB-451.html",
+   "store": "md",
+   "url": "https://www.massimodutti.com/ge/en/nappa-leather-bomber-jacket-l03452471?pelement=63726055",
+   "plan_price": 1400,
    "size": "top",
    "group": "plan",
    "ok": true,
-   "price": 2247,
-   "price_foreign": 699.0,
-   "cur": "USD",
+   "price": 1400.0,
    "old": null,
-   "need_size": false,
-   "in_stock": true,
-   "img": "assets/prem/p-allsaints.webp",
-   "note": "Цена 699 USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "color": "BLACK",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "100% sheep leather; 77% polyester; 23% cotton",
+   "img": "https://static.massimodutti.net/assets/public/bef2/1320/373843f2b932/ce898d7101a0/03452471800-o3/03452471800-o3.jpg?ts=1787748356101&w=750",
+   "cur": "GEL"
   },
   {
    "id": "p-scarf",
@@ -1729,6 +1743,7 @@
    ],
    "sizes_avail": [
     "90",
+    "95",
     "100",
     "105"
    ],
@@ -1813,6 +1828,170 @@
    "need_size": true,
    "comp": "100% cow leather",
    "img": "https://static.massimodutti.net/assets/public/166e/7b97/5616473caa51/116d0d37e48e/02732305800-r/02732305800-r.jpg?ts=1785762338448&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "z-trench",
+   "name": "Тёмный мак Zara, антрацит",
+   "wave": "b4",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/regular-fit-water-repellent-trench-coat-p05854400.html?v1=567416307",
+   "plan_price": 379,
+   "size": "top",
+   "group": "plan",
+   "ok": true,
+   "price": 379.0,
+   "old": null,
+   "color": "Anthracite grey",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 52% polyamide, 48% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
+   "img": "https://static.zara.net/assets/public/e321/43d9/d43c4c07b874/ef43ab70427e/05854400807-p/05854400807-p.jpg?ts=1790752597976&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "z-retro",
+   "name": "Тонкие ретро-кеды Zara, серая кожа",
+   "wave": "b2",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/retro-leather-trainers-p12220820.html?v1=547843032",
+   "plan_price": 179,
+   "size": "shoes",
+   "group": "plan",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Grey",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 90% polyester, 10% elastane; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 90% polyester, 10% elastane",
+   "img": "https://static.zara.net/assets/public/b3f2/c248/596b4971ac1f/28b2b89efee8/12220820802-a2/12220820802-a2.jpg?ts=1788523675846&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "z-knit-blue",
+   "name": "Синий свитер Zara",
+   "wave": "b3",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/textured-relaxed-fit-jumper-p05536312.html?v1=557357372",
+   "plan_price": 159,
+   "size": "top",
+   "group": "plan",
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "https://static.zara.net/assets/public/491a/594f/efae409ebd54/2111cae3f0c0/05536312400-p/05536312400-p.jpg?ts=1792672302126&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "z-track",
+   "name": "Тёмно-синяя олимпийка Zara",
+   "wave": "b4",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/contrast-retro-track-jacket-p00526334.html?v1=551789018",
+   "plan_price": 179,
+   "size": "top",
+   "group": "plan",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Blue / Steel",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
+   "img": "https://static.zara.net/assets/public/6d60/1d52/c58c4009a3f7/428bc9b1c8d1/00526334431-p/00526334431-p.jpg?ts=1788351070220&w=750",
+   "cur": "GEL"
+  },
+  {
+   "id": "z-cap",
+   "name": "Тёмно-синяя кепка Zara",
+   "wave": "b3",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/cap-with-contrast-fastening-p03920692.html?v1=568425521",
+   "plan_price": 69,
+   "group": "plan",
+   "ok": true,
+   "price": 69.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 70% cotton, 30% polyamide; Lining: 100% cotton",
+   "img": "https://static.zara.net/assets/public/f2f7/0cbb/179040ff8d8a/6f2f4c7d1bf5/03920692401-a1/03920692401-a1.jpg?ts=1789373512877&w=750",
    "cur": "GEL"
   }
  ],
@@ -1904,12 +2083,8 @@
     "95 (L)",
     "100 (XL)"
    ],
-   "sizes_avail": [
-    "90 (M)"
-   ],
-   "mine": [
-    "90 (M)"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
    "img": "https://static.zara.net/assets/public/10d4/ef6c/06b248cb8165/a390249ea18c/06907402800-a1/06907402800-a1.jpg?ts=1763995496776&w=750",
@@ -1971,8 +2146,7 @@
     "43",
     "44",
     "45",
-    "46",
-    "47"
+    "46"
    ],
    "mine": [
     "42",
@@ -2391,13 +2565,46 @@
   },
   {
    "id": "p-bedale",
-   "name": "Вощёная куртка Barbour Bedale, тёмно-синяя",
-   "store": null,
-   "url": "https://www.mrporter.com/en-gb/mens/product/46376663163110267",
+   "name": "Тёмный мак Mackintosh Dunkeld",
+   "store": "shopify",
+   "url": "https://www.mackintosh.com/products/mens-dunkeld-raintec-3-4-length-coat-navy",
+   "plan_price": 2502,
+   "size": "top",
    "group": "optional",
-   "ok": false,
-   "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-   "img": "assets/cat/barbour-bedale.webp"
+   "ok": true,
+   "price_foreign": 795.0,
+   "old_foreign": null,
+   "cur": "GBP",
+   "price": 3350,
+   "old": null,
+   "sizes_all": [
+    "34",
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46",
+    "48"
+   ],
+   "sizes_avail": [
+    "34",
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "mine": [
+    "38",
+    "40",
+    "42"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/cat/mack-dunkeld.webp",
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "p-bag",
@@ -2812,13 +3019,11 @@
    ],
    "sizes_avail": [
     "S",
-    "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
-    "M"
+    "S"
    ],
    "need_size": true,
    "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
@@ -2875,11 +3080,15 @@
     "46"
    ],
    "sizes_avail": [
+    "36",
+    "38",
     "40",
+    "42",
     "44",
     "46"
    ],
    "mine": [
+    "38",
     "40"
    ],
    "need_size": true,
@@ -2910,7 +3119,6 @@
    ],
    "sizes_avail": [
     "39",
-    "40",
     "41",
     "42",
     "43",
@@ -3003,12 +3211,11 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -3130,9 +3337,11 @@
     "95 (L)"
    ],
    "sizes_avail": [
+    "85 (S)",
     "90 (M)"
    ],
    "mine": [
+    "85 (S)",
     "90 (M)"
    ],
    "need_size": true,
@@ -3224,49 +3433,6 @@
    "ok": false,
    "err": "Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
    "img": "assets/cat/cos-df-coat.webp"
-  },
-  {
-   "id": "mack-dunkeld",
-   "name": "Плащ Mackintosh Dunkeld",
-   "store": "shopify",
-   "url": "https://www.mackintosh.com/products/mens-dunkeld-raintec-3-4-length-coat-navy",
-   "plan_price": 2502,
-   "size": "top",
-   "group": "site",
-   "ok": true,
-   "price_foreign": 795.0,
-   "old_foreign": null,
-   "cur": "GBP",
-   "price": 3350,
-   "old": null,
-   "sizes_all": [
-    "34",
-    "36",
-    "38",
-    "40",
-    "42",
-    "44",
-    "46",
-    "48"
-   ],
-   "sizes_avail": [
-    "34",
-    "36",
-    "38",
-    "40",
-    "42",
-    "44",
-    "46"
-   ],
-   "mine": [
-    "38",
-    "40",
-    "42"
-   ],
-   "need_size": true,
-   "comp": "",
-   "img": "assets/cat/mack-dunkeld.webp",
-   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "cz-manteco-jacket",
@@ -3503,46 +3669,11 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "L"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
    "img": "https://static.zara.net/assets/public/a608/160b/bdb642c3a304/fd7997a04a16/05388757800-p/05388757800-p.jpg?ts=1788794677547&w=750",
-   "cur": "GEL"
-  },
-  {
-   "id": "md-nappa-bomber",
-   "name": "Кожаный бомбер из наппы",
-   "store": "md",
-   "url": "https://www.massimodutti.com/ge/en/nappa-leather-bomber-jacket-l03452471?pelement=63726055",
-   "plan_price": 1400,
-   "size": "top",
-   "group": "site",
-   "ok": true,
-   "price": 1400.0,
-   "old": null,
-   "color": "BLACK",
-   "sizes_all": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ],
-   "sizes_avail": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "S",
-    "M"
-   ],
-   "need_size": true,
-   "comp": "100% sheep leather; 77% polyester; 23% cotton",
-   "img": "https://static.massimodutti.net/assets/public/bef2/1320/373843f2b932/ce898d7101a0/03452471800-o3/03452471800-o3.jpg?ts=1787748356101&w=750",
    "cur": "GEL"
   },
   {
@@ -3697,11 +3828,13 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
+    "S",
     "M"
    ],
    "need_size": true,
@@ -3831,7 +3964,6 @@
     "XL",
     "2XL",
     "3XL",
-    "4XL",
     "BLACK / XXS",
     "XS",
     "S",
@@ -4016,7 +4148,6 @@
     "50",
     "52",
     "52",
-    "54",
     "54"
    ],
    "mine": [
@@ -4326,8 +4457,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ],
    "mine": [
     "S",
@@ -4759,11 +4889,14 @@
     "XXL"
    ],
    "sizes_avail": [
+    "M",
     "L",
     "XL",
     "XXL"
    ],
-   "mine": [],
+   "mine": [
+    "M"
+   ],
    "need_size": true,
    "comp": "100% cotton",
    "img": "https://static.massimodutti.net/assets/public/cdd9/42ae/b088483e8d0e/8c05416b2bcf/02106297250-r/02106297250-r.jpg?ts=1787748354623&w=750",
@@ -4821,8 +4954,7 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
-    "XL"
+    "M"
    ],
    "mine": [
     "M"
@@ -5070,13 +5202,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
     "L",
     "XL"
    ],
-   "mine": [
-    "M"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
    "img": "https://static.zara.net/assets/public/0665/6ab5/5ca44eab8cd9/44e40b5d1f1f/04231342422-p/04231342422-p.jpg?ts=1786101752707&w=750",
@@ -5291,10 +5420,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 335.0,
+   "price_foreign": 330.0,
    "old_foreign": null,
    "cur": "USD",
-   "price": 1087,
+   "price": 1071,
    "old": null,
    "sizes_all": [
     "S",
@@ -5388,13 +5517,11 @@
     "46"
    ],
    "sizes_avail": [
-    "38",
     "40",
     "42",
     "46"
    ],
    "mine": [
-    "38",
     "40"
    ],
    "need_size": true,
@@ -6732,6 +6859,7 @@
    ],
    "sizes_avail": [
     "90",
+    "95",
     "100",
     "105"
    ],
@@ -7436,8 +7564,12 @@
     "K39-AXEL JET CR39",
     "L7-AURUM DARJEELING CR39"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "L7-AURUM DARJEELING CR39"
+   ],
+   "mine": [
+    "L7-AURUM DARJEELING CR39"
+   ],
    "need_size": false,
    "comp": "",
    "img": "assets/cat/jmm-torino.webp",
@@ -8013,12 +8145,16 @@
    "sizes_avail": [
     "XS",
     "S",
+    "M",
+    "L",
     "XL",
     "XXL"
    ],
    "mine": [
     "XS",
     "S",
+    "M",
+    "L",
     "XL",
     "XXL"
    ],
@@ -8312,24 +8448,15 @@
       "M"
      ],
      "price": 159.0
-    },
-    {
-     "color": "Navy blue",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
-     "img": "https://static.zara.net/assets/public/a44b/069c/46ee44b4bc3c/f962d210cf5f/04302370401-p/04302370401-p.jpg?ts=1787228334850&w=750",
-     "mine": [
-      "M"
-     ],
-     "price": 159.0
     }
    ]
   }
  ],
  "markdowns_nosize": [
   {
-   "pid": "545422944",
+   "pid": "545422942",
    "name": "COTTON-LINEN REGULAR FIT KNIT POLO SHIRT",
-   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422944",
+   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422942",
    "price": 99.0,
    "old": 159.0,
    "disc": 38,
@@ -8337,8 +8464,8 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 70% cotton, 30% linen",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/9d35/6575/2f7d4a969bf5/74e6ee2c7ef4/03920398700-p/03920398700-p.jpg?ts=1785836564730&w=750",
-   "color": "Brown",
+   "img": "https://static.zara.net/assets/public/d197/8844/db8946a79fb0/2c1fd16195cd/03920398300-p/03920398300-p.jpg?ts=1785837387549&w=750",
+   "color": "Yellow",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
@@ -8346,9 +8473,9 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Brown",
-     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422944",
-     "img": "https://static.zara.net/assets/public/9d35/6575/2f7d4a969bf5/74e6ee2c7ef4/03920398700-p/03920398700-p.jpg?ts=1785836564730&w=750",
+     "color": "Yellow",
+     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422942",
+     "img": "https://static.zara.net/assets/public/d197/8844/db8946a79fb0/2c1fd16195cd/03920398300-p/03920398300-p.jpg?ts=1785837387549&w=750",
      "mine": [],
      "price": 99.0
     }
@@ -8384,15 +8511,6 @@
   }
  ],
  "markdowns_rejected": [
-  {
-   "name": "RELAXED FIT 100% LYOCELL TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
   {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
@@ -8548,28 +8666,23 @@
   }
  ],
  "log": [
-  "✓ d-coat 529.0  размер: S,M",
-  "✓ d-rollneck 129.0  размер: S,M",
-  "✓ d-merino 179.0  размер: M",
   "✓ d-pleated 299.0  размер: 38",
   "✓ d-trainers 219.0  размер: 42,43",
-  "✓ d-belt 179.0  размер: 90 (M)",
+  "✓ d-belt 179.0  размер: 85 (S),90 (M)",
   "· p-khaki-auto None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ p-bb54 15074  размер: Default Title",
   "✓ md-wool-coat 1200.0  размер: S,M",
   "· cos-df-coat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ mack-dunkeld 3350  размер: 38,40,42",
   "✓ cz-manteco-jacket 599.0  размер: S",
   "· cos-pea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ pwvc-harrington 3365  размер: ",
   "✓ barbour-ashby 1342  размер: ",
   "✓ lavenham-raydon 1326  размер: S,M,Sable Black / XXL,S,M,S,M,Lamp Black / XXL,Lamp Black / XXXL,S,M,Suffolk Navy / XXL,Suffolk Navy / XXXL,S,M,S,M",
   "✓ cz-leather 529.0  размер: ",
-  "✓ md-nappa-bomber 1400.0  размер: S,M",
   "✓ schott-618 3270  размер: 38,40,42,38,40,42",
   "✓ md-suede-bomber 1300.0  размер: S,M",
   "✓ allsaints-cora-suede 519  размер: ",
-  "✓ md-wool-bomber 700.0  размер: M",
+  "✓ md-wool-bomber 700.0  размер: S,M",
   "· cos-padded-bomber None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-wool-overshirt 470.0  размер: S,M",
   "· carhartt-michigan None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8613,7 +8726,7 @@
   "✓ md-oxford 290.0  размер: M,M",
   "✓ drakes-ocbd 963  размер: ",
   "✓ cz-poplin 179.0  размер: M",
-  "✓ md-twill 290.0  размер: ",
+  "✓ md-twill 290.0  размер: M",
   "✓ md-cotton-cash 390.0  размер: S,M",
   "✓ cz-flannel 129.0  размер: M",
   "✓ md-wool-shirt 470.0  размер: S,M",
@@ -8623,7 +8736,7 @@
   "· ol-box-shirt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ pf-camp 476  размер: S,M",
   "✓ cz-pima-polo 129.0  размер: S,M",
-  "✓ cz-pique-navy 179.0  размер: M",
+  "✓ cz-pique-navy 179.0  размер: ",
   "✓ md-ls-polo 190.0  размер: S,M",
   "✓ sunspel-riviera 606  размер: S,M",
   "· rl-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8632,10 +8745,10 @@
   "· smedley-tee None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ rc-terry 265  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
   "✓ sunspel-loopback 627  размер: S,M",
-  "✓ loopwheeler 1087  размер: S,M",
+  "✓ loopwheeler 1071  размер: S,M",
   "✓ ald-hoodie 641  размер: S,M",
   "· carhartt-hoodie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-suit-trousers 219.0  размер: 38,40",
+  "✓ cz-suit-trousers 219.0  размер: 40",
   "✓ md-darts-black 400.0  размер: 38,40",
   "· cos-pleated-wool None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· uq-pleated-wide None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -8708,7 +8821,7 @@
   "✓ op-gregory 1339  размер: 47-23,45-23,50-23,47-23RX,50-23RX,45-23RX",
   "✓ moscot-lemtosh 1103  размер: 44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ jmm-torino 4433  размер: ",
+  "✓ jmm-torino 4433  размер: L7-AURUM DARJEELING CR39",
   "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in,7in,8in,9in,6.5in,7.5in,8in,8.5in,9in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
@@ -8734,7 +8847,7 @@
   "· sl-wallet None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· uq-boxers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cdlp-boxer 450  размер: XS,S,M,L,XL,XXL / Black,XXXL / Black",
-  "✓ sunspel-boxer 544  размер: XS,S,XL,XXL",
+  "✓ sunspel-boxer 544  размер: XS,S,M,L,XL,XXL",
   "· falke-airport None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· pantherella None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ bresciani 93  размер: 9 1 2,10,10 1 2,11,11 1 2,12,12 1 2,13,9 1 2,10,10 1 2,11,11 1 2,12,12 1 2,13",
@@ -8746,44 +8859,49 @@
   "✓ shave-razor 55  размер: ",
   "✓ shave-blades 95  размер: ",
   "✓ shave-gel 33  размер: ",
+  "✓ z-trench 379.0  размер: S,M",
+  "✓ z-retro 179.0  размер: 42,43",
+  "✓ z-knit-blue 159.0  размер: M",
+  "✓ z-track 179.0  размер: S,M",
+  "✓ z-cap 69.0  размер: M",
   "Zara: категорий для уценок — 57",
-  "Zara: уценок от 30% — 22"
+  "Zara: уценок от 30% — 20"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-06",
-   "weekday": "пятница",
-   "wd": 4,
-   "tmax": 12.2,
-   "tmin": 7.0,
-   "feel_max": 9.2,
-   "feel_min": 2.6,
-   "eve": 9.7,
-   "eve_feel": 8.1,
-   "precip": 0.3,
-   "pop": 50,
-   "code": 61,
-   "sky": "дождь",
-   "wind": 29.4,
-   "eff": 10.7,
-   "season": "cm"
-  },
-  "tomorrow": {
    "date": "2026-11-07",
    "weekday": "суббота",
    "wd": 5,
-   "tmax": 9.0,
-   "tmin": 6.5,
-   "feel_max": 7.4,
-   "feel_min": 0.8,
+   "tmax": 8.4,
+   "tmin": 6.3,
+   "feel_max": 6.7,
+   "feel_min": 0.9,
    "eve": 6.7,
-   "eve_feel": 1.1,
-   "precip": 9.5,
+   "eve_feel": 1.2,
+   "precip": 6.9,
    "pop": 100,
    "code": 61,
    "sky": "дождь",
-   "wind": 27.5,
-   "eff": 8.2,
+   "wind": 27.9,
+   "eff": 7.6,
+   "season": "win"
+  },
+  "tomorrow": {
+   "date": "2026-11-08",
+   "weekday": "воскресенье",
+   "wd": 6,
+   "tmax": 9.0,
+   "tmin": 5.0,
+   "feel_max": 2.6,
+   "feel_min": -2.2,
+   "eve": 5.1,
+   "eve_feel": -1.8,
+   "precip": 0.0,
+   "pop": 3,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 35.4,
+   "eff": 5.8,
    "season": "win"
   },
   "recent": [
@@ -8824,6 +8942,25 @@
     "eff": 10.7,
     "season": "cm",
     "at": "16:43"
+   },
+   {
+    "date": "2026-11-07",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 8.4,
+    "tmin": 6.3,
+    "feel_max": 6.7,
+    "feel_min": 0.9,
+    "eve": 6.7,
+    "eve_feel": 1.2,
+    "precip": 6.9,
+    "pop": 100,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 27.9,
+    "eff": 7.6,
+    "season": "win",
+    "at": "15:30"
    }
   ]
  }
