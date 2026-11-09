@@ -3798,16 +3798,6 @@
   "sizes_kind": "eu"
  },
  {
-  "id": "sp13",
-  "name": "Nike: Nike Mens Fleece Windrunner Full Zip Jacket",
-  "store": "ld",
-  "url": "https://dressup.ge/en/zip-up-hoodies/742279-6253448-nike-mens-fleece-windrunner-full-zip-jacket.html",
-  "plan_price": 549.0,
-  "size": "top",
-  "img": "assets/sport/bcc4de5f6718.webp",
-  "group": "sp"
- },
- {
   "id": "sp14",
   "name": "Reigning Champ: Wool Twill Bomber Jacket",
   "store": "shopify",
@@ -4038,16 +4028,6 @@
   "group": "sp"
  },
  {
-  "id": "sp36",
-  "name": "Tommy Jeans: Tommy Jeans Tjw Rwb Tape Track Pants",
-  "store": "ld",
-  "url": "https://dressup.ge/en/jogging-trousers/935186-7341710-tommy-jeans-tjw-rwb-tape-track-pants.html",
-  "plan_price": 359.0,
-  "size": "bottom",
-  "img": "assets/sport/c4fe9abeb773.webp",
-  "group": "sp"
- },
- {
   "id": "sp37",
   "name": "Reigning Champ: Stretch Chino Marina Standard Short 7\"",
   "store": "shopify",
@@ -4086,16 +4066,6 @@
   "plan_price": 333.0,
   "size": "shoes",
   "img": "assets/sport/834649197ccd.webp",
-  "group": "sp"
- },
- {
-  "id": "sp41",
-  "name": "Zara: Retro Leather Trainers",
-  "store": "zara",
-  "url": "https://www.zara.com/ge/en/retro-leather-trainers-p12220820.html?v1=547843032",
-  "plan_price": 179.0,
-  "size": "shoes",
-  "img": "assets/sport/d87d51c28f90.webp",
   "group": "sp"
  },
  {
@@ -4249,6 +4219,303 @@
   "plan_price": 219.0,
   "size": null,
   "img": "assets/sport/1769e729eb0b.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp57",
+  "name": "Sunspel: Riviera Polo Shirt in Haar",
+  "store": "shopify",
+  "url": "https://www.sunspel.com/products/mens-riviera-polo-shirt-in-haar-mpol1026-gnjm",
+  "plan_price": 606,
+  "size": "top",
+  "img": "assets/sport/56c09ba1a2c4.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp58",
+  "name": "Sunspel: Piqué Polo Shirt in Haar",
+  "store": "shopify",
+  "url": "https://www.sunspel.com/products/mens-pique-polo-shirt-in-haar-mpol1028-gnjm",
+  "plan_price": 565,
+  "size": "top",
+  "img": "assets/sport/654dd25430c1.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp59",
+  "name": "Sunspel: Extra-Fine Merino Knitted Polo Shirt in Charcoal Melange",
+  "store": "shopify",
+  "url": "https://www.sunspel.com/products/mens-extra-fine-merino-knitted-polo-shirt-in-charcoal-melange-mpol8333-gyad",
+  "plan_price": 1004,
+  "size": "top",
+  "img": "assets/sport/82c966f34b0b.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp60",
+  "name": "Reigning Champ: Supima Pique Ace Cardigan",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/supima-pique-ace-cardigan-navy",
+  "plan_price": 460,
+  "size": "top",
+  "img": "assets/sport/757b6a5d611d.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp61",
+  "name": "Reigning Champ: Supima Knit Commodore Polo Sweater",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/supima-knit-commodore-polo-sweater-oyster",
+  "plan_price": 492,
+  "size": "top",
+  "img": "assets/sport/d83e6c3ddddb.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp62",
+  "name": "Reigning Champ: Cotton Linen Victor Polo",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/cotton-linen-victor-polo-6144-heather-oatmeal",
+  "plan_price": 492,
+  "size": "top",
+  "img": "assets/sport/6e1f06b09b04.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp63",
+  "name": "Lacoste: Lacoste Polos Homme Adulte Maille",
+  "store": "ld",
+  "url": "https://dressup.ge/en/polos/943448-7236032-lacoste-polos-homme-adulte-maille.html",
+  "plan_price": 449.0,
+  "size": "top",
+  "img": "assets/sport/3617dd3a8b3f.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp64",
+  "name": "Lacoste: Lacoste Regular Fit Paris Stretch Piqué Polo Shirt",
+  "store": "ld",
+  "url": "https://dressup.ge/en/polos/772045-5695495-lacoste-regular-fit-paris-stretch-piqu%C3%A9-polo-shirt.html",
+  "plan_price": 399.0,
+  "size": "top",
+  "img": "assets/sport/f65c77562c1e.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp66",
+  "name": "Lacoste: Lacoste Classic Fit Cotton Linen Polo Shirt",
+  "store": "ld",
+  "url": "https://dressup.ge/en/polos/706311-5234743-lacoste-classic-fit-cotton-linen-polo-shirt.html",
+  "plan_price": 249.0,
+  "size": "top",
+  "img": "assets/sport/d7b477fb354c.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp67",
+  "name": "Lacoste: Lacoste Half Zip Wool Burgundy Sweater",
+  "store": "ld",
+  "url": "https://dressup.ge/en/polos/861934-6290086-lacoste-half-zip-wool-burgundy-sweater.html",
+  "plan_price": 579.0,
+  "size": "top",
+  "img": "assets/sport/38c227d071af.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp68",
+  "name": "Lacoste: Lacoste Men S Lerond Set Sneakers 092 Nvywht",
+  "store": "ld",
+  "url": "https://dressup.ge/en/trainers/238953-2011003-lacoste-men-s-lerond-set-sneakers-092-nvywht.html",
+  "plan_price": 229.0,
+  "size": "shoes",
+  "img": "assets/sport/b6dead3137d6.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp69",
+  "name": "Lacoste: Lacoste Men S Lerond Set Sneakers 21G Whtwht",
+  "store": "ld",
+  "url": "https://dressup.ge/en/trainers/238981-6322837-lacoste-men-s-lerond-set-sneakers-21g-whtwht.html",
+  "plan_price": 399.0,
+  "size": "shoes",
+  "img": "assets/sport/6d889dec8359.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp70",
+  "name": "adidas: Adidas Vl Court 30",
+  "store": "ld",
+  "url": "https://dressup.ge/en/trainers/794752-6075069-adidas-vl-court-30.html",
+  "plan_price": 249.0,
+  "size": "shoes",
+  "img": "assets/sport/1160d6749fe3.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp71",
+  "name": "Zara: Striped Regular Fit Piqué Polo Shirt",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/striped-regular-fit-pique-polo-shirt-p04442326.html?v1=545490630",
+  "plan_price": 99.0,
+  "size": "top",
+  "img": "assets/sport/a2b6c2d1117d.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp72",
+  "name": "Zara: Textured Cable-Knit Vest",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/textured-cable-knit-vest-p05755331.html?v1=550672202",
+  "plan_price": 129.0,
+  "size": "top",
+  "img": "assets/sport/d068eaff5c4e.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp73",
+  "name": "Reigning Champ: Merino Honeycomb Track Jacket",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/merino-honeycomb-track-jacket-navy",
+  "plan_price": 769,
+  "size": "top",
+  "img": "assets/sport/32a61425dd78.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp74",
+  "name": "Reigning Champ: Double Knit Rally Slim Quarter Zip",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/double-knit-rally-quarter-zip-black",
+  "plan_price": 492,
+  "size": "top",
+  "img": "assets/sport/b5219ab3ba50.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp75",
+  "name": "Reigning Champ: Double Knit Rally Slim Track Jacket",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/double-knit-rally-slim-track-jacket-atlantic",
+  "plan_price": 492,
+  "size": "top",
+  "img": "assets/sport/ee942174ffb9.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp76",
+  "name": "Reigning Champ: Wool Fleece Ridge Half Zip",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/wool-fleece-ridge-half-zip-navy",
+  "plan_price": 969,
+  "size": "top",
+  "img": "assets/sport/d15c562a5645.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp77",
+  "name": "Reigning Champ: Supima Double Knit RCAW Zip Hoodie",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/supima-double-knit-rcaw-zip-hoodie-navy-championship-white",
+  "plan_price": 587,
+  "size": "top",
+  "img": "assets/sport/2fd6c0c9b2c9.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp78",
+  "name": "Sunspel: Extra-Fine Merino Half Zip Jumper in Navy",
+  "store": null,
+  "url": "https://www.sunspel.com/products/mens-extra-fine-merino-half-zip-in-navy-mjum8344-buaa",
+  "plan_price": 1130,
+  "size": "top",
+  "img": "assets/sport/0d0c9e79489b.webp",
+  "group": "sp",
+  "sizes_kind": "eu",
+  "why_untracked": "Не читается сборщиком: проверять вручную"
+ },
+ {
+  "id": "sp79",
+  "name": "Sunspel: Loopback Sweatshirt in Slate Green",
+  "store": "shopify",
+  "url": "https://www.sunspel.com/products/mens-loopback-sweatshirt-in-slate-green-mswe1516-gnjo",
+  "plan_price": 627,
+  "size": "top",
+  "img": "assets/sport/6e9a3a2b35a3.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp82",
+  "name": "adidas: Adidas M Zne Fz",
+  "store": "ld",
+  "url": "https://dressup.ge/en/zip-up-hoodies/840272-6138644-adidas-m-zne-fz.html",
+  "plan_price": 399.0,
+  "size": "top",
+  "img": "assets/sport/e11bffe1bbfa.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp83",
+  "name": "Reigning Champ: Heavyweight Jersey Standard Crewneck",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/heavyweight-jersey-standard-crewneck-navy",
+  "plan_price": 238,
+  "size": "top",
+  "img": "assets/sport/e9725cef7ee4.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp84",
+  "name": "Reigning Champ: Supima Pique Ace T-Shirt",
+  "store": "shopify",
+  "url": "https://reigningchamp.com/products/supima-pique-ace-t-shirt-6143-black",
+  "plan_price": 265,
+  "size": "top",
+  "img": "assets/sport/c2467800cdab.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp85",
+  "name": "Sunspel: Relaxed Fit Heavyweight T-shirt in Inkwell",
+  "store": "shopify",
+  "url": "https://www.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-inkwell-mtsh0181-buxg",
+  "plan_price": 523,
+  "size": "top",
+  "img": "assets/sport/f0e79c8941f3.webp",
+  "group": "sp",
+  "sizes_kind": "eu"
+ },
+ {
+  "id": "sp86",
+  "name": "Zara: High Collar Bomber Jacket",
+  "store": "zara",
+  "url": "https://www.zara.com/ge/en/high-collar-bomber-jacket-p04391801.html?v1=551145213",
+  "plan_price": 159.0,
+  "size": "top",
+  "img": "assets/sport/22cd95950817.webp",
+  "group": "sp"
+ },
+ {
+  "id": "sp87",
+  "name": "adidas: Adidas Sst Tt",
+  "store": "ld",
+  "url": "https://dressup.ge/en/lightweight-jackets/840416-6136871-adidas-sst-tt.html",
+  "plan_price": 359.0,
+  "size": "top",
+  "img": "assets/sport/99f19d007e69.webp",
   "group": "sp"
  }
 ]
