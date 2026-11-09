@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:42+04:00",
+ "updated": "2026-11-09T17:37+04:00",
  "sizes": "Размеры: верх M (иногда S), на этикетках Zara 38–42; низ 175 см / талия 78–80 см; обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
  "plan": [
   {
@@ -25,9 +25,14 @@
     "48"
    ],
    "sizes_avail": [
-    "42"
+    "38",
+    "40",
+    "44"
    ],
-   "mine": [],
+   "mine": [
+    "38",
+    "40"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
    "img": "https://static.zara.net/assets/public/db21/4279/fda144379438/0dda9cde4ae5/06045360401-p/06045360401-p.jpg?ts=1789649904198&w=750",
@@ -89,11 +94,14 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
+    "XL",
     "XXL"
    ],
    "mine": [
+    "S",
     "M"
    ],
    "need_size": true,
@@ -158,11 +166,14 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
+    "XL",
     "XXL"
    ],
    "mine": [
+    "S",
     "M"
    ],
    "need_size": true,
@@ -190,10 +201,12 @@
     "XL"
    ],
    "sizes_avail": [
-    "S"
+    "S",
+    "M"
    ],
    "mine": [
-    "S"
+    "S",
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cashmere",
@@ -358,12 +371,8 @@
     "XL",
     "XXL"
    ],
-   "sizes_avail": [
-    "S"
-   ],
-   "mine": [
-    "S"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "100% cotton",
    "img": "https://static.massimodutti.net/assets/public/cc1b/2091/32f5418aa8e3/9cee44fbb530/01369201401-o2/01369201401-o2.jpg?ts=1782829032303&w=750",
@@ -880,13 +889,11 @@
    ],
    "sizes_avail": [
     "40",
-    "42",
     "43",
     "44",
     "45"
    ],
    "mine": [
-    "42",
     "43"
    ],
    "need_size": true,
@@ -1104,11 +1111,14 @@
     "105"
    ],
    "sizes_avail": [
+    "90",
     "95",
     "100",
     "105"
    ],
-   "mine": [],
+   "mine": [
+    "90"
+   ],
    "need_size": true,
    "comp": "100% cow leather",
    "img": "https://static.massimodutti.net/assets/public/7214/f785/37f44e94825e/56e93733ce3d/02533310800-c/02533310800-c.png?ts=1769500863864&w=750",
@@ -1585,8 +1595,7 @@
     "9.5",
     "10",
     "10.5",
-    "11",
-    "11.5"
+    "11"
    ],
    "mine": [
     "8",
@@ -1641,8 +1650,6 @@
     "15"
    ],
    "sizes_avail": [
-    "6.5",
-    "7.5",
     "8",
     "9",
     "9.5",
@@ -1769,8 +1776,7 @@
     "85",
     "90",
     "95",
-    "100",
-    "105"
+    "100"
    ],
    "mine": [
     "85",
@@ -2236,7 +2242,8 @@
    ],
    "sizes_avail": [
     "M",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
     "M"
@@ -2405,6 +2412,7 @@
     "47"
    ],
    "sizes_avail": [
+    "39",
     "40",
     "41",
     "42",
@@ -3006,6 +3014,7 @@
    ],
    "sizes_avail": [
     "S",
+    "L",
     "XL"
    ],
    "mine": [
@@ -3067,10 +3076,13 @@
    ],
    "sizes_avail": [
     "36",
+    "40",
     "42",
     "44"
    ],
-   "mine": [],
+   "mine": [
+    "40"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
    "img": "https://static.zara.net/assets/public/3b6d/f4b3/495e4ba9bb0a/006862b3b8a0/05359360822-p/05359360822-p.jpg?ts=1791962760015&w=750",
@@ -3160,6 +3172,7 @@
    "sizes_avail": [
     "S",
     "M",
+    "L",
     "XL"
    ],
    "mine": [
@@ -3191,11 +3204,13 @@
    ],
    "sizes_avail": [
     "S",
+    "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S"
+    "S",
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 82% viscose, 18% polyamide",
@@ -3315,7 +3330,9 @@
     "90 (M)",
     "95 (L)"
    ],
-   "sizes_avail": [],
+   "sizes_avail": [
+    "95 (L)"
+   ],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
@@ -3426,12 +3443,9 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "L"
    ],
-   "mine": [
-    "S"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 90% wool, 10% cashmere; Lining: 52% viscose, 48% polyester",
    "img": "https://static.zara.net/assets/public/bc8d/ced2/846e48279792/18f4d814fab5/04517500099-p/04517500099-p.jpg?ts=1788444195144&w=750",
@@ -4753,7 +4767,6 @@
     "M",
     "M",
     "L",
-    "XL",
     "XL"
    ],
    "mine": [
@@ -4829,7 +4842,8 @@
    "sizes_avail": [
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
     "S",
@@ -4861,14 +4875,12 @@
    ],
    "sizes_avail": [
     "S",
-    "M",
     "L",
     "XL",
     "XXL"
    ],
    "mine": [
-    "S",
-    "M"
+    "S"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -5389,10 +5401,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 330.0,
+   "price_foreign": 335.0,
    "old_foreign": null,
    "cur": "USD",
-   "price": 1071,
+   "price": 1087,
    "old": null,
    "sizes_all": [
     "S",
@@ -8413,13 +8425,11 @@
      "price": 159.0
     }
    ]
-  }
- ],
- "markdowns_nosize": [
+  },
   {
-   "pid": "545490745",
+   "pid": "545490748",
    "name": "WASHED TEXTURED RELAXED FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490745",
+   "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
    "price": 75.0,
    "old": 109.0,
    "disc": 31,
@@ -8427,8 +8437,42 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 100% cotton",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/a39e/54ae/69d04522bf73/646316650f84/02621311682-p/02621311682-p.jpg?ts=1785321541337&w=750",
-   "color": "Red",
+   "img": "https://static.zara.net/assets/public/83f7/a3e2/61e547838e27/f9601fa7bab1/02621311833-p/02621311833-p.jpg?ts=1785321541449&w=750",
+   "color": "Faded black",
+   "mine": [
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Faded black",
+     "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
+     "img": "https://static.zara.net/assets/public/83f7/a3e2/61e547838e27/f9601fa7bab1/02621311833-p/02621311833-p.jpg?ts=1785321541449&w=750",
+     "mine": [
+      "M"
+     ],
+     "price": 75.0
+    }
+   ]
+  }
+ ],
+ "markdowns_nosize": [
+  {
+   "pid": "547145160",
+   "name": "COTTON REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+   "price": 99.0,
+   "old": 159.0,
+   "disc": 38,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/a3a2/c1fb/d8cd4a7fbe93/dc3e9edc5e61/09598454818-p/09598454818-p.jpg?ts=1787065786392&w=750",
+   "color": "Charcoal grey",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
@@ -8436,16 +8480,50 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Red",
-     "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490745",
-     "img": "https://static.zara.net/assets/public/a39e/54ae/69d04522bf73/646316650f84/02621311682-p/02621311682-p.jpg?ts=1785321541337&w=750",
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+     "img": "https://static.zara.net/assets/public/a3a2/c1fb/d8cd4a7fbe93/dc3e9edc5e61/09598454818-p/09598454818-p.jpg?ts=1787065786392&w=750",
      "mine": [],
-     "price": 75.0
+     "price": 99.0
+    },
+    {
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
+     "img": "https://static.zara.net/assets/public/a3a2/c1fb/d8cd4a7fbe93/dc3e9edc5e61/09598454818-p/09598454818-p.jpg?ts=1787065786392&w=750",
+     "mine": [],
+     "price": 99.0
     }
    ]
   }
  ],
  "markdowns_rejected": [
+  {
+   "name": "COMFORT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773030",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071602",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071601",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
   {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
@@ -8484,15 +8562,6 @@
   },
   {
    "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071601",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
    "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
    "price": 79.0,
    "old": 159.0,
@@ -8520,15 +8589,6 @@
   },
   {
    "name": "COMFORT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773006",
-   "price": 179.0,
-   "old": 299.0,
-   "disc": 40,
-   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "COMFORT SUIT BLAZER",
    "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773004",
    "price": 179.0,
    "old": 299.0,
@@ -8543,6 +8603,15 @@
    "old": 299.0,
    "disc": 40,
    "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773006",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
@@ -8599,7 +8668,7 @@
   "✓ p-bb54 15074  размер: Default Title",
   "✓ md-wool-coat 1200.0  размер: S,M",
   "· cos-df-coat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-manteco-jacket 599.0  размер: S",
+  "✓ cz-manteco-jacket 599.0  размер: ",
   "· cos-pea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ pwvc-harrington 3365  размер: ",
   "✓ barbour-ashby 1342  размер: ",
@@ -8652,7 +8721,7 @@
   "✓ md-oxford 290.0  размер: M,M",
   "✓ drakes-ocbd 963  размер: ",
   "✓ cz-poplin 179.0  размер: S,M",
-  "✓ md-twill 290.0  размер: S,M",
+  "✓ md-twill 290.0  размер: S",
   "✓ md-cotton-cash 390.0  размер: S,M",
   "✓ cz-flannel 129.0  размер: ",
   "✓ md-wool-shirt 470.0  размер: S,M",
@@ -8671,7 +8740,7 @@
   "· smedley-tee None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ rc-terry 265  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
   "✓ sunspel-loopback 627  размер: S,M",
-  "✓ loopwheeler 1071  размер: S,M",
+  "✓ loopwheeler 1087  размер: S,M",
   "✓ ald-hoodie 641  размер: S,M",
   "· carhartt-hoodie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cz-suit-trousers 219.0  размер: 38,40",
@@ -8791,43 +8860,43 @@
   "✓ z-track 179.0  размер: S,M",
   "✓ z-cap 69.0  размер: M",
   "Zara: категорий для уценок — 57",
-  "Zara: уценок от 30% — 18"
+  "Zara: уценок от 30% — 22"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-08",
-   "weekday": "воскресенье",
-   "wd": 6,
-   "tmax": 9.1,
-   "tmin": 5.0,
-   "feel_max": 1.9,
-   "feel_min": -2.6,
-   "eve": 5.1,
-   "eve_feel": -1.9,
-   "precip": 0.0,
-   "pop": 0,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 38.9,
-   "eff": 5.5,
-   "season": "win"
-  },
-  "tomorrow": {
    "date": "2026-11-09",
    "weekday": "понедельник",
    "wd": 0,
-   "tmax": 7.7,
-   "tmin": 3.4,
-   "feel_max": -0.8,
-   "feel_min": -4.4,
-   "eve": 4.4,
+   "tmax": 7.9,
+   "tmin": 3.2,
+   "feel_max": -0.7,
+   "feel_min": -4.5,
+   "eve": 4.1,
    "eve_feel": -1.8,
    "precip": 0.0,
    "pop": 0,
    "code": 3,
    "sky": "пасмурно",
-   "wind": 44.4,
-   "eff": 3.5,
+   "wind": 44.9,
+   "eff": 3.6,
+   "season": "win"
+  },
+  "tomorrow": {
+   "date": "2026-11-10",
+   "weekday": "вторник",
+   "wd": 1,
+   "tmax": 8.7,
+   "tmin": 1.1,
+   "feel_max": 5.3,
+   "feel_min": -1.9,
+   "eve": 4.5,
+   "eve_feel": 2.3,
+   "precip": 0.0,
+   "pop": 0,
+   "code": 2,
+   "sky": "малооблачно",
+   "wind": 14.5,
+   "eff": 7.0,
    "season": "win"
   },
   "recent": [
@@ -8906,6 +8975,25 @@
     "eff": 5.5,
     "season": "win",
     "at": "15:42"
+   },
+   {
+    "date": "2026-11-09",
+    "weekday": "понедельник",
+    "wd": 0,
+    "tmax": 7.9,
+    "tmin": 3.2,
+    "feel_max": -0.7,
+    "feel_min": -4.5,
+    "eve": 4.1,
+    "eve_feel": -1.8,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 44.9,
+    "eff": 3.6,
+    "season": "win",
+    "at": "17:37"
    }
   ]
  }
