@@ -1723,7 +1723,7 @@
   "url": "https://suitsupply.com/en-de/men/suits",
   "plan_price": 1950,
   "size": "top",
-  "img": "assets/cat/ss-lazio.webp",
+  "img": null,
   "group": "site"
  },
  {
@@ -2010,7 +2010,7 @@
   "url": "https://www.officinegenerale.com/products/benoit-shirt-checked-cotton-darknavy-white",
   "plan_price": 1121,
   "size": "top",
-  "img": "assets/cat/og-benoit.webp",
+  "img": null,
   "group": "site",
   "sizes_kind": "eu"
  },
@@ -3578,7 +3578,7 @@
   "url": "https://dressup.ge/ka/%E1%83%AF%E1%83%98%E1%83%9C%E1%83%A1%E1%83%98-%E1%83%A0%E1%83%94%E1%83%92%E1%83%A3%E1%83%9A%E1%83%90%E1%83%A0%E1%83%98/903339-7066575-levis-501-levi-soriginal.html",
   "plan_price": 369,
   "size": "bottom",
-  "img": "assets/pool/27fe511d7065.webp",
+  "img": "assets/pool/a88c54c0f3aa.webp",
   "group": "plan",
   "alt_of": "w1-jeans~alt",
   "alt_label": "Тёмные прямые джинсы — вариант из пула"
@@ -3656,7 +3656,7 @@
   "url": "https://www.camper.com/en_GB/men/shoes/llc/camper-lluc_sandal-K101092-001",
   "plan_price": 450,
   "size": "shoes",
-  "img": "assets/pool/27fe600ad6a1.webp",
+  "img": "assets/pool/23436b98e344.webp",
   "group": "plan",
   "alt_of": "w5-sandals~alt",
   "alt_label": "Кожаные сандалии — вариант из пула"

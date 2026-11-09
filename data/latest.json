@@ -35,7 +35,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/db21/4279/fda144379438/0dda9cde4ae5/06045360401-p/06045360401-p.jpg?ts=1789649904198&w=750",
+   "img": "assets/items/jeans.webp",
    "cur": "GEL"
   },
   {
@@ -70,7 +70,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/5de0/9936/41a54ec68938/f6eab849d5cc/03277300403-p/03277300403-p.jpg?ts=1786539193374&w=750",
+   "img": "assets/items/oxford-blue.webp",
    "cur": "GEL"
   },
   {
@@ -106,7 +106,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/8fc8/a8e4/786c4f4cacf8/51e120c603d7/03277300250-p/03277300250-p.jpg?ts=1786539188262&w=750",
+   "img": "assets/moodi/c-oxford-white.webp",
    "cur": "GEL"
   },
   {
@@ -142,7 +142,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/0c4d/f2d2/eded4fd79cfa/548d3aa69588/01300210401-o3/01300210401-o3.jpg?ts=1782916700255&w=750",
+   "img": "assets/cat/md-merino.webp",
    "cur": "GEL"
   },
   {
@@ -178,7 +178,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/1a1d/b907/68684f4e9061/b854a47e56c4/01887410800-p/01887410800-p.jpg?ts=1789049380542&w=750",
+   "img": "assets/items/tee-black.webp",
    "cur": "GEL"
   },
   {
@@ -210,7 +210,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cashmere",
-   "img": "https://static.zara.net/assets/public/fd5c/04f2/ab984576b052/8fa5ee654147/02893300800-p/02893300800-p.jpg?ts=1786609853235&w=750",
+   "img": "assets/moodi/c-cash-black.webp",
    "cur": "GEL"
   },
   {
@@ -243,7 +243,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 55% viscose, 45% polyester",
-   "img": "https://static.zara.net/assets/public/8302/dd55/5d6f4ee59a50/5503d5a7d873/05552381422-p/05552381422-p.jpg?ts=1786100319497&w=750",
+   "img": "assets/moodi/d-blazer.webp",
    "cur": "GEL"
   },
   {
@@ -278,7 +278,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/5ceb/fbd7/568a492a90b8/829bddb5faaf/00127008401-o7/00127008401-o7.jpg?ts=1790582983684&w=750",
+   "img": "assets/cat/md-dbl-pleated.webp",
    "cur": "GEL"
   },
   {
@@ -314,7 +314,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/8cf8/2728/31934b18bbc7/b0c2a089bdf4/01063440401-p/01063440401-p.jpg?ts=1785927083076&w=750",
+   "img": "assets/cat/cz-chino-navy.webp",
    "cur": "GEL"
   },
   {
@@ -348,7 +348,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/9875/c309/e33a4674893a/e914fb4c6d80/01437201401-p/01437201401-p.jpg?ts=1787065772926&w=750",
+   "img": "assets/items/overshirt.webp",
    "cur": "GEL"
   },
   {
@@ -375,7 +375,7 @@
    "mine": [],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/cc1b/2091/32f5418aa8e3/9cee44fbb530/01369201401-o2/01369201401-o2.jpg?ts=1782829032303&w=750",
+   "img": "assets/items/polo-navy.webp",
    "cur": "GEL"
   },
   {
@@ -411,7 +411,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 55% linen, 45% cotton",
-   "img": "https://static.zara.net/assets/public/2296/4ff4/303a48778154/477b2e22dc72/01063412250-p/01063412250-p.jpg?ts=1767948300388&w=750",
+   "img": "assets/cat/cz-linen-cotton.webp",
    "cur": "GEL"
   },
   {
@@ -447,7 +447,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 55% linen, 45% cotton",
-   "img": "https://static.zara.net/assets/public/8169/2ea3/52a64ac1bcff/e029fa567374/01063412403-p/01063412403-p.jpg?ts=1789483412557&w=750",
+   "img": "assets/cat/cz-linen-cotton.webp",
    "cur": "GEL"
   },
   {
@@ -480,7 +480,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 58% linen, 42% lyocell",
-   "img": "https://static.zara.net/assets/public/c06d/1384/42884ce284c0/71273b01583c/05679185401-p/05679185401-p.jpg?ts=1785328886499&w=750",
+   "img": "assets/cat/cz-linen-lyocell.webp",
    "cur": "GEL"
   },
   {
@@ -514,7 +514,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% linen",
-   "img": "https://static.zara.net/assets/public/34b3/930b/958843cca3be/e3e0b9a569b9/03692310401-p/03692310401-p.jpg?ts=1790669323712&w=750",
+   "img": "assets/cat/cz-linen-trousers.webp",
    "cur": "GEL"
   },
   {
@@ -550,7 +550,7 @@
    ],
    "need_size": true,
    "comp": "100% linen; 100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/9449/ded3/f60d4aa9903f/c50dd5daddaa/00130011250-o7/00130011250-o7.jpg?ts=1777302905200&w=750",
+   "img": "assets/cat/md-linen.webp",
    "cur": "GEL"
   },
   {
@@ -584,7 +584,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% linen",
-   "img": "https://static.zara.net/assets/public/e4ec/51a2/3bd346dea376/f28499aac00a/01957121401-p/01957121401-p.jpg?ts=1785853954140&w=750",
+   "img": "assets/cat/cz-linen-bermuda.webp",
    "cur": "GEL"
   },
   {
@@ -620,7 +620,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/ac9f/ca93/d7914cbda3a6/e3cc9a42c236/04087315428-p/04087315428-p.jpg?ts=1785927109241&w=750",
+   "img": "https://static.zara.net/assets/public/0661/f4aa/a2bc41ebb4a3/9eba99607f84/04087315428-e1/04087315428-e1.jpg?ts=1783592893039&w=750",
    "cur": "GEL"
   },
   {
@@ -656,7 +656,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 97% cotton, 3% elastane",
-   "img": "https://static.zara.net/assets/public/7586/2ae3/e5ea4345b00c/50c6b5633e55/04092401251-p/04092401251-p.jpg?ts=1785840334242&w=750",
+   "img": "https://static.zara.net/assets/public/ae8a/fa98/78d44e81a517/e48b34d4f749/04092401251-e1/04092401251-e1.jpg?ts=1785755533090&w=750",
    "cur": "GEL"
   },
   {
@@ -694,7 +694,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton, 98% cotton, 2% elastane",
-   "img": "https://static.zara.net/assets/public/22ad/f93b/30c24df6bfeb/87c1e77b23f1/00526410251-p/00526410251-p.jpg?ts=1785853849369&w=750",
+   "img": "https://static.zara.net/assets/public/631b/787b/f13f44d499b9/bc095d8148a0/00526410251-e1/00526410251-e1.jpg?ts=1783938905200&w=750",
    "cur": "GEL"
   },
   {
@@ -730,7 +730,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/846e/c41c/2af14635b354/3b1918a6f867/00761522250-p/00761522250-p.jpg?ts=1789636506644&w=750",
+   "img": "assets/cat/cz-heavy-tee.webp",
    "cur": "GEL"
   },
   {
@@ -766,7 +766,7 @@
    ],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/84dd/c72d/37dc45fc9cf1/6a5aa0a847ff/00909201401-o8/00909201401-o8.jpg?ts=1773142892531&w=750",
+   "img": "assets/cat/md-tee.webp",
    "cur": "GEL"
   },
   {
@@ -806,7 +806,7 @@
    ],
    "need_size": true,
    "comp": "100% goat leather; 100% rubber; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/f860/38d3/4f1042bda3d7/070947238b1d/12921750407-r/12921750407-r.jpg?ts=1778744545717&w=750",
+   "img": "https://static.massimodutti.net/assets/public/2c5f/5ce7/0fb9449baa2c/d0fcb81d07e9/12921750407-o1/12921750407-o1.jpg?ts=1779450481674&w=750",
    "cur": "GEL"
   },
   {
@@ -860,7 +860,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather; 100% sheep leather; 100% rubber; 100% sheep leather",
-   "img": "https://static.massimodutti.net/assets/public/404f/d8f6/00a0455c848b/fb78f31468b1/12904750407-o14/12904750407-o14.jpg?ts=1772527644637&w=750",
+   "img": "https://static.massimodutti.net/assets/public/1e04/ae3f/5dc94e9ab809/4d5ba7422ede/12904750407-o1/12904750407-o1.jpg?ts=1773312567034&w=750",
    "cur": "GEL"
   },
   {
@@ -898,7 +898,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather; 100% cow leather; 100% rubber; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/3b24/3869/7e374bf68a2b/d3cb272436b3/12936750713-o5/12936750713-o5.jpg?ts=1777908007418&w=750",
+   "img": "https://static.massimodutti.net/assets/public/50a9/7de2/f04c4b80b5ad/b19adee0ed44/12936750713-o1/12936750713-o1.jpg?ts=1777908007219&w=750",
    "cur": "GEL"
   },
   {
@@ -939,7 +939,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 60% jute, 40% polyurethane",
-   "img": "https://static.zara.net/assets/public/6d6c/02cc/cd6346f28882/ac31f2c09501/12760720107-a2/12760720107-a2.jpg?ts=1778244533626&w=750",
+   "img": "https://static.zara.net/assets/public/2b28/cb26/67cd4318b8eb/61972f537d7b/12760720107-e1/12760720107-e1.jpg?ts=1783519946090&w=750",
    "cur": "GEL"
   },
   {
@@ -982,7 +982,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester",
-   "img": "https://static.zara.net/assets/public/559a/d780/da4f4ae8964b/f56242b38175/12738720721-a2/12738720721-a2.jpg?ts=1779877710760&w=750",
+   "img": "https://static.zara.net/assets/public/56ee/eb0d/449a4fee81ce/f653f50eb94b/12738720721-e1/12738720721-e1.jpg?ts=1783519943993&w=750",
    "cur": "GEL"
   },
   {
@@ -1018,7 +1018,7 @@
    ],
    "need_size": true,
    "comp": "100% polyamide; 100% polyester",
-   "img": "https://static.massimodutti.net/assets/public/0ead/2172/e27a409cb4d3/5d20a969dc56/00689188401-o6/00689188401-o6.jpg?ts=1779805572062&w=750",
+   "img": "https://static.massimodutti.net/assets/public/019d/66db/bea84c0dbd20/73f5a7c551f1/00689188401-o1/00689188401-o1.jpg?ts=1779891679137&w=750",
    "cur": "GEL"
   },
   {
@@ -1051,7 +1051,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% polyester; Lining: 100% polyester",
-   "img": "https://static.zara.net/assets/public/f021/1cf1/1a40456682ea/bc68a59e2abe/00495317401-a1/00495317401-a1.jpg?ts=1785855378304&w=750",
+   "img": "https://static.zara.net/assets/public/869d/ee65/7ad045e58735/bf0fb5aa233f/00495317401-e1/00495317401-e1.jpg?ts=1784194330757&w=750",
    "cur": "GEL"
   },
   {
@@ -1086,7 +1086,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/ff22/7ac4/eaa8468987ca/67f2d5d0b8a2/02745305700-o5/02745305700-o5.jpg?ts=1781247782628&w=750",
+   "img": "https://static.massimodutti.net/assets/public/b016/1bf3/6abd40158988/b7ea4ac0959c/02745305700-o1/02745305700-o1.jpg?ts=1781247783255&w=750",
    "cur": "GEL"
   },
   {
@@ -1121,7 +1121,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/7214/f785/37f44e94825e/56e93733ce3d/02533310800-c/02533310800-c.png?ts=1769500863864&w=750",
+   "img": "https://static.massimodutti.net/assets/public/20d5/f6ca/aa924dd1b9b6/6f90095251cd/02533310800-o1/02533310800-o1.jpg?ts=1774351811894&w=750",
    "cur": "GEL"
   },
   {
@@ -1152,7 +1152,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
-   "img": "https://static.zara.net/assets/public/13c4/c592/af724f4a9cbc/0dbfe477c45a/02823312700-a1/02823312700-a1.jpg?ts=1791548329514&w=750",
+   "img": "https://static.zara.net/assets/public/3027/d476/14f54b45b808/1202f9cb3ba8/02823312700-e1/02823312700-e1.jpg?ts=1790759506962&w=750",
    "cur": "GEL"
   },
   {
@@ -1183,7 +1183,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 55% polyester, 45% elastodiene, 100% cow leather",
-   "img": "https://static.zara.net/assets/public/2052/6fc2/0a274ce2bcaf/c0b53d30a0a2/02823301711-a1/02823301711-a1.jpg?ts=1780564515567&w=750",
+   "img": "https://static.zara.net/assets/public/e095/cb94/fab4478faed0/ecbf0232a492/02823301711-e1/02823301711-e1.jpg?ts=1784530636458&w=750",
    "cur": "GEL"
   },
   {
@@ -1235,7 +1235,7 @@
    ],
    "need_size": true,
    "comp": "100% sheep leather; 77% polyester; 23% cotton",
-   "img": "https://static.massimodutti.net/assets/public/bef2/1320/373843f2b932/ce898d7101a0/03452471800-o3/03452471800-o3.jpg?ts=1787748356101&w=750",
+   "img": "assets/cat/md-nappa-bomber.webp",
    "cur": "GEL"
   },
   {
@@ -1747,7 +1747,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/9daa/edee/fb254c298782/85b2f6720cdf/02746305800-r/02746305800-r.jpg?ts=1785762337192&w=750",
+   "img": "https://static.massimodutti.net/assets/public/524d/1ad9/9d694b1184df/2cf2517be310/02746305800-o1/02746305800-o1.jpg?ts=1785762338748&w=750",
    "cur": "GEL"
   },
   {
@@ -1784,7 +1784,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/efe3/409a/36764e689737/1d44cf357626/02320305800-r/02320305800-r.jpg?ts=1749713196394&w=750",
+   "img": "https://static.massimodutti.net/assets/public/6ac8/c74b/0e8d4655b9c8/bfa2bbbc85fa/02320305800-o1/02320305800-o1.jpg?ts=1751534866867&w=750",
    "cur": "GEL"
   },
   {
@@ -1821,7 +1821,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/166e/7b97/5616473caa51/116d0d37e48e/02732305800-r/02732305800-r.jpg?ts=1785762338448&w=750",
+   "img": "https://static.massimodutti.net/assets/public/7566/5b0e/9a294ae1ad9f/5e035698b9df/02732305800-o1/02732305800-o1.jpg?ts=1785762338941&w=750",
    "cur": "GEL"
   },
   {
@@ -1855,7 +1855,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 52% polyamide, 48% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
-   "img": "https://static.zara.net/assets/public/e321/43d9/d43c4c07b874/ef43ab70427e/05854400807-p/05854400807-p.jpg?ts=1790752597976&w=750",
+   "img": "assets/items/z-trench.webp",
    "cur": "GEL"
   },
   {
@@ -1895,7 +1895,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 90% polyester, 10% elastane; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 90% polyester, 10% elastane",
-   "img": "https://static.zara.net/assets/public/b3f2/c248/596b4971ac1f/28b2b89efee8/12220820802-a2/12220820802-a2.jpg?ts=1788523675846&w=750",
+   "img": "assets/items/z-retro.webp",
    "cur": "GEL"
   },
   {
@@ -1926,7 +1926,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/491a/594f/efae409ebd54/2111cae3f0c0/05536312400-p/05536312400-p.jpg?ts=1792672302126&w=750",
+   "img": "assets/items/z-knit-blue.webp",
    "cur": "GEL"
   },
   {
@@ -1960,7 +1960,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
-   "img": "https://static.zara.net/assets/public/6d60/1d52/c58c4009a3f7/428bc9b1c8d1/00526334431-p/00526334431-p.jpg?ts=1788351070220&w=750",
+   "img": "assets/items/z-track.webp",
    "cur": "GEL"
   },
   {
@@ -1986,7 +1986,7 @@
    ],
    "need_size": false,
    "comp": "Outer Shell: 70% cotton, 30% polyamide; Lining: 100% cotton",
-   "img": "https://static.zara.net/assets/public/f2f7/0cbb/179040ff8d8a/6f2f4c7d1bf5/03920692401-a1/03920692401-a1.jpg?ts=1789373512877&w=750",
+   "img": "assets/items/z-cap.webp",
    "cur": "GEL"
   }
  ],
@@ -2057,7 +2057,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "img": "https://static.zara.net/assets/public/8cb9/8f2b/b0dd4551ae87/eb019e6b8538/12007820700-a2/12007820700-a2.jpg?ts=1793117403945&w=750",
+   "img": "assets/prem/x-meermin-chelsea.webp",
    "cur": "GEL"
   },
   {
@@ -2082,7 +2082,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
-   "img": "https://static.zara.net/assets/public/10d4/ef6c/06b248cb8165/a390249ea18c/06907402800-a1/06907402800-a1.jpg?ts=1763995496776&w=750",
+   "img": "assets/items/belt.webp",
    "cur": "GEL"
   },
   {
@@ -2107,7 +2107,7 @@
    ],
    "need_size": false,
    "comp": "Outer Shell: 90% wool, 10% cashmere",
-   "img": "https://static.zara.net/assets/public/72af/e595/a48e4cf18cec/3cf564f365ef/02142327422-e1/02142327422-e1.jpg?ts=1790767314371&w=750",
+   "img": "assets/moodi/d-scarf.webp",
    "cur": "GEL"
   },
   {
@@ -2148,7 +2148,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
-   "img": "https://static.zara.net/assets/public/c11c/1f77/c9a34671bdae/e5a524960f43/12678720022-a2/12678720022-a2.jpg?ts=1788968719747&w=750",
+   "img": "assets/prem/x-meermin-loafer-black.webp",
    "cur": "GEL"
   },
   {
@@ -2190,7 +2190,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 75% polyester, 25% polyurethane; Sole: 100% polyurethane; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
-   "img": "https://static.zara.net/assets/public/47a9/20a3/fd9a40509c85/c86bf44cd5f2/12227720001-a2/12227720001-a2.jpg?ts=1775057074308&w=750",
+   "img": "assets/prem/x-oc-low1.webp",
    "cur": "GEL"
   },
   {
@@ -2220,7 +2220,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/bbbc/0cf7/21c74a33b883/ae60a4f237cb/03332310401-p/03332310401-p.jpg?ts=1788763982956&w=750",
+   "img": "assets/items/halfzip.webp",
    "cur": "GEL"
   },
   {
@@ -2250,7 +2250,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/e2f2/e82c/6d904c1ca8bf/742bff738370/02893367916-p/02893367916-p.jpg?ts=1787666366452&w=750",
+   "img": "assets/items/jumper-green.webp",
    "cur": "GEL"
   },
   {
@@ -2280,7 +2280,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/31fe/ca32/4fca4cf99292/d1ae749a5226/02893216251-p/02893216251-p.jpg?ts=1792140112798&w=750",
+   "img": "assets/cat/cz-rollneck-white.webp",
    "cur": "GEL"
   },
   {
@@ -2312,7 +2312,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/8191/5026/f5cd4c1292ce/3414f38876bb/01168210737-o3/01168210737-o3.jpg?ts=1782995893610&w=750",
+   "img": "assets/cat/md-merino-polo.webp",
    "cur": "GEL"
   },
   {
@@ -2355,7 +2355,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 55% cow leather, 45% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% cow leather; Tongue: 100% cow leather",
-   "img": "https://static.zara.net/assets/public/8388/a62c/80ad45b9a73b/3a5e4050a029/12407820700-a2/12407820700-a2.jpg?ts=1779272187806&w=750",
+   "img": "assets/cat/cz-derby.webp",
    "cur": "GEL"
   },
   {
@@ -2385,7 +2385,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% pig leather; Lining: 65% polyester, 35% cotton, 100% polyester",
-   "img": "https://static.zara.net/assets/public/42bf/a569/237d4efc9989/8c0b4b6baab2/08281333422-p/08281333422-p.jpg?ts=1788426777179&w=750",
+   "img": "assets/moodi/c-suede.webp",
    "cur": "GEL"
   },
   {
@@ -2427,7 +2427,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% rubber; Insole: 86% polyamide, 14% elastane",
-   "img": "https://static.zara.net/assets/public/1c33/c889/2dba4aad9160/6654753fa8ba/12629820511-a2/12629820511-a2.jpg?ts=1788763894638&w=750",
+   "img": "assets/prem/x-meermin-loafer-suede.webp",
    "cur": "GEL"
   },
   {
@@ -2464,7 +2464,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/6952/f335/0cd342ac9312/345b64b6e8c5/00840300506-p/00840300506-p.jpg?ts=1785748799624&w=750",
+   "img": "assets/cat/cz-bermuda.webp",
    "cur": "GEL"
   },
   {
@@ -2747,7 +2747,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/bbfe/3a18/1e0a487f9711/f4360e9feb5c/01007778250-060-e1/01007778250-060-e1.jpg?ts=1789395608083&w=750",
+   "img": "assets/moodi/z-white-shirt.webp",
    "cur": "GEL"
   },
   {
@@ -2824,7 +2824,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/4b6f/6579/21514eaf9c18/39d75fcb31f4/05588409800-060-e1/05588409800-060-e1.jpg?ts=1789396750796&w=750",
+   "img": "assets/moodi/z-black-shirt.webp",
    "cur": "GEL"
   },
   {
@@ -3022,7 +3022,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
-   "img": "https://static.zara.net/assets/public/050f/6129/dbf2464da6ab/b59650e3fb9e/06446765422-p/06446765422-p.jpg?ts=1792574029837&w=750",
+   "img": "assets/moodi/c-coat.webp",
    "cur": "GEL"
   },
   {
@@ -3051,7 +3051,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 70% cotton, 30% wool",
-   "img": "https://static.zara.net/assets/public/9d12/9658/46894d97a9d5/5690cbd38278/09598333401-p/09598333401-p.jpg?ts=1792069780246&w=750",
+   "img": "assets/moodi/c-cable.webp",
    "cur": "GEL"
   },
   {
@@ -3085,7 +3085,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/3b6d/f4b3/495e4ba9bb0a/006862b3b8a0/05359360822-p/05359360822-p.jpg?ts=1791962760015&w=750",
+   "img": "assets/moodi/c-jeans.webp",
    "cur": "GEL"
   },
   {
@@ -3123,7 +3123,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "img": "https://static.zara.net/assets/public/71bc/c8c9/d3aa48e69144/d0e386943a9c/12016821800-a1/12016821800-a1.jpg?ts=1789373528582&w=750",
+   "img": "assets/moodi/c-boots.webp",
    "cur": "GEL"
   },
   {
@@ -3148,7 +3148,7 @@
    ],
    "need_size": false,
    "comp": "Outer Shell: 100% cow leather; Lining: 100% polyester",
-   "img": "https://static.zara.net/assets/public/e088/9ed1/ef91480db0ae/3ba6a1de7a64/13622720800-e1/13622720800-e1.jpg?ts=1784189156112&w=750",
+   "img": "assets/moodi/c-bag.webp",
    "cur": "GEL"
   },
   {
@@ -3181,7 +3181,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
-   "img": "https://static.zara.net/assets/public/e11b/aa61/ac4642b3a25e/6cb4ea4d0960/06441666802-p/06441666802-p.jpg?ts=1789649294114&w=750",
+   "img": "assets/moodi/d-coat.webp",
    "cur": "GEL"
   },
   {
@@ -3214,7 +3214,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 82% viscose, 18% polyamide",
-   "img": "https://static.zara.net/assets/public/a450/adf1/59cb4d92af3f/193ebd44b3a2/00304330251-p/00304330251-p.jpg?ts=1787838695527&w=750",
+   "img": "assets/moodi/d-rollneck.webp",
    "cur": "GEL"
   },
   {
@@ -3244,7 +3244,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/e5e1/19ab/e3fc45999104/31c08159eefd/04216304401-p/04216304401-p.jpg?ts=1788362633577&w=750",
+   "img": "assets/moodi/d-merino.webp",
    "cur": "GEL"
   },
   {
@@ -3275,7 +3275,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/c975/9ab4/79a64d739bb5/389c170432a4/01102554099-p/01102554099-p.jpg?ts=1788331072217&w=750",
+   "img": "assets/moodi/d-pleated.webp",
    "cur": "GEL"
   },
   {
@@ -3310,7 +3310,7 @@
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 60% polyester, 40% polyurethane; Sole: 100% rubber; Insole: 100% polyester; Tongue: 100% cow leather",
-   "img": "https://static.zara.net/assets/public/63c4/3638/794a49f2af26/b3b78183c8ba/12233820001-a2/12233820001-a2.jpg?ts=1791367659890&w=750",
+   "img": "assets/moodi/d-trainers.webp",
    "cur": "GEL"
   },
   {
@@ -3336,7 +3336,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
-   "img": "https://static.zara.net/assets/public/43c3/0e7e/1b29490b85a1/8a4add182dd0/06907411800-a1/06907411800-a1.jpg?ts=1791295350961&w=750",
+   "img": "assets/moodi/d-belt.webp",
    "cur": "GEL"
   },
   {
@@ -3409,7 +3409,7 @@
    ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
-   "img": "https://static.massimodutti.net/assets/public/2bcb/ef0b/570345dcaee1/1bd4fbb4a460/03671571401-o4/03671571401-o4.jpg?ts=1789397529589&w=750",
+   "img": "assets/cat/md-wool-coat.webp",
    "cur": "GEL"
   },
   {
@@ -3448,7 +3448,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 90% wool, 10% cashmere; Lining: 52% viscose, 48% polyester",
-   "img": "https://static.zara.net/assets/public/bc8d/ced2/846e48279792/18f4d814fab5/04517500099-p/04517500099-p.jpg?ts=1788444195144&w=750",
+   "img": "assets/cat/cz-manteco-jacket.webp",
    "cur": "GEL"
   },
   {
@@ -3661,7 +3661,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
-   "img": "https://static.zara.net/assets/public/a608/160b/bdb642c3a304/fd7997a04a16/05388757800-p/05388757800-p.jpg?ts=1788794677547&w=750",
+   "img": "assets/cat/cz-leather.webp",
    "cur": "GEL"
   },
   {
@@ -3775,7 +3775,7 @@
    ],
    "need_size": true,
    "comp": "100% goat leather; 85% viscose; 15% polyester",
-   "img": "https://static.massimodutti.net/assets/public/d767/fc4a/29ce476595b3/b6c48ca8ac04/03447466401-r/03447466401-r.jpg?ts=1788859526828&w=750",
+   "img": "assets/cat/md-suede-bomber.webp",
    "cur": "GEL"
   },
   {
@@ -3825,7 +3825,7 @@
    ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
-   "img": "https://static.massimodutti.net/assets/public/ef9a/7b25/dfa0455aa689/0636ff6ff8bb/02619357462-o2/02619357462-o2.jpg?ts=1787748354856&w=750",
+   "img": "assets/cat/md-wool-bomber.webp",
    "cur": "GEL"
   },
   {
@@ -3870,7 +3870,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/ec22/ffa0/39a442deac44/7ed51ff430bf/02031271401-o8/02031271401-o8.jpg?ts=1793190619242&w=750",
+   "img": "assets/cat/md-wool-overshirt.webp",
    "cur": "GEL"
   },
   {
@@ -4025,7 +4025,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
-   "img": "https://static.zara.net/assets/public/c976/9ca6/737848088f8b/3f2564cf3a36/03411001305-p/03411001305-p.jpg?ts=1789729326703&w=750",
+   "img": "assets/cat/cz-down.webp",
    "cur": "GEL"
   },
   {
@@ -4052,7 +4052,7 @@
    "mine": [],
    "need_size": true,
    "comp": "100% polyester; 100% polyamide; 80% grey duck down, 20% feather",
-   "img": "https://static.massimodutti.net/assets/public/b9c0/1f57/1de44f1faacc/bef0eebd1ea9/03255416401-o3/03255416401-o3.jpg?ts=1787669553783&w=750",
+   "img": "assets/cat/md-parka.webp",
    "cur": "GEL"
   },
   {
@@ -4139,7 +4139,7 @@
    "mine": [],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
-   "img": "https://static.massimodutti.net/assets/public/d08a/8554/93cf470ab1df/3cd7e6ea0efb/02584397462-o4/02584397462-o4.jpg?ts=1782989170761&w=750",
+   "img": "assets/cat/md-cold-blazer.webp",
    "cur": "GEL"
   },
   {
@@ -4176,7 +4176,7 @@
    ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
-   "img": "https://static.massimodutti.net/assets/public/14bf/2c66/27d143b1b6a7/7bd43947bd5b/02852395527-r/02852395527-r.jpg?ts=1792147087837&w=750",
+   "img": "assets/cat/md-hound-blazer.webp",
    "cur": "GEL"
   },
   {
@@ -4274,7 +4274,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 55% viscose, 45% polyester, 100% polyester",
-   "img": "https://static.zara.net/assets/public/8e44/6e1d/be1740168364/3bf436f4e437/04070639801-p/04070639801-p.jpg?ts=1789457007665&w=750",
+   "img": "assets/cat/cz-suit-anth.webp",
    "cur": "GEL"
   },
   {
@@ -4306,7 +4306,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 52% viscose, 48% polyester",
-   "img": "https://static.zara.net/assets/public/56db/c6b7/919a45978299/682f2f193773/01220767800-p/01220767800-p.jpg?ts=1786696285767&w=750",
+   "img": "assets/cat/cz-suit-black.webp",
    "cur": "GEL"
   },
   {
@@ -4339,7 +4339,7 @@
    "mine": [],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
-   "img": "https://static.massimodutti.net/assets/public/2b80/2004/a22f404b8464/f32720124587/03639539401-r/03639539401-r.jpg?ts=1770982640401&w=750",
+   "img": "assets/cat/md-suit-navy.webp",
    "cur": "GEL"
   },
   {
@@ -4352,7 +4352,7 @@
    "group": "site",
    "ok": false,
    "err": "suitsupply.com: цены в разметке страницы нет",
-   "img": "assets/cat/ss-lazio.webp"
+   "img": null
   },
   {
    "id": "uq-merino",
@@ -4398,7 +4398,7 @@
    ],
    "need_size": true,
    "comp": "100% cashmere",
-   "img": "https://static.massimodutti.net/assets/public/11d4/b859/8f0b4d4ca942/5527b320e801/01352215501-r/01352215501-r.jpg?ts=1788170090162&w=750",
+   "img": "assets/cat/md-cash-bottle.webp",
    "cur": "GEL"
   },
   {
@@ -4482,7 +4482,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/34a8/cae5/1b5246a992f4/06bf9ea89822/01416222807-r/01416222807-r.jpg?ts=1790001789222&w=750",
+   "img": "assets/cat/md-cable.webp",
    "cur": "GEL"
   },
   {
@@ -4524,7 +4524,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/3b9b/a900/82494a2985f6/46afd5913d2c/04216306502-p/04216306502-p.jpg?ts=1788362632702&w=750",
+   "img": "assets/cat/cz-knit-polo.webp",
    "cur": "GEL"
   },
   {
@@ -4556,7 +4556,7 @@
    ],
    "need_size": true,
    "comp": "100% cashmere",
-   "img": "https://static.massimodutti.net/assets/public/6972/9055/6e3f4cd5aa55/df50056bc31c/01282215152-o3/01282215152-o3.jpg?ts=1786457191063&w=750",
+   "img": "assets/cat/md-cash-polo.webp",
    "cur": "GEL"
   },
   {
@@ -4697,7 +4697,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/dbf5/bf6b/bc4048c3950f/23ddc9512be1/04216305800-p/04216305800-p.jpg?ts=1788795189941&w=750",
+   "img": "assets/cat/cz-cardigan.webp",
    "cur": "GEL"
   },
   {
@@ -4775,7 +4775,7 @@
    ],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/070b/6167/0f284f47ac57/1467a9c308b7/02103265403-o6/02103265403-o6.jpg?ts=1788877304931&w=750",
+   "img": "assets/cat/md-oxford.webp",
    "cur": "GEL"
   },
   {
@@ -4851,7 +4851,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/0a99/a2d6/216e40009b5a/cfc34ae6e898/04408881250-p/04408881250-p.jpg?ts=1785327466752&w=750",
+   "img": "assets/cat/cz-poplin.webp",
    "cur": "GEL"
   },
   {
@@ -4884,7 +4884,7 @@
    ],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/cdd9/42ae/b088483e8d0e/8c05416b2bcf/02106297250-r/02106297250-r.jpg?ts=1787748354623&w=750",
+   "img": "assets/cat/md-twill.webp",
    "cur": "GEL"
   },
   {
@@ -4917,7 +4917,7 @@
    ],
    "need_size": true,
    "comp": "85% cotton, 15% cashmere",
-   "img": "https://static.massimodutti.net/assets/public/a720/c19b/1be14095baf4/6a1861bade12/02082303390-r/02082303390-r.jpg?ts=1791385397838&w=750",
+   "img": "assets/cat/md-cotton-cash.webp",
    "cur": "GEL"
   },
   {
@@ -4942,7 +4942,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/c44a/1683/5209401eb8a7/d677e198c250/04280163529-p/04280163529-p.jpg?ts=1792656770290&w=750",
+   "img": "assets/cat/cz-flannel.webp",
    "cur": "GEL"
   },
   {
@@ -4975,7 +4975,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/b938/458c/b01748799fea/e900f2c5c970/02114273401-r/02114273401-r.jpg?ts=1793192594391&w=750",
+   "img": "assets/cat/md-wool-shirt.webp",
    "cur": "GEL"
   },
   {
@@ -5008,7 +5008,7 @@
    "mine": [],
    "need_size": true,
    "comp": "",
-   "img": "assets/cat/og-benoit.webp",
+   "img": null,
    "note": "Цена в EUR пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
@@ -5161,7 +5161,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/ef88/e2e6/d65d4339a3b7/aad0436a864f/04274301706-p/04274301706-p.jpg?ts=1787653241477&w=750",
+   "img": "assets/cat/cz-pima-polo.webp",
    "cur": "GEL"
   },
   {
@@ -5189,7 +5189,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/0665/6ab5/5ca44eab8cd9/44e40b5d1f1f/04231342422-p/04231342422-p.jpg?ts=1786101752707&w=750",
+   "img": "assets/cat/cz-pique-navy.webp",
    "cur": "GEL"
   },
   {
@@ -5222,7 +5222,7 @@
    ],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/4990/33d8/fa094e8da46a/9c142e48f83e/00844175401-o1/00844175401-o1.jpg?ts=1782995987204&w=750",
+   "img": "assets/cat/md-ls-polo.webp",
    "cur": "GEL"
   },
   {
@@ -5508,7 +5508,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/5f04/e0a3/b2a744d68486/af7fd23ca627/04071639801-p/04071639801-p.jpg?ts=1789457009708&w=750",
+   "img": "assets/cat/cz-suit-trousers.webp",
    "cur": "GEL"
   },
   {
@@ -5543,7 +5543,7 @@
    ],
    "need_size": true,
    "comp": "100% wool",
-   "img": "https://static.massimodutti.net/assets/public/c799/2764/e25e41e7a372/4f83c43a5d8e/00170010800-r/00170010800-r.jpg?ts=1793016168641&w=750",
+   "img": "assets/cat/md-darts-black.webp",
    "cur": "GEL"
   },
   {
@@ -5603,7 +5603,7 @@
    ],
    "need_size": true,
    "comp": "98% cotton, 2% elastane; 100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/a0f5/d0cd/da554ffcad1b/380dd67abdd8/00185011802-r/00185011802-r.jpg?ts=1787915356321&w=750",
+   "img": "assets/cat/md-cord.webp",
    "cur": "GEL"
   },
   {
@@ -5682,7 +5682,7 @@
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
-   "img": "https://static.zara.net/assets/public/185e/48a2/e62042e2851e/a98aafc61fd9/03991344485-p/03991344485-p.jpg?ts=1787666383689&w=750",
+   "img": "assets/cat/cz-selvedge.webp",
    "cur": "GEL"
   },
   {
@@ -5713,7 +5713,7 @@
    "mine": [],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/6e37/6922/13a749b8b5d8/34abc513b1dd/00502122427-t/00502122427-t.jpg?ts=1787669548607&w=750",
+   "img": "assets/cat/md-relaxed-jeans.webp",
    "cur": "GEL"
   },
   {
@@ -5743,7 +5743,7 @@
    "mine": [],
    "need_size": true,
    "comp": "100% cotton",
-   "img": "https://static.massimodutti.net/assets/public/e0e4/b49a/a16b40c39eba/982d7afa8505/00504145405-o8/00504145405-o8.jpg?ts=1789655617896&w=750",
+   "img": "assets/cat/md-selvedge.webp",
    "cur": "GEL"
   },
   {
@@ -5891,7 +5891,7 @@
    ],
    "need_size": true,
    "comp": "100% linen; 65% polyester, 35% cotton",
-   "img": "https://static.massimodutti.net/assets/public/90a9/e678/361849e495f8/f4d680929de5/00197006711-o7/00197006711-o7.jpg?ts=1774256088623&w=750",
+   "img": "assets/cat/md-linen-bermuda.webp",
    "cur": "GEL"
   },
   {
@@ -6005,7 +6005,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather; 100% cow leather; 100% rubber; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/f61f/56dd/a85c449bb4ab/d9ed1e4cddee/12400850700-o4/12400850700-o4.jpg?ts=1783943945171&w=750",
+   "img": "assets/cat/md-suede-loafer.webp",
    "cur": "GEL"
   },
   {
@@ -6044,7 +6044,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather; 90% cow leather, 10% polyester; 100% polyurethane thermoplastic; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/bee6/921c/02044dac83c9/0010d011287c/12522850800-r/12522850800-r.jpg?ts=1790242092771&w=750",
+   "img": "assets/cat/md-leather-loafer.webp",
    "cur": "GEL"
   },
   {
@@ -6209,7 +6209,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather; 85% cow leather, 15% polyester; 52% polyurethane thermoplastic, 48% cow leather; 100% cow leather; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/2386/163a/347640c5b347/bfc7e31e6b5f/12710850700-o15/12710850700-o15.jpg?ts=1789726895495&w=750",
+   "img": "assets/cat/md-blucher.webp",
    "cur": "GEL"
   },
   {
@@ -6337,7 +6337,7 @@
    ],
    "need_size": true,
    "comp": "80% cow leather, 10% elastodiene, 10% polyester; 90% cow leather, 10% polyester; 100% polyurethane thermoplastic; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/779e/280f/2d5547e29e98/bfce9f85ea2c/12010850700-o4/12010850700-o4.jpg?ts=1786094326314&w=750",
+   "img": "assets/cat/md-chelsea.webp",
    "cur": "GEL"
   },
   {
@@ -6396,7 +6396,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather; 80% cow leather, 20% polyester; 100% rubber; 100% cow leather; 100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/74a6/4c6a/5445481e8cd8/96aceb29fa30/12018850732-o10/12018850732-o10.jpg?ts=1789724255196&w=750",
+   "img": "assets/cat/md-suede-boot.webp",
    "cur": "GEL"
   },
   {
@@ -6746,7 +6746,7 @@
    ],
    "need_size": false,
    "comp": "Outer Shell: 100% pig leather; Lining: 100% polyester",
-   "img": "https://static.zara.net/assets/public/de1c/2e8b/ea4347529766/fb52a1372d88/13723820700-e1/13723820700-e1.jpg?ts=1784544844560&w=750",
+   "img": "assets/cat/cz-laptop.webp",
    "cur": "GEL"
   },
   {
@@ -6767,7 +6767,7 @@
    "mine": [],
    "need_size": false,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/3204/5cb7/fe844855bd22/b02b51307943/02757310800-o4/02757310800-o4.jpg?ts=1782374887139&w=750",
+   "img": "assets/cat/md-tote.webp",
    "cur": "GEL"
   },
   {
@@ -6849,7 +6849,7 @@
    ],
    "need_size": true,
    "comp": "100% cow leather",
-   "img": "https://static.massimodutti.net/assets/public/9daa/edee/fb254c298782/85b2f6720cdf/02746305800-r/02746305800-r.jpg?ts=1785762337192&w=750",
+   "img": "assets/cat/md-belt.webp",
    "cur": "GEL"
   },
   {
@@ -7801,7 +7801,7 @@
    ],
    "need_size": false,
    "comp": "Outer Shell: 100% wool",
-   "img": "https://static.zara.net/assets/public/55e7/12df/c14a4391b50c/3c960757a61c/01942305600-a1/01942305600-a1.jpg?ts=1791452658919&w=750",
+   "img": "assets/cat/cz-wool-scarf.webp",
    "cur": "GEL"
   },
   {
@@ -7826,7 +7826,7 @@
    ],
    "need_size": false,
    "comp": "90% wool, 10% cashmere",
-   "img": "https://static.massimodutti.net/assets/public/72cd/83f1/29fb4ff88641/486ab8c7de3b/02691330812-o2/02691330812-o2.jpg?ts=1790168696982&w=750",
+   "img": "assets/cat/md-fringe-scarf.webp",
    "cur": "GEL"
   },
   {
@@ -7851,7 +7851,7 @@
    ],
    "need_size": false,
    "comp": "100% cashmere",
-   "img": "https://static.massimodutti.net/assets/public/8f29/92ca/2e184c718168/68018c32e62e/02692330807-o1/02692330807-o1.jpg?ts=1787903385503&w=750",
+   "img": "assets/cat/md-cash-scarf.webp",
    "cur": "GEL"
   },
   {
@@ -8008,7 +8008,7 @@
    ],
    "need_size": false,
    "comp": "Outer Shell: 100% silk (mulberry); Lining: 100% silk (mulberry)",
-   "img": "https://static.zara.net/assets/public/385e/3e4b/862141bc843c/34d9d10bc0ed/09569412800-e1/09569412800-e1.jpg?ts=1783947936412&w=750",
+   "img": "assets/cat/cz-tie.webp",
    "cur": "GEL"
   },
   {
@@ -8304,7 +8304,7 @@
    "mine": [],
    "need_size": true,
    "comp": "Upper: 70% polyurethane thermoplastic, 30% polyester; Lining: 85% polyester, 15% elastane; Sole: 100% rubber; Insole: 80% polyester, 20% ethylene vinyl acetate; Tongue: 100% polyurethane",
-   "img": "https://static.zara.net/assets/public/5ff2/3d32/6300472a9bac/fa97991ce447/12382720001-a10/12382720001-a10.jpg?ts=1780991619851&w=750",
+   "img": "assets/care/run-zara.webp",
    "cur": "GEL"
   },
   {
@@ -8405,7 +8405,7 @@
    "family": "WIND-JACKET",
    "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/e8fa/9ed7/79e648fda3be/2b0356c52029/04302370600-p/04302370600-p.jpg?ts=1787304467296&w=750",
+   "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
    "color": "Red",
    "mine": [
     "S"
@@ -8418,7 +8418,7 @@
     {
      "color": "Red",
      "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
-     "img": "https://static.zara.net/assets/public/e8fa/9ed7/79e648fda3be/2b0356c52029/04302370600-p/04302370600-p.jpg?ts=1787304467296&w=750",
+     "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
      "mine": [
       "S"
      ],
@@ -8437,7 +8437,7 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 100% cotton",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/83f7/a3e2/61e547838e27/f9601fa7bab1/02621311833-p/02621311833-p.jpg?ts=1785321541449&w=750",
+   "img": "https://static.zara.net/assets/public/3494/085f/78704c41bfb2/e721ea2c61d8/02621311833-e1/02621311833-e1.jpg?ts=1785249611088&w=750",
    "color": "Faded black",
    "mine": [
     "M"
@@ -8450,7 +8450,7 @@
     {
      "color": "Faded black",
      "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
-     "img": "https://static.zara.net/assets/public/83f7/a3e2/61e547838e27/f9601fa7bab1/02621311833-p/02621311833-p.jpg?ts=1785321541449&w=750",
+     "img": "https://static.zara.net/assets/public/3494/085f/78704c41bfb2/e721ea2c61d8/02621311833-e1/02621311833-e1.jpg?ts=1785249611088&w=750",
      "mine": [
       "M"
      ],
@@ -8471,7 +8471,7 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 100% cotton",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/a3a2/c1fb/d8cd4a7fbe93/dc3e9edc5e61/09598454818-p/09598454818-p.jpg?ts=1787065786392&w=750",
+   "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
    "color": "Charcoal grey",
    "mine": [],
    "size_class": "top",
@@ -8482,14 +8482,14 @@
     {
      "color": "Charcoal grey",
      "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
-     "img": "https://static.zara.net/assets/public/a3a2/c1fb/d8cd4a7fbe93/dc3e9edc5e61/09598454818-p/09598454818-p.jpg?ts=1787065786392&w=750",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
      "mine": [],
      "price": 99.0
     },
     {
      "color": "Charcoal grey",
      "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
-     "img": "https://static.zara.net/assets/public/a3a2/c1fb/d8cd4a7fbe93/dc3e9edc5e61/09598454818-p/09598454818-p.jpg?ts=1787065786392&w=750",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
      "mine": [],
      "price": 99.0
     }

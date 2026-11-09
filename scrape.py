@@ -148,10 +148,13 @@ def zara_color(prod, url, hint=None):
 
 
 def zara_img(c):
+    """Фото самой вещи без модели: плоское фото -e1 (для обуви и аксессуаров первый кадр — это и есть вещь)."""
     try:
         xs = c["xmedia"]
-        x = next((m for m in xs if m.get("type") == "image" and ".jpg" in (m.get("url") or "")), xs[0])
-        return x["url"].replace("{width}", "750")
+        urls = [m.get("url") or next((l.get("url") for l in m.get("layers", []) if l.get("url")), None) for m in xs if m.get("type") == "image"]
+        urls = [u for u in urls if u and ".jpg" in u]
+        flat = next((u for u in urls if "-e1" in u), None)
+        return (flat or urls[0]).replace("{width}", "750")
     except Exception:
         return None
 
@@ -304,7 +307,11 @@ def md_items(ws):
         try:
             xms = det.get("xmedia") or []
             xm = next((x for x in xms if str(x.get("colorCode")) == str(c.get("id"))), xms[0])
-            img = xm["xmediaItems"][0]["medias"][0]["url"] + "&w=750"
+            medias = [m for it in xm["xmediaItems"] for m in it.get("medias", [])]
+            flat = next((m for m in medias if (m.get("extraInfo") or {}).get("originalName") == "o1"), None)  # o1 — вещь без модели
+            md = flat or medias[0]
+            img = (md.get("extraInfo", {}).get("deliveryUrl") or md.get("url") or "")
+            img = img + ("&" if "?" in img else "?") + "w=750"
         except Exception:
             pass
         res[w["id"]] = {"ok": True, "price": price, "old": old, "color": c.get("name"), "sizes_all": [s.get("name") for s in sz],
@@ -543,8 +550,9 @@ def main():
         else:
             r = {"ok": False, "err": w.get("why_untracked", "не отслеживается")}
         plan.append({**{k: w.get(k) for k in ("id", "name", "wave", "store", "url", "plan_price", "size", "group", "alt_of", "alt_label") if w.get(k) is not None or k in ("id", "name", "store", "url")}, **r,
-                     # у Zara и MD — живое фото нужного цвета; у остальных — фото с сайта (без фона), если есть
-                     "img": (r.get("img") or w.get("img")) if w["store"] in ("zara", "md") else (w.get("img") or r.get("img"))})
+                     # сначала наше готовое фото вещи (вырезанное, без модели), если оно есть на сайте;
+                     # иначе — фото вещи без модели из магазина
+                     "img": w.get("img") if (w.get("img") or "").startswith("assets/") else (r.get("img") or w.get("img"))})
         log(("✓" if r.get("ok") else "·"), w["id"], r.get("price"), r.get("old") or "", ("размер: " + ",".join(r.get("mine", []))) if r.get("ok") else r.get("err"))
 
     # 2) уценки Zara
