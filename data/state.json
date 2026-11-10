@@ -3,29 +3,30 @@
   "w1-jeans": {
    "price": 129.0,
    "mine": [
-    "38",
-    "40"
+    "38"
    ]
   },
   "w1-oxford": {
    "price": 109.0,
    "mine": [
-    "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w4-oxford": {
    "price": 109.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-merino": {
    "price": 230.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w1-tee": {
@@ -45,7 +46,8 @@
   "w4-blazer": {
    "price": 429.0,
    "mine": [
-    "48"
+    "50",
+    "52"
    ]
   },
   "w4-trousers": {
@@ -66,34 +68,37 @@
    "price": 219.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-linen-white": {
    "price": 129.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-linen-blue": {
    "price": 129.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-linen-navy": {
    "price": 219.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-linen-tr-navy": {
    "price": 219.0,
    "mine": [
-    "S",
     "M"
    ]
   },
@@ -106,7 +111,6 @@
   "w5-bermuda-navy": {
    "price": 129.0,
    "mine": [
-    "S",
     "M"
    ]
   },
@@ -114,14 +118,16 @@
    "price": 79.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-tee-navy": {
    "price": 180.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "p-scarf": {
@@ -625,7 +631,7 @@
    "old": null
   },
   "allsaints-cora-suede": {
-   "price": 519,
+   "price": 507,
    "old": null
   },
   "alpha-m65": {
@@ -684,21 +690,24 @@
    "price": 109.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-polo-white~2": {
    "price": 109.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-polo-white~3": {
    "price": 99.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-sandals~1": {
@@ -719,6 +728,7 @@
   "w5-sandals~3": {
    "price": 470.0,
    "mine": [
+    "42",
     "43"
    ]
   },
@@ -740,13 +750,15 @@
    "price": 190.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-swim~2": {
    "price": 109.0,
    "mine": [
-    "M"
+    "M",
+    "L"
    ]
   },
   "w5-belt-woven~1": {
@@ -781,7 +793,8 @@
    "price": 1400.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "p-watch": {
@@ -892,7 +905,8 @@
    "price": 379.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "z-retro": {
@@ -905,14 +919,16 @@
   "z-knit-blue": {
    "price": 159.0,
    "mine": [
-    "M"
+    "M",
+    "L"
    ]
   },
   "z-track": {
    "price": 179.0,
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ]
   },
   "z-cap": {
@@ -920,6 +936,352 @@
    "mine": [
     "M"
    ]
+  },
+  "w1-jeans~alt": {
+   "price": 369,
+   "mine": []
+  },
+  "w5-merino~alt": {
+   "price": 299,
+   "mine": []
+  },
+  "z-retro~alt": {
+   "price": 279,
+   "mine": []
+  },
+  "w4-trousers~alt": {
+   "price": 299.0,
+   "mine": [
+    "38"
+   ]
+  },
+  "z-knit-blue~alt": {
+   "price": 249,
+   "mine": []
+  },
+  "w5-polo-white~alt": {
+   "price": 299,
+   "mine": []
+  },
+  "w5-sandals~alt": {
+   "price": 544,
+   "mine": []
+  },
+  "sp00": {
+   "price": 460,
+   "old": null
+  },
+  "sp01": {
+   "price": 769,
+   "old": null
+  },
+  "sp02": {
+   "price": 219.0,
+   "old": null
+  },
+  "sp03": {
+   "price": 179.0,
+   "old": null
+  },
+  "sp04": {
+   "price": 649,
+   "old": null
+  },
+  "sp05": {
+   "price": 179.0,
+   "old": null
+  },
+  "sp06": {
+   "price": 179.0,
+   "old": null
+  },
+  "sp07": {
+   "price": 810,
+   "old": null
+  },
+  "sp08": {
+   "price": 428,
+   "old": null
+  },
+  "sp09": {
+   "price": 179.0,
+   "old": null
+  },
+  "sp10": {
+   "price": 159.0,
+   "old": null
+  },
+  "sp11": {
+   "price": 578,
+   "old": null
+  },
+  "sp12": {
+   "price": 864,
+   "old": null
+  },
+  "sp14": {
+   "price": 969,
+   "old": null
+  },
+  "sp15": {
+   "price": 969,
+   "old": null
+  },
+  "sp16": {
+   "price": 129.0,
+   "old": null
+  },
+  "sp17": {
+   "price": 849,
+   "old": null
+  },
+  "sp18": {
+   "price": 129.0,
+   "old": null
+  },
+  "sp19": {
+   "price": 109.0,
+   "old": null
+  },
+  "sp20": {
+   "price": 396,
+   "old": null
+  },
+  "sp21": {
+   "price": 499,
+   "old": null
+  },
+  "sp22": {
+   "price": 109.0,
+   "old": null
+  },
+  "sp23": {
+   "price": 265,
+   "old": null
+  },
+  "sp24": {
+   "price": 428,
+   "old": null
+  },
+  "sp25": {
+   "price": 179.0,
+   "old": null
+  },
+  "sp26": {
+   "price": 129.0,
+   "old": null
+  },
+  "sp27": {
+   "price": 1055,
+   "old": null
+  },
+  "sp28": {
+   "price": 428,
+   "old": null
+  },
+  "sp29": {
+   "price": 129.0,
+   "old": null
+  },
+  "sp30": {
+   "price": 129.0,
+   "old": null
+  },
+  "sp31": {
+   "price": 428,
+   "old": null
+  },
+  "sp32": {
+   "price": 109.0,
+   "old": null
+  },
+  "sp33": {
+   "price": 460,
+   "old": null
+  },
+  "sp34": {
+   "price": 396,
+   "old": null
+  },
+  "sp35": {
+   "price": 179.0,
+   "old": null
+  },
+  "sp37": {
+   "price": 297,
+   "old": null
+  },
+  "sp38": {
+   "price": 109.0,
+   "old": null
+  },
+  "sp39": {
+   "price": 244,
+   "old": null
+  },
+  "sp40": {
+   "price": 333,
+   "old": null
+  },
+  "sp42": {
+   "price": 119.0,
+   "old": 219.0
+  },
+  "sp43": {
+   "price": 249,
+   "old": null
+  },
+  "sp46": {
+   "price": 149.0,
+   "old": null
+  },
+  "sp47": {
+   "price": 149.0,
+   "old": null
+  },
+  "sp48": {
+   "price": 69.0,
+   "old": null
+  },
+  "sp49": {
+   "price": 130,
+   "old": null
+  },
+  "sp50": {
+   "price": 159,
+   "old": null
+  },
+  "sp51": {
+   "price": 99.0,
+   "old": null
+  },
+  "sp52": {
+   "price": 99.0,
+   "old": null
+  },
+  "sp53": {
+   "price": 549,
+   "old": null
+  },
+  "sp54": {
+   "price": 539,
+   "old": null
+  },
+  "sp55": {
+   "price": 589,
+   "old": null
+  },
+  "sp56": {
+   "price": 219.0,
+   "old": null
+  },
+  "sp57": {
+   "price": 606,
+   "old": null
+  },
+  "sp58": {
+   "price": 565,
+   "old": null
+  },
+  "sp59": {
+   "price": 1004,
+   "old": null
+  },
+  "sp60": {
+   "price": 460,
+   "old": null
+  },
+  "sp61": {
+   "price": 492,
+   "old": null
+  },
+  "sp62": {
+   "price": 492,
+   "old": null
+  },
+  "sp63": {
+   "price": 449,
+   "old": null
+  },
+  "sp64": {
+   "price": 399,
+   "old": null
+  },
+  "sp66": {
+   "price": 249,
+   "old": null
+  },
+  "sp67": {
+   "price": 579,
+   "old": null
+  },
+  "sp68": {
+   "price": 229,
+   "old": null
+  },
+  "sp69": {
+   "price": 399,
+   "old": null
+  },
+  "sp70": {
+   "price": 249,
+   "old": null
+  },
+  "sp71": {
+   "price": 99.0,
+   "old": null
+  },
+  "sp72": {
+   "price": 129.0,
+   "old": null
+  },
+  "sp73": {
+   "price": 769,
+   "old": null
+  },
+  "sp74": {
+   "price": 492,
+   "old": null
+  },
+  "sp75": {
+   "price": 492,
+   "old": null
+  },
+  "sp76": {
+   "price": 969,
+   "old": null
+  },
+  "sp77": {
+   "price": 587,
+   "old": null
+  },
+  "sp79": {
+   "price": 627,
+   "old": null
+  },
+  "sp82": {
+   "price": 399,
+   "old": null
+  },
+  "sp83": {
+   "price": 238,
+   "old": null
+  },
+  "sp84": {
+   "price": 265,
+   "old": null
+  },
+  "sp85": {
+   "price": 523,
+   "old": null
+  },
+  "sp86": {
+   "price": 159.0,
+   "old": null
+  },
+  "sp87": {
+   "price": 359,
+   "old": null
   }
  },
  "md_seen": {
@@ -927,28 +1289,28 @@
    "checked": "2026-11-09"
   },
   "583773029": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "583773028": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "569460886": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "565424837": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "555071602": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "555071601": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "555071598": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "549809130": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "549169926": {
    "checked": "2026-11-07",
@@ -956,7 +1318,7 @@
    "told_price": 159.0
   },
   "549169925": {
-   "checked": "2026-11-09",
+   "checked": "2026-11-10",
    "told": "2026-11-05",
    "told_price": 159.0
   },
@@ -966,34 +1328,36 @@
    "told_price": 159.0
   },
   "545465619": {
-   "checked": "2026-11-05"
+   "checked": "2026-11-10",
+   "told": "2026-11-10",
+   "told_price": 99.0
   },
   "583773005": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "583773006": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "583773004": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "555080411": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "545456761": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "545422634": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "545409746": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "557175080": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "565424841": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10"
   },
   "555354849": {
    "checked": "2026-11-05"
@@ -1007,17 +1371,17 @@
    "checked": "2026-11-05"
   },
   "545422945": {
-   "checked": "2026-11-05",
+   "checked": "2026-11-10",
    "told": "2026-11-05",
    "told_price": 99.0
   },
   "555354850": {
-   "checked": "2026-11-05",
+   "checked": "2026-11-10",
    "told": "2026-11-05",
    "told_price": 99.0
   },
   "555071600": {
-   "checked": "2026-11-06"
+   "checked": "2026-11-10"
   },
   "545422944": {
    "checked": "2026-11-06"
@@ -1029,7 +1393,9 @@
    "checked": "2026-11-08"
   },
   "547145160": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10",
+   "told": "2026-11-10",
+   "told_price": 99.0
   },
   "545490748": {
    "checked": "2026-11-09",
@@ -1037,7 +1403,9 @@
    "told_price": 75.0
   },
   "585541385": {
-   "checked": "2026-11-09"
+   "checked": "2026-11-10",
+   "told": "2026-11-10",
+   "told_price": 99.0
   }
  },
  "first": false

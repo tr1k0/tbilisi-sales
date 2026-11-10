@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T17:37+04:00",
- "sizes": "Размеры: верх M (иногда S), на этикетках Zara 38–42; низ 175 см / талия 78–80 см; обувь 42–43. Пиджак: EU 46–48 — проверить на примерке",
+ "updated": "2026-11-10T17:16+04:00",
+ "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
    "id": "w1-jeans",
@@ -26,12 +26,11 @@
    ],
    "sizes_avail": [
     "38",
-    "40",
+    "42",
     "44"
    ],
    "mine": [
-    "38",
-    "40"
+    "38"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -59,14 +58,13 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -102,7 +100,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -138,7 +137,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool",
@@ -154,32 +154,9 @@
    "plan_price": 69,
    "size": "top",
    "group": "plan",
-   "ok": true,
-   "price": 69.0,
-   "old": null,
-   "color": "Black",
-   "sizes_all": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ],
-   "sizes_avail": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ],
-   "mine": [
-    "S",
-    "M"
-   ],
-   "need_size": true,
-   "comp": "Outer Shell: 100% cotton",
-   "img": "assets/items/tee-black.webp",
-   "cur": "GEL"
+   "ok": false,
+   "err": "Zara: не JSON (вероятно, защита от ботов)",
+   "img": "assets/items/tee-black.webp"
   },
   {
    "id": "w4-cashmere",
@@ -239,7 +216,8 @@
     "54"
    ],
    "mine": [
-    "48"
+    "50",
+    "52"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 55% viscose, 45% polyester",
@@ -344,7 +322,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -407,7 +386,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 55% linen, 45% cotton",
@@ -443,7 +423,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 55% linen, 45% cotton",
@@ -476,7 +457,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 58% linen, 42% lyocell",
@@ -509,7 +491,6 @@
     "XL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -579,7 +560,6 @@
     "XL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -616,7 +596,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -652,7 +633,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 97% cotton, 3% elastane",
@@ -690,7 +672,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton, 98% cotton, 2% elastane",
@@ -726,7 +709,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -762,7 +746,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -889,11 +874,14 @@
    ],
    "sizes_avail": [
     "40",
+    "41",
+    "42",
     "43",
     "44",
     "45"
    ],
    "mine": [
+    "42",
     "43"
    ],
    "need_size": true,
@@ -1014,7 +1002,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% polyamide; 100% polyester",
@@ -1047,7 +1036,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% polyester; Lining: 100% polyester",
@@ -1231,7 +1221,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% sheep leather; 77% polyester; 23% cotton",
@@ -1776,7 +1767,8 @@
     "85",
     "90",
     "95",
-    "100"
+    "100",
+    "105"
    ],
    "mine": [
     "85",
@@ -1851,7 +1843,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 52% polyamide, 48% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
@@ -1922,7 +1915,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -1956,7 +1950,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
@@ -1988,6 +1983,166 @@
    "comp": "Outer Shell: 70% cotton, 30% polyamide; Lining: 100% cotton",
    "img": "assets/items/z-cap.webp",
    "cur": "GEL"
+  },
+  {
+   "id": "w1-jeans~alt",
+   "name": "Levi's: 501 Original",
+   "wave": "b1",
+   "store": "ld",
+   "url": "https://dressup.ge/ka/%E1%83%AF%E1%83%98%E1%83%9C%E1%83%A1%E1%83%98-%E1%83%A0%E1%83%94%E1%83%92%E1%83%A3%E1%83%9A%E1%83%90%E1%83%A0%E1%83%98/903339-7066575-levis-501-levi-soriginal.html",
+   "plan_price": 369,
+   "size": "bottom",
+   "group": "plan",
+   "alt_of": "w1-jeans~alt",
+   "alt_label": "Тёмные прямые джинсы — вариант из пула",
+   "ok": true,
+   "price": 369,
+   "price_foreign": 369.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/pool/a88c54c0f3aa.webp",
+   "note": ""
+  },
+  {
+   "id": "w5-merino~alt",
+   "name": "Gant: Extrafine Merino Wool C-Neck",
+   "wave": "b1",
+   "store": "ld",
+   "url": "https://dressup.ge/ka/%E1%83%A1%E1%83%95%E1%83%98%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98/153839-810942-gant-extrafine-merino-wool-c-neck.html",
+   "plan_price": 299,
+   "size": "top",
+   "group": "plan",
+   "alt_of": "w5-merino~alt",
+   "alt_label": "Тонкий мериносовый джемпер — вариант из пула",
+   "ok": true,
+   "price": 299,
+   "price_foreign": 299.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/pool/3f3e8c7cdbd8.webp",
+   "note": ""
+  },
+  {
+   "id": "z-retro~alt",
+   "name": "Adidas: Gazelle Indoor",
+   "wave": "b2",
+   "store": "ld",
+   "url": "https://adidas.ge/gazelle-indoor-shoes-originals-ji2061",
+   "plan_price": 279,
+   "size": "shoes",
+   "group": "plan",
+   "alt_of": "z-retro~alt",
+   "alt_label": "Тонкие ретро-кеды — вариант из пула",
+   "ok": true,
+   "price": 279,
+   "price_foreign": 279.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": false,
+   "img": "assets/pool/1af01aa458b5.webp",
+   "note": " · нет в наличии"
+  },
+  {
+   "id": "w4-trousers~alt",
+   "name": "Zara: 100% wool Manteco suit trousers",
+   "wave": "b3",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/100-manteco--wool-suit-trousers-p01101638.html?v1=583108689",
+   "plan_price": 299,
+   "size": "bottom",
+   "group": "plan",
+   "alt_of": "w4-trousers~alt",
+   "alt_label": "Шерстяные брюки — вариант из пула",
+   "ok": true,
+   "price": 299.0,
+   "old": null,
+   "color": "Anthracite grey",
+   "sizes_all": [
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [
+    "38",
+    "42",
+    "44"
+   ],
+   "mine": [
+    "38"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/pool/be3d05c19b4e.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "z-knit-blue~alt",
+   "name": "Gant: Superfine Lambswool C-Neck",
+   "wave": "b3",
+   "store": "ld",
+   "url": "https://dressup.ge/ka/%E1%83%A1%E1%83%95%E1%83%98%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98/153927-811487-gant-superfine-lambswool-c-neck.html",
+   "plan_price": 249,
+   "size": "top",
+   "group": "plan",
+   "alt_of": "z-knit-blue~alt",
+   "alt_label": "Синий свитер-акцент — вариант из пула",
+   "ok": true,
+   "price": 249,
+   "price_foreign": 249.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/pool/6d8a4ad75204.webp",
+   "note": ""
+  },
+  {
+   "id": "w5-polo-white~alt",
+   "name": "Lacoste: Polo homme adulte maille",
+   "wave": "b5",
+   "store": "ld",
+   "url": "https://dressup.ge/ka/%E1%83%9E%E1%83%9D%E1%83%9A%E1%83%9D/873778-lacoste-polos-homme-adulte-maille.html",
+   "plan_price": 299,
+   "size": "top",
+   "group": "plan",
+   "alt_of": "w5-polo-white~alt",
+   "alt_label": "Поло-пике, белое — вариант из пула",
+   "ok": true,
+   "price": 299,
+   "price_foreign": 299.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/pool/3feb2740ae59.webp",
+   "note": ""
+  },
+  {
+   "id": "w5-sandals~alt",
+   "name": "Camper: Lluc Sandal",
+   "wave": "b5",
+   "store": "ld",
+   "url": "https://www.camper.com/en_GB/men/shoes/llc/camper-lluc_sandal-K101092-001",
+   "plan_price": 450,
+   "size": "shoes",
+   "group": "plan",
+   "alt_of": "w5-sandals~alt",
+   "alt_label": "Кожаные сандалии — вариант из пула",
+   "ok": true,
+   "price": 544,
+   "price_foreign": 125.0,
+   "cur": "GBP",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/pool/23436b98e344.webp",
+   "note": "Цена 125 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   }
  ],
  "others": [
@@ -2211,12 +2366,11 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
     "L",
     "XL"
    ],
    "mine": [
-    "M"
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -2242,11 +2396,11 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -2276,7 +2430,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -2308,7 +2463,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool",
@@ -2591,11 +2747,7 @@
     "44",
     "46"
    ],
-   "mine": [
-    "38",
-    "40",
-    "42"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "",
    "img": "assets/cat/mack-dunkeld.webp",
@@ -2743,7 +2895,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -3018,7 +3171,8 @@
     "XL"
    ],
    "mine": [
-    "S"
+    "S",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
@@ -3047,7 +3201,8 @@
     "L"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 70% cotton, 30% wool",
@@ -3076,11 +3231,14 @@
    ],
    "sizes_avail": [
     "36",
+    "38",
     "40",
     "42",
-    "44"
+    "44",
+    "46"
    ],
    "mine": [
+    "38",
     "40"
    ],
    "need_size": true,
@@ -3177,7 +3335,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
@@ -3203,15 +3362,9 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
-    "M",
-    "L",
     "XL"
    ],
-   "mine": [
-    "S",
-    "M"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 82% viscose, 18% polyamide",
    "img": "assets/moodi/d-rollneck.webp",
@@ -3240,7 +3393,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -3267,7 +3421,6 @@
    ],
    "sizes_avail": [
     "38",
-    "42",
     "44"
    ],
    "mine": [
@@ -3330,9 +3483,7 @@
     "90 (M)",
     "95 (L)"
    ],
-   "sizes_avail": [
-    "95 (L)"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
@@ -3400,12 +3551,12 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
@@ -3445,7 +3596,9 @@
    "sizes_avail": [
     "L"
    ],
-   "mine": [],
+   "mine": [
+    "L"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 90% wool, 10% cashmere; Lining: 52% viscose, 48% polyester",
    "img": "assets/cat/cz-manteco-jacket.webp",
@@ -3488,11 +3641,16 @@
    ],
    "sizes_avail": [
     "2 XS",
+    "3 S",
+    "4 M",
     "6 XL",
     "7",
     "8"
    ],
-   "mine": [],
+   "mine": [
+    "3 S",
+    "4 M"
+   ],
    "need_size": true,
    "comp": "",
    "img": "assets/cat/pwvc-harrington.webp",
@@ -3616,21 +3774,28 @@
    "mine": [
     "S",
     "M",
+    "L",
     "Sable Black / XXL",
     "S",
     "M",
+    "L",
     "S",
     "M",
+    "L",
     "Lamp Black / XXL",
     "Lamp Black / XXXL",
     "S",
     "M",
+    "L",
     "Suffolk Navy / XXL",
     "Suffolk Navy / XXXL",
     "S",
     "M",
+    "L",
+    "Olive Green / XXL",
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -3656,9 +3821,16 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
     "L"
    ],
-   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
    "img": "assets/cat/cz-leather.webp",
@@ -3730,14 +3902,7 @@
     "52",
     "54"
    ],
-   "mine": [
-    "38",
-    "40",
-    "42",
-    "38",
-    "40",
-    "42"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "",
    "img": "assets/cat/schott-618.webp",
@@ -3771,7 +3936,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% goat leather; 85% viscose; 15% polyester",
@@ -3787,14 +3953,14 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 519,
-   "price_foreign": 119.2,
+   "price": 507,
+   "price_foreign": 116.22,
    "cur": "GBP",
    "old": null,
    "need_size": false,
    "in_stock": true,
    "img": "assets/cat/allsaints-cora-suede.webp",
-   "note": "Цена 119.2 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена 116.22 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "md-wool-bomber",
@@ -3816,12 +3982,15 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "M"
+    "S",
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
@@ -3866,7 +4035,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool",
@@ -3969,12 +4139,17 @@
     "3XL"
    ],
    "mine": [
+    "OLIVE / XXS",
     "S",
     "M",
+    "L",
+    "BLACK / XXS",
     "S",
     "M",
+    "L",
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -4021,7 +4196,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
@@ -4133,10 +4309,13 @@
     "50",
     "52",
     "52",
-    "54",
-    "58"
+    "54"
    ],
-   "mine": [],
+   "mine": [
+    "50",
+    "52",
+    "52"
+   ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
    "img": "assets/cat/md-cold-blazer.webp",
@@ -4171,8 +4350,8 @@
     "56"
    ],
    "mine": [
-    "46",
-    "48"
+    "50",
+    "52"
    ],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
@@ -4394,7 +4573,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% cashmere",
@@ -4445,7 +4625,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -4478,7 +4659,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool",
@@ -4516,11 +4698,11 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -4552,7 +4734,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% cashmere",
@@ -4651,7 +4834,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -4693,7 +4877,8 @@
     "XL"
    ],
    "mine": [
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -4732,7 +4917,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -4771,7 +4957,8 @@
    ],
    "mine": [
     "M",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -4840,14 +5027,12 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
-    "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -4880,7 +5065,8 @@
     "XXL"
    ],
    "mine": [
-    "S"
+    "S",
+    "L"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -4913,7 +5099,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "85% cotton, 15% cashmere",
@@ -4971,7 +5158,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% wool",
@@ -5005,10 +5193,12 @@
     "XL",
     "XXL"
    ],
-   "mine": [],
+   "mine": [
+    "L"
+   ],
    "need_size": true,
    "comp": "",
-   "img": null,
+   "img": "https://cdn.shopify.com/s/files/1/0670/4925/9294/files/W26MSHI006PRE.jpg?v=1774281601",
    "note": "Цена в EUR пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
@@ -5043,7 +5233,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -5124,7 +5315,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -5157,7 +5349,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -5186,7 +5379,9 @@
     "L",
     "XL"
    ],
-   "mine": [],
+   "mine": [
+    "L"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
    "img": "assets/cat/cz-pique-navy.webp",
@@ -5218,7 +5413,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -5257,7 +5453,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -5385,7 +5582,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -5422,7 +5620,8 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "",
@@ -5460,7 +5659,9 @@
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L",
+    "NAVY BLAZER / XXL"
    ],
    "need_size": true,
    "comp": "",
@@ -5886,7 +6087,6 @@
     "L"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -6113,6 +6313,7 @@
     "10",
     "10.5",
     "11",
+    "12",
     "13"
    ],
    "mine": [
@@ -6387,8 +6588,7 @@
    "sizes_avail": [
     "41",
     "42",
-    "43",
-    "44"
+    "43"
    ],
    "mine": [
     "42",
@@ -6690,7 +6890,6 @@
     "8.5 908",
     "9 908",
     "9.5 908",
-    "10 908",
     "10.5 908",
     "11 908",
     "11.5 908",
@@ -6714,7 +6913,6 @@
    "mine": [
     "9 908",
     "9.5 908",
-    "10 908",
     "9 908",
     "9.5 908",
     "10 908"
@@ -8391,9 +8589,2534 @@
    "in_stock": true,
    "img": "assets/care/shave-gel.webp",
    "note": ""
+  },
+  {
+   "id": "sp00",
+   "name": "Reigning Champ: Midweight Terry Standard Track Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/midweight-terry-standard-track-jacket-navy",
+   "plan_price": 460,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 138.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 460,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Standard",
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard"
+   ],
+   "mine": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/eee62c3a9f2d.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp01",
+   "name": "Reigning Champ: Merino Rib Vinnie Track Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/merino-rib-vinnie-track-jacket-oat",
+   "plan_price": 769,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 235.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 769,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Oat / Standard",
+    "Small / Oat / Standard",
+    "Medium / Oat / Standard",
+    "Large / Oat / Standard",
+    "Extra Large / Oat / Standard",
+    "XX Large / Oat / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Oat / Standard",
+    "Medium / Oat / Standard",
+    "Large / Oat / Standard",
+    "Extra Large / Oat / Standard"
+   ],
+   "mine": [
+    "Small / Oat / Standard",
+    "Medium / Oat / Standard",
+    "Large / Oat / Standard",
+    "Extra Large / Oat / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/d5967e10a0bf.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp02",
+   "name": "Zara: Retro Velour Track Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/retro-velour-track-jacket-p08281422.html?v1=556783597",
+   "plan_price": 219.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 83% cotton, 17% polyester; Lining: 100% polyester",
+   "img": "assets/sport/5c5396c35273.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp03",
+   "name": "Zara: Retro Contrast Track Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/contrast-retro-track-jacket-p00526334.html?v1=551789018",
+   "plan_price": 179.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Blue / Steel",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
+   "img": "assets/sport/d871fca9895b.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp04",
+   "name": "Lacoste: Lacoste Track Jackets Male Adult",
+   "store": "ld",
+   "url": "https://dressup.ge/en/lightweight-jackets/872716-7237472-lacoste-track-jackets-male-adult.html",
+   "plan_price": 649.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 649,
+   "price_foreign": 649.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/36ce48075029.webp",
+   "note": ""
+  },
+  {
+   "id": "sp05",
+   "name": "Zara: 100% Wool Quarter-Zip Jumper",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/100-wool-quarter-zip-jumper-p04216303.html?v1=545437261",
+   "plan_price": 179.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/sport/58b9999d8cf7.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp06",
+   "name": "Zara: Cotton-Wool Quarter-Zip Jumper",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/cotton-wool-quarter-zip-jumper-p09598329.html?v1=561140572",
+   "plan_price": 179.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 67% cotton, 33% wool",
+   "img": "assets/sport/17c0428b2cdb.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp07",
+   "name": "Reigning Champ: Merino Kenny Quarter Zip",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/merino-kenny-quarter-zip-navy",
+   "plan_price": 810,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 248.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 810,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Standard",
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "mine": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/b0ee620b336a.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp08",
+   "name": "Reigning Champ: Brushed Fleece Standard Quarter Zip",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/brushed-fleece-standard-quarter-zip-black",
+   "plan_price": 428,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 128.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 428,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Standard",
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "mine": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/16356fbd900b.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp09",
+   "name": "Zara: Hooded Windbreaker Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/hooded-windbreaker-jacket-p03918304.html?v1=545413358",
+   "plan_price": 179.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 94% polyamide, 6% polyester",
+   "img": "assets/sport/6cd9a2f75a9c.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp10",
+   "name": "Zara: Lightweight Water-Repellent Technical Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/lightweight-water-repellent-technical-jacket-p03918444.html?v1=552285222",
+   "plan_price": 159.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyamide, 100% polyester",
+   "img": "assets/sport/733d0048de1d.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp11",
+   "name": "Reigning Champ: Nylon Oxford Team Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/nylon-oxford-team-jacket-black",
+   "plan_price": 578,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 175.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 578,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Standard",
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard"
+   ],
+   "mine": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/dcd366a42d91.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp12",
+   "name": "Reigning Champ: Gore-Tex® Windstopper Pivot Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/gore-tex-windstopper-pivot-jacket-stone",
+   "plan_price": 864,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 265.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 864,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Stone / Standard",
+    "Small / Stone / Standard",
+    "Medium / Stone / Standard",
+    "Large / Stone / Standard",
+    "Extra Large / Stone / Standard",
+    "XX Large / Stone / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Stone / Standard",
+    "Medium / Stone / Standard",
+    "Large / Stone / Standard",
+    "Extra Large / Stone / Standard"
+   ],
+   "mine": [
+    "Small / Stone / Standard",
+    "Medium / Stone / Standard",
+    "Large / Stone / Standard",
+    "Extra Large / Stone / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/d8cfe3dc54d3.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp14",
+   "name": "Reigning Champ: Wool Twill Bomber Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/wool-twill-bomber-jacket-navy",
+   "plan_price": 969,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 298.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 969,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Standard",
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "mine": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/b838a4cc134b.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp15",
+   "name": "Reigning Champ: Nylon Twill Flight Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/nylon-twill-flight-jacket-black",
+   "plan_price": 969,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 298.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 969,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Standard",
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "mine": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/976e6753a6da.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp16",
+   "name": "Zara: Technical Bomber Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/technical-bomber-jacket-p04302360.html?v1=545456342",
+   "plan_price": 129.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester",
+   "img": "assets/sport/71f5d4898878.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp17",
+   "name": "Lacoste: Lacoste Mens Merino Wool Jersey Bomber Jacket",
+   "store": "ld",
+   "url": "https://dressup.ge/en/lightweight-jackets/942737-7234403-lacoste-mens-merino-wool-jersey-bomber-jacket.html",
+   "plan_price": 849.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 849,
+   "price_foreign": 849.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/57c620a6ad46.webp",
+   "note": ""
+  },
+  {
+   "id": "sp18",
+   "name": "Zara: Quarter-Zip Knit Polo Shirt",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/quarter-zip-knit-polo-shirt-p04696302.html?v1=545461472",
+   "plan_price": 129.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/4a7bb150c99f.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp19",
+   "name": "Zara: Regular Fit Zip Polo Shirt",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/regular-fit-zip-up-polo-shirt-p04442320.html?v1=545494749",
+   "plan_price": 109.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 70% cotton, 30% polyester, 96% cotton, 4% elastane",
+   "img": "assets/sport/712753dd151c.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp20",
+   "name": "Reigning Champ: Supima Pique Ace Polo",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/supima-pique-ace-polo-black-white",
+   "plan_price": 396,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 118.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 396,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black/White / Standard",
+    "Small / Black/White / Standard",
+    "Medium / Black/White / Standard",
+    "Large / Black/White / Standard",
+    "Extra Large / Black/White / Standard",
+    "XX Large / Black/White / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Black/White / Standard",
+    "Medium / Black/White / Standard",
+    "Large / Black/White / Standard"
+   ],
+   "mine": [
+    "Small / Black/White / Standard",
+    "Medium / Black/White / Standard",
+    "Large / Black/White / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/57a6572534e6.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp21",
+   "name": "Gant: Gant Superfine Lambswool Polo",
+   "store": "ld",
+   "url": "https://dressup.ge/en/polos/919692-7087392-gant-superfine-lambswool-polo.html",
+   "plan_price": 499.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 499,
+   "price_foreign": 499.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/d62660e53ea1.webp",
+   "note": ""
+  },
+  {
+   "id": "sp22",
+   "name": "Zara: Retro Regular Fit Polo Shirt",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/retro-regular-fit-polo-shirt-p04092401.html?v1=545851077",
+   "plan_price": 109.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 97% cotton, 3% elastane",
+   "img": "assets/sport/34d9b33e2842.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp23",
+   "name": "Reigning Champ: Midweight Terry Standard Crewneck",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/midweight-terry-standard-crewneck-heather-natural",
+   "plan_price": 265,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 98.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 265,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Heather Natural / Standard",
+    "Small / Heather Natural / Standard",
+    "Medium / Heather Natural / Standard",
+    "Large / Heather Natural / Standard",
+    "Extra Large / Heather Natural / Standard",
+    "XX Large / Heather Natural / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Heather Natural / Standard",
+    "Medium / Heather Natural / Standard",
+    "Extra Large / Heather Natural / Standard",
+    "XX Large / Heather Natural / Standard"
+   ],
+   "mine": [
+    "Small / Heather Natural / Standard",
+    "Medium / Heather Natural / Standard",
+    "Extra Large / Heather Natural / Standard",
+    "XX Large / Heather Natural / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/2b1ff0c7571e.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp24",
+   "name": "Reigning Champ: Midweight Terry Standard Hoodie",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/midweight-terry-standard-hoodie-coffee",
+   "plan_price": 428,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 128.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 428,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Coffee / Standard",
+    "Small / Coffee / Standard",
+    "Medium / Coffee / Standard",
+    "Large / Coffee / Standard",
+    "Extra Large / Coffee / Standard",
+    "XX Large / Coffee / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Coffee / Standard",
+    "Medium / Coffee / Standard",
+    "Large / Coffee / Standard",
+    "Extra Large / Coffee / Standard",
+    "XX Large / Coffee / Standard"
+   ],
+   "mine": [
+    "Small / Coffee / Standard",
+    "Medium / Coffee / Standard",
+    "Large / Coffee / Standard",
+    "Extra Large / Coffee / Standard",
+    "XX Large / Coffee / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/f36982401866.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp25",
+   "name": "Zara: Technical Fleece-Lined Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/technical-fleece-lined-jacket-p03918300.html?v1=548232268",
+   "plan_price": 179.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 97% polyester, 3% elastane; Lining: 100% polyester",
+   "img": "assets/sport/99b886fe1c15.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp26",
+   "name": "Zara: Technical Puffer Gilet",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/technical-puffer-gilet-p03411390.html?v1=552297493",
+   "plan_price": 129.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyamide; Filling: 100% polyester",
+   "img": "assets/sport/18894100b642.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp27",
+   "name": "Reigning Champ: Wool Fleece Chore Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/wool-fleece-chore-jacket-heather-black",
+   "plan_price": 1055,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 325.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 1055,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Heather Black / Standard",
+    "Small / Heather Black / Standard",
+    "Medium / Heather Black / Standard",
+    "Large / Heather Black / Standard",
+    "Extra Large / Heather Black / Standard",
+    "XX Large / Heather Black / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Heather Black / Standard",
+    "Medium / Heather Black / Standard",
+    "Large / Heather Black / Standard",
+    "Extra Large / Heather Black / Standard",
+    "XX Large / Heather Black / Standard"
+   ],
+   "mine": [
+    "Small / Heather Black / Standard",
+    "Medium / Heather Black / Standard",
+    "Large / Heather Black / Standard",
+    "Extra Large / Heather Black / Standard",
+    "XX Large / Heather Black / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/72f502a76507.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp28",
+   "name": "Reigning Champ: Cotton Chino Freshman Slim Pant",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/cotton-chino-freshman-pant-dark-olive",
+   "plan_price": 428,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 128.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 428,
+   "old": null,
+   "sizes_all": [
+    "28",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "36",
+    "38"
+   ],
+   "sizes_avail": [
+    "30",
+    "32",
+    "33"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/19f9479f64ed.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp29",
+   "name": "Zara: Comfort Technical Trousers",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/comfort-technical-trousers-p04391440.html?v1=548066493",
+   "plan_price": 129.0,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 86% polyamide, 14% elastane",
+   "img": "assets/sport/5b0879213e62.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp30",
+   "name": "Zara: Water-Repellent Technical Trousers With Contrast Details",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/water-repellent-technical-trousers-with-contrast-details-p03918330.html?v1=553224107",
+   "plan_price": 129.0,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester",
+   "img": "assets/sport/400f4de38ff7.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp31",
+   "name": "Reigning Champ: Nylon Oxford Team Standard Pant",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/nylon-oxford-team-standard-pant-black",
+   "plan_price": 428,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 128.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 428,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Standard",
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard"
+   ],
+   "mine": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/6b3cd6fb8c3e.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp32",
+   "name": "Zara: Slim Fit Jogger Waist Trousers",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/slim-fit-jogger-waist-trousers-p06786325.html?v1=545401525",
+   "plan_price": 109.0,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 98% cotton, 2% elastane",
+   "img": "assets/sport/ef934afa2265.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp33",
+   "name": "Reigning Champ: Stretch Warp Knit Coach's Slim Jogger Tall",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/stretch-warp-knit-coachs-slim-jogger-taller-black",
+   "plan_price": 460,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 138.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 460,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Slim",
+    "Small / Black / Slim",
+    "Medium / Black / Slim",
+    "Large / Black / Slim",
+    "Extra Large / Black / Slim",
+    "XX Large / Black / Slim"
+   ],
+   "sizes_avail": [
+    "Small / Black / Slim",
+    "Medium / Black / Slim",
+    "Large / Black / Slim",
+    "Extra Large / Black / Slim",
+    "XX Large / Black / Slim"
+   ],
+   "mine": [
+    "Small / Black / Slim",
+    "Medium / Black / Slim",
+    "Large / Black / Slim",
+    "Extra Large / Black / Slim",
+    "XX Large / Black / Slim"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/09cb8d952275.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp34",
+   "name": "Reigning Champ: Midweight Terry Slim Sweatpant",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/midweight-terry-slim-sweatpant-heather-natural",
+   "plan_price": 396,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 118.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 396,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Heather Natural / Slim",
+    "Small / Heather Natural / Slim",
+    "Medium / Heather Natural / Slim",
+    "Large / Heather Natural / Slim",
+    "Extra Large / Heather Natural / Slim",
+    "XX Large / Heather Natural / Slim"
+   ],
+   "sizes_avail": [
+    "Small / Heather Natural / Slim",
+    "Medium / Heather Natural / Slim",
+    "Large / Heather Natural / Slim",
+    "Extra Large / Heather Natural / Slim",
+    "XX Large / Heather Natural / Slim"
+   ],
+   "mine": [
+    "Small / Heather Natural / Slim",
+    "Medium / Heather Natural / Slim",
+    "Large / Heather Natural / Slim",
+    "Extra Large / Heather Natural / Slim",
+    "XX Large / Heather Natural / Slim"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/c01c3428a9fe.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp35",
+   "name": "Zara: Retro Velour Track Trousers",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/retro-velour-track-trousers-p08281423.html?v1=556889813",
+   "plan_price": 179.0,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 83% cotton, 17% polyester",
+   "img": "assets/sport/79f5a78bd32a.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp37",
+   "name": "Reigning Champ: Stretch Chino Marina Standard Short 7\"",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/stretch-chino-marina-standard-short-7-sand",
+   "plan_price": 297,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 110.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 297,
+   "old": null,
+   "sizes_all": [
+    "28",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "36",
+    "38"
+   ],
+   "sizes_avail": [
+    "32",
+    "33",
+    "34",
+    "36"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/374b36f69c28.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp38",
+   "name": "Zara: Heavyweight 9\" Jogging Shorts",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/heavyweight-9--track-shorts-p08054335.html?v1=545490495",
+   "plan_price": 109.0,
+   "size": "bottom",
+   "group": "sp",
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Sand",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/02910d292c9f.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp39",
+   "name": "adidas: Samba OG Shoes",
+   "store": "ld",
+   "url": "https://adidas.ge/samba-og-shoes-originals-ie3676-1",
+   "plan_price": 244.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 244,
+   "price_foreign": 244.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": false,
+   "img": "assets/sport/7ca2afd9c7ed.webp",
+   "note": " · нет в наличии"
+  },
+  {
+   "id": "sp40",
+   "name": "adidas: Handball Spezial Shoes",
+   "store": "ld",
+   "url": "https://adidas.ge/handball-spezial-shoes-originals-ih8011-1",
+   "plan_price": 333.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 333,
+   "price_foreign": 333.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": false,
+   "img": "assets/sport/834649197ccd.webp",
+   "note": " · нет в наличии"
+  },
+  {
+   "id": "sp42",
+   "name": "Zara: Casual Leather Trainers",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/casual-leather-trainers-p12349720.html?v1=545456761",
+   "plan_price": 119.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 119.0,
+   "old": 219.0,
+   "color": "Sand Brown",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "40",
+    "42"
+   ],
+   "mine": [
+    "42"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
+   "img": "assets/sport/e01f5670c7ad.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp43",
+   "name": "Puma: Puma Speedcat Snake Print Sneakers",
+   "store": "ld",
+   "url": "https://dressup.ge/en/trainers/852170-6229427-puma-speedcat-snake-print-sneakers.html",
+   "plan_price": 249.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 249,
+   "price_foreign": 249.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/a773bed8092d.webp",
+   "note": ""
+  },
+  {
+   "id": "sp44",
+   "name": "New Balance: 574 Core Unisex Trainers",
+   "store": null,
+   "url": "https://www.newbalance.co.uk/pd/574-core/ML574V3-40377.html",
+   "plan_price": 355,
+   "size": "shoes",
+   "group": "sp",
+   "ok": false,
+   "err": "Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
+   "img": "assets/sport/2406758ad5e8.webp"
+  },
+  {
+   "id": "sp45",
+   "name": "New Balance: 2002R Men's Trainers",
+   "store": null,
+   "url": "https://www.newbalance.co.uk/pd/2002r/M2002RV1-43528.html",
+   "plan_price": 462,
+   "size": "shoes",
+   "group": "sp",
+   "ok": false,
+   "err": "Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
+   "img": "assets/sport/a84104fdd2fe.webp"
+  },
+  {
+   "id": "sp46",
+   "name": "Zara: Emten Trail Trainers",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/emten-trail-laceless-trainers-p12351820.html?v1=545426096",
+   "plan_price": 149.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 149.0,
+   "old": null,
+   "color": "Grey",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 54% polyester, 46% polyurethane thermoplastic; Lining: 100% polyester; Sole: 100% rubber; Insole: 60% polyester, 40% sbs",
+   "img": "assets/sport/26ce5728083d.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp47",
+   "name": "Zara: Chunky Sole Trainers",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/chunky-sole-trainers-p12393820.html?v1=545465742",
+   "plan_price": 149.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 149.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 52% polyurethane, 48% polyester; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester; Tongue: 67% polyester, 33% polyurethane",
+   "img": "assets/sport/735bed7d1945.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp48",
+   "name": "Zara: Washed Cotton Cap",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/washed-cotton-cap-p04988300.html?v1=553306795",
+   "plan_price": 69.0,
+   "group": "sp",
+   "ok": true,
+   "price": 69.0,
+   "old": null,
+   "color": "Blue / Lavender",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/4837b0057852.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp49",
+   "name": "Reigning Champ: Dart Cap",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/dart-cap-british-racing-green",
+   "plan_price": 130,
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 48.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 130,
+   "old": null,
+   "sizes_all": [
+    "O S"
+   ],
+   "sizes_avail": [
+    "O S"
+   ],
+   "mine": [
+    "O S"
+   ],
+   "need_size": false,
+   "comp": "",
+   "img": "assets/sport/7206e094a7a7.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp50",
+   "name": "Nike: Nike U Nk Club Cap U Cb Denim 24 L",
+   "store": "ld",
+   "url": "https://dressup.ge/en/caps/915489-7053354-nike-u-nk-club-cap-u-cb-denim-24-l.html",
+   "plan_price": 159.0,
+   "group": "sp",
+   "ok": true,
+   "price": 159,
+   "price_foreign": 159.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/485e236c28d7.webp",
+   "note": ""
+  },
+  {
+   "id": "sp51",
+   "name": "Zara: Nylon Crossbody Bag",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/nylon-crossbody-bag-p13534820.html?v1=558600208",
+   "plan_price": 99.0,
+   "group": "sp",
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "ONE SIZE ONLY"
+   ],
+   "sizes_avail": [
+    "ONE SIZE ONLY"
+   ],
+   "mine": [
+    "ONE SIZE ONLY"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyester",
+   "img": "assets/sport/8539e7b4a43c.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp52",
+   "name": "Zara: Technical Sports Belt Bag",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/technical-sports-belt-bag-p13625820.html?v1=557357353",
+   "plan_price": 99.0,
+   "group": "sp",
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "ONE SIZE ONLY"
+   ],
+   "sizes_avail": [
+    "ONE SIZE ONLY"
+   ],
+   "mine": [
+    "ONE SIZE ONLY"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 100% polyamide, 100% polyester; Lining: 100% polyamide",
+   "img": "assets/sport/7602345ad96a.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp53",
+   "name": "Lacoste: Lacoste Nomogramme Messenger Bag",
+   "store": "ld",
+   "url": "https://dressup.ge/en/mens-bags/943322-7238579-lacoste-nomogramme-messenger-bag.html",
+   "plan_price": 549.0,
+   "group": "sp",
+   "ok": true,
+   "price": 549,
+   "price_foreign": 549.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/e7bfbdcb0c3e.webp",
+   "note": ""
+  },
+  {
+   "id": "sp54",
+   "name": "Tommy Hilfiger: Tommy Hilfiger Th Nylon Tech Backpack",
+   "store": "ld",
+   "url": "https://dressup.ge/en/backpacks/934394-7186874-tommy-hilfiger-th-nylon-tech-backpack.html",
+   "plan_price": 539.0,
+   "group": "sp",
+   "ok": true,
+   "price": 539,
+   "price_foreign": 539.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/19b8cea11b83.webp",
+   "note": ""
+  },
+  {
+   "id": "sp55",
+   "name": "Oakley: Oakley Sutro",
+   "store": "ld",
+   "url": "https://dressup.ge/en/sunglasses/916389-7059321-oakley-sutro.html",
+   "plan_price": 589.0,
+   "group": "sp",
+   "ok": true,
+   "price": 589,
+   "price_foreign": 589.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/460da684bccc.webp",
+   "note": ""
+  },
+  {
+   "id": "sp56",
+   "name": "Zara: Eassun X Athleticz Sunglasses",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/eassun-x-athleticz-sunglasses-p02618303.html?v1=545422057",
+   "plan_price": 219.0,
+   "group": "sp",
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 100% polycarbonate",
+   "img": "assets/sport/1769e729eb0b.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp57",
+   "name": "Sunspel: Riviera Polo Shirt in Haar",
+   "store": "shopify",
+   "url": "https://www.sunspel.com/products/mens-riviera-polo-shirt-in-haar-mpol1026-gnjm",
+   "plan_price": 606,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 140.0,
+   "old_foreign": null,
+   "cur": "GBP",
+   "price": 606,
+   "old": null,
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/56c09ba1a2c4.webp",
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp58",
+   "name": "Sunspel: Piqué Polo Shirt in Haar",
+   "store": "shopify",
+   "url": "https://www.sunspel.com/products/mens-pique-polo-shirt-in-haar-mpol1028-gnjm",
+   "plan_price": 565,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 130.0,
+   "old_foreign": null,
+   "cur": "GBP",
+   "price": 565,
+   "old": null,
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/654dd25430c1.webp",
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp59",
+   "name": "Sunspel: Extra-Fine Merino Knitted Polo Shirt in Charcoal Melange",
+   "store": "shopify",
+   "url": "https://www.sunspel.com/products/mens-extra-fine-merino-knitted-polo-shirt-in-charcoal-melange-mpol8333-gyad",
+   "plan_price": 1004,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 235.0,
+   "old_foreign": null,
+   "cur": "GBP",
+   "price": 1004,
+   "old": null,
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/82c966f34b0b.webp",
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp60",
+   "name": "Reigning Champ: Supima Pique Ace Cardigan",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/supima-pique-ace-cardigan-navy",
+   "plan_price": 460,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 138.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 460,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Standard",
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Standard",
+    "Large / Navy / Standard"
+   ],
+   "mine": [
+    "Small / Navy / Standard",
+    "Large / Navy / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/757b6a5d611d.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp61",
+   "name": "Reigning Champ: Supima Knit Commodore Polo Sweater",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/supima-knit-commodore-polo-sweater-oyster",
+   "plan_price": 492,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 148.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 492,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Oyster / Standard",
+    "Small / Oyster / Standard",
+    "Medium / Oyster / Standard",
+    "Large / Oyster / Standard",
+    "Extra Large / Oyster / Standard",
+    "XX Large / Oyster / Standard"
+   ],
+   "sizes_avail": [
+    "Medium / Oyster / Standard",
+    "Large / Oyster / Standard",
+    "Extra Large / Oyster / Standard"
+   ],
+   "mine": [
+    "Medium / Oyster / Standard",
+    "Large / Oyster / Standard",
+    "Extra Large / Oyster / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/d83e6c3ddddb.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp62",
+   "name": "Reigning Champ: Cotton Linen Victor Polo",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/cotton-linen-victor-polo-6144-heather-oatmeal",
+   "plan_price": 492,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 148.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 492,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Heather Oatmeal / Standard",
+    "Small / Heather Oatmeal / Standard",
+    "Medium / Heather Oatmeal / Standard",
+    "Large / Heather Oatmeal / Standard",
+    "Extra Large / Heather Oatmeal / Standard",
+    "XX Large / Heather Oatmeal / Standard"
+   ],
+   "sizes_avail": [
+    "Medium / Heather Oatmeal / Standard",
+    "Large / Heather Oatmeal / Standard"
+   ],
+   "mine": [
+    "Medium / Heather Oatmeal / Standard",
+    "Large / Heather Oatmeal / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/6e1f06b09b04.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp63",
+   "name": "Lacoste: Lacoste Polos Homme Adulte Maille",
+   "store": "ld",
+   "url": "https://dressup.ge/en/polos/943448-7236032-lacoste-polos-homme-adulte-maille.html",
+   "plan_price": 449.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 449,
+   "price_foreign": 449.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/3617dd3a8b3f.webp",
+   "note": ""
+  },
+  {
+   "id": "sp64",
+   "name": "Lacoste: Lacoste Regular Fit Paris Stretch Piqué Polo Shirt",
+   "store": "ld",
+   "url": "https://dressup.ge/en/polos/772045-5695495-lacoste-regular-fit-paris-stretch-piqu%C3%A9-polo-shirt.html",
+   "plan_price": 399.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 399,
+   "price_foreign": 399.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/f65c77562c1e.webp",
+   "note": ""
+  },
+  {
+   "id": "sp66",
+   "name": "Lacoste: Lacoste Classic Fit Cotton Linen Polo Shirt",
+   "store": "ld",
+   "url": "https://dressup.ge/en/polos/706311-5234743-lacoste-classic-fit-cotton-linen-polo-shirt.html",
+   "plan_price": 249.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 249,
+   "price_foreign": 249.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/d7b477fb354c.webp",
+   "note": ""
+  },
+  {
+   "id": "sp67",
+   "name": "Lacoste: Lacoste Half Zip Wool Burgundy Sweater",
+   "store": "ld",
+   "url": "https://dressup.ge/en/polos/861934-6290086-lacoste-half-zip-wool-burgundy-sweater.html",
+   "plan_price": 579.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 579,
+   "price_foreign": 579.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/38c227d071af.webp",
+   "note": ""
+  },
+  {
+   "id": "sp68",
+   "name": "Lacoste: Lacoste Men S Lerond Set Sneakers 092 Nvywht",
+   "store": "ld",
+   "url": "https://dressup.ge/en/trainers/238953-2011003-lacoste-men-s-lerond-set-sneakers-092-nvywht.html",
+   "plan_price": 229.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 229,
+   "price_foreign": 229.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/b6dead3137d6.webp",
+   "note": ""
+  },
+  {
+   "id": "sp69",
+   "name": "Lacoste: Lacoste Men S Lerond Set Sneakers 21G Whtwht",
+   "store": "ld",
+   "url": "https://dressup.ge/en/trainers/238981-6322837-lacoste-men-s-lerond-set-sneakers-21g-whtwht.html",
+   "plan_price": 399.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 399,
+   "price_foreign": 399.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/6d889dec8359.webp",
+   "note": ""
+  },
+  {
+   "id": "sp70",
+   "name": "adidas: Adidas Vl Court 30",
+   "store": "ld",
+   "url": "https://dressup.ge/en/trainers/794752-6075069-adidas-vl-court-30.html",
+   "plan_price": 249.0,
+   "size": "shoes",
+   "group": "sp",
+   "ok": true,
+   "price": 249,
+   "price_foreign": 249.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/1160d6749fe3.webp",
+   "note": ""
+  },
+  {
+   "id": "sp71",
+   "name": "Zara: Striped Regular Fit Piqué Polo Shirt",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/striped-regular-fit-pique-polo-shirt-p04442326.html?v1=545490630",
+   "plan_price": 99.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Light blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton, 96% cotton, 4% elastane",
+   "img": "assets/sport/a2b6c2d1117d.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp72",
+   "name": "Zara: Textured Cable-Knit Vest",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/textured-cable-knit-vest-p05755331.html?v1=550672202",
+   "plan_price": 129.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/d068eaff5c4e.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp73",
+   "name": "Reigning Champ: Merino Honeycomb Track Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/merino-honeycomb-track-jacket-navy",
+   "plan_price": 769,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 235.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 769,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Standard",
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard"
+   ],
+   "mine": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/32a61425dd78.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp74",
+   "name": "Reigning Champ: Double Knit Rally Slim Quarter Zip",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/double-knit-rally-quarter-zip-black",
+   "plan_price": 492,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 148.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 492,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Slim",
+    "Small / Black / Slim",
+    "Medium / Black / Slim",
+    "Large / Black / Slim",
+    "Extra Large / Black / Slim",
+    "XX Large / Black / Slim"
+   ],
+   "sizes_avail": [
+    "XX Large / Black / Slim"
+   ],
+   "mine": [
+    "XX Large / Black / Slim"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/b5219ab3ba50.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp75",
+   "name": "Reigning Champ: Double Knit Rally Slim Track Jacket",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/double-knit-rally-slim-track-jacket-atlantic",
+   "plan_price": 492,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 148.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 492,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Atlantic / Slim",
+    "Small / Atlantic / Slim",
+    "Medium / Atlantic / Slim",
+    "Large / Atlantic / Slim",
+    "Extra Large / Atlantic / Slim",
+    "XX Large / Atlantic / Slim"
+   ],
+   "sizes_avail": [
+    "Small / Atlantic / Slim",
+    "Medium / Atlantic / Slim",
+    "Large / Atlantic / Slim",
+    "Extra Large / Atlantic / Slim"
+   ],
+   "mine": [
+    "Small / Atlantic / Slim",
+    "Medium / Atlantic / Slim",
+    "Large / Atlantic / Slim",
+    "Extra Large / Atlantic / Slim"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/ee942174ffb9.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp76",
+   "name": "Reigning Champ: Wool Fleece Ridge Half Zip",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/wool-fleece-ridge-half-zip-navy",
+   "plan_price": 969,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 298.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 969,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Relaxed",
+    "Small / Navy / Relaxed",
+    "Medium / Navy / Relaxed",
+    "Large / Navy / Relaxed",
+    "Extra Large / Navy / Relaxed",
+    "XX Large / Navy / Relaxed"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Relaxed",
+    "Medium / Navy / Relaxed",
+    "Large / Navy / Relaxed",
+    "Extra Large / Navy / Relaxed",
+    "XX Large / Navy / Relaxed"
+   ],
+   "mine": [
+    "Small / Navy / Relaxed",
+    "Medium / Navy / Relaxed",
+    "Large / Navy / Relaxed",
+    "Extra Large / Navy / Relaxed",
+    "XX Large / Navy / Relaxed"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/d15c562a5645.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp77",
+   "name": "Reigning Champ: Supima Double Knit RCAW Zip Hoodie",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/supima-double-knit-rcaw-zip-hoodie-navy-championship-white",
+   "plan_price": 587,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 178.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 587,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy/Championship White / Standard",
+    "Small / Navy/Championship White / Standard",
+    "Medium / Navy/Championship White / Standard",
+    "Large / Navy/Championship White / Standard",
+    "Extra Large / Navy/Championship White / Standard",
+    "XX Large / Navy/Championship White / Standard"
+   ],
+   "sizes_avail": [
+    "Extra Small / Navy/Championship White / Standard",
+    "Small / Navy/Championship White / Standard",
+    "Medium / Navy/Championship White / Standard",
+    "Large / Navy/Championship White / Standard",
+    "Extra Large / Navy/Championship White / Standard"
+   ],
+   "mine": [
+    "Extra Small / Navy/Championship White / Standard",
+    "Small / Navy/Championship White / Standard",
+    "Medium / Navy/Championship White / Standard",
+    "Large / Navy/Championship White / Standard",
+    "Extra Large / Navy/Championship White / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/2fd6c0c9b2c9.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp78",
+   "name": "Sunspel: Extra-Fine Merino Half Zip Jumper in Navy",
+   "store": null,
+   "url": "https://www.sunspel.com/products/mens-extra-fine-merino-half-zip-in-navy-mjum8344-buaa",
+   "plan_price": 1130,
+   "size": "top",
+   "group": "sp",
+   "ok": false,
+   "err": "Не читается сборщиком: проверять вручную",
+   "img": "assets/sport/0d0c9e79489b.webp"
+  },
+  {
+   "id": "sp79",
+   "name": "Sunspel: Loopback Sweatshirt in Slate Green",
+   "store": "shopify",
+   "url": "https://www.sunspel.com/products/mens-loopback-sweatshirt-in-slate-green-mswe1516-gnjo",
+   "plan_price": 627,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 145.0,
+   "old_foreign": null,
+   "cur": "GBP",
+   "price": 627,
+   "old": null,
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/6e9a3a2b35a3.webp",
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp82",
+   "name": "adidas: Adidas M Zne Fz",
+   "store": "ld",
+   "url": "https://dressup.ge/en/zip-up-hoodies/840272-6138644-adidas-m-zne-fz.html",
+   "plan_price": 399.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 399,
+   "price_foreign": 399.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/e11bffe1bbfa.webp",
+   "note": ""
+  },
+  {
+   "id": "sp83",
+   "name": "Reigning Champ: Heavyweight Jersey Standard Crewneck",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/heavyweight-jersey-standard-crewneck-navy",
+   "plan_price": 238,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 88.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 238,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Navy / Standard",
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard",
+    "XX Large / Navy / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard"
+   ],
+   "mine": [
+    "Small / Navy / Standard",
+    "Medium / Navy / Standard",
+    "Large / Navy / Standard",
+    "Extra Large / Navy / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/e9725cef7ee4.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp84",
+   "name": "Reigning Champ: Supima Pique Ace T-Shirt",
+   "store": "shopify",
+   "url": "https://reigningchamp.com/products/supima-pique-ace-t-shirt-6143-black",
+   "plan_price": 265,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 98.0,
+   "old_foreign": null,
+   "cur": "USD",
+   "price": 265,
+   "old": null,
+   "sizes_all": [
+    "Extra Small / Black / Standard",
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard",
+    "Extra Large / Black / Standard",
+    "XX Large / Black / Standard"
+   ],
+   "sizes_avail": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard"
+   ],
+   "mine": [
+    "Small / Black / Standard",
+    "Medium / Black / Standard",
+    "Large / Black / Standard"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/c2467800cdab.webp",
+   "note": "Цена в USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp85",
+   "name": "Sunspel: Relaxed Fit Heavyweight T-shirt in Inkwell",
+   "store": "shopify",
+   "url": "https://www.sunspel.com/products/mens-relaxed-fit-heavyweight-tshirt-in-inkwell-mtsh0181-buxg",
+   "plan_price": 523,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price_foreign": 120.0,
+   "old_foreign": null,
+   "cur": "GBP",
+   "price": 523,
+   "old": null,
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "",
+   "img": "assets/sport/f0e79c8941f3.webp",
+   "note": "Цена в GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+  },
+  {
+   "id": "sp86",
+   "name": "Zara: High Collar Bomber Jacket",
+   "store": "zara",
+   "url": "https://www.zara.com/ge/en/high-collar-bomber-jacket-p04391801.html?v1=551145213",
+   "plan_price": 159.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 63% polyester, 5% elastane, 32% viscose, 87% polyester, 12% polyamide, 1% elastane",
+   "img": "assets/sport/22cd95950817.webp",
+   "cur": "GEL"
+  },
+  {
+   "id": "sp87",
+   "name": "adidas: Adidas Sst Tt",
+   "store": "ld",
+   "url": "https://dressup.ge/en/lightweight-jackets/840416-6136871-adidas-sst-tt.html",
+   "plan_price": 359.0,
+   "size": "top",
+   "group": "sp",
+   "ok": true,
+   "price": 359,
+   "price_foreign": 359.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/sport/99f19d007e69.webp",
+   "note": ""
   }
  ],
  "markdowns": [
+  {
+   "pid": "555354850",
+   "name": "COTTON-CASHMERE REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354850",
+   "price": 99.0,
+   "old": 179.0,
+   "disc": 45,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 80% cotton, 20% cashmere",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/ded6/ea88/a492437092d7/7f5eeded9b6f/02893319719-e1/02893319719-e1.jpg?ts=1788343152351&w=750",
+   "color": "brown vigore",
+   "mine": [
+    "L"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "brown vigore",
+     "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354850",
+     "img": "https://static.zara.net/assets/public/ded6/ea88/a492437092d7/7f5eeded9b6f/02893319719-e1/02893319719-e1.jpg?ts=1788343152351&w=750",
+     "mine": [
+      "L"
+     ],
+     "price": 99.0
+    }
+   ]
+  },
   {
    "pid": "549169925",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
@@ -8408,6 +11131,7 @@
    "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
    "color": "Red",
    "mine": [
+    "L",
     "S"
    ],
    "size_class": "top",
@@ -8420,25 +11144,26 @@
      "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
      "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
      "mine": [
-      "S"
+      "S",
+      "L"
      ],
      "price": 159.0
     }
    ]
   },
   {
-   "pid": "545490748",
-   "name": "WASHED TEXTURED RELAXED FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
-   "price": 75.0,
-   "old": 109.0,
-   "disc": 31,
+   "pid": "545422945",
+   "name": "COTTON-LINEN REGULAR FIT KNIT POLO SHIRT",
+   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
+   "price": 99.0,
+   "old": 159.0,
+   "disc": 38,
    "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
    "family": "SWEATER",
-   "comp": "Outer Shell: 100% cotton",
+   "comp": "Outer Shell: 70% cotton, 30% linen",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/3494/085f/78704c41bfb2/e721ea2c61d8/02621311833-e1/02621311833-e1.jpg?ts=1785249611088&w=750",
-   "color": "Faded black",
+   "img": "https://static.zara.net/assets/public/5482/8709/b41e4a718f9a/329cf011e31d/03920398712-e1/03920398712-e1.jpg?ts=1785755553899&w=750",
+   "color": "Ecru",
    "mine": [
     "M"
    ],
@@ -8448,22 +11173,20 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Faded black",
-     "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
-     "img": "https://static.zara.net/assets/public/3494/085f/78704c41bfb2/e721ea2c61d8/02621311833-e1/02621311833-e1.jpg?ts=1785249611088&w=750",
+     "color": "Ecru",
+     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
+     "img": "https://static.zara.net/assets/public/5482/8709/b41e4a718f9a/329cf011e31d/03920398712-e1/03920398712-e1.jpg?ts=1785755553899&w=750",
      "mine": [
       "M"
      ],
-     "price": 75.0
+     "price": 99.0
     }
    ]
-  }
- ],
- "markdowns_nosize": [
+  },
   {
-   "pid": "547145160",
+   "pid": "545465619",
    "name": "COTTON REGULAR FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
    "price": 99.0,
    "old": 159.0,
    "disc": 38,
@@ -8471,44 +11194,51 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 100% cotton",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
-   "color": "Charcoal grey",
-   "mine": [],
+   "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
+   "color": "Navy blue",
+   "mine": [
+    "L"
+   ],
    "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
+   "verdict": "ok",
+   "reason": "",
    "store": "Zara",
    "colors": [
+    {
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
+     "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
+     "mine": [
+      "L"
+     ],
+     "price": 99.0
+    },
     {
      "color": "Charcoal grey",
      "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
      "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
-     "mine": [],
+     "mine": [
+      "L"
+     ],
      "price": 99.0
     },
     {
      "color": "Charcoal grey",
      "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
      "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
-     "mine": [],
+     "mine": [
+      "L"
+     ],
      "price": 99.0
     }
    ]
   }
  ],
+ "markdowns_nosize": [],
  "markdowns_rejected": [
   {
-   "name": "COMFORT SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773030",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071602",
+   "name": "RELAXED FIT 100% LYOCELL TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -8562,6 +11292,15 @@
   },
   {
    "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071602",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
    "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
    "price": 79.0,
    "old": 159.0,
@@ -8576,15 +11315,6 @@
    "old": 159.0,
    "disc": 50,
    "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "SLIM FIT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
-   "price": 179.0,
-   "old": 299.0,
-   "disc": 40,
-   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane; Lining: 100% polyester",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
@@ -8603,6 +11333,15 @@
    "old": 299.0,
    "disc": 40,
    "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "SLIM FIT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane; Lining: 100% polyester",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
@@ -8661,95 +11400,6 @@
   }
  ],
  "log": [
-  "✓ d-pleated 299.0  размер: 38",
-  "✓ d-trainers 219.0  размер: 42,43",
-  "✓ d-belt 179.0  размер: ",
-  "· p-khaki-auto None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ p-bb54 15074  размер: Default Title",
-  "✓ md-wool-coat 1200.0  размер: S,M",
-  "· cos-df-coat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-manteco-jacket 599.0  размер: ",
-  "· cos-pea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ pwvc-harrington 3365  размер: ",
-  "✓ barbour-ashby 1342  размер: ",
-  "✓ lavenham-raydon 1326  размер: S,M,Sable Black / XXL,S,M,S,M,Lamp Black / XXL,Lamp Black / XXXL,S,M,Suffolk Navy / XXL,Suffolk Navy / XXXL,S,M,S,M",
-  "✓ cz-leather 529.0  размер: ",
-  "✓ schott-618 3270  размер: 38,40,42,38,40,42",
-  "✓ md-suede-bomber 1300.0  размер: S,M",
-  "✓ allsaints-cora-suede 519  размер: ",
-  "✓ md-wool-bomber 700.0  размер: M",
-  "· cos-padded-bomber None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-wool-overshirt 470.0  размер: S,M",
-  "· carhartt-michigan None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· laboureur None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ alpha-m65 816  размер: S,M,S,M,S,M",
-  "· buzz-m65 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-down 429.0  размер: S,M",
-  "✓ md-parka 690.0  размер: ",
-  "· arc-thorium None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· tnf-nuptse None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· cp-shell None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· lp-traveller None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-cold-blazer 800.0  размер: ",
-  "✓ md-hound-blazer 900.0  размер: 46,48",
-  "· mango-turin None  shop.mango.com: 429",
-  "✓ ss-havana 1589  размер: ",
-  "· reiss-hope None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· boglioli-k None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· cos-cash-blazer None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-suit-anth 429.0  размер: ",
-  "✓ cz-suit-black 499.0  размер: ",
-  "✓ md-suit-navy 1400.0  размер: ",
-  "· ss-lazio None  suitsupply.com: цены в разметке страницы нет",
-  "· uq-merino None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-cash-bottle 690.0  размер: S,M",
-  "· cos-cash None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ joe-cash 2094  размер: S,M",
-  "✓ md-cable 400.0  размер: S,M",
-  "· rl-cable-cash None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-knit-polo 179.0  размер: M",
-  "✓ md-cash-polo 750.0  размер: M",
-  "· cos-brushed-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· smedley-isis None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· smedley-cherwell None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· cos-cash-funnel None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· mango-merino-zip None  shop.mango.com: 429",
-  "✓ npeal-temple 1800  размер: S,M",
-  "· bc-halfzip None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-cardigan 179.0  размер: M",
-  "✓ drakes-cardigan 1675  размер: S,M",
-  "✓ md-oxford 290.0  размер: M,M",
-  "✓ drakes-ocbd 963  размер: ",
-  "✓ cz-poplin 179.0  размер: S,M",
-  "✓ md-twill 290.0  размер: S",
-  "✓ md-cotton-cash 390.0  размер: S,M",
-  "✓ cz-flannel 129.0  размер: ",
-  "✓ md-wool-shirt 470.0  размер: S,M",
-  "✓ og-benoit 1026  размер: ",
-  "✓ drakes-chambray 1172  размер: S,M",
-  "✓ og-dungaree 550  размер: ",
-  "· ol-box-shirt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ pf-camp 476  размер: S,M",
-  "✓ cz-pima-polo 129.0  размер: S,M",
-  "✓ cz-pique-navy 179.0  размер: ",
-  "✓ md-ls-polo 190.0  размер: S,M",
-  "✓ sunspel-riviera 606  размер: S,M",
-  "· rl-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· lacoste-polo None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· uq-airism None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· smedley-tee None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ rc-terry 265  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
-  "✓ sunspel-loopback 627  размер: S,M",
-  "✓ loopwheeler 1087  размер: S,M",
-  "✓ ald-hoodie 641  размер: S,M",
-  "· carhartt-hoodie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-suit-trousers 219.0  размер: 38,40",
-  "✓ md-darts-black 400.0  размер: 38,40",
-  "· cos-pleated-wool None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· uq-pleated-wide None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-cord 290.0  размер: 38,40",
-  "· cos-cord None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· bc-trousers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· therow-trousers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· lp-trousers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cz-selvedge 259.0  размер: 38,40",
@@ -8761,7 +11411,7 @@
   "✓ acne-1996 1740  размер: ",
   "· uq-wide-jeans None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· levis-501 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-linen-bermuda 290.0  размер: S,M",
+  "✓ md-linen-bermuda 290.0  размер: M",
   "✓ ob-bulldog 963  размер: 38,40",
   "· vilebrequin None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-suede-loafer 400.0  размер: 42,42,43,43",
@@ -8794,7 +11444,7 @@
   "· nb-990v6 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· asics-k14 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
-  "✓ sebago-dock 546  размер: 9 908,9.5 908,10 908,9 908,9.5 908,10 908",
+  "✓ sebago-dock 546  размер: 9 908,9.5 908,9 908,9.5 908,10 908",
   "✓ cz-laptop 259.0  размер: ONE SIZE ONLY",
   "✓ md-tote 900.0  размер: ",
   "✓ cc-isar 1151  размер: Default Title",
@@ -8854,49 +11504,138 @@
   "✓ shave-razor 55  размер: ",
   "✓ shave-blades 95  размер: ",
   "✓ shave-gel 33  размер: ",
-  "✓ z-trench 379.0  размер: S,M",
+  "✓ z-trench 379.0  размер: S,M,L",
   "✓ z-retro 179.0  размер: 42,43",
-  "✓ z-knit-blue 159.0  размер: M",
-  "✓ z-track 179.0  размер: S,M",
+  "✓ z-knit-blue 159.0  размер: M,L",
+  "✓ z-track 179.0  размер: S,M,L",
   "✓ z-cap 69.0  размер: M",
+  "✓ w1-jeans~alt 369  размер: ",
+  "✓ w5-merino~alt 299  размер: ",
+  "✓ z-retro~alt 279  размер: ",
+  "✓ w4-trousers~alt 299.0  размер: 38",
+  "✓ z-knit-blue~alt 249  размер: ",
+  "✓ w5-polo-white~alt 299  размер: ",
+  "✓ w5-sandals~alt 544  размер: ",
+  "✓ sp00 460  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard",
+  "✓ sp01 769  размер: Small / Oat / Standard,Medium / Oat / Standard,Large / Oat / Standard,Extra Large / Oat / Standard",
+  "✓ sp02 219.0  размер: S,M,L",
+  "✓ sp03 179.0  размер: S,M,L",
+  "✓ sp04 649  размер: ",
+  "✓ sp05 179.0  размер: M,L",
+  "✓ sp06 179.0  размер: M,L",
+  "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
+  "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
+  "✓ sp09 179.0  размер: S,M,L",
+  "✓ sp10 159.0  размер: M,L",
+  "✓ sp11 578  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard",
+  "✓ sp12 864  размер: Small / Stone / Standard,Medium / Stone / Standard,Large / Stone / Standard,Extra Large / Stone / Standard",
+  "✓ sp14 969  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
+  "✓ sp15 969  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
+  "✓ sp16 129.0  размер: S,M,L",
+  "✓ sp17 849  размер: ",
+  "✓ sp18 129.0  размер: M,L",
+  "✓ sp19 109.0  размер: S,M,L",
+  "✓ sp20 396  размер: Small / Black/White / Standard,Medium / Black/White / Standard,Large / Black/White / Standard",
+  "✓ sp21 499  размер: ",
+  "✓ sp22 109.0  размер: S,M,L",
+  "✓ sp23 265  размер: Small / Heather Natural / Standard,Medium / Heather Natural / Standard,Extra Large / Heather Natural / Standard,XX Large / Heather Natural / Standard",
+  "✓ sp24 428  размер: Small / Coffee / Standard,Medium / Coffee / Standard,Large / Coffee / Standard,Extra Large / Coffee / Standard,XX Large / Coffee / Standard",
+  "✓ sp25 179.0  размер: S,M,L",
+  "✓ sp26 129.0  размер: S,M,L",
+  "✓ sp27 1055  размер: Small / Heather Black / Standard,Medium / Heather Black / Standard,Large / Heather Black / Standard,Extra Large / Heather Black / Standard,XX Large / Heather Black / Standard",
+  "✓ sp28 428  размер: ",
+  "✓ sp29 129.0  размер: M",
+  "✓ sp30 129.0  размер: M",
+  "✓ sp31 428  размер: Small / Black / Standard,Medium / Black / Standard",
+  "✓ sp32 109.0  размер: M",
+  "✓ sp33 460  размер: Small / Black / Slim,Medium / Black / Slim,Large / Black / Slim,Extra Large / Black / Slim,XX Large / Black / Slim",
+  "✓ sp34 396  размер: Small / Heather Natural / Slim,Medium / Heather Natural / Slim,Large / Heather Natural / Slim,Extra Large / Heather Natural / Slim,XX Large / Heather Natural / Slim",
+  "✓ sp35 179.0  размер: M",
+  "✓ sp37 297  размер: ",
+  "✓ sp38 109.0  размер: M",
+  "✓ sp39 244  размер: ",
+  "✓ sp40 333  размер: ",
+  "✓ sp42 119.0 219.0 размер: 42",
+  "✓ sp43 249  размер: ",
+  "· sp44 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
+  "· sp45 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
+  "✓ sp46 149.0  размер: ",
+  "✓ sp47 149.0  размер: 42,43",
+  "✓ sp48 69.0  размер: M",
+  "✓ sp49 130  размер: O S",
+  "✓ sp50 159  размер: ",
+  "✓ sp51 99.0  размер: ONE SIZE ONLY",
+  "✓ sp52 99.0  размер: ONE SIZE ONLY",
+  "✓ sp53 549  размер: ",
+  "✓ sp54 539  размер: ",
+  "✓ sp55 589  размер: ",
+  "✓ sp56 219.0  размер: ",
+  "✓ sp57 606  размер: M,L",
+  "✓ sp58 565  размер: S,M",
+  "✓ sp59 1004  размер: S,M,L",
+  "✓ sp60 460  размер: Small / Navy / Standard,Large / Navy / Standard",
+  "✓ sp61 492  размер: Medium / Oyster / Standard,Large / Oyster / Standard,Extra Large / Oyster / Standard",
+  "✓ sp62 492  размер: Medium / Heather Oatmeal / Standard,Large / Heather Oatmeal / Standard",
+  "✓ sp63 449  размер: ",
+  "✓ sp64 399  размер: ",
+  "✓ sp66 249  размер: ",
+  "✓ sp67 579  размер: ",
+  "✓ sp68 229  размер: ",
+  "✓ sp69 399  размер: ",
+  "✓ sp70 249  размер: ",
+  "✓ sp71 99.0  размер: S,M,L",
+  "✓ sp72 129.0  размер: M,L",
+  "✓ sp73 769  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard",
+  "✓ sp74 492  размер: XX Large / Black / Slim",
+  "✓ sp75 492  размер: Small / Atlantic / Slim,Medium / Atlantic / Slim,Large / Atlantic / Slim,Extra Large / Atlantic / Slim",
+  "✓ sp76 969  размер: Small / Navy / Relaxed,Medium / Navy / Relaxed,Large / Navy / Relaxed,Extra Large / Navy / Relaxed,XX Large / Navy / Relaxed",
+  "✓ sp77 587  размер: Extra Small / Navy/Championship White / Standard,Small / Navy/Championship White / Standard,Medium / Navy/Championship White / Standard,Large / Navy/Championship White / Standard,Extra Large / Navy/Championship White / Standard",
+  "· sp78 None  Не читается сборщиком: проверять вручную",
+  "✓ sp79 627  размер: S,M,L",
+  "✓ sp82 399  размер: ",
+  "✓ sp83 238  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
+  "✓ sp84 265  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard",
+  "✓ sp85 523  размер: S,M,L",
+  "✓ sp86 159.0  размер: S,M,L",
+  "✓ sp87 359  размер: ",
   "Zara: категорий для уценок — 57",
-  "Zara: уценок от 30% — 22"
+  "Zara: уценок от 30% — 24"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-09",
-   "weekday": "понедельник",
-   "wd": 0,
-   "tmax": 7.9,
-   "tmin": 3.2,
-   "feel_max": -0.7,
-   "feel_min": -4.5,
-   "eve": 4.1,
-   "eve_feel": -1.8,
-   "precip": 0.0,
-   "pop": 0,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 44.9,
-   "eff": 3.6,
-   "season": "win"
-  },
-  "tomorrow": {
    "date": "2026-11-10",
    "weekday": "вторник",
    "wd": 1,
-   "tmax": 8.7,
-   "tmin": 1.1,
-   "feel_max": 5.3,
-   "feel_min": -1.9,
-   "eve": 4.5,
-   "eve_feel": 2.3,
+   "tmax": 8.9,
+   "tmin": 2.0,
+   "feel_max": 4.9,
+   "feel_min": -1.2,
+   "eve": 5.4,
+   "eve_feel": 2.7,
    "precip": 0.0,
-   "pop": 0,
-   "code": 2,
-   "sky": "малооблачно",
-   "wind": 14.5,
-   "eff": 7.0,
+   "pop": 5,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 18.7,
+   "eff": 6.9,
+   "season": "win"
+  },
+  "tomorrow": {
+   "date": "2026-11-11",
+   "weekday": "среда",
+   "wd": 2,
+   "tmax": 8.6,
+   "tmin": 0.8,
+   "feel_max": 5.3,
+   "feel_min": -1.3,
+   "eve": 2.6,
+   "eve_feel": 0.5,
+   "precip": 0.0,
+   "pop": 10,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 9.6,
+   "eff": 6.9,
    "season": "win"
   },
   "recent": [
@@ -8994,6 +11733,25 @@
     "eff": 3.6,
     "season": "win",
     "at": "17:37"
+   },
+   {
+    "date": "2026-11-10",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 8.9,
+    "tmin": 2.0,
+    "feel_max": 4.9,
+    "feel_min": -1.2,
+    "eve": 5.4,
+    "eve_feel": 2.7,
+    "precip": 0.0,
+    "pop": 5,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 18.7,
+    "eff": 6.9,
+    "season": "win",
+    "at": "17:16"
    }
   ]
  }
