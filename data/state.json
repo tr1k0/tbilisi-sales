@@ -155,7 +155,6 @@
   "m-loafer-suede": {
    "price": 721,
    "mine": [
-    "8",
     "8.5"
    ]
   },
@@ -655,8 +654,8 @@
    "old": null
   },
   "og-dungaree": {
-   "price": 550,
-   "old": null
+   "price": 391,
+   "old": 550
   },
   "loopwheeler": {
    "price": 1071,
