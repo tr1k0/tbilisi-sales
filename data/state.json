@@ -690,7 +690,6 @@
   "w3-polo": {
    "price": 230.0,
    "mine": [
-    "S",
     "M",
     "L"
    ]
@@ -1207,7 +1206,7 @@
    "old": null
   },
   "sp63": {
-   "price": 449,
+   "price": 359,
    "old": null
   },
   "sp64": {
