@@ -271,17 +271,17 @@
   "wd": 4,
   "tmax": 15.4,
   "tmin": 8.8,
-  "feel_max": 11.9,
+  "feel_max": 12.1,
   "feel_min": 5.0,
-  "eve": 10.9,
-  "eve_feel": 9.9,
-  "precip": 0.3,
+  "eve": 11.2,
+  "eve_feel": 10.2,
+  "precip": 0.1,
   "pop": 43,
   "code": 61,
   "sky": "дождь",
   "wind": 19.0,
-  "eff": 13.7,
+  "eff": 13.8,
   "season": "cm",
-  "at": "10:24"
+  "at": "17:50"
  }
 }

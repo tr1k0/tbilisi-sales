@@ -824,14 +824,14 @@
    ]
   },
   "p-straps~2": {
-   "price": 175,
+   "price": 132,
    "mine": [
     "Stainless Steel",
     "Black PVD"
    ]
   },
   "p-straps~3": {
-   "price": 202,
+   "price": 152,
    "mine": [
     "18mm",
     "20mm",
@@ -979,8 +979,8 @@
    "old": null
   },
   "sp01": {
-   "price": 769,
-   "old": null
+   "price": 469,
+   "old": 769
   },
   "sp02": {
    "price": 219.0,
@@ -1019,12 +1019,12 @@
    "old": null
   },
   "sp11": {
-   "price": 578,
-   "old": null
+   "price": 284,
+   "old": 578
   },
   "sp12": {
-   "price": 864,
-   "old": null
+   "price": 695,
+   "old": 864
   },
   "sp14": {
    "price": 969,
@@ -1051,8 +1051,8 @@
    "old": null
   },
   "sp20": {
-   "price": 396,
-   "old": null
+   "price": 159,
+   "old": 396
   },
   "sp21": {
    "price": 499,
@@ -1103,8 +1103,8 @@
    "old": null
   },
   "sp33": {
-   "price": 460,
-   "old": null
+   "price": 261,
+   "old": 460
   },
   "sp34": {
    "price": 396,
@@ -1115,8 +1115,8 @@
    "old": null
   },
   "sp37": {
-   "price": 297,
-   "old": null
+   "price": 208,
+   "old": 297
   },
   "sp38": {
    "price": 109.0,
@@ -1151,8 +1151,8 @@
    "old": null
   },
   "sp49": {
-   "price": 130,
-   "old": null
+   "price": 78,
+   "old": 130
   },
   "sp50": {
    "price": 159,
@@ -1195,12 +1195,12 @@
    "old": null
   },
   "sp60": {
-   "price": 460,
-   "old": null
+   "price": 224,
+   "old": 460
   },
   "sp61": {
-   "price": 492,
-   "old": null
+   "price": 397,
+   "old": 492
   },
   "sp62": {
    "price": 492,
@@ -1243,24 +1243,24 @@
    "old": null
   },
   "sp73": {
-   "price": 769,
-   "old": null
+   "price": 394,
+   "old": 769
   },
   "sp74": {
-   "price": 492,
-   "old": null
+   "price": 200,
+   "old": 492
   },
   "sp75": {
-   "price": 492,
-   "old": null
+   "price": 200,
+   "old": 492
   },
   "sp76": {
    "price": 969,
    "old": null
   },
   "sp77": {
-   "price": 587,
-   "old": null
+   "price": 240,
+   "old": 587
   },
   "sp79": {
    "price": 627,
@@ -1271,8 +1271,8 @@
    "old": null
   },
   "sp83": {
-   "price": 238,
-   "old": null
+   "price": 190,
+   "old": 238
   },
   "sp84": {
    "price": 265,
