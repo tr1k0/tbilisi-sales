@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:08+04:00",
+ "updated": "2026-11-20T10:24+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -1180,9 +1180,12 @@
     "L-XL"
    ],
    "sizes_avail": [
+    "S-M",
     "L-XL"
    ],
-   "mine": [],
+   "mine": [
+    "S-M"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 55% polyester, 45% elastodiene, 100% cow leather",
    "img": "https://static.zara.net/assets/public/e095/cb94/fab4478faed0/ecbf0232a492/02823301711-e1/02823301711-e1.jpg?ts=1784530636458&w=750",
@@ -1197,14 +1200,14 @@
    "size": "top",
    "group": "plan",
    "ok": true,
-   "price": 2219,
-   "price_foreign": 525.0,
+   "price": 1608,
+   "price_foreign": 379.0,
    "cur": "GBP",
    "old": null,
    "need_size": false,
    "in_stock": false,
    "img": "assets/prem/p-boss.webp",
-   "note": "Цена 525 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки · нет в наличии"
+   "note": "Цена 379 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки · нет в наличии"
   },
   {
    "id": "p-allsaints",
@@ -1597,7 +1600,6 @@
    "sizes_avail": [
     "6",
     "6.5",
-    "7",
     "7.5",
     "8",
     "8.5",
@@ -2314,13 +2316,9 @@
     "47"
    ],
    "sizes_avail": [
-    "39",
-    "42",
     "45"
    ],
-   "mine": [
-    "42"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
    "img": "assets/prem/x-meermin-loafer-black.webp",
@@ -2388,7 +2386,8 @@
    ],
    "sizes_avail": [
     "M",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
     "M",
@@ -3092,14 +3091,14 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price": 238,
-   "price_foreign": 88.0,
+   "price": 232,
+   "price_foreign": 86.0,
    "cur": "USD",
    "old": null,
    "need_size": false,
    "in_stock": true,
    "img": "assets/moodi/b-samba.webp",
-   "note": "Цена 88 USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена 86 USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "b-loafer",
@@ -3144,12 +3143,10 @@
    ],
    "sizes_avail": [
     "S",
-    "M",
     "XL"
    ],
    "mine": [
-    "S",
-    "M"
+    "S"
    ],
    "need_size": true,
    "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
@@ -3470,8 +3467,14 @@
     "90 (M)",
     "95 (L)"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "85 (S)",
+    "90 (M)"
+   ],
+   "mine": [
+    "85 (S)",
+    "90 (M)"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
    "img": "assets/moodi/d-belt.webp",
@@ -3625,13 +3628,10 @@
    ],
    "sizes_avail": [
     "2 XS",
-    "3 S",
     "7",
     "8"
    ],
-   "mine": [
-    "3 S"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "",
    "img": "assets/cat/pwvc-harrington.webp",
@@ -3802,9 +3802,11 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
     "L"
    ],
    "mine": [
+    "S",
     "L"
    ],
    "need_size": true,
@@ -3927,14 +3929,14 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 644,
-   "price_foreign": 149.0,
+   "price": 457,
+   "price_foreign": 104.3,
    "cur": "GBP",
    "old": null,
    "need_size": false,
    "in_stock": true,
    "img": "assets/cat/allsaints-cora-suede.webp",
-   "note": "Цена 149 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена 104.3 GBP пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "md-wool-bomber",
@@ -4163,8 +4165,7 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "S",
@@ -4280,14 +4281,12 @@
    "sizes_avail": [
     "46",
     "50",
-    "50",
     "52",
     "52",
     "54",
     "58"
    ],
    "mine": [
-    "50",
     "50",
     "52",
     "52"
@@ -5109,10 +5108,12 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L"
    ],
    "mine": [
+    "S",
     "M",
     "L"
    ],
@@ -5283,10 +5284,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 141.0,
+   "price_foreign": 140.0,
    "old_foreign": null,
    "cur": "USD",
-   "price": 469,
+   "price": 466,
    "old": null,
    "sizes_all": [
     "XS",
@@ -5365,10 +5366,12 @@
     "XL"
    ],
    "sizes_avail": [
+    "M",
     "L",
     "XL"
    ],
    "mine": [
+    "M",
     "L"
    ],
    "need_size": true,
@@ -5865,7 +5868,8 @@
    ],
    "sizes_avail": [
     "38",
-    "40"
+    "40",
+    "42"
    ],
    "mine": [
     "38",
@@ -6178,7 +6182,6 @@
     "43",
     "43",
     "44",
-    "44",
     "45",
     "45",
     "46",
@@ -6459,7 +6462,6 @@
    ],
    "sizes_avail": [
     "6",
-    "7",
     "9"
    ],
    "mine": [
@@ -6865,9 +6867,11 @@
     "8.5 908",
     "9 908",
     "9.5 908",
+    "10 908",
     "10.5 908",
     "11 908",
     "11.5 908",
+    "12 908",
     "12.5 908",
     "13 908",
     "14 908",
@@ -6887,6 +6891,7 @@
    "mine": [
     "9 908",
     "9.5 908",
+    "10 908",
     "9.5 908",
     "10 908"
    ],
@@ -6934,12 +6939,8 @@
    "sizes_all": [
     "01"
    ],
-   "sizes_avail": [
-    "01"
-   ],
-   "mine": [
-    "01"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "100% cow leather",
    "img": "assets/cat/md-tote.webp",
@@ -7722,14 +7723,8 @@
     "K39-AXEL JET CR39",
     "L7-AURUM DARJEELING CR39"
    ],
-   "sizes_avail": [
-    "S5-GALAXY POWDER BLUE CR39",
-    "L7-AURUM DARJEELING CR39"
-   ],
-   "mine": [
-    "S5-GALAXY POWDER BLUE CR39",
-    "L7-AURUM DARJEELING CR39"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "",
    "img": "assets/cat/jmm-torino.webp",
@@ -7772,6 +7767,7 @@
     "6.5in",
     "7in",
     "7.5in",
+    "7in",
     "6.5in",
     "7.5in",
     "8in",
@@ -7782,6 +7778,7 @@
     "6.5in",
     "7in",
     "7.5in",
+    "7in",
     "6.5in",
     "7.5in",
     "8in",
@@ -8519,15 +8516,9 @@
    "url": "https://gpc.ge/ka/details/care-products-for-men/shaving-machines/jileti-mamakacis-saparsi-danadgari-Fusion5-Sport-2-kaseta?product=9952",
    "plan_price": 55,
    "group": "site",
-   "ok": true,
-   "price": 55,
-   "price_foreign": 54.95,
-   "cur": "GEL",
-   "old": null,
-   "need_size": false,
-   "in_stock": true,
-   "img": "assets/care/shave-razor.webp",
-   "note": ""
+   "ok": false,
+   "err": "gpc.ge: цены в разметке страницы нет",
+   "img": "assets/care/shave-razor.webp"
   },
   {
    "id": "shave-blades",
@@ -8536,15 +8527,9 @@
    "url": "https://gpc.ge/ka/details/care-products-for-men/shaving-machines/jileti-mamakacis-saparsi-kaseta-Fusion5-Proglide?product=9946",
    "plan_price": 95,
    "group": "site",
-   "ok": true,
-   "price": 95,
-   "price_foreign": 94.95,
-   "cur": "GEL",
-   "old": null,
-   "need_size": false,
-   "in_stock": true,
-   "img": "assets/care/shave-blades.webp",
-   "note": ""
+   "ok": false,
+   "err": "gpc.ge: TimeoutError",
+   "img": "assets/care/shave-blades.webp"
   },
   {
    "id": "shave-gel",
@@ -9398,10 +9383,13 @@
    ],
    "sizes_avail": [
     "S",
-    "L"
+    "M",
+    "L",
+    "XL"
    ],
    "mine": [
     "S",
+    "M",
     "L"
    ],
    "need_size": true,
@@ -9637,6 +9625,7 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
     "XL"
@@ -9894,9 +9883,12 @@
    "sizes_avail": [
     "40",
     "41",
+    "43",
     "45"
    ],
-   "mine": [],
+   "mine": [
+    "43"
+   ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
    "img": "assets/sport/e01f5670c7ad.webp",
@@ -10156,8 +10148,8 @@
    "plan_price": 589.0,
    "group": "sp",
    "ok": true,
-   "price": 589,
-   "price_foreign": 589.0,
+   "price": 354,
+   "price_foreign": 353.5,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10518,8 +10510,8 @@
    "size": "shoes",
    "group": "sp",
    "ok": true,
-   "price": 249,
-   "price_foreign": 249.0,
+   "price": 150,
+   "price_foreign": 149.5,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -11032,13 +11024,14 @@
    "price": 99.0,
    "old": 179.0,
    "disc": 45,
-   "cat": "COLLECTION / VIEW ALL / SWEATERS | CARDIGANS",
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
    "family": "SWEATER",
    "comp": "Outer Shell: 80% cotton, 20% cashmere",
    "natural": 100.0,
    "img": "https://static.zara.net/assets/public/ded6/ea88/a492437092d7/7f5eeded9b6f/02893319719-e1/02893319719-e1.jpg?ts=1788343152351&w=750",
    "color": "brown vigore",
    "mine": [
+    "L",
     "M"
    ],
    "size_class": "top",
@@ -11051,25 +11044,17 @@
      "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354850",
      "img": "https://static.zara.net/assets/public/ded6/ea88/a492437092d7/7f5eeded9b6f/02893319719-e1/02893319719-e1.jpg?ts=1788343152351&w=750",
      "mine": [
-      "M"
-     ],
-     "price": 99.0
-    },
-    {
-     "color": "Black",
-     "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
-     "img": "https://static.zara.net/assets/public/a3ad/599c/424d42b08c43/41d19a8123b7/02893319800-e1/02893319800-e1.jpg?ts=1788343153201&w=750",
-     "mine": [
-      "M"
+      "M",
+      "L"
      ],
      "price": 99.0
     }
    ]
   },
   {
-   "pid": "549169925",
+   "pid": "549169924",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
    "price": 159.0,
    "old": 259.0,
    "disc": 39,
@@ -11077,11 +11062,10 @@
    "family": "WIND-JACKET",
    "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
-   "color": "Red",
+   "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
+   "color": "Navy blue",
    "mine": [
     "L",
-    "M",
     "S"
    ],
    "size_class": "top",
@@ -11090,22 +11074,20 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Red",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
-     "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
+     "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
      "mine": [
-      "S",
-      "M",
       "L"
      ],
      "price": 159.0
     },
     {
-     "color": "Black",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
-     "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
+     "color": "Red",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
+     "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
      "mine": [
-      "M",
+      "S",
       "L"
      ],
      "price": 159.0
@@ -11119,14 +11101,14 @@
    "price": 99.0,
    "old": 159.0,
    "disc": 38,
-   "cat": "COLLECTION / POLO SHIRTS / KNITWEAR",
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
    "family": "SWEATER",
    "comp": "Outer Shell: 70% cotton, 30% linen",
    "natural": 100.0,
    "img": "https://static.zara.net/assets/public/5482/8709/b41e4a718f9a/329cf011e31d/03920398712-e1/03920398712-e1.jpg?ts=1785755553899&w=750",
    "color": "Ecru",
    "mine": [
-    "M"
+    "L"
    ],
    "size_class": "top",
    "verdict": "ok",
@@ -11138,18 +11120,98 @@
      "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
      "img": "https://static.zara.net/assets/public/5482/8709/b41e4a718f9a/329cf011e31d/03920398712-e1/03920398712-e1.jpg?ts=1785755553899&w=750",
      "mine": [
-      "M"
+      "L"
      ],
      "price": 99.0
     }
    ]
   }
  ],
- "markdowns_nosize": [],
+ "markdowns_nosize": [
+  {
+   "pid": "547145160",
+   "name": "COTTON REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+   "price": 99.0,
+   "old": 159.0,
+   "disc": 38,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+   "color": "Charcoal grey",
+   "mine": [],
+   "size_class": "top",
+   "verdict": "nosize",
+   "reason": "твоего размера нет",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+     "mine": [],
+     "price": 99.0
+    },
+    {
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+     "mine": [],
+     "price": 99.0
+    },
+    {
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
+     "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
+     "mine": [],
+     "price": 99.0
+    }
+   ]
+  },
+  {
+   "pid": "549169926",
+   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
+   "price": 159.0,
+   "old": 259.0,
+   "disc": 39,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
+   "color": "Black",
+   "mine": [],
+   "size_class": "top",
+   "verdict": "nosize",
+   "reason": "твоего размера нет",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
+     "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
+     "mine": [],
+     "price": 159.0
+    }
+   ]
+  }
+ ],
  "markdowns_rejected": [
   {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071599",
+   "name": "COMFORT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773030",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "RELAXED FIT 100% LYOCELL TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -11157,17 +11219,8 @@
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "REGULAR FIT WOOL BLEND SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/wool-blend-regular-fit-suit-trousers-p06407191.html?v1=569460886",
-   "price": 79.0,
-   "old": 179.0,
-   "disc": 56,
-   "comp": "Outer Shell: 59% polyester, 41% wool",
-   "reason": "натуральных волокон 41% — меньше 80%"
-  },
-  {
    "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -11193,6 +11246,15 @@
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
+   "name": "REGULAR FIT WOOL BLEND SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/wool-blend-regular-fit-suit-trousers-p06407191.html?v1=569460886",
+   "price": 79.0,
+   "old": 179.0,
+   "disc": 56,
+   "comp": "Outer Shell: 59% polyester, 41% wool",
+   "reason": "натуральных волокон 41% — меньше 80%"
+  },
+  {
    "name": "COMFORT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=565424837",
    "price": 79.0,
@@ -11213,6 +11275,15 @@
   {
    "name": "100% LYOCELL RELAXED FIT TROUSERS",
    "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071601",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -11346,9 +11417,9 @@
   "· nb-990v6 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· asics-k14 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
-  "✓ sebago-dock 546  размер: 9 908,9.5 908,9.5 908,10 908",
+  "✓ sebago-dock 546  размер: 9 908,9.5 908,10 908,9.5 908,10 908",
   "✓ cz-laptop 259.0  размер: ONE SIZE ONLY",
-  "✓ md-tote 900.0  размер: 01",
+  "✓ md-tote 900.0  размер: ",
   "✓ cc-isar 1151  размер: Default Title",
   "· porter-tanker None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bv-arco None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11368,8 +11439,8 @@
   "✓ op-gregory 1339  размер: 47-23,45-23,50-23,47-23RX,50-23RX,45-23RX",
   "✓ moscot-lemtosh 1103  размер: 44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ jmm-torino 4433  размер: S5-GALAXY POWDER BLUE CR39,L7-AURUM DARJEELING CR39",
-  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,6.5in,7.5in,8in,8.5in,9in",
+  "✓ jmm-torino 4433  размер: ",
+  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,7in,6.5in,7.5in,8in,8.5in,9in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
   "· tomwood-cushion None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11403,8 +11474,8 @@
   "✓ run-zara 259.0  размер: ",
   "✓ run-peg40 195  размер: ",
   "✓ run-peg41gtx 200  размер: ",
-  "✓ shave-razor 55  размер: ",
-  "✓ shave-blades 95  размер: ",
+  "· shave-razor None  gpc.ge: цены в разметке страницы нет",
+  "· shave-blades None  gpc.ge: TimeoutError",
   "✓ shave-gel 33  размер: ",
   "✓ z-trench 379.0  размер: S,M,L",
   "✓ z-retro 179.0  размер: 42,43",
@@ -11442,7 +11513,7 @@
   "✓ sp22 109.0  размер: S,M,L",
   "✓ sp23 265  размер: Small / Heather Natural / Standard,Medium / Heather Natural / Standard,Extra Large / Heather Natural / Standard,XX Large / Heather Natural / Standard",
   "✓ sp24 428  размер: Small / Coffee / Standard,Medium / Coffee / Standard,Large / Coffee / Standard,Extra Large / Coffee / Standard,XX Large / Coffee / Standard",
-  "✓ sp25 179.0  размер: S,L",
+  "✓ sp25 179.0  размер: S,M,L",
   "✓ sp26 129.0  размер: S,M,L",
   "✓ sp27 1055  размер: Small / Heather Black / Standard,Medium / Heather Black / Standard,Large / Heather Black / Standard,Extra Large / Heather Black / Standard,XX Large / Heather Black / Standard",
   "✓ sp28 428  размер: ",
@@ -11457,7 +11528,7 @@
   "✓ sp38 109.0  размер: M",
   "✓ sp39 244  размер: ",
   "✓ sp40 333  размер: ",
-  "✓ sp42 119.0 219.0 размер: ",
+  "✓ sp42 119.0 219.0 размер: 43",
   "✓ sp43 249  размер: ",
   "· sp44 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
   "· sp45 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
@@ -11470,7 +11541,7 @@
   "✓ sp52 99.0  размер: ONE SIZE ONLY",
   "✓ sp53 549  размер: ",
   "✓ sp54 539  размер: ",
-  "✓ sp55 589  размер: ",
+  "✓ sp55 354  размер: ",
   "✓ sp56 219.0  размер: ",
   "✓ sp57 606  размер: M,L",
   "✓ sp58 565  размер: S,M",
@@ -11484,7 +11555,7 @@
   "✓ sp67 579  размер: ",
   "✓ sp68 229  размер: ",
   "✓ sp69 399  размер: ",
-  "✓ sp70 249  размер: ",
+  "✓ sp70 150  размер: ",
   "✓ sp71 99.0  размер: S,M,L",
   "✓ sp72 129.0  размер: M,L",
   "✓ sp73 769  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard",
@@ -11501,43 +11572,43 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 359  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 22"
+  "Zara: уценок от 30% — 27"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-19",
-   "weekday": "четверг",
-   "wd": 3,
-   "tmax": 13.4,
-   "tmin": 4.3,
-   "feel_max": 12.0,
-   "feel_min": 2.5,
-   "eve": 9.3,
-   "eve_feel": 7.8,
-   "precip": 0.7,
-   "pop": 83,
-   "code": 61,
-   "sky": "дождь",
-   "wind": 13.9,
-   "eff": 12.7,
-   "season": "cm"
-  },
-  "tomorrow": {
    "date": "2026-11-20",
    "weekday": "пятница",
    "wd": 4,
-   "tmax": 15.2,
-   "tmin": 8.9,
-   "feel_max": 12.1,
-   "feel_min": 5.1,
-   "eve": 11.3,
+   "tmax": 15.4,
+   "tmin": 8.8,
+   "feel_max": 11.9,
+   "feel_min": 5.0,
+   "eve": 10.9,
    "eve_feel": 9.9,
-   "precip": 0.0,
-   "pop": 28,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 21.7,
-   "eff": 13.6,
+   "precip": 0.3,
+   "pop": 43,
+   "code": 61,
+   "sky": "дождь",
+   "wind": 19.0,
+   "eff": 13.7,
+   "season": "cm"
+  },
+  "tomorrow": {
+   "date": "2026-11-21",
+   "weekday": "суббота",
+   "wd": 5,
+   "tmax": 12.7,
+   "tmin": 8.6,
+   "feel_max": 10.7,
+   "feel_min": 6.6,
+   "eve": 10.5,
+   "eve_feel": 8.4,
+   "precip": 12.7,
+   "pop": 80,
+   "code": 63,
+   "sky": "дождь",
+   "wind": 16.6,
+   "eff": 11.7,
    "season": "cm"
   },
   "recent": [
@@ -11806,6 +11877,25 @@
     "eff": 12.7,
     "season": "cm",
     "at": "18:08"
+   },
+   {
+    "date": "2026-11-20",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 15.4,
+    "tmin": 8.8,
+    "feel_max": 11.9,
+    "feel_min": 5.0,
+    "eve": 10.9,
+    "eve_feel": 9.9,
+    "precip": 0.3,
+    "pop": 43,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 19.0,
+    "eff": 13.7,
+    "season": "cm",
+    "at": "10:24"
    }
   ]
  }
