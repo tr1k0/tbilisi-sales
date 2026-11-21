@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:14+04:00",
+ "updated": "2026-11-21T17:14+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -25,7 +25,6 @@
     "48"
    ],
    "sizes_avail": [
-    "36",
     "38",
     "40",
     "42",
@@ -138,8 +137,7 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
-    "XXL"
+    "L"
    ],
    "mine": [
     "S",
@@ -1117,6 +1115,7 @@
     "105"
    ],
    "sizes_avail": [
+    "95",
     "100",
     "105"
    ],
@@ -2297,13 +2296,8 @@
     "46",
     "47"
    ],
-   "sizes_avail": [
-    "42",
-    "45"
-   ],
-   "mine": [
-    "42"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
    "img": "assets/prem/x-meermin-loafer-black.webp",
@@ -2544,7 +2538,6 @@
     "47"
    ],
    "sizes_avail": [
-    "39",
     "40",
     "41",
     "42",
@@ -3450,12 +3443,8 @@
     "90 (M)",
     "95 (L)"
    ],
-   "sizes_avail": [
-    "90 (M)"
-   ],
-   "mine": [
-    "90 (M)"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
    "img": "assets/moodi/d-belt.webp",
@@ -5836,7 +5825,8 @@
    ],
    "sizes_avail": [
     "38",
-    "40"
+    "40",
+    "42"
    ],
    "mine": [
     "38",
@@ -5868,7 +5858,6 @@
    ],
    "sizes_avail": [
     "31           ",
-    "32           ",
     "34           ",
     "36           "
    ],
@@ -6906,8 +6895,12 @@
    "sizes_all": [
     "01"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "01"
+   ],
+   "mine": [
+    "01"
+   ],
    "need_size": false,
    "comp": "100% cow leather",
    "img": "assets/cat/md-tote.webp",
@@ -11062,28 +11055,35 @@
  ],
  "markdowns_nosize": [
   {
-   "pid": "558231297",
-   "name": "LOOSE-FIT JEANS",
-   "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=558231297",
+   "pid": "547145160",
+   "name": "COTTON REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
    "price": 99.0,
-   "old": 179.0,
-   "disc": 45,
+   "old": 159.0,
+   "disc": 38,
    "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "TROUSERS",
-   "comp": "Outer Shell: 82% cotton, 9% viscose, 9% lyocell",
-   "natural": 82.0,
-   "img": "https://static.zara.net/assets/public/b325/a353/999c46aaa7f1/54c34f3f3c7d/05359307822-e1/05359307822-e1.jpg?ts=1788429702077&w=750",
-   "color": "Charcoal",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+   "color": "Charcoal grey",
    "mine": [],
-   "size_class": "bottom",
+   "size_class": "top",
    "verdict": "nosize",
    "reason": "твоего размера нет",
    "store": "Zara",
    "colors": [
     {
-     "color": "Charcoal",
-     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=558231297",
-     "img": "https://static.zara.net/assets/public/b325/a353/999c46aaa7f1/54c34f3f3c7d/05359307822-e1/05359307822-e1.jpg?ts=1788429702077&w=750",
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+     "mine": [],
+     "price": 99.0
+    },
+    {
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
      "mine": [],
      "price": 99.0
     }
@@ -11118,28 +11118,28 @@
    ]
   },
   {
-   "pid": "545465619",
-   "name": "COTTON REGULAR FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
+   "pid": "558231297",
+   "name": "LOOSE-FIT JEANS",
+   "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=558231297",
    "price": 99.0,
-   "old": 159.0,
-   "disc": 38,
+   "old": 179.0,
+   "disc": 45,
    "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 100% cotton",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
-   "color": "Navy blue",
+   "family": "TROUSERS",
+   "comp": "Outer Shell: 82% cotton, 9% viscose, 9% lyocell",
+   "natural": 82.0,
+   "img": "https://static.zara.net/assets/public/b325/a353/999c46aaa7f1/54c34f3f3c7d/05359307822-e1/05359307822-e1.jpg?ts=1788429702077&w=750",
+   "color": "Charcoal",
    "mine": [],
-   "size_class": "top",
+   "size_class": "bottom",
    "verdict": "nosize",
    "reason": "твоего размера нет",
    "store": "Zara",
    "colors": [
     {
-     "color": "Navy blue",
-     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
-     "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
+     "color": "Charcoal",
+     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=558231297",
+     "img": "https://static.zara.net/assets/public/b325/a353/999c46aaa7f1/54c34f3f3c7d/05359307822-e1/05359307822-e1.jpg?ts=1788429702077&w=750",
      "mine": [],
      "price": 99.0
     }
@@ -11147,42 +11147,6 @@
   }
  ],
  "markdowns_rejected": [
-  {
-   "name": "LEATHER CHELSEA BOOTS",
-   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437164",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "LEATHER CHELSEA BOOTS",
-   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "PADDED ZIP OVERSHIRT",
-   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174087",
-   "price": 129.0,
-   "old": 219.0,
-   "disc": 41,
-   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
-   "reason": "натуральных волокон 62% — меньше 80%"
-  },
-  {
-   "name": "PADDED ZIP OVERSHIRT",
-   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174086",
-   "price": 129.0,
-   "old": 219.0,
-   "disc": 41,
-   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
-   "reason": "натуральных волокон 62% — меньше 80%"
-  },
   {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
@@ -11301,6 +11265,24 @@
    "reason": "подкладка синтетическая"
   },
   {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437164",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
    "name": "LEATHER DECK SHOES",
    "url": "https://www.zara.com/ge/en/leather-deck-shoes-p12456720.html?v1=545422634",
    "price": 119.0,
@@ -11317,6 +11299,24 @@
    "disc": 46,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester",
    "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "PADDED ZIP OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174087",
+   "price": 129.0,
+   "old": 219.0,
+   "disc": 41,
+   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 62% — меньше 80%"
+  },
+  {
+   "name": "PADDED ZIP OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174086",
+   "price": 129.0,
+   "old": 219.0,
+   "disc": 41,
+   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 62% — меньше 80%"
   },
   {
    "name": "WOOL BLEND REGULAR FIT SUIT BLAZER",
@@ -11384,7 +11384,7 @@
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
   "✓ sebago-dock 546  размер: 9 908,9.5 908,10 908,9.5 908,10 908",
   "✓ cz-laptop 259.0  размер: ONE SIZE ONLY",
-  "✓ md-tote 900.0  размер: ",
+  "✓ md-tote 900.0  размер: 01",
   "✓ cc-isar 1151  размер: Default Title",
   "· porter-tanker None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bv-arco None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11537,43 +11537,43 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 359  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 27"
+  "Zara: уценок от 30% — 28"
  ],
  "weather": {
   "today": {
    "date": "2026-11-21",
    "weekday": "суббота",
    "wd": 5,
-   "tmax": 13.7,
+   "tmax": 13.3,
    "tmin": 6.3,
-   "feel_max": 10.6,
+   "feel_max": 10.0,
    "feel_min": 4.4,
-   "eve": 10.7,
-   "eve_feel": 7.1,
-   "precip": 7.8,
-   "pop": 98,
+   "eve": 10.3,
+   "eve_feel": 6.6,
+   "precip": 3.8,
+   "pop": 100,
    "code": 61,
    "sky": "дождь",
-   "wind": 22.6,
-   "eff": 12.1,
+   "wind": 25.6,
+   "eff": 11.7,
    "season": "cm"
   },
   "tomorrow": {
    "date": "2026-11-22",
    "weekday": "воскресенье",
    "wd": 6,
-   "tmax": 12.7,
-   "tmin": 7.9,
-   "feel_max": 8.8,
-   "feel_min": 3.9,
-   "eve": 8.7,
+   "tmax": 13.0,
+   "tmin": 8.3,
+   "feel_max": 9.1,
+   "feel_min": 4.3,
+   "eve": 8.8,
    "eve_feel": 4.6,
-   "precip": 0.0,
-   "pop": 55,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 29.4,
-   "eff": 10.8,
+   "precip": 1.4,
+   "pop": 65,
+   "code": 61,
+   "sky": "дождь",
+   "wind": 29.6,
+   "eff": 11.1,
    "season": "cm"
   },
   "recent": [
@@ -11866,20 +11866,20 @@
     "date": "2026-11-21",
     "weekday": "суббота",
     "wd": 5,
-    "tmax": 13.7,
+    "tmax": 13.3,
     "tmin": 6.3,
-    "feel_max": 10.6,
+    "feel_max": 10.0,
     "feel_min": 4.4,
-    "eve": 10.7,
-    "eve_feel": 7.1,
-    "precip": 7.8,
-    "pop": 98,
+    "eve": 10.3,
+    "eve_feel": 6.6,
+    "precip": 3.8,
+    "pop": 100,
     "code": 61,
     "sky": "дождь",
-    "wind": 22.6,
-    "eff": 12.1,
+    "wind": 25.6,
+    "eff": 11.7,
     "season": "cm",
-    "at": "10:14"
+    "at": "17:14"
    }
   ]
  }

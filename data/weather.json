@@ -288,19 +288,19 @@
   "date": "2026-11-21",
   "weekday": "суббота",
   "wd": 5,
-  "tmax": 13.7,
+  "tmax": 13.3,
   "tmin": 6.3,
-  "feel_max": 10.6,
+  "feel_max": 10.0,
   "feel_min": 4.4,
-  "eve": 10.7,
-  "eve_feel": 7.1,
-  "precip": 7.8,
-  "pop": 98,
+  "eve": 10.3,
+  "eve_feel": 6.6,
+  "precip": 3.8,
+  "pop": 100,
   "code": 61,
   "sky": "дождь",
-  "wind": 22.6,
-  "eff": 12.1,
+  "wind": 25.6,
+  "eff": 11.7,
   "season": "cm",
-  "at": "10:14"
+  "at": "17:14"
  }
 }
