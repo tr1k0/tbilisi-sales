@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:59+04:00",
+ "updated": "2026-11-21T10:14+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -362,7 +362,6 @@
    "sizes_avail": [
     "M",
     "L",
-    "XL",
     "XXL"
    ],
    "mine": [
@@ -1178,12 +1177,9 @@
     "L-XL"
    ],
    "sizes_avail": [
-    "S-M",
     "L-XL"
    ],
-   "mine": [
-    "S-M"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 55% polyester, 45% elastodiene, 100% cow leather",
    "img": "https://static.zara.net/assets/public/e095/cb94/fab4478faed0/ecbf0232a492/02823301711-e1/02823301711-e1.jpg?ts=1784530636458&w=750",
@@ -2302,10 +2298,12 @@
     "47"
    ],
    "sizes_avail": [
-    "39",
+    "42",
     "45"
    ],
-   "mine": [],
+   "mine": [
+    "42"
+   ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
    "img": "assets/prem/x-meermin-loafer-black.webp",
@@ -3453,11 +3451,9 @@
     "95 (L)"
    ],
    "sizes_avail": [
-    "85 (S)",
     "90 (M)"
    ],
    "mine": [
-    "85 (S)",
     "90 (M)"
    ],
    "need_size": true,
@@ -4260,7 +4256,6 @@
     "58"
    ],
    "sizes_avail": [
-    "46",
     "50",
     "52",
     "52",
@@ -4651,15 +4646,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M",
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-knit-polo.webp",
@@ -5091,13 +5079,11 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
     "XL"
    ],
    "mine": [
     "S",
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -5882,6 +5868,7 @@
    ],
    "sizes_avail": [
     "31           ",
+    "32           ",
     "34           ",
     "36           "
    ],
@@ -6163,7 +6150,6 @@
     "43",
     "43",
     "44",
-    "45",
     "45",
     "46",
     "46"
@@ -9035,11 +9021,11 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price_foreign": 298.0,
-   "old_foreign": null,
+   "price_foreign": 208.6,
+   "old_foreign": 298.0,
    "cur": "USD",
-   "price": 969,
-   "old": null,
+   "price": 685,
+   "old": 969,
    "sizes_all": [
     "Extra Small / Black / Standard",
     "Small / Black / Standard",
@@ -9432,11 +9418,11 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price_foreign": 325.0,
-   "old_foreign": null,
+   "price_foreign": 260.0,
+   "old_foreign": 325.0,
    "cur": "USD",
-   "price": 1055,
-   "old": null,
+   "price": 848,
+   "old": 1055,
    "sizes_all": [
     "Extra Small / Heather Black / Standard",
     "Small / Heather Black / Standard",
@@ -10138,8 +10124,8 @@
    "plan_price": 589.0,
    "group": "sp",
    "ok": true,
-   "price": 354,
-   "price_foreign": 353.5,
+   "price": 589,
+   "price_foreign": 589.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10488,8 +10474,8 @@
    "size": "shoes",
    "group": "sp",
    "ok": true,
-   "price": 150,
-   "price_foreign": 149.5,
+   "price": 249,
+   "price_foreign": 249.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10994,6 +10980,50 @@
  ],
  "markdowns": [
   {
+   "pid": "555861857",
+   "name": "LOOSE-FIT JEANS",
+   "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=555861857",
+   "price": 99.0,
+   "old": 179.0,
+   "disc": 45,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "TROUSERS",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/5eb9/4068/04df41e284be/df3e0b12bf46/03409307809-e1/03409307809-e1.jpg?ts=1788429704078&w=750",
+   "color": "Mid-grey",
+   "mine": [
+    "38",
+    "40"
+   ],
+   "size_class": "bottom",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Mid-grey",
+     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=555861857",
+     "img": "https://static.zara.net/assets/public/5eb9/4068/04df41e284be/df3e0b12bf46/03409307809-e1/03409307809-e1.jpg?ts=1788429704078&w=750",
+     "mine": [
+      "38",
+      "40"
+     ],
+     "price": 99.0
+    },
+    {
+     "color": "Light blue",
+     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=575689539",
+     "img": "https://static.zara.net/assets/public/7350/e388/3fa44f42955b/f08592e708a2/00840399406-e1/00840399406-e1.jpg?ts=1788764390216&w=750",
+     "mine": [
+      "38",
+      "40"
+     ],
+     "price": 99.0
+    }
+   ]
+  },
+  {
    "pid": "549169925",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
    "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
@@ -11032,9 +11062,37 @@
  ],
  "markdowns_nosize": [
   {
-   "pid": "549169926",
+   "pid": "558231297",
+   "name": "LOOSE-FIT JEANS",
+   "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=558231297",
+   "price": 99.0,
+   "old": 179.0,
+   "disc": 45,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "TROUSERS",
+   "comp": "Outer Shell: 82% cotton, 9% viscose, 9% lyocell",
+   "natural": 82.0,
+   "img": "https://static.zara.net/assets/public/b325/a353/999c46aaa7f1/54c34f3f3c7d/05359307822-e1/05359307822-e1.jpg?ts=1788429702077&w=750",
+   "color": "Charcoal",
+   "mine": [],
+   "size_class": "bottom",
+   "verdict": "nosize",
+   "reason": "твоего размера нет",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Charcoal",
+     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=558231297",
+     "img": "https://static.zara.net/assets/public/b325/a353/999c46aaa7f1/54c34f3f3c7d/05359307822-e1/05359307822-e1.jpg?ts=1788429702077&w=750",
+     "mine": [],
+     "price": 99.0
+    }
+   ]
+  },
+  {
+   "pid": "549169924",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
    "price": 159.0,
    "old": 259.0,
    "disc": 39,
@@ -11042,21 +11100,14 @@
    "family": "WIND-JACKET",
    "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
-   "color": "Black",
+   "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
+   "color": "Navy blue",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
    "reason": "твоего размера нет",
    "store": "Zara",
    "colors": [
-    {
-     "color": "Black",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
-     "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
-     "mine": [],
-     "price": 159.0
-    },
     {
      "color": "Navy blue",
      "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
@@ -11067,9 +11118,9 @@
    ]
   },
   {
-   "pid": "547145160",
+   "pid": "545465619",
    "name": "COTTON REGULAR FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
    "price": 99.0,
    "old": 159.0,
    "disc": 38,
@@ -11077,8 +11128,8 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 100% cotton",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
-   "color": "Charcoal grey",
+   "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
+   "color": "Navy blue",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
@@ -11086,23 +11137,9 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Charcoal grey",
-     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
-     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
-     "mine": [],
-     "price": 99.0
-    },
-    {
      "color": "Navy blue",
      "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465619",
      "img": "https://static.zara.net/assets/public/ff92/1022/f9444af9b809/74fde7a81e8d/09598454401-e1/09598454401-e1.jpg?ts=1786958125150&w=750",
-     "mine": [],
-     "price": 99.0
-    },
-    {
-     "color": "Charcoal grey",
-     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
-     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
      "mine": [],
      "price": 99.0
     }
@@ -11110,6 +11147,42 @@
   }
  ],
  "markdowns_rejected": [
+  {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437164",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "PADDED ZIP OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174087",
+   "price": 129.0,
+   "old": 219.0,
+   "disc": 41,
+   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 62% — меньше 80%"
+  },
+  {
+   "name": "PADDED ZIP OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174086",
+   "price": 129.0,
+   "old": 219.0,
+   "disc": 41,
+   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 62% — меньше 80%"
+  },
   {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
@@ -11395,7 +11468,7 @@
   "✓ sp11 284 578 размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard",
   "✓ sp12 695 864 размер: Small / Stone / Standard,Medium / Stone / Standard,Large / Stone / Standard,Extra Large / Stone / Standard",
   "✓ sp14 969  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
-  "✓ sp15 969  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
+  "✓ sp15 685 969 размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
   "✓ sp16 129.0  размер: S,M,L",
   "✓ sp17 849  размер: ",
   "✓ sp18 129.0  размер: M,L",
@@ -11407,7 +11480,7 @@
   "✓ sp24 428  размер: Small / Coffee / Standard,Medium / Coffee / Standard,Large / Coffee / Standard,Extra Large / Coffee / Standard,XX Large / Coffee / Standard",
   "✓ sp25 179.0  размер: S,M,L",
   "✓ sp26 129.0  размер: S,M,L",
-  "✓ sp27 1055  размер: Small / Heather Black / Standard,Medium / Heather Black / Standard,Large / Heather Black / Standard,Extra Large / Heather Black / Standard,XX Large / Heather Black / Standard",
+  "✓ sp27 848 1055 размер: Small / Heather Black / Standard,Medium / Heather Black / Standard,Large / Heather Black / Standard,Extra Large / Heather Black / Standard,XX Large / Heather Black / Standard",
   "✓ sp28 428  размер: ",
   "✓ sp29 129.0  размер: M",
   "✓ sp30 129.0  размер: M",
@@ -11433,7 +11506,7 @@
   "✓ sp52 99.0  размер: ONE SIZE ONLY",
   "✓ sp53 549  размер: ",
   "✓ sp54 539  размер: ",
-  "✓ sp55 354  размер: ",
+  "✓ sp55 589  размер: ",
   "✓ sp56 219.0  размер: ",
   "✓ sp57 606  размер: M,L",
   "✓ sp58 565  размер: S,M",
@@ -11447,7 +11520,7 @@
   "✓ sp67 579  размер: ",
   "· sp68 None  dressup.ge: цены в разметке страницы нет",
   "✓ sp69 399  размер: ",
-  "✓ sp70 150  размер: ",
+  "✓ sp70 249  размер: ",
   "✓ sp71 99.0  размер: S,M,L",
   "✓ sp72 129.0  размер: M,L",
   "✓ sp73 394 769 размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard",
@@ -11464,6 +11537,350 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 359  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 23"
- ]
+  "Zara: уценок от 30% — 27"
+ ],
+ "weather": {
+  "today": {
+   "date": "2026-11-21",
+   "weekday": "суббота",
+   "wd": 5,
+   "tmax": 13.7,
+   "tmin": 6.3,
+   "feel_max": 10.6,
+   "feel_min": 4.4,
+   "eve": 10.7,
+   "eve_feel": 7.1,
+   "precip": 7.8,
+   "pop": 98,
+   "code": 61,
+   "sky": "дождь",
+   "wind": 22.6,
+   "eff": 12.1,
+   "season": "cm"
+  },
+  "tomorrow": {
+   "date": "2026-11-22",
+   "weekday": "воскресенье",
+   "wd": 6,
+   "tmax": 12.7,
+   "tmin": 7.9,
+   "feel_max": 8.8,
+   "feel_min": 3.9,
+   "eve": 8.7,
+   "eve_feel": 4.6,
+   "precip": 0.0,
+   "pop": 55,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 29.4,
+   "eff": 10.8,
+   "season": "cm"
+  },
+  "recent": [
+   {
+    "date": "2026-11-05",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 15.5,
+    "tmin": 9.0,
+    "feel_max": 11.5,
+    "feel_min": 3.0,
+    "eve": 10.3,
+    "eve_feel": 3.5,
+    "precip": 0.9,
+    "pop": 70,
+    "code": 80,
+    "sky": "ливень",
+    "wind": 37.8,
+    "eff": 13.5,
+    "season": "cm",
+    "at": "20:56"
+   },
+   {
+    "date": "2026-11-06",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 12.2,
+    "tmin": 7.0,
+    "feel_max": 9.2,
+    "feel_min": 2.6,
+    "eve": 9.7,
+    "eve_feel": 8.1,
+    "precip": 0.3,
+    "pop": 50,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 29.4,
+    "eff": 10.7,
+    "season": "cm",
+    "at": "16:43"
+   },
+   {
+    "date": "2026-11-07",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 8.4,
+    "tmin": 6.3,
+    "feel_max": 6.7,
+    "feel_min": 0.9,
+    "eve": 6.7,
+    "eve_feel": 1.2,
+    "precip": 6.9,
+    "pop": 100,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 27.9,
+    "eff": 7.6,
+    "season": "win",
+    "at": "15:30"
+   },
+   {
+    "date": "2026-11-08",
+    "weekday": "воскресенье",
+    "wd": 6,
+    "tmax": 9.1,
+    "tmin": 5.0,
+    "feel_max": 1.9,
+    "feel_min": -2.6,
+    "eve": 5.1,
+    "eve_feel": -1.9,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 38.9,
+    "eff": 5.5,
+    "season": "win",
+    "at": "15:42"
+   },
+   {
+    "date": "2026-11-09",
+    "weekday": "понедельник",
+    "wd": 0,
+    "tmax": 7.9,
+    "tmin": 3.2,
+    "feel_max": -0.7,
+    "feel_min": -4.5,
+    "eve": 4.1,
+    "eve_feel": -1.8,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 44.9,
+    "eff": 3.6,
+    "season": "win",
+    "at": "17:37"
+   },
+   {
+    "date": "2026-11-10",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 8.9,
+    "tmin": 2.0,
+    "feel_max": 4.9,
+    "feel_min": -1.2,
+    "eve": 5.4,
+    "eve_feel": 2.7,
+    "precip": 0.0,
+    "pop": 5,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 18.7,
+    "eff": 6.9,
+    "season": "win",
+    "at": "17:16"
+   },
+   {
+    "date": "2026-11-11",
+    "weekday": "среда",
+    "wd": 2,
+    "tmax": 8.5,
+    "tmin": 0.1,
+    "feel_max": 4.9,
+    "feel_min": -1.9,
+    "eve": 2.1,
+    "eve_feel": -0.1,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 10.0,
+    "eff": 6.7,
+    "season": "win",
+    "at": "16:27"
+   },
+   {
+    "date": "2026-11-12",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 14.0,
+    "tmin": -1.1,
+    "feel_max": 10.5,
+    "feel_min": -4.3,
+    "eve": 7.4,
+    "eve_feel": 5.4,
+    "precip": 0.0,
+    "pop": 3,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 12.6,
+    "eff": 12.2,
+    "season": "cm",
+    "at": "17:32"
+   },
+   {
+    "date": "2026-11-14",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 20.7,
+    "tmin": 5.4,
+    "feel_max": 16.8,
+    "feel_min": 3.5,
+    "eve": 15.6,
+    "eve_feel": 12.1,
+    "precip": 0.0,
+    "pop": 58,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 30.6,
+    "eff": 18.8,
+    "season": "wm",
+    "at": "15:56"
+   },
+   {
+    "date": "2026-11-15",
+    "weekday": "воскресенье",
+    "wd": 6,
+    "tmax": 17.4,
+    "tmin": 7.4,
+    "feel_max": 11.9,
+    "feel_min": 0.4,
+    "eve": 8.5,
+    "eve_feel": 0.6,
+    "precip": 0.0,
+    "pop": 38,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 50.0,
+    "eff": 14.6,
+    "season": "cm",
+    "at": "16:30"
+   },
+   {
+    "date": "2026-11-16",
+    "weekday": "понедельник",
+    "wd": 0,
+    "tmax": 11.9,
+    "tmin": 5.7,
+    "feel_max": 9.0,
+    "feel_min": 0.5,
+    "eve": 7.0,
+    "eve_feel": 4.0,
+    "precip": 0.0,
+    "pop": 35,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 34.3,
+    "eff": 10.4,
+    "season": "cm",
+    "at": "17:22"
+   },
+   {
+    "date": "2026-11-17",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 7.4,
+    "tmin": 2.9,
+    "feel_max": 4.5,
+    "feel_min": 1.5,
+    "eve": 4.3,
+    "eve_feel": 2.5,
+    "precip": 0.0,
+    "pop": 13,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 8.7,
+    "eff": 6.0,
+    "season": "win",
+    "at": "18:07"
+   },
+   {
+    "date": "2026-11-18",
+    "weekday": "среда",
+    "wd": 2,
+    "tmax": 13.0,
+    "tmin": 0.9,
+    "feel_max": 9.4,
+    "feel_min": -1.8,
+    "eve": 6.5,
+    "eve_feel": 4.5,
+    "precip": 0.0,
+    "pop": 3,
+    "code": 45,
+    "sky": "туман",
+    "wind": 20.1,
+    "eff": 11.2,
+    "season": "cm",
+    "at": "17:40"
+   },
+   {
+    "date": "2026-11-19",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 13.4,
+    "tmin": 4.3,
+    "feel_max": 12.0,
+    "feel_min": 2.5,
+    "eve": 9.3,
+    "eve_feel": 7.8,
+    "precip": 0.7,
+    "pop": 83,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 13.9,
+    "eff": 12.7,
+    "season": "cm",
+    "at": "18:08"
+   },
+   {
+    "date": "2026-11-20",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 15.4,
+    "tmin": 8.8,
+    "feel_max": 12.1,
+    "feel_min": 5.0,
+    "eve": 11.2,
+    "eve_feel": 10.2,
+    "precip": 0.1,
+    "pop": 43,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 19.0,
+    "eff": 13.8,
+    "season": "cm",
+    "at": "17:50"
+   },
+   {
+    "date": "2026-11-21",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 13.7,
+    "tmin": 6.3,
+    "feel_max": 10.6,
+    "feel_min": 4.4,
+    "eve": 10.7,
+    "eve_feel": 7.1,
+    "precip": 7.8,
+    "pop": 98,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 22.6,
+    "eff": 12.1,
+    "season": "cm",
+    "at": "10:14"
+   }
+  ]
+ }
 }
