@@ -292,15 +292,15 @@
   "tmin": 6.3,
   "feel_max": 10.0,
   "feel_min": 4.4,
-  "eve": 10.3,
-  "eve_feel": 6.6,
-  "precip": 3.8,
-  "pop": 100,
-  "code": 61,
-  "sky": "дождь",
-  "wind": 25.6,
+  "eve": 10.6,
+  "eve_feel": 7.3,
+  "precip": 1.9,
+  "pop": 90,
+  "code": 80,
+  "sky": "ливень",
+  "wind": 24.2,
   "eff": 11.7,
   "season": "cm",
-  "at": "17:14"
+  "at": "21:54"
  }
 }
