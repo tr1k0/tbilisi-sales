@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:54+04:00",
+ "updated": "2026-11-22T09:48+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -28,8 +28,7 @@
     "38",
     "40",
     "42",
-    "44",
-    "48"
+    "44"
    ],
    "mine": [
     "38",
@@ -466,12 +465,10 @@
    ],
    "sizes_avail": [
     "S",
-    "M",
     "L"
    ],
    "mine": [
     "S",
-    "M",
     "L"
    ],
    "need_size": true,
@@ -1790,7 +1787,6 @@
     "85",
     "90",
     "95",
-    "100",
     "105"
    ],
    "mine": [
@@ -1965,17 +1961,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "S",
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
    "img": "assets/items/z-track.webp",
@@ -2019,8 +2006,8 @@
    "alt_of": "w1-jeans~alt",
    "alt_label": "Тёмные прямые джинсы — вариант из пула",
    "ok": true,
-   "price": 369,
-   "price_foreign": 369.0,
+   "price": 332,
+   "price_foreign": 332.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -3342,12 +3329,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
     "L",
     "XL"
    ],
    "mine": [
-    "M",
     "L"
    ],
    "need_size": true,
@@ -5851,7 +5836,6 @@
    ],
    "sizes_avail": [
     "30           ",
-    "31           ",
     "34           ",
     "36           "
    ],
@@ -5881,8 +5865,7 @@
     "36           "
    ],
    "sizes_avail": [
-    "31           ",
-    "32           "
+    "31           "
    ],
    "mine": [],
    "need_size": true,
@@ -7917,12 +7900,8 @@
    "sizes_all": [
     "M"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-wool-scarf.webp",
@@ -8634,17 +8613,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "S",
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
    "img": "assets/sport/d871fca9895b.webp",
@@ -8659,8 +8629,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 649,
-   "price_foreign": 649.0,
+   "price": 584,
+   "price_foreign": 584.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -8862,13 +8832,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -9080,8 +9047,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 849,
-   "price_foreign": 849.0,
+   "price": 764,
+   "price_foreign": 764.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -9177,11 +9144,9 @@
     "XX Large / Black/White / Standard"
    ],
    "sizes_avail": [
-    "Small / Black/White / Standard",
     "Large / Black/White / Standard"
    ],
    "mine": [
-    "Small / Black/White / Standard",
     "Large / Black/White / Standard"
    ],
    "need_size": true,
@@ -9198,8 +9163,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 499,
-   "price_foreign": 499.0,
+   "price": 449,
+   "price_foreign": 449.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10002,8 +9967,8 @@
    "plan_price": 159.0,
    "group": "sp",
    "ok": true,
-   "price": 159,
-   "price_foreign": 159.0,
+   "price": 143,
+   "price_foreign": 143.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10069,8 +10034,8 @@
    "plan_price": 549.0,
    "group": "sp",
    "ok": true,
-   "price": 549,
-   "price_foreign": 549.0,
+   "price": 494,
+   "price_foreign": 494.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10086,8 +10051,8 @@
    "plan_price": 539.0,
    "group": "sp",
    "ok": true,
-   "price": 539,
-   "price_foreign": 539.0,
+   "price": 485,
+   "price_foreign": 485.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10103,8 +10068,8 @@
    "plan_price": 589.0,
    "group": "sp",
    "ok": true,
-   "price": 589,
-   "price_foreign": 589.0,
+   "price": 530,
+   "price_foreign": 530.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10375,8 +10340,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 399,
-   "price_foreign": 399.0,
+   "price": 359,
+   "price_foreign": 359.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10405,8 +10370,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 579,
-   "price_foreign": 579.0,
+   "price": 521,
+   "price_foreign": 521.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10435,8 +10400,8 @@
    "size": "shoes",
    "group": "sp",
    "ok": true,
-   "price": 399,
-   "price_foreign": 399.0,
+   "price": 359,
+   "price_foreign": 359.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10453,8 +10418,8 @@
    "size": "shoes",
    "group": "sp",
    "ok": true,
-   "price": 249,
-   "price_foreign": 249.0,
+   "price": 199,
+   "price_foreign": 199.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10550,12 +10515,10 @@
     "XX Large / Navy / Standard"
    ],
    "sizes_avail": [
-    "Small / Navy / Standard",
     "Medium / Navy / Standard",
     "Large / Navy / Standard"
    ],
    "mine": [
-    "Small / Navy / Standard",
     "Medium / Navy / Standard",
     "Large / Navy / Standard"
    ],
@@ -10947,8 +10910,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 359,
-   "price_foreign": 359.0,
+   "price": 323,
+   "price_foreign": 323.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -11017,7 +10980,6 @@
    "color": "Red",
    "mine": [
     "L",
-    "M",
     "S"
    ],
    "size_class": "top",
@@ -11031,7 +10993,6 @@
      "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
      "mine": [
       "S",
-      "M",
       "L"
      ],
      "price": 159.0
@@ -11146,15 +11107,6 @@
   {
    "name": "RELAXED FIT 100% LYOCELL TROUSERS",
    "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
    "price": 79.0,
    "old": 159.0,
    "disc": 50,
@@ -11366,7 +11318,7 @@
   "· acne-face-beanie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· carhartt-watch-hat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· rl-cap None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-wool-scarf 129.0  размер: M",
+  "✓ cz-wool-scarf 129.0  размер: ",
   "✓ md-fringe-scarf 290.0  размер: 01",
   "✓ md-cash-scarf 690.0  размер: 01",
   "· cos-cash-scarf None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11396,9 +11348,9 @@
   "✓ z-trench 379.0  размер: S,M,L",
   "✓ z-retro 179.0  размер: 42,43",
   "✓ z-knit-blue 159.0  размер: M,L",
-  "✓ z-track 179.0  размер: S,M,L",
+  "✓ z-track 179.0  размер: ",
   "✓ z-cap 69.0  размер: M",
-  "✓ w1-jeans~alt 369  размер: ",
+  "✓ w1-jeans~alt 332  размер: ",
   "· w5-merino~alt None  dressup.ge: цены в разметке страницы нет",
   "✓ z-retro~alt 279  размер: ",
   "✓ w4-trousers~alt 299.0  размер: ",
@@ -11408,24 +11360,24 @@
   "✓ sp00 460  размер: ",
   "✓ sp01 469 769 размер: Small / Oat / Standard,Medium / Oat / Standard,Large / Oat / Standard,Extra Large / Oat / Standard",
   "✓ sp02 219.0  размер: S,M,L",
-  "✓ sp03 179.0  размер: S,M,L",
-  "✓ sp04 649  размер: ",
+  "✓ sp03 179.0  размер: ",
+  "✓ sp04 584  размер: ",
   "✓ sp05 179.0  размер: M,L",
   "✓ sp06 179.0  размер: M,L",
   "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
   "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
   "✓ sp09 179.0  размер: S,M,L",
-  "✓ sp10 159.0  размер: S,M,L",
+  "✓ sp10 159.0  размер: M,L",
   "✓ sp11 284 578 размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard",
   "✓ sp12 695 864 размер: Small / Stone / Standard,Medium / Stone / Standard,Large / Stone / Standard,Extra Large / Stone / Standard",
   "✓ sp14 969  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
   "✓ sp15 685 969 размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
   "✓ sp16 129.0  размер: S,M,L",
-  "✓ sp17 849  размер: ",
+  "✓ sp17 764  размер: ",
   "✓ sp18 129.0  размер: M,L",
   "✓ sp19 109.0  размер: S,M,L",
-  "✓ sp20 159 396 размер: Small / Black/White / Standard,Large / Black/White / Standard",
-  "✓ sp21 499  размер: ",
+  "✓ sp20 159 396 размер: Large / Black/White / Standard",
+  "✓ sp21 449  размер: ",
   "✓ sp22 109.0  размер: S,M,L",
   "✓ sp23 265  размер: Small / Heather Natural / Standard,Medium / Heather Natural / Standard,Extra Large / Heather Natural / Standard,XX Large / Heather Natural / Standard",
   "✓ sp24 428  размер: Small / Coffee / Standard,Medium / Coffee / Standard,Large / Coffee / Standard,Extra Large / Coffee / Standard,XX Large / Coffee / Standard",
@@ -11452,12 +11404,12 @@
   "✓ sp47 149.0  размер: 42,43",
   "✓ sp48 69.0  размер: M",
   "✓ sp49 78 130 размер: O S",
-  "✓ sp50 159  размер: ",
+  "✓ sp50 143  размер: ",
   "✓ sp51 99.0  размер: ONE SIZE ONLY",
   "✓ sp52 99.0  размер: ONE SIZE ONLY",
-  "✓ sp53 549  размер: ",
-  "✓ sp54 539  размер: ",
-  "✓ sp55 589  размер: ",
+  "✓ sp53 494  размер: ",
+  "✓ sp54 485  размер: ",
+  "✓ sp55 530  размер: ",
   "✓ sp56 219.0  размер: ",
   "✓ sp57 606  размер: M,L",
   "✓ sp58 565  размер: S,M",
@@ -11466,15 +11418,15 @@
   "✓ sp61 397 492 размер: Medium / Oyster / Standard,Large / Oyster / Standard,Extra Large / Oyster / Standard",
   "✓ sp62 492  размер: Large / Heather Oatmeal / Standard",
   "✓ sp63 359  размер: ",
-  "✓ sp64 399  размер: ",
+  "✓ sp64 359  размер: ",
   "· sp66 None  dressup.ge: цены в разметке страницы нет",
-  "✓ sp67 579  размер: ",
+  "✓ sp67 521  размер: ",
   "· sp68 None  dressup.ge: цены в разметке страницы нет",
-  "✓ sp69 399  размер: ",
-  "✓ sp70 249  размер: ",
+  "✓ sp69 359  размер: ",
+  "✓ sp70 199  размер: ",
   "✓ sp71 99.0  размер: S,M,L",
   "✓ sp72 129.0  размер: M,L",
-  "✓ sp73 394 769 размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard",
+  "✓ sp73 394 769 размер: Medium / Navy / Standard,Large / Navy / Standard",
   "✓ sp74 200 492 размер: XX Large / Black / Slim",
   "✓ sp75 200 492 размер: Small / Atlantic / Slim,Medium / Atlantic / Slim,Large / Atlantic / Slim,Extra Large / Atlantic / Slim",
   "✓ sp76 969  размер: Small / Navy / Relaxed,Medium / Navy / Relaxed,Large / Navy / Relaxed,Extra Large / Navy / Relaxed,XX Large / Navy / Relaxed",
@@ -11486,45 +11438,45 @@
   "✓ sp84 265  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard",
   "✓ sp85 523  размер: S,M,L",
   "✓ sp86 159.0  размер: S,M,L",
-  "✓ sp87 359  размер: ",
+  "✓ sp87 323  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 26"
+  "Zara: уценок от 30% — 25"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-21",
-   "weekday": "суббота",
-   "wd": 5,
-   "tmax": 13.3,
-   "tmin": 6.3,
-   "feel_max": 10.0,
-   "feel_min": 4.4,
-   "eve": 10.6,
-   "eve_feel": 7.3,
-   "precip": 1.9,
-   "pop": 90,
-   "code": 80,
-   "sky": "ливень",
-   "wind": 24.2,
-   "eff": 11.7,
-   "season": "cm"
-  },
-  "tomorrow": {
    "date": "2026-11-22",
    "weekday": "воскресенье",
    "wd": 6,
-   "tmax": 12.7,
-   "tmin": 7.9,
-   "feel_max": 8.4,
-   "feel_min": 3.9,
-   "eve": 8.4,
-   "eve_feel": 4.4,
-   "precip": 0.1,
-   "pop": 38,
+   "tmax": 13.4,
+   "tmin": 7.4,
+   "feel_max": 7.8,
+   "feel_min": 3.5,
+   "eve": 7.8,
+   "eve_feel": 3.7,
+   "precip": 0.0,
+   "pop": 25,
    "code": 3,
    "sky": "пасмурно",
-   "wind": 28.3,
+   "wind": 32.3,
    "eff": 10.6,
+   "season": "cm"
+  },
+  "tomorrow": {
+   "date": "2026-11-23",
+   "weekday": "понедельник",
+   "wd": 0,
+   "tmax": 12.8,
+   "tmin": 4.1,
+   "feel_max": 10.2,
+   "feel_min": 2.9,
+   "eve": 6.3,
+   "eve_feel": 4.6,
+   "precip": 0.0,
+   "pop": 0,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 19.0,
+   "eff": 11.5,
    "season": "cm"
   },
   "recent": [
@@ -11831,6 +11783,25 @@
     "eff": 11.7,
     "season": "cm",
     "at": "21:54"
+   },
+   {
+    "date": "2026-11-22",
+    "weekday": "воскресенье",
+    "wd": 6,
+    "tmax": 13.4,
+    "tmin": 7.4,
+    "feel_max": 7.8,
+    "feel_min": 3.5,
+    "eve": 7.8,
+    "eve_feel": 3.7,
+    "precip": 0.0,
+    "pop": 25,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 32.3,
+    "eff": 10.6,
+    "season": "cm",
+    "at": "09:48"
    }
   ]
  }
