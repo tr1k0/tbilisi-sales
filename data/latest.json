@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:48+04:00",
+ "updated": "2026-11-22T17:04+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -358,12 +358,10 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
     "XXL"
    ],
    "mine": [
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -848,11 +846,13 @@
     "40",
     "41",
     "42",
+    "43",
     "45",
     "46"
    ],
    "mine": [
-    "42"
+    "42",
+    "43"
    ],
    "need_size": true,
    "comp": "100% cow leather; 100% sheep leather; 100% rubber; 100% sheep leather",
@@ -1787,6 +1787,7 @@
     "85",
     "90",
     "95",
+    "100",
     "105"
    ],
    "mine": [
@@ -2485,12 +2486,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% pig leather; Lining: 65% polyester, 35% cotton, 100% polyester",
    "img": "assets/moodi/c-suede.webp",
@@ -3578,7 +3575,6 @@
    ],
    "sizes_avail": [
     "2 XS",
-    "6 XL",
     "7",
     "8"
    ],
@@ -5720,14 +5716,12 @@
     "48"
    ],
    "sizes_avail": [
-    "38",
     "40",
     "42",
     "44",
     "46"
    ],
    "mine": [
-    "38",
     "40"
    ],
    "need_size": true,
@@ -5836,6 +5830,7 @@
    ],
    "sizes_avail": [
     "30           ",
+    "32           ",
     "34           ",
     "36           "
    ],
@@ -8401,7 +8396,9 @@
     "44",
     "45"
    ],
-   "sizes_avail": [],
+   "sizes_avail": [
+    "40"
+   ],
    "mine": [],
    "need_size": true,
    "comp": "Upper: 70% polyurethane thermoplastic, 30% polyester; Lining: 85% polyester, 15% elastane; Sole: 100% rubber; Insole: 80% polyester, 20% ethylene vinyl acetate; Tongue: 100% polyurethane",
@@ -8656,13 +8653,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
-    "L",
-    "XL"
+    "M"
    ],
    "mine": [
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -11002,9 +10996,9 @@
  ],
  "markdowns_nosize": [
   {
-   "pid": "549169924",
+   "pid": "549169926",
    "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
    "price": 159.0,
    "old": 259.0,
    "disc": 39,
@@ -11012,14 +11006,21 @@
    "family": "WIND-JACKET",
    "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
-   "color": "Navy blue",
+   "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
+   "color": "Black",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
    "reason": "твоего размера нет",
    "store": "Zara",
    "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
+     "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
+     "mine": [],
+     "price": 159.0
+    },
     {
      "color": "Navy blue",
      "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
@@ -11059,6 +11060,15 @@
   }
  ],
  "markdowns_rejected": [
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071598",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
   {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
@@ -11362,7 +11372,7 @@
   "✓ sp02 219.0  размер: S,M,L",
   "✓ sp03 179.0  размер: ",
   "✓ sp04 584  размер: ",
-  "✓ sp05 179.0  размер: M,L",
+  "✓ sp05 179.0  размер: M",
   "✓ sp06 179.0  размер: M,L",
   "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
   "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
@@ -11440,7 +11450,7 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 323  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 25"
+  "Zara: уценок от 30% — 27"
  ],
  "weather": {
   "today": {
@@ -11448,35 +11458,35 @@
    "weekday": "воскресенье",
    "wd": 6,
    "tmax": 13.4,
-   "tmin": 7.4,
-   "feel_max": 7.8,
-   "feel_min": 3.5,
-   "eve": 7.8,
-   "eve_feel": 3.7,
+   "tmin": 7.0,
+   "feel_max": 7.6,
+   "feel_min": 2.7,
+   "eve": 7.9,
+   "eve_feel": 3.5,
    "precip": 0.0,
    "pop": 25,
    "code": 3,
    "sky": "пасмурно",
    "wind": 32.3,
-   "eff": 10.6,
+   "eff": 10.5,
    "season": "cm"
   },
   "tomorrow": {
    "date": "2026-11-23",
    "weekday": "понедельник",
    "wd": 0,
-   "tmax": 12.8,
+   "tmax": 12.4,
    "tmin": 4.1,
-   "feel_max": 10.2,
-   "feel_min": 2.9,
-   "eve": 6.3,
-   "eve_feel": 4.6,
+   "feel_max": 10.1,
+   "feel_min": 2.5,
+   "eve": 5.8,
+   "eve_feel": 3.9,
    "precip": 0.0,
    "pop": 0,
    "code": 3,
    "sky": "пасмурно",
-   "wind": 19.0,
-   "eff": 11.5,
+   "wind": 18.0,
+   "eff": 11.2,
    "season": "cm"
   },
   "recent": [
@@ -11789,19 +11799,19 @@
     "weekday": "воскресенье",
     "wd": 6,
     "tmax": 13.4,
-    "tmin": 7.4,
-    "feel_max": 7.8,
-    "feel_min": 3.5,
-    "eve": 7.8,
-    "eve_feel": 3.7,
+    "tmin": 7.0,
+    "feel_max": 7.6,
+    "feel_min": 2.7,
+    "eve": 7.9,
+    "eve_feel": 3.5,
     "precip": 0.0,
     "pop": 25,
     "code": 3,
     "sky": "пасмурно",
     "wind": 32.3,
-    "eff": 10.6,
+    "eff": 10.5,
     "season": "cm",
-    "at": "09:48"
+    "at": "17:04"
    }
   ]
  }

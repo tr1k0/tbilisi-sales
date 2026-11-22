@@ -308,18 +308,18 @@
   "weekday": "воскресенье",
   "wd": 6,
   "tmax": 13.4,
-  "tmin": 7.4,
-  "feel_max": 7.8,
-  "feel_min": 3.5,
-  "eve": 7.8,
-  "eve_feel": 3.7,
+  "tmin": 7.0,
+  "feel_max": 7.6,
+  "feel_min": 2.7,
+  "eve": 7.9,
+  "eve_feel": 3.5,
   "precip": 0.0,
   "pop": 25,
   "code": 3,
   "sky": "пасмурно",
   "wind": 32.3,
-  "eff": 10.6,
+  "eff": 10.5,
   "season": "cm",
-  "at": "09:48"
+  "at": "17:04"
  }
 }
