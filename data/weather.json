@@ -308,11 +308,11 @@
   "weekday": "воскресенье",
   "wd": 6,
   "tmax": 13.4,
-  "tmin": 7.0,
+  "tmin": 7.3,
   "feel_max": 7.6,
-  "feel_min": 2.7,
-  "eve": 7.9,
-  "eve_feel": 3.5,
+  "feel_min": 3.2,
+  "eve": 8.2,
+  "eve_feel": 4.4,
   "precip": 0.0,
   "pop": 25,
   "code": 3,
@@ -320,6 +320,6 @@
   "wind": 32.3,
   "eff": 10.5,
   "season": "cm",
-  "at": "17:04"
+  "at": "22:19"
  }
 }
