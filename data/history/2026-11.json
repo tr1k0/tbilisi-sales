@@ -4665,7 +4665,7 @@
   "p-bedale": 3350,
   "m-z-white-shirt": 179.0,
   "m-z-black-shirt": 179.0,
-  "b-samba": 232,
+  "b-samba": 216,
   "c-coat": 559.0,
   "c-cable": 179.0,
   "c-jeans": 179.0,
@@ -4716,7 +4716,7 @@
   "og-benoit": 1026,
   "drakes-chambray": 1172,
   "og-dungaree": 391,
-  "pf-camp": 469,
+  "pf-camp": 466,
   "cz-pima-polo": 129.0,
   "cz-pique-navy": 179.0,
   "md-ls-polo": 190.0,
@@ -4746,7 +4746,7 @@
   "nike-af1": 386,
   "jordan-1-low": 402,
   "onitsuka-mx66": 402,
-  "sebago-dock": 546,
+  "sebago-dock": 267,
   "cz-laptop": 259.0,
   "md-tote": 900.0,
   "cc-isar": 1151,
@@ -4887,6 +4887,7 @@
   "z575689539": 99.0,
   "z558231297": 99.0,
   "z557175080": 179.0,
-  "z565424841": 179.0
+  "z565424841": 179.0,
+  "z555071597": 79.0
  }
 }

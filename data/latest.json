@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:34+04:00",
+ "updated": "2026-11-23T19:41+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -25,6 +25,7 @@
     "48"
    ],
    "sizes_avail": [
+    "36",
     "38",
     "40",
     "42",
@@ -357,11 +358,13 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "XL",
     "XXL"
    ],
    "mine": [
+    "S",
     "M"
    ],
    "need_size": true,
@@ -2075,8 +2078,7 @@
     "44"
    ],
    "sizes_avail": [
-    "42",
-    "44"
+    "42"
    ],
    "mine": [],
    "need_size": true,
@@ -2281,9 +2283,7 @@
     "46",
     "47"
    ],
-   "sizes_avail": [
-    "41"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
@@ -2489,8 +2489,12 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% pig leather; Lining: 65% polyester, 35% cotton, 100% polyester",
    "img": "assets/moodi/c-suede.webp",
@@ -3049,14 +3053,14 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price": 232,
-   "price_foreign": 86.0,
+   "price": 216,
+   "price_foreign": 80.0,
    "cur": "USD",
    "old": null,
    "need_size": false,
    "in_stock": true,
    "img": "assets/moodi/b-samba.webp",
-   "note": "Цена 86 USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
+   "note": "Цена 80 USD пересчитана в ₾ с НДС 18% и сбором, без доставки"
   },
   {
    "id": "b-loafer",
@@ -3574,6 +3578,7 @@
    ],
    "sizes_avail": [
     "2 XS",
+    "6 XL",
     "7",
     "8"
    ],
@@ -3897,11 +3902,13 @@
     "XXL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
     "XXL"
    ],
    "mine": [
+    "S",
     "M",
     "L"
    ],
@@ -4563,7 +4570,8 @@
    "sizes_avail": [
     "S",
     "M",
-    "L"
+    "L",
+    "XL"
    ],
    "mine": [
     "S",
@@ -4935,13 +4943,11 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -5210,10 +5216,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 141.0,
+   "price_foreign": 140.0,
    "old_foreign": null,
    "cur": "USD",
-   "price": 469,
+   "price": 466,
    "old": null,
    "sizes_all": [
     "XS",
@@ -5322,13 +5328,11 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -5822,7 +5826,6 @@
     "36           "
    ],
    "sizes_avail": [
-    "32           ",
     "36           "
    ],
    "mine": [],
@@ -6721,11 +6724,11 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price_foreign": 165.0,
-   "old_foreign": null,
+   "price_foreign": 99.0,
+   "old_foreign": 165.0,
    "cur": "USD",
-   "price": 546,
-   "old": null,
+   "price": 267,
+   "old": 546,
    "sizes_all": [
     "6.5 908",
     "7 908",
@@ -6800,7 +6803,6 @@
     "10.5 908",
     "11 908",
     "11.5 908",
-    "12 908",
     "13 908",
     "14 908"
    ],
@@ -7881,8 +7883,12 @@
    "sizes_all": [
     "M"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
    "need_size": false,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-wool-scarf.webp",
@@ -8809,10 +8815,14 @@
     "XL"
    ],
    "sizes_avail": [
-    "M"
+    "S",
+    "M",
+    "L"
    ],
    "mine": [
-    "M"
+    "S",
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% polyester; Lining: 100% polyamide, 100% polyester",
@@ -9639,7 +9649,9 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
+   "sizes_avail": [
+    "S"
+   ],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 83% cotton, 17% polyester",
@@ -9775,7 +9787,8 @@
    ],
    "sizes_avail": [
     "40",
-    "41"
+    "41",
+    "45"
    ],
    "mine": [],
    "need_size": true,
@@ -11014,6 +11027,15 @@
  ],
  "markdowns_rejected": [
   {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
    "price": 79.0,
@@ -11077,15 +11099,6 @@
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "COMFORT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773004",
-   "price": 179.0,
-   "old": 299.0,
-   "disc": 40,
-   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
    "name": "SLIM FIT SUIT BLAZER",
    "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
    "price": 179.0,
@@ -11101,6 +11114,15 @@
    "old": 299.0,
    "disc": 40,
    "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773004",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
@@ -11230,7 +11252,7 @@
   "· nb-990v6 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· asics-k14 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
-  "✓ sebago-dock 546  размер: 9 908,9.5 908,10 908,9.5 908,10 908",
+  "✓ sebago-dock 267 546 размер: 9 908,9.5 908,10 908,9.5 908,10 908",
   "✓ cz-laptop 259.0  размер: ONE SIZE ONLY",
   "✓ md-tote 900.0  размер: 01",
   "✓ cc-isar 1151  размер: Default Title",
@@ -11263,7 +11285,7 @@
   "· acne-face-beanie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· carhartt-watch-hat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· rl-cap None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-wool-scarf 129.0  размер: ",
+  "✓ cz-wool-scarf 129.0  размер: M",
   "✓ md-fringe-scarf 290.0  размер: 01",
   "✓ md-cash-scarf 690.0  размер: 01",
   "· cos-cash-scarf None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11312,7 +11334,7 @@
   "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
   "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
   "✓ sp09 179.0  размер: S,M,L",
-  "✓ sp10 159.0  размер: M",
+  "✓ sp10 159.0  размер: S,M,L",
   "✓ sp11 284 578 размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard",
   "✓ sp12 695 864 размер: Small / Stone / Standard,Medium / Stone / Standard,Large / Stone / Standard,Extra Large / Stone / Standard",
   "✓ sp14 969  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
@@ -11385,43 +11407,43 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 323  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 24"
+  "Zara: уценок от 30% — 25"
  ],
  "weather": {
   "today": {
    "date": "2026-11-23",
    "weekday": "понедельник",
    "wd": 0,
-   "tmax": 12.1,
-   "tmin": 3.7,
-   "feel_max": 9.5,
+   "tmax": 12.6,
+   "tmin": 4.3,
+   "feel_max": 10.0,
    "feel_min": 1.9,
-   "eve": 5.5,
-   "eve_feel": 3.7,
+   "eve": 6.1,
+   "eve_feel": 4.2,
    "precip": 0.0,
    "pop": 0,
    "code": 3,
    "sky": "пасмурно",
    "wind": 21.3,
-   "eff": 10.8,
+   "eff": 11.3,
    "season": "cm"
   },
   "tomorrow": {
    "date": "2026-11-24",
    "weekday": "вторник",
    "wd": 1,
-   "tmax": 13.7,
-   "tmin": 3.0,
-   "feel_max": 11.4,
-   "feel_min": 0.8,
-   "eve": 7.3,
-   "eve_feel": 5.4,
+   "tmax": 14.3,
+   "tmin": 3.3,
+   "feel_max": 11.6,
+   "feel_min": 1.1,
+   "eve": 7.0,
+   "eve_feel": 5.1,
    "precip": 0.0,
    "pop": 25,
    "code": 3,
    "sky": "пасмурно",
-   "wind": 26.1,
-   "eff": 12.6,
+   "wind": 7.3,
+   "eff": 12.9,
    "season": "cm"
   },
   "recent": [
@@ -11752,20 +11774,20 @@
     "date": "2026-11-23",
     "weekday": "понедельник",
     "wd": 0,
-    "tmax": 12.1,
-    "tmin": 3.7,
-    "feel_max": 9.5,
+    "tmax": 12.6,
+    "tmin": 4.3,
+    "feel_max": 10.0,
     "feel_min": 1.9,
-    "eve": 5.5,
-    "eve_feel": 3.7,
+    "eve": 6.1,
+    "eve_feel": 4.2,
     "precip": 0.0,
     "pop": 0,
     "code": 3,
     "sky": "пасмурно",
     "wind": 21.3,
-    "eff": 10.8,
+    "eff": 11.3,
     "season": "cm",
-    "at": "10:34"
+    "at": "19:41"
    }
   ]
  }

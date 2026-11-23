@@ -250,7 +250,7 @@
    "old": null
   },
   "b-samba": {
-   "price": 232,
+   "price": 216,
    "old": null
   },
   "c-coat": {
@@ -422,7 +422,7 @@
    "old": null
   },
   "pf-camp": {
-   "price": 469,
+   "price": 466,
    "old": null
   },
   "cz-pima-polo": {
@@ -530,8 +530,8 @@
    "old": null
   },
   "sebago-dock": {
-   "price": 546,
-   "old": null
+   "price": 267,
+   "old": 546
   },
   "cz-laptop": {
    "price": 259.0,
@@ -688,6 +688,7 @@
   "w3-polo": {
    "price": 230.0,
    "mine": [
+    "S",
     "M"
    ]
   },
@@ -1370,7 +1371,7 @@
    "told_price": 99.0
   },
   "555071597": {
-   "checked": "2026-11-22"
+   "checked": "2026-11-23"
   },
   "545422945": {
    "checked": "2026-11-20",
