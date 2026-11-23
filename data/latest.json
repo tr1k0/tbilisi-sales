@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:41+04:00",
+ "updated": "2026-11-24T02:29+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -358,13 +358,11 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "XL",
     "XXL"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -1114,7 +1112,6 @@
     "105"
    ],
    "sizes_avail": [
-    "95",
     "100",
     "105"
    ],
@@ -2078,7 +2075,8 @@
     "44"
    ],
    "sizes_avail": [
-    "42"
+    "42",
+    "44"
    ],
    "mine": [],
    "need_size": true,
@@ -2253,8 +2251,12 @@
    "sizes_all": [
     "M"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
    "need_size": false,
    "comp": "Outer Shell: 90% wool, 10% cashmere",
    "img": "assets/moodi/d-scarf.webp",
@@ -2489,12 +2491,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% pig leather; Lining: 65% polyester, 35% cotton, 100% polyester",
    "img": "assets/moodi/c-suede.webp",
@@ -3129,8 +3127,7 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "M",
@@ -3263,13 +3260,11 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
     "XL"
    ],
    "mine": [
     "S",
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
@@ -3902,13 +3897,11 @@
     "XXL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XXL"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -4138,9 +4131,12 @@
     "XL"
    ],
    "sizes_avail": [
+    "L",
     "XL"
    ],
-   "mine": [],
+   "mine": [
+    "L"
+   ],
    "need_size": true,
    "comp": "100% polyester; 100% polyamide; 80% grey duck down, 20% feather",
    "img": "assets/cat/md-parka.webp",
@@ -4570,8 +4566,7 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "S",
@@ -4864,8 +4859,6 @@
     "S",
     "M",
     "M",
-    "L",
-    "XL",
     "XL",
     "XXL"
    ],
@@ -4873,8 +4866,7 @@
     "S",
     "S",
     "M",
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "100% cotton",
@@ -6309,7 +6301,6 @@
     "41",
     "42",
     "43",
-    "44",
     "45"
    ],
    "mine": [
@@ -7690,7 +7681,6 @@
     "7in",
     "7.5in",
     "6.5in",
-    "7.5in",
     "8in",
     "8.5in",
     "9in"
@@ -7700,7 +7690,6 @@
     "7in",
     "7.5in",
     "6.5in",
-    "7.5in",
     "8in",
     "8.5in",
     "9in"
@@ -7883,12 +7872,8 @@
    "sizes_all": [
     "M"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-wool-scarf.webp",
@@ -9009,8 +8994,7 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
-    "XXL"
+    "L"
    ],
    "mine": [
     "S",
@@ -9295,8 +9279,7 @@
     "S",
     "M",
     "L",
-    "XL",
-    "XXL"
+    "XL"
    ],
    "mine": [
     "S",
@@ -10231,12 +10214,10 @@
     "XX Large / Oyster / Standard"
    ],
    "sizes_avail": [
-    "Medium / Oyster / Standard",
     "Large / Oyster / Standard",
     "Extra Large / Oyster / Standard"
    ],
    "mine": [
-    "Medium / Oyster / Standard",
     "Large / Oyster / Standard",
     "Extra Large / Oyster / Standard"
    ],
@@ -10945,7 +10926,6 @@
    "color": "Red",
    "mine": [
     "L",
-    "M",
     "S"
    ],
    "size_class": "top",
@@ -10959,10 +10939,41 @@
      "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
      "mine": [
       "S",
-      "M",
       "L"
      ],
      "price": 159.0
+    }
+   ]
+  },
+  {
+   "pid": "545490745",
+   "name": "WASHED TEXTURED RELAXED FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490745",
+   "price": 75.0,
+   "old": 109.0,
+   "disc": 31,
+   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/86b8/bf69/0e1c48c2a040/c9c094439b9e/02621311682-e1/02621311682-e1.jpg?ts=1785249610928&w=750",
+   "color": "Red",
+   "mine": [
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Red",
+     "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490745",
+     "img": "https://static.zara.net/assets/public/86b8/bf69/0e1c48c2a040/c9c094439b9e/02621311682-e1/02621311682-e1.jpg?ts=1785249610928&w=750",
+     "mine": [
+      "S"
+     ],
+     "price": 75.0
     }
    ]
   }
@@ -11026,15 +11037,6 @@
   }
  ],
  "markdowns_rejected": [
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
   {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
@@ -11275,7 +11277,7 @@
   "✓ moscot-lemtosh 1103  размер: 44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ jmm-torino 4433  размер: ",
-  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,6.5in,7.5in,8in,8.5in,9in",
+  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,6.5in,8in,8.5in,9in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
   "· tomwood-cushion None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11285,7 +11287,7 @@
   "· acne-face-beanie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· carhartt-watch-hat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· rl-cap None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-wool-scarf 129.0  размер: M",
+  "✓ cz-wool-scarf 129.0  размер: ",
   "✓ md-fringe-scarf 290.0  размер: 01",
   "✓ md-cash-scarf 690.0  размер: 01",
   "· cos-cash-scarf None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11382,7 +11384,7 @@
   "✓ sp58 565  размер: S,M",
   "✓ sp59 1004  размер: S,M,L",
   "· sp60 None  reigningchamp.com: 404",
-  "✓ sp61 397 492 размер: Medium / Oyster / Standard,Large / Oyster / Standard,Extra Large / Oyster / Standard",
+  "✓ sp61 397 492 размер: Large / Oyster / Standard,Extra Large / Oyster / Standard",
   "✓ sp62 492  размер: Large / Heather Oatmeal / Standard",
   "✓ sp63 359  размер: ",
   "✓ sp64 359  размер: ",
@@ -11411,40 +11413,40 @@
  ],
  "weather": {
   "today": {
-   "date": "2026-11-23",
-   "weekday": "понедельник",
-   "wd": 0,
-   "tmax": 12.6,
-   "tmin": 4.3,
-   "feel_max": 10.0,
-   "feel_min": 1.9,
-   "eve": 6.1,
-   "eve_feel": 4.2,
-   "precip": 0.0,
-   "pop": 0,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 21.3,
-   "eff": 11.3,
-   "season": "cm"
-  },
-  "tomorrow": {
    "date": "2026-11-24",
    "weekday": "вторник",
    "wd": 1,
-   "tmax": 14.3,
-   "tmin": 3.3,
-   "feel_max": 11.6,
-   "feel_min": 1.1,
-   "eve": 7.0,
-   "eve_feel": 5.1,
+   "tmax": 14.6,
+   "tmin": 3.1,
+   "feel_max": 11.9,
+   "feel_min": 1.0,
+   "eve": 6.9,
+   "eve_feel": 5.0,
    "precip": 0.0,
-   "pop": 25,
+   "pop": 13,
    "code": 3,
    "sky": "пасмурно",
-   "wind": 7.3,
-   "eff": 12.9,
+   "wind": 14.6,
+   "eff": 13.2,
    "season": "cm"
+  },
+  "tomorrow": {
+   "date": "2026-11-25",
+   "weekday": "среда",
+   "wd": 2,
+   "tmax": 8.7,
+   "tmin": 3.0,
+   "feel_max": 5.1,
+   "feel_min": -3.9,
+   "eve": 3.3,
+   "eve_feel": -3.2,
+   "precip": 5.0,
+   "pop": 90,
+   "code": 80,
+   "sky": "ливень",
+   "wind": 47.8,
+   "eff": 6.9,
+   "season": "win"
   },
   "recent": [
    {
@@ -11788,6 +11790,25 @@
     "eff": 11.3,
     "season": "cm",
     "at": "19:41"
+   },
+   {
+    "date": "2026-11-24",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 14.6,
+    "tmin": 3.1,
+    "feel_max": 11.9,
+    "feel_min": 1.0,
+    "eve": 6.9,
+    "eve_feel": 5.0,
+    "precip": 0.0,
+    "pop": 13,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 14.6,
+    "eff": 13.2,
+    "season": "cm",
+    "at": "02:29"
    }
   ]
  }
