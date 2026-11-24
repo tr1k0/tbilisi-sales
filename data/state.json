@@ -931,7 +931,10 @@
   },
   "z-track": {
    "price": 179.0,
-   "mine": []
+   "mine": [
+    "S",
+    "M"
+   ]
   },
   "z-cap": {
    "price": 69.0,

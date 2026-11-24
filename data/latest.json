@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:29+04:00",
+ "updated": "2026-11-24T13:02+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -1655,7 +1655,6 @@
    ],
    "sizes_avail": [
     "6",
-    "7.5",
     "8",
     "8.5",
     "9",
@@ -1963,8 +1962,14 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "S",
+    "M"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
    "img": "assets/items/z-track.webp",
@@ -3572,7 +3577,6 @@
     "8"
    ],
    "sizes_avail": [
-    "2 XS",
     "6 XL",
     "7",
     "8"
@@ -3747,8 +3751,12 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
    "img": "assets/cat/cz-leather.webp",
@@ -4131,10 +4139,12 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
     "L",
     "XL"
    ],
    "mine": [
+    "S",
     "L"
    ],
    "need_size": true,
@@ -4220,8 +4230,7 @@
     "50",
     "52",
     "52",
-    "54",
-    "58"
+    "54"
    ],
    "mine": [
     "50",
@@ -4607,8 +4616,12 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-knit-polo.webp",
@@ -5320,11 +5333,13 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
+    "S",
     "M",
     "L"
    ],
@@ -6786,7 +6801,6 @@
     "13 908",
     "14 908",
     "15 908",
-    "8 908",
     "7 908",
     "8.5 908",
     "9.5 908",
@@ -8583,8 +8597,14 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "S",
+    "M"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
    "need_size": true,
    "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
    "img": "assets/sport/d871fca9895b.webp",
@@ -8994,7 +9014,9 @@
    "sizes_avail": [
     "S",
     "M",
-    "L"
+    "L",
+    "XL",
+    "XXL"
    ],
    "mine": [
     "S",
@@ -9667,7 +9689,6 @@
    ],
    "sizes_avail": [
     "32",
-    "33",
     "34",
     "36"
    ],
@@ -9770,8 +9791,7 @@
    ],
    "sizes_avail": [
     "40",
-    "41",
-    "45"
+    "41"
    ],
    "mine": [],
    "need_size": true,
@@ -10267,15 +10287,9 @@
    "plan_price": 449.0,
    "size": "top",
    "group": "sp",
-   "ok": true,
-   "price": 359,
-   "price_foreign": 359.0,
-   "cur": "GEL",
-   "old": null,
-   "need_size": false,
-   "in_stock": true,
-   "img": "assets/sport/3617dd3a8b3f.webp",
-   "note": ""
+   "ok": false,
+   "err": "dressup.ge: цены в разметке страницы нет",
+   "img": "assets/sport/3617dd3a8b3f.webp"
   },
   {
    "id": "sp64",
@@ -10944,69 +10958,9 @@
      "price": 159.0
     }
    ]
-  },
-  {
-   "pid": "545490745",
-   "name": "WASHED TEXTURED RELAXED FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490745",
-   "price": 75.0,
-   "old": 109.0,
-   "disc": 31,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 100% cotton",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/86b8/bf69/0e1c48c2a040/c9c094439b9e/02621311682-e1/02621311682-e1.jpg?ts=1785249610928&w=750",
-   "color": "Red",
-   "mine": [
-    "S"
-   ],
-   "size_class": "top",
-   "verdict": "ok",
-   "reason": "",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Red",
-     "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490745",
-     "img": "https://static.zara.net/assets/public/86b8/bf69/0e1c48c2a040/c9c094439b9e/02621311682-e1/02621311682-e1.jpg?ts=1785249610928&w=750",
-     "mine": [
-      "S"
-     ],
-     "price": 75.0
-    }
-   ]
   }
  ],
  "markdowns_nosize": [
-  {
-   "pid": "549169924",
-   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
-   "price": 159.0,
-   "old": 259.0,
-   "disc": 39,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "WIND-JACKET",
-   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
-   "color": "Navy blue",
-   "mine": [],
-   "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Navy blue",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
-     "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
-     "mine": [],
-     "price": 159.0
-    }
-   ]
-  },
   {
    "pid": "558231297",
    "name": "LOOSE-FIT JEANS",
@@ -11317,7 +11271,7 @@
   "✓ z-trench 379.0  размер: S,M,L",
   "✓ z-retro 179.0  размер: 42,43",
   "✓ z-knit-blue 159.0  размер: M,L",
-  "✓ z-track 179.0  размер: ",
+  "✓ z-track 179.0  размер: S,M",
   "✓ z-cap 69.0  размер: M",
   "✓ w1-jeans~alt 332  размер: ",
   "· w5-merino~alt None  dressup.ge: цены в разметке страницы нет",
@@ -11329,7 +11283,7 @@
   "✓ sp00 460  размер: ",
   "✓ sp01 469 769 размер: Medium / Oat / Standard,Large / Oat / Standard,Extra Large / Oat / Standard",
   "✓ sp02 219.0  размер: S,M,L",
-  "✓ sp03 179.0  размер: ",
+  "✓ sp03 179.0  размер: S,M",
   "✓ sp04 584  размер: ",
   "✓ sp05 179.0  размер: M",
   "✓ sp06 179.0  размер: M,L",
@@ -11386,7 +11340,7 @@
   "· sp60 None  reigningchamp.com: 404",
   "✓ sp61 397 492 размер: Large / Oyster / Standard,Extra Large / Oyster / Standard",
   "✓ sp62 492  размер: Large / Heather Oatmeal / Standard",
-  "✓ sp63 359  размер: ",
+  "· sp63 None  dressup.ge: цены в разметке страницы нет",
   "✓ sp64 359  размер: ",
   "· sp66 None  dressup.ge: цены в разметке страницы нет",
   "✓ sp67 521  размер: ",
@@ -11409,43 +11363,43 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 323  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 25"
+  "Zara: уценок от 30% — 23"
  ],
  "weather": {
   "today": {
    "date": "2026-11-24",
    "weekday": "вторник",
    "wd": 1,
-   "tmax": 14.6,
-   "tmin": 3.1,
+   "tmax": 14.7,
+   "tmin": 2.5,
    "feel_max": 11.9,
-   "feel_min": 1.0,
-   "eve": 6.9,
-   "eve_feel": 5.0,
+   "feel_min": 0.4,
+   "eve": 6.7,
+   "eve_feel": 4.5,
    "precip": 0.0,
    "pop": 13,
-   "code": 3,
-   "sky": "пасмурно",
-   "wind": 14.6,
-   "eff": 13.2,
+   "code": 45,
+   "sky": "туман",
+   "wind": 16.5,
+   "eff": 13.3,
    "season": "cm"
   },
   "tomorrow": {
    "date": "2026-11-25",
    "weekday": "среда",
    "wd": 2,
-   "tmax": 8.7,
-   "tmin": 3.0,
-   "feel_max": 5.1,
+   "tmax": 8.5,
+   "tmin": 2.9,
+   "feel_max": 4.9,
    "feel_min": -3.9,
    "eve": 3.3,
-   "eve_feel": -3.2,
-   "precip": 5.0,
-   "pop": 90,
+   "eve_feel": -3.3,
+   "precip": 5.2,
+   "pop": 98,
    "code": 80,
    "sky": "ливень",
-   "wind": 47.8,
-   "eff": 6.9,
+   "wind": 50.4,
+   "eff": 6.7,
    "season": "win"
   },
   "recent": [
@@ -11795,20 +11749,20 @@
     "date": "2026-11-24",
     "weekday": "вторник",
     "wd": 1,
-    "tmax": 14.6,
-    "tmin": 3.1,
+    "tmax": 14.7,
+    "tmin": 2.5,
     "feel_max": 11.9,
-    "feel_min": 1.0,
-    "eve": 6.9,
-    "eve_feel": 5.0,
+    "feel_min": 0.4,
+    "eve": 6.7,
+    "eve_feel": 4.5,
     "precip": 0.0,
     "pop": 13,
-    "code": 3,
-    "sky": "пасмурно",
-    "wind": 14.6,
-    "eff": 13.2,
+    "code": 45,
+    "sky": "туман",
+    "wind": 16.5,
+    "eff": 13.3,
     "season": "cm",
-    "at": "02:29"
+    "at": "13:02"
    }
   ]
  }
