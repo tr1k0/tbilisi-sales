@@ -610,8 +610,8 @@
    "old": null
   },
   "cdlp-boxer": {
-   "price": 450,
-   "old": null
+   "price": 292,
+   "old": 450
   },
   "sunspel-boxer": {
    "price": 435,
@@ -932,7 +932,6 @@
   "z-track": {
    "price": 179.0,
    "mine": [
-    "S",
     "M"
    ]
   },

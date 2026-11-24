@@ -345,19 +345,19 @@
   "date": "2026-11-24",
   "weekday": "вторник",
   "wd": 1,
-  "tmax": 14.7,
+  "tmax": 14.9,
   "tmin": 2.5,
-  "feel_max": 11.9,
+  "feel_max": 12.3,
   "feel_min": 0.4,
-  "eve": 6.7,
-  "eve_feel": 4.5,
+  "eve": 6.8,
+  "eve_feel": 4.8,
   "precip": 0.0,
-  "pop": 13,
+  "pop": 10,
   "code": 45,
   "sky": "туман",
-  "wind": 16.5,
-  "eff": 13.3,
+  "wind": 7.7,
+  "eff": 13.6,
   "season": "cm",
-  "at": "13:02"
+  "at": "19:32"
  }
 }

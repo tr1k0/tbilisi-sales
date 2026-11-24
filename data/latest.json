@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:02+04:00",
+ "updated": "2026-11-24T19:32+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -1963,11 +1963,9 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -2466,8 +2464,7 @@
     "43",
     "44",
     "45",
-    "46",
-    "47"
+    "46"
    ],
    "mine": [
     "42",
@@ -3751,12 +3748,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
    "img": "assets/cat/cz-leather.webp",
@@ -4617,7 +4610,8 @@
     "XL"
    ],
    "sizes_avail": [
-    "M"
+    "M",
+    "XL"
    ],
    "mine": [
     "M"
@@ -4949,12 +4943,10 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
     "XL"
    ],
    "mine": [
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -5861,7 +5853,9 @@
     "36           "
    ],
    "sizes_avail": [
-    "31           "
+    "31           ",
+    "34           ",
+    "36           "
    ],
    "mine": [],
    "need_size": true,
@@ -6386,7 +6380,6 @@
     "18"
    ],
    "sizes_avail": [
-    "6",
     "9"
    ],
    "mine": [
@@ -8150,11 +8143,11 @@
    "plan_price": 234,
    "group": "site",
    "ok": true,
-   "price_foreign": 135.0,
-   "old_foreign": null,
+   "price_foreign": 108.0,
+   "old_foreign": 135.0,
    "cur": "USD",
-   "price": 450,
-   "old": null,
+   "price": 292,
+   "old": 450,
    "sizes_all": [
     "XS",
     "S",
@@ -8598,11 +8591,9 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M"
    ],
    "mine": [
-    "S",
     "M"
    ],
    "need_size": true,
@@ -9015,7 +9006,6 @@
     "S",
     "M",
     "L",
-    "XL",
     "XXL"
    ],
    "mine": [
@@ -9654,9 +9644,7 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "S"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 83% cotton, 17% polyester",
@@ -9790,7 +9778,6 @@
     "47"
    ],
    "sizes_avail": [
-    "40",
     "41"
    ],
    "mine": [],
@@ -11037,15 +11024,6 @@
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "RELAXED FIT 100% LYOCELL TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
    "name": "COMFORT SUIT DOUBLE-BREASTED BLAZER",
    "url": "https://www.zara.com/ge/en/comfort-suit-double-breasted-blazer-p04457232.html?v1=555080411",
    "price": 179.0,
@@ -11082,15 +11060,6 @@
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "LEATHER CHELSEA BOOTS",
-   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "reason": "подкладка синтетическая"
-  },
-  {
    "name": "CASUAL LEATHER TRAINERS",
    "url": "https://www.zara.com/ge/en/casual-leather-trainers-p12349720.html?v1=545456761",
    "price": 119.0,
@@ -11102,6 +11071,15 @@
   {
    "name": "LEATHER CHELSEA BOOTS",
    "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437164",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
    "price": 119.0,
    "old": 219.0,
    "disc": 46,
@@ -11255,7 +11233,7 @@
   "· hermes-calvi None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· sl-wallet None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· uq-boxers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cdlp-boxer 450  размер: S,M,L,XL,XXL / Black",
+  "✓ cdlp-boxer 292 450 размер: S,M,L,XL,XXL / Black",
   "✓ sunspel-boxer 435 544 размер: XS,S,M,L,XL,XXL",
   "· falke-airport None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· pantherella None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11271,7 +11249,7 @@
   "✓ z-trench 379.0  размер: S,M,L",
   "✓ z-retro 179.0  размер: 42,43",
   "✓ z-knit-blue 159.0  размер: M,L",
-  "✓ z-track 179.0  размер: S,M",
+  "✓ z-track 179.0  размер: M",
   "✓ z-cap 69.0  размер: M",
   "✓ w1-jeans~alt 332  размер: ",
   "· w5-merino~alt None  dressup.ge: цены в разметке страницы нет",
@@ -11283,7 +11261,7 @@
   "✓ sp00 460  размер: ",
   "✓ sp01 469 769 размер: Medium / Oat / Standard,Large / Oat / Standard,Extra Large / Oat / Standard",
   "✓ sp02 219.0  размер: S,M,L",
-  "✓ sp03 179.0  размер: S,M",
+  "✓ sp03 179.0  размер: M",
   "✓ sp04 584  размер: ",
   "✓ sp05 179.0  размер: M",
   "✓ sp06 179.0  размер: M,L",
@@ -11363,43 +11341,43 @@
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 323  размер: ",
   "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 23"
+  "Zara: уценок от 30% — 22"
  ],
  "weather": {
   "today": {
    "date": "2026-11-24",
    "weekday": "вторник",
    "wd": 1,
-   "tmax": 14.7,
+   "tmax": 14.9,
    "tmin": 2.5,
-   "feel_max": 11.9,
+   "feel_max": 12.3,
    "feel_min": 0.4,
-   "eve": 6.7,
-   "eve_feel": 4.5,
+   "eve": 6.8,
+   "eve_feel": 4.8,
    "precip": 0.0,
-   "pop": 13,
+   "pop": 10,
    "code": 45,
    "sky": "туман",
-   "wind": 16.5,
-   "eff": 13.3,
+   "wind": 7.7,
+   "eff": 13.6,
    "season": "cm"
   },
   "tomorrow": {
    "date": "2026-11-25",
    "weekday": "среда",
    "wd": 2,
-   "tmax": 8.5,
-   "tmin": 2.9,
-   "feel_max": 4.9,
-   "feel_min": -3.9,
-   "eve": 3.3,
-   "eve_feel": -3.3,
-   "precip": 5.2,
-   "pop": 98,
+   "tmax": 8.2,
+   "tmin": 3.2,
+   "feel_max": 5.4,
+   "feel_min": -3.4,
+   "eve": 3.6,
+   "eve_feel": -2.8,
+   "precip": 5.7,
+   "pop": 95,
    "code": 80,
    "sky": "ливень",
-   "wind": 50.4,
-   "eff": 6.7,
+   "wind": 46.1,
+   "eff": 6.8,
    "season": "win"
   },
   "recent": [
@@ -11749,20 +11727,20 @@
     "date": "2026-11-24",
     "weekday": "вторник",
     "wd": 1,
-    "tmax": 14.7,
+    "tmax": 14.9,
     "tmin": 2.5,
-    "feel_max": 11.9,
+    "feel_max": 12.3,
     "feel_min": 0.4,
-    "eve": 6.7,
-    "eve_feel": 4.5,
+    "eve": 6.8,
+    "eve_feel": 4.8,
     "precip": 0.0,
-    "pop": 13,
+    "pop": 10,
     "code": 45,
     "sky": "туман",
-    "wind": 16.5,
-    "eff": 13.3,
+    "wind": 7.7,
+    "eff": 13.6,
     "season": "cm",
-    "at": "13:02"
+    "at": "19:32"
    }
   ]
  }
