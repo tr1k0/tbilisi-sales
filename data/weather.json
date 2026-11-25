@@ -364,19 +364,19 @@
   "date": "2026-11-25",
   "weekday": "среда",
   "wd": 2,
-  "tmax": 8.2,
-  "tmin": 3.2,
-  "feel_max": 5.2,
-  "feel_min": -3.4,
+  "tmax": 8.0,
+  "tmin": 3.1,
+  "feel_max": 4.5,
+  "feel_min": -3.2,
   "eve": 3.5,
-  "eve_feel": -2.6,
-  "precip": 7.3,
+  "eve_feel": -2.5,
+  "precip": 5.6,
   "pop": 100,
   "code": 80,
   "sky": "ливень",
-  "wind": 45.1,
-  "eff": 6.7,
+  "wind": 41.0,
+  "eff": 6.2,
   "season": "win",
-  "at": "01:01"
+  "at": "11:40"
  }
 }

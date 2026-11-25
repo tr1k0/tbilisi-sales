@@ -120,6 +120,7 @@
   "w5-tee-white": {
    "price": 79.0,
    "mine": [
+    "S",
     "M",
     "L"
    ]
@@ -931,7 +932,9 @@
   },
   "z-track": {
    "price": 179.0,
-   "mine": []
+   "mine": [
+    "S"
+   ]
   },
   "z-cap": {
    "price": 69.0,
