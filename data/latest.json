@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:18+04:00",
+ "updated": "2026-11-26T00:24+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -253,13 +253,10 @@
     "44"
    ],
    "sizes_avail": [
-    "38",
     "40",
-    "42",
-    "44"
+    "42"
    ],
    "mine": [
-    "38",
     "40"
    ],
    "need_size": true,
@@ -359,13 +356,10 @@
     "XXL"
    ],
    "sizes_avail": [
-    "M",
     "XL",
     "XXL"
    ],
-   "mine": [
-    "M"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "100% cotton",
    "img": "assets/items/polo-navy.webp",
@@ -1080,15 +1074,8 @@
     "100",
     "105"
    ],
-   "sizes_avail": [
-    "90",
-    "95",
-    "100",
-    "105"
-   ],
-   "mine": [
-    "90"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "100% cow leather",
    "img": "https://static.massimodutti.net/assets/public/b016/1bf3/6abd40158988/b7ea4ac0959c/02745305700-o1/02745305700-o1.jpg?ts=1781247783255&w=750",
@@ -1427,19 +1414,15 @@
     "22mm",
     "24mm",
     "24mm",
-    "20mm",
     "22mm",
     "18mm",
     "22mm",
     "24mm",
     "22mm",
-    "20mm",
     "24mm",
     "22mm",
     "24mm",
-    "20mm",
-    "18mm",
-    "20mm"
+    "18mm"
    ],
    "mine": [
     "18mm",
@@ -1447,19 +1430,15 @@
     "22mm",
     "24mm",
     "24mm",
-    "20mm",
     "22mm",
     "18mm",
     "22mm",
     "24mm",
     "22mm",
-    "20mm",
     "24mm",
     "22mm",
     "24mm",
-    "20mm",
-    "18mm",
-    "20mm"
+    "18mm"
    ],
    "need_size": false,
    "comp": "",
@@ -1538,7 +1517,6 @@
     "9",
     "9.5",
     "10",
-    "11.5",
     "12.5"
    ],
    "mine": [
@@ -2311,13 +2289,11 @@
    ],
    "sizes_avail": [
     "42",
-    "43",
     "44",
     "45"
    ],
    "mine": [
-    "42",
-    "43"
+    "42"
    ],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
@@ -2449,11 +2425,13 @@
     "XL"
    ],
    "sizes_avail": [
+    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
+    "S",
     "M",
     "L"
    ],
@@ -3136,9 +3114,7 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "XL"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
@@ -3164,8 +3140,7 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "M",
@@ -3297,11 +3272,13 @@
    ],
    "sizes_avail": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "mine": [
     "S",
-    "M"
+    "M",
+    "L"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
@@ -3360,9 +3337,11 @@
     "XL"
    ],
    "sizes_avail": [
+    "M",
     "L"
    ],
    "mine": [
+    "M",
     "L"
    ],
    "need_size": true,
@@ -3930,15 +3909,8 @@
     "XL",
     "XXL"
    ],
-   "sizes_avail": [
-    "M",
-    "L",
-    "XXL"
-   ],
-   "mine": [
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
    "img": "assets/cat/md-wool-bomber.webp",
@@ -4170,12 +4142,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
     "L",
     "XL"
    ],
    "mine": [
-    "M",
     "L"
    ],
    "need_size": true,
@@ -4260,8 +4230,7 @@
    "sizes_avail": [
     "50",
     "52",
-    "52",
-    "54"
+    "52"
    ],
    "mine": [
     "50",
@@ -4296,13 +4265,11 @@
    "sizes_avail": [
     "46",
     "48",
-    "50",
     "52",
     "54",
     "56"
    ],
    "mine": [
-    "50",
     "52"
    ],
    "need_size": true,
@@ -4461,8 +4428,6 @@
     "56"
    ],
    "sizes_avail": [
-    "46",
-    "48",
     "50",
     "52",
     "54"
@@ -4604,12 +4569,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -4895,20 +4858,8 @@
     "XXL",
     "XXL"
    ],
-   "sizes_avail": [
-    "S",
-    "S",
-    "M",
-    "M",
-    "XL",
-    "XXL"
-   ],
-   "mine": [
-    "S",
-    "S",
-    "M",
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "100% cotton",
    "img": "assets/cat/md-oxford.webp",
@@ -5011,15 +4962,9 @@
     "XXL"
    ],
    "sizes_avail": [
-    "M",
-    "L",
-    "XL",
-    "XXL"
+    "XL"
    ],
-   "mine": [
-    "M",
-    "L"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "100% cotton",
    "img": "assets/cat/md-twill.webp",
@@ -5136,10 +5081,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 220.0,
+   "price_foreign": 192.5,
    "old_foreign": 275.0,
    "cur": "EUR",
-   "price": 825,
+   "price": 724,
    "old": 1026,
    "sizes_all": [
     "XS",
@@ -5211,10 +5156,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 116.0,
+   "price_foreign": 101.5,
    "old_foreign": 145.0,
    "cur": "EUR",
-   "price": 444,
+   "price": 391,
    "old": 550,
    "sizes_all": [
     "XXS",
@@ -5366,17 +5311,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "S",
-    "M",
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "S",
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "100% cotton",
    "img": "assets/cat/md-ls-polo.webp",
@@ -5695,7 +5631,6 @@
     "44"
    ],
    "sizes_avail": [
-    "36",
     "38",
     "40",
     "42",
@@ -6353,7 +6288,6 @@
    ],
    "sizes_avail": [
     "40",
-    "41",
     "42",
     "43",
     "45"
@@ -6466,18 +6400,8 @@
     "45",
     "46"
    ],
-   "sizes_avail": [
-    "40",
-    "41",
-    "42",
-    "43",
-    "44",
-    "45"
-   ],
-   "mine": [
-    "42",
-    "43"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "80% cow leather, 10% elastodiene, 10% polyester; 90% cow leather, 10% polyester; 100% polyurethane thermoplastic; 100% cow leather",
    "img": "assets/cat/md-chelsea.webp",
@@ -6528,15 +6452,10 @@
     "45"
    ],
    "sizes_avail": [
-    "41",
-    "42",
-    "43",
-    "44",
-    "45"
+    "42"
    ],
    "mine": [
-    "42",
-    "43"
+    "42"
    ],
    "need_size": true,
    "comp": "100% cow leather; 80% cow leather, 20% polyester; 100% rubber; 100% cow leather; 100% cow leather",
@@ -6898,12 +6817,8 @@
    "sizes_all": [
     "01"
    ],
-   "sizes_avail": [
-    "01"
-   ],
-   "mine": [
-    "01"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "100% cow leather",
    "img": "assets/cat/md-tote.webp",
@@ -8700,12 +8615,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/sport/58b9999d8cf7.webp",
@@ -9563,12 +9474,10 @@
    ],
    "sizes_avail": [
     "Small / Black / Standard",
-    "Medium / Black / Standard",
     "Large / Black / Standard"
    ],
    "mine": [
-    "Small / Black / Standard",
-    "Medium / Black / Standard"
+    "Small / Black / Standard"
    ],
    "need_size": true,
    "comp": "",
@@ -9851,12 +9760,9 @@
     "39",
     "40",
     "41",
-    "42",
     "44"
    ],
-   "mine": [
-    "42"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
    "img": "assets/sport/e01f5670c7ad.webp",
@@ -11031,9 +10937,9 @@
    ]
   },
   {
-   "pid": "545465620",
+   "pid": "547145160",
    "name": "COTTON REGULAR FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
    "price": 99.0,
    "old": 159.0,
    "disc": 38,
@@ -11041,10 +10947,10 @@
    "family": "SWEATER",
    "comp": "Outer Shell: 100% cotton",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/56e5/dc96/a4994c70b0a3/38091f962c9a/09598454916-e1/09598454916-e1.jpg?ts=1786958124234&w=750",
-   "color": "Grey green",
+   "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+   "color": "Charcoal grey",
    "mine": [
-    "M"
+    "L"
    ],
    "size_class": "top",
    "verdict": "ok",
@@ -11052,11 +10958,20 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Grey green",
-     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
-     "img": "https://static.zara.net/assets/public/56e5/dc96/a4994c70b0a3/38091f962c9a/09598454916-e1/09598454916-e1.jpg?ts=1786958124234&w=750",
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=547145160",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
      "mine": [
-      "M"
+      "L"
+     ],
+     "price": 99.0
+    },
+    {
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=585541385",
+     "img": "https://static.zara.net/assets/public/61a7/924d/d72f4d31a4e2/3c389ec654b6/09598454818-e1/09598454818-e1.jpg?ts=1786958125498&w=750",
+     "mine": [
+      "L"
      ],
      "price": 99.0
     }
@@ -11095,6 +11010,24 @@
  ],
  "markdowns_rejected": [
   {
+   "name": "COMFORT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04404232.html?v1=549809130",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "100% LYOCELL RELAXED FIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 100% lyocell",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
    "name": "SLIM FIT SUIT TROUSERS",
    "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
    "price": 79.0,
@@ -11111,15 +11044,6 @@
    "disc": 50,
    "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
    "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "REGULAR FIT WOOL BLEND SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/wool-blend-regular-fit-suit-trousers-p06407191.html?v1=569460886",
-   "price": 79.0,
-   "old": 179.0,
-   "disc": 56,
-   "comp": "Outer Shell: 59% polyester, 41% wool",
-   "reason": "натуральных волокон 41% — меньше 80%"
   },
   {
    "name": "COMFORT SUIT TROUSERS",
@@ -11158,21 +11082,21 @@
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "SLIM FIT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
-   "price": 179.0,
-   "old": 299.0,
-   "disc": 40,
-   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane; Lining: 100% polyester",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
    "name": "COMFORT SUIT BLAZER",
    "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773006",
    "price": 179.0,
    "old": 299.0,
    "disc": 40,
    "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "SLIM FIT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane; Lining: 100% polyester",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
@@ -11303,10 +11227,10 @@
   "· cos-derby None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ paraboot-chambord 1122 2222 размер: ",
   "· churchs-shannon None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-chelsea 690.0  размер: 42,43",
+  "✓ md-chelsea 690.0  размер: ",
   "· cos-chelsea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· sl-wyatt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-suede-boot 600.0  размер: 42,43",
+  "✓ md-suede-boot 600.0  размер: 42",
   "· redwing-ir None  www.toddsnyder.com: 403",
   "· clarks-desert None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· cp-achilles None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11322,7 +11246,7 @@
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
   "✓ sebago-dock 267 546 размер: 9 908,9.5 908,10 908,9.5 908,10 908",
   "✓ cz-laptop 259.0  размер: ONE SIZE ONLY",
-  "✓ md-tote 900.0  размер: 01",
+  "✓ md-tote 900.0  размер: ",
   "✓ cc-isar 1151  размер: Default Title",
   "· porter-tanker None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bv-arco None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11397,7 +11321,7 @@
   "✓ sp02 219.0  размер: S,M,L",
   "✓ sp03 179.0  размер: S,M,L",
   "✓ sp04 584  размер: ",
-  "✓ sp05 179.0  размер: M",
+  "✓ sp05 179.0  размер: ",
   "✓ sp06 179.0  размер: M,L",
   "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
   "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
@@ -11422,7 +11346,7 @@
   "✓ sp28 428  размер: ",
   "✓ sp29 129.0  размер: M",
   "✓ sp30 129.0  размер: M",
-  "✓ sp31 428  размер: Small / Black / Standard,Medium / Black / Standard",
+  "✓ sp31 428  размер: Small / Black / Standard",
   "✓ sp32 109.0  размер: M",
   "✓ sp33 261 460 размер: Small / Black / Slim,Medium / Black / Slim,Large / Black / Slim,Extra Large / Black / Slim,XX Large / Black / Slim",
   "✓ sp34 396  размер: Small / Heather Natural / Slim,Medium / Heather Natural / Slim,Large / Heather Natural / Slim,Extra Large / Heather Natural / Slim,XX Large / Heather Natural / Slim",
@@ -11431,7 +11355,7 @@
   "✓ sp38 109.0  размер: M",
   "✓ sp39 244  размер: ",
   "✓ sp40 333  размер: ",
-  "✓ sp42 119.0 219.0 размер: 42",
+  "✓ sp42 119.0 219.0 размер: ",
   "✓ sp43 249  размер: ",
   "· sp44 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
   "· sp45 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
@@ -11474,44 +11398,44 @@
   "✓ sp85 523  размер: S,M,L",
   "✓ sp86 159.0  размер: S,M,L",
   "✓ sp87 323  размер: ",
-  "Zara: категорий для уценок — 62",
-  "Zara: уценок от 30% — 25"
+  "Zara: категорий для уценок — 69",
+  "Zara: уценок от 30% — 27"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-25",
-   "weekday": "среда",
-   "wd": 2,
-   "tmax": 8.5,
-   "tmin": 2.8,
-   "feel_max": 4.5,
-   "feel_min": -3.4,
-   "eve": 3.5,
-   "eve_feel": -2.9,
-   "precip": 5.7,
-   "pop": 100,
-   "code": 80,
-   "sky": "ливень",
-   "wind": 39.3,
-   "eff": 6.5,
-   "season": "win"
-  },
-  "tomorrow": {
    "date": "2026-11-26",
    "weekday": "четверг",
    "wd": 3,
-   "tmax": 7.2,
-   "tmin": 0.7,
-   "feel_max": 1.2,
-   "feel_min": -2.4,
-   "eve": 3.0,
+   "tmax": 7.5,
+   "tmin": 0.9,
+   "feel_max": 1.4,
+   "feel_min": -2.2,
+   "eve": 3.3,
    "eve_feel": -0.3,
-   "precip": 0.5,
-   "pop": 13,
+   "precip": 0.1,
+   "pop": 33,
    "code": 61,
    "sky": "дождь",
-   "wind": 27.7,
-   "eff": 4.2,
+   "wind": 31.7,
+   "eff": 4.5,
+   "season": "win"
+  },
+  "tomorrow": {
+   "date": "2026-11-27",
+   "weekday": "пятница",
+   "wd": 4,
+   "tmax": 9.7,
+   "tmin": -1.7,
+   "feel_max": 7.0,
+   "feel_min": -4.5,
+   "eve": 3.0,
+   "eve_feel": 0.5,
+   "precip": 0.0,
+   "pop": 0,
+   "code": 1,
+   "sky": "малооблачно",
+   "wind": 6.2,
+   "eff": 8.3,
    "season": "win"
   },
   "recent": [
@@ -11894,6 +11818,25 @@
     "eff": 6.5,
     "season": "win",
     "at": "19:18"
+   },
+   {
+    "date": "2026-11-26",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 7.5,
+    "tmin": 0.9,
+    "feel_max": 1.4,
+    "feel_min": -2.2,
+    "eve": 3.3,
+    "eve_feel": -0.3,
+    "precip": 0.1,
+    "pop": 33,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 31.7,
+    "eff": 4.5,
+    "season": "win",
+    "at": "00:24"
    }
   ]
  }
