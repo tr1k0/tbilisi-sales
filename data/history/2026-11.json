@@ -5295,9 +5295,9 @@
   "md-cotton-cash": 390.0,
   "cz-flannel": 129.0,
   "md-wool-shirt": 470.0,
-  "og-benoit": 1026,
+  "og-benoit": 825,
   "drakes-chambray": 1172,
-  "og-dungaree": 391,
+  "og-dungaree": 444,
   "pf-camp": 466,
   "cz-pima-polo": 129.0,
   "cz-pique-navy": 179.0,
@@ -5475,6 +5475,7 @@
   "z558231297": 99.0,
   "z557175080": 179.0,
   "z565424841": 179.0,
-  "sp63": 359
+  "sp63": 359,
+  "z545465620": 99.0
  }
 }

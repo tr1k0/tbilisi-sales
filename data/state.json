@@ -651,15 +651,15 @@
    "old": null
   },
   "og-benoit": {
-   "price": 1026,
-   "old": null
+   "price": 825,
+   "old": 1026
   },
   "drakes-chambray": {
    "price": 1172,
    "old": null
   },
   "og-dungaree": {
-   "price": 391,
+   "price": 444,
    "old": 550
   },
   "loopwheeler": {
@@ -933,7 +933,9 @@
   "z-track": {
    "price": 179.0,
    "mine": [
-    "S"
+    "S",
+    "M",
+    "L"
    ]
   },
   "z-cap": {
@@ -1371,7 +1373,7 @@
    "told_price": 99.0
   },
   "545465620": {
-   "checked": "2026-11-14",
+   "checked": "2026-11-25",
    "told": "2026-11-05",
    "told_price": 99.0
   },
