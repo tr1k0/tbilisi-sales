@@ -384,18 +384,18 @@
   "weekday": "четверг",
   "wd": 3,
   "tmax": 7.4,
-  "tmin": 1.3,
+  "tmin": 1.1,
   "feel_max": 1.1,
   "feel_min": -2.7,
-  "eve": 3.4,
-  "eve_feel": -0.6,
+  "eve": 3.5,
+  "eve_feel": -0.5,
   "precip": 0.4,
   "pop": 45,
   "code": 61,
   "sky": "дождь",
-  "wind": 31.4,
+  "wind": 33.3,
   "eff": 4.2,
   "season": "win",
-  "at": "11:30"
+  "at": "18:43"
  }
 }
