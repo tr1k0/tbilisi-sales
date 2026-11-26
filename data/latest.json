@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:43+04:00",
+ "updated": "2026-11-27T00:01+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -25,15 +25,11 @@
     "48"
    ],
    "sizes_avail": [
-    "36",
-    "38",
     "40",
     "42",
-    "44",
-    "46"
+    "44"
    ],
    "mine": [
-    "38",
     "40"
    ],
    "need_size": true,
@@ -242,8 +238,8 @@
    "size": "bottom",
    "group": "plan",
    "ok": true,
-   "price": 400.0,
-   "old": null,
+   "price": 240.0,
+   "old": 400.0,
    "color": "NAVY BLUE",
    "sizes_all": [
     "36",
@@ -252,12 +248,8 @@
     "42",
     "44"
    ],
-   "sizes_avail": [
-    "40"
-   ],
-   "mine": [
-    "40"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "100% wool",
    "img": "assets/cat/md-dbl-pleated.webp",
@@ -273,8 +265,8 @@
    "size": "bottom",
    "group": "plan",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Navy blue",
    "sizes_all": [
     "36",
@@ -285,14 +277,10 @@
    ],
    "sizes_avail": [
     "36",
-    "38",
-    "40",
-    "42",
-    "44"
+    "38"
    ],
    "mine": [
-    "38",
-    "40"
+    "38"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% cotton",
@@ -309,8 +297,8 @@
    "size": "top",
    "group": "plan",
    "ok": true,
-   "price": 219.0,
-   "old": null,
+   "price": 131.0,
+   "old": 219.0,
    "color": "Navy blue",
    "sizes_all": [
     "S",
@@ -321,8 +309,7 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "S",
@@ -343,26 +330,9 @@
    "plan_price": 190,
    "size": "top",
    "group": "plan",
-   "ok": true,
-   "price": 230.0,
-   "old": null,
-   "color": "NAVY BLUE",
-   "sizes_all": [
-    "S",
-    "M",
-    "L",
-    "XL",
-    "XXL"
-   ],
-   "sizes_avail": [
-    "XL",
-    "XXL"
-   ],
-   "mine": [],
-   "need_size": true,
-   "comp": "100% cotton",
-   "img": "assets/items/polo-navy.webp",
-   "cur": "GEL"
+   "ok": false,
+   "err": "Massimo Dutti: в ссылке нет номера товара (pelement)",
+   "img": "assets/items/polo-navy.webp"
   },
   {
    "id": "w5-linen-white",
@@ -911,8 +881,8 @@
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
    "ok": true,
-   "price": 199.0,
-   "old": null,
+   "price": 119.0,
+   "old": 199.0,
    "color": "Sand Brown",
    "sizes_all": [
     "39",
@@ -1066,8 +1036,8 @@
    "alt_of": "w5-belt-woven",
    "alt_label": "Плетёный летний ремень",
    "ok": true,
-   "price": 190.0,
-   "old": null,
+   "price": 114.0,
+   "old": 190.0,
    "color": "BROWN",
    "sizes_all": [
     "90",
@@ -1094,8 +1064,8 @@
    "alt_of": "w5-belt-woven",
    "alt_label": "Плетёный летний ремень",
    "ok": true,
-   "price": 290.0,
-   "old": null,
+   "price": 174.0,
+   "old": 290.0,
    "color": "BLACK",
    "sizes_all": [
     "90",
@@ -1717,8 +1687,8 @@
    "alt_of": "m-belt",
    "alt_label": "Ремень Massimo Dutti из гладкой кожи",
    "ok": true,
-   "price": 230.0,
-   "old": null,
+   "price": 138.0,
+   "old": 230.0,
    "color": "BLACK",
    "sizes_all": [
     "85",
@@ -1755,8 +1725,8 @@
    "alt_of": "m-belt",
    "alt_label": "Ремень Massimo Dutti из гладкой кожи",
    "ok": true,
-   "price": 230.0,
-   "old": null,
+   "price": 138.0,
+   "old": 230.0,
    "color": "BLACK",
    "sizes_all": [
     "85",
@@ -1863,8 +1833,8 @@
    "size": "shoes",
    "group": "plan",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Grey",
    "sizes_all": [
     "39",
@@ -1876,18 +1846,10 @@
     "45"
    ],
    "sizes_avail": [
-    "39",
     "40",
-    "41",
-    "42",
-    "43",
-    "44",
-    "45"
+    "41"
    ],
-   "mine": [
-    "42",
-    "43"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 90% polyester, 10% elastane; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 90% polyester, 10% elastane",
    "img": "assets/items/z-retro.webp",
@@ -1903,8 +1865,8 @@
    "size": "top",
    "group": "plan",
    "ok": true,
-   "price": 159.0,
-   "old": null,
+   "price": 95.0,
+   "old": 159.0,
    "color": "Blue",
    "sizes_all": [
     "M",
@@ -1913,8 +1875,7 @@
    ],
    "sizes_avail": [
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "M",
@@ -1935,8 +1896,8 @@
    "size": "top",
    "group": "plan",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Blue / Steel",
    "sizes_all": [
     "S",
@@ -1969,8 +1930,8 @@
    "plan_price": 69,
    "group": "plan",
    "ok": true,
-   "price": 69.0,
-   "old": null,
+   "price": 41.0,
+   "old": 69.0,
    "color": "Navy blue",
    "sizes_all": [
     "M"
@@ -2187,8 +2148,7 @@
     "43",
     "44",
     "45",
-    "46",
-    "47"
+    "46"
    ],
    "mine": [
     "42",
@@ -2273,14 +2233,9 @@
     "47"
    ],
    "sizes_avail": [
-    "40",
-    "42",
-    "44",
-    "45"
+    "40"
    ],
-   "mine": [
-    "42"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
    "img": "assets/prem/x-meermin-loafer-black.webp",
@@ -2411,13 +2366,11 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -2435,8 +2388,8 @@
    "size": "shoes",
    "group": "optional",
    "ok": true,
-   "price": 299.0,
-   "old": null,
+   "price": 179.0,
+   "old": 299.0,
    "color": "Brown",
    "sizes_all": [
     "39",
@@ -2449,20 +2402,8 @@
     "46",
     "47"
    ],
-   "sizes_avail": [
-    "39",
-    "40",
-    "41",
-    "42",
-    "43",
-    "44",
-    "45",
-    "46"
-   ],
-   "mine": [
-    "42",
-    "43"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 55% cow leather, 45% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% cow leather; Tongue: 100% cow leather",
    "img": "assets/cat/cz-derby.webp",
@@ -2477,8 +2418,8 @@
    "size": "top",
    "group": "optional",
    "ok": true,
-   "price": 529.0,
-   "old": null,
+   "price": 317.0,
+   "old": 529.0,
    "color": "Dark navy",
    "sizes_all": [
     "S",
@@ -2502,8 +2443,8 @@
    "size": "shoes",
    "group": "list",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "GREENISH",
    "sizes_all": [
     "39",
@@ -2521,9 +2462,7 @@
     "41",
     "42",
     "43",
-    "44",
-    "45",
-    "46"
+    "44"
    ],
    "mine": [
     "42",
@@ -3095,7 +3034,9 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [],
+   "sizes_avail": [
+    "XL"
+   ],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
@@ -3111,22 +3052,16 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Navy blue",
    "sizes_all": [
     "M",
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M",
-    "L"
-   ],
-   "mine": [
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 70% cotton, 30% wool",
    "img": "assets/moodi/c-cable.webp",
@@ -3178,8 +3113,8 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price": 259.0,
-   "old": null,
+   "price": 155.0,
+   "old": 259.0,
    "color": "Black",
    "sizes_all": [
     "39",
@@ -3191,18 +3126,9 @@
     "45"
    ],
    "sizes_avail": [
-    "39",
-    "40",
-    "41",
-    "42",
-    "43",
-    "44",
-    "45"
+    "39"
    ],
-   "mine": [
-    "42",
-    "43"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
    "img": "assets/moodi/c-boots.webp",
@@ -3216,18 +3142,14 @@
    "plan_price": 179,
    "group": "site",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Black",
    "sizes_all": [
     "ONE SIZE ONLY"
    ],
-   "sizes_avail": [
-    "ONE SIZE ONLY"
-   ],
-   "mine": [
-    "ONE SIZE ONLY"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "Outer Shell: 100% cow leather; Lining: 100% polyester",
    "img": "assets/moodi/c-bag.webp",
@@ -3242,8 +3164,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 529.0,
-   "old": null,
+   "price": 317.0,
+   "old": 529.0,
    "color": "Grey",
    "sizes_all": [
     "S",
@@ -3251,12 +3173,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "S"
-   ],
-   "mine": [
-    "S"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
    "img": "assets/moodi/d-coat.webp",
@@ -3305,20 +3223,16 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Navy blue",
    "sizes_all": [
     "M",
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "L"
-   ],
-   "mine": [
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/moodi/d-merino.webp",
@@ -3378,8 +3292,7 @@
     "40",
     "41",
     "42",
-    "43",
-    "44"
+    "43"
    ],
    "mine": [
     "42",
@@ -3407,12 +3320,8 @@
     "90 (M)",
     "95 (L)"
    ],
-   "sizes_avail": [
-    "90 (M)"
-   ],
-   "mine": [
-    "90 (M)"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% cow leather",
    "img": "assets/moodi/d-belt.webp",
@@ -3873,8 +3782,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 700.0,
-   "old": null,
+   "price": 420.0,
+   "old": 700.0,
    "color": "DEEP BLUE",
    "sizes_all": [
     "S",
@@ -4070,8 +3979,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 429.0,
-   "old": null,
+   "price": 257.0,
+   "old": 429.0,
    "color": "Mustard",
    "sizes_all": [
     "XS",
@@ -4084,8 +3993,7 @@
     "XS",
     "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
     "S",
@@ -4115,9 +4023,7 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "XL"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "100% polyester; 100% polyamide; 80% grey duck down, 20% feather",
@@ -4181,8 +4087,8 @@
    "size": "tailoring",
    "group": "site",
    "ok": true,
-   "price": 800.0,
-   "old": null,
+   "price": 480.0,
+   "old": 800.0,
    "color": "DEEP BLUE",
    "sizes_all": [
     "46",
@@ -4199,11 +4105,9 @@
     "58"
    ],
    "sizes_avail": [
-    "52",
     "52"
    ],
    "mine": [
-    "52",
     "52"
    ],
    "need_size": true,
@@ -4220,8 +4124,8 @@
    "size": "tailoring",
    "group": "site",
    "ok": true,
-   "price": 900.0,
-   "old": null,
+   "price": 540.0,
+   "old": 900.0,
    "color": "GREEN",
    "sizes_all": [
     "46",
@@ -4233,13 +4137,9 @@
    ],
    "sizes_avail": [
     "46",
-    "48",
-    "52",
     "54"
    ],
-   "mine": [
-    "52"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "100% wool; 100% viscose",
    "img": "assets/cat/md-hound-blazer.webp",
@@ -4320,8 +4220,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 429.0,
-   "old": null,
+   "price": 257.0,
+   "old": 429.0,
    "color": "Anthracite Grey",
    "sizes_all": [
     "46",
@@ -4563,8 +4463,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Moss green",
    "sizes_all": [
     "M",
@@ -4732,21 +4632,16 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Black",
    "sizes_all": [
     "M",
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-cardigan.webp",
@@ -4801,8 +4696,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 290.0,
-   "old": null,
+   "price": 174.0,
+   "old": 290.0,
    "color": "SKY BLUE",
    "sizes_all": [
     "S",
@@ -4909,8 +4804,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 290.0,
-   "old": null,
+   "price": 174.0,
+   "old": 290.0,
    "color": "WHITE",
    "sizes_all": [
     "S",
@@ -4935,8 +4830,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 390.0,
-   "old": null,
+   "price": 234.0,
+   "old": 390.0,
    "color": "Sky blue",
    "sizes_all": [
     "S",
@@ -4945,12 +4840,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "L",
     "XL"
    ],
    "mine": [
-    "S",
     "L"
    ],
    "need_size": true,
@@ -4977,13 +4870,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
-    "L",
-    "XL"
+    "L"
    ],
    "mine": [
-    "S",
     "M",
     "L"
    ],
@@ -5151,10 +5041,10 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price_foreign": 141.0,
+   "price_foreign": 140.0,
    "old_foreign": null,
    "cur": "USD",
-   "price": 469,
+   "price": 466,
    "old": null,
    "sizes_all": [
     "XS",
@@ -5232,11 +5122,9 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
     "L"
    ],
    "mine": [
-    "M",
     "L"
    ],
    "need_size": true,
@@ -5253,8 +5141,8 @@
    "size": "top",
    "group": "site",
    "ok": true,
-   "price": 190.0,
-   "old": null,
+   "price": 114.0,
+   "old": 190.0,
    "color": "NAVY BLUE",
    "sizes_all": [
     "S",
@@ -5536,8 +5424,8 @@
    "size": "bottom",
    "group": "site",
    "ok": true,
-   "price": 219.0,
-   "old": null,
+   "price": 131.0,
+   "old": 219.0,
    "color": "Anthracite Grey",
    "sizes_all": [
     "38",
@@ -5546,16 +5434,8 @@
     "44",
     "46"
    ],
-   "sizes_avail": [
-    "38",
-    "40",
-    "42",
-    "46"
-   ],
-   "mine": [
-    "38",
-    "40"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-suit-trousers.webp",
@@ -6056,8 +5936,8 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price": 600.0,
-   "old": null,
+   "price": 360.0,
+   "old": 600.0,
    "color": "BLACK",
    "sizes_all": [
     "40",
@@ -6237,8 +6117,7 @@
    "sizes_avail": [
     "40",
     "42",
-    "43",
-    "45"
+    "43"
    ],
    "mine": [
     "42",
@@ -6335,8 +6214,8 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price": 690.0,
-   "old": null,
+   "price": 552.0,
+   "old": 690.0,
    "color": "BROWN",
    "sizes_all": [
     "39",
@@ -6388,8 +6267,8 @@
    "size": "shoes",
    "group": "site",
    "ok": true,
-   "price": 600.0,
-   "old": null,
+   "price": 360.0,
+   "old": 600.0,
    "color": "BROWN",
    "sizes_all": [
     "40",
@@ -6755,8 +6634,8 @@
    "plan_price": 900,
    "group": "site",
    "ok": true,
-   "price": 900.0,
-   "old": null,
+   "price": 720.0,
+   "old": 900.0,
    "color": "BLACK",
    "sizes_all": [
     "01"
@@ -6826,8 +6705,8 @@
    "size": "belt",
    "group": "site",
    "ok": true,
-   "price": 230.0,
-   "old": null,
+   "price": 138.0,
+   "old": 230.0,
    "color": "BLACK",
    "sizes_all": [
     "85",
@@ -7785,12 +7664,8 @@
    "sizes_all": [
     "M"
    ],
-   "sizes_avail": [
-    "M"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": false,
    "comp": "Outer Shell: 100% wool",
    "img": "assets/cat/cz-wool-scarf.webp",
@@ -7804,8 +7679,8 @@
    "plan_price": 290,
    "group": "site",
    "ok": true,
-   "price": 290.0,
-   "old": null,
+   "price": 232.0,
+   "old": 290.0,
    "color": "GREY MARL",
    "sizes_all": [
     "01"
@@ -8457,8 +8332,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 219.0,
-   "old": null,
+   "price": 131.0,
+   "old": 219.0,
    "color": "Black",
    "sizes_all": [
     "S",
@@ -8491,8 +8366,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Blue / Steel",
    "sizes_all": [
     "S",
@@ -8543,17 +8418,15 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Navy blue",
    "sizes_all": [
     "M",
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "XL"
-   ],
+   "sizes_avail": [],
    "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 100% wool",
@@ -8569,22 +8442,16 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Black",
    "sizes_all": [
     "M",
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M",
-    "L"
-   ],
-   "mine": [
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 67% cotton, 33% wool",
    "img": "assets/sport/17c0428b2cdb.webp",
@@ -8713,8 +8580,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 159.0,
-   "old": null,
+   "price": 95.0,
+   "old": 159.0,
    "color": "Black",
    "sizes_all": [
     "S",
@@ -8723,12 +8590,10 @@
     "XL"
    ],
    "sizes_avail": [
-    "M",
-    "L"
+    "M"
    ],
    "mine": [
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "Outer Shell: 100% polyester; Lining: 100% polyamide, 100% polyester",
@@ -9330,8 +9195,8 @@
    "size": "bottom",
    "group": "sp",
    "ok": true,
-   "price": 129.0,
-   "old": null,
+   "price": 77.0,
+   "old": 129.0,
    "color": "Black",
    "sizes_all": [
     "S",
@@ -9339,14 +9204,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "S",
-    "M",
-    "L"
-   ],
-   "mine": [
-    "M"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 86% polyamide, 14% elastane",
    "img": "assets/sport/5b0879213e62.webp",
@@ -9437,7 +9296,6 @@
     "XL"
    ],
    "sizes_avail": [
-    "S",
     "M",
     "L"
    ],
@@ -9540,8 +9398,8 @@
    "size": "bottom",
    "group": "sp",
    "ok": true,
-   "price": 179.0,
-   "old": null,
+   "price": 107.0,
+   "old": 179.0,
    "color": "Black",
    "sizes_all": [
     "S",
@@ -9552,7 +9410,6 @@
    "sizes_avail": [
     "S",
     "M",
-    "L",
     "XL"
    ],
    "mine": [
@@ -9690,15 +9547,9 @@
     "47"
    ],
    "sizes_avail": [
-    "39",
-    "40",
-    "41",
-    "43",
-    "44"
+    "40"
    ],
-   "mine": [
-    "43"
-   ],
+   "mine": [],
    "need_size": true,
    "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
    "img": "assets/sport/e01f5670c7ad.webp",
@@ -9767,8 +9618,8 @@
    "size": "shoes",
    "group": "sp",
    "ok": true,
-   "price": 149.0,
-   "old": null,
+   "price": 89.0,
+   "old": 149.0,
    "color": "Black",
    "sizes_all": [
     "39",
@@ -9874,8 +9725,8 @@
    "plan_price": 99.0,
    "group": "sp",
    "ok": true,
-   "price": 99.0,
-   "old": null,
+   "price": 59.0,
+   "old": 99.0,
    "color": "Black",
    "sizes_all": [
     "ONE SIZE ONLY"
@@ -9905,8 +9756,12 @@
    "sizes_all": [
     "ONE SIZE ONLY"
    ],
-   "sizes_avail": [],
-   "mine": [],
+   "sizes_avail": [
+    "ONE SIZE ONLY"
+   ],
+   "mine": [
+    "ONE SIZE ONLY"
+   ],
    "need_size": false,
    "comp": "Outer Shell: 100% polyamide, 100% polyester; Lining: 100% polyamide",
    "img": "assets/sport/7602345ad96a.webp",
@@ -9954,8 +9809,8 @@
    "plan_price": 589.0,
    "group": "sp",
    "ok": true,
-   "price": 530,
-   "price_foreign": 530.0,
+   "price": 471,
+   "price_foreign": 471.0,
    "cur": "GEL",
    "old": null,
    "need_size": false,
@@ -10135,12 +9990,10 @@
     "XX Large / Oyster / Standard"
    ],
    "sizes_avail": [
-    "Large / Oyster / Standard",
-    "Extra Large / Oyster / Standard"
+    "Large / Oyster / Standard"
    ],
    "mine": [
-    "Large / Oyster / Standard",
-    "Extra Large / Oyster / Standard"
+    "Large / Oyster / Standard"
    ],
    "need_size": true,
    "comp": "",
@@ -10337,8 +10190,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 129.0,
-   "old": null,
+   "price": 77.0,
+   "old": 129.0,
    "color": "Blue",
    "sizes_all": [
     "M",
@@ -10382,11 +10235,9 @@
     "XX Large / Navy / Standard"
    ],
    "sizes_avail": [
-    "Medium / Navy / Standard",
     "Large / Navy / Standard"
    ],
    "mine": [
-    "Medium / Navy / Standard",
     "Large / Navy / Standard"
    ],
    "need_size": true,
@@ -10642,12 +10493,10 @@
    ],
    "sizes_avail": [
     "Small / Navy / Standard",
-    "Medium / Navy / Standard",
     "Large / Navy / Standard"
    ],
    "mine": [
     "Small / Navy / Standard",
-    "Medium / Navy / Standard",
     "Large / Navy / Standard"
    ],
    "need_size": true,
@@ -10743,8 +10592,8 @@
    "size": "top",
    "group": "sp",
    "ok": true,
-   "price": 159.0,
-   "old": null,
+   "price": 95.0,
+   "old": 159.0,
    "color": "Black",
    "sizes_all": [
     "S",
@@ -10752,15 +10601,8 @@
     "L",
     "XL"
    ],
-   "sizes_avail": [
-    "M",
-    "L",
-    "XL"
-   ],
-   "mine": [
-    "M",
-    "L"
-   ],
+   "sizes_avail": [],
+   "mine": [],
    "need_size": true,
    "comp": "Outer Shell: 63% polyester, 5% elastane, 32% viscose, 87% polyester, 12% polyamide, 1% elastane",
    "img": "assets/sport/22cd95950817.webp",
@@ -10787,62 +10629,90 @@
  ],
  "markdowns": [
   {
-   "pid": "555861857",
-   "name": "LOOSE-FIT JEANS",
-   "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=555861857",
-   "price": 99.0,
-   "old": 179.0,
-   "disc": 45,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "TROUSERS",
-   "comp": "Outer Shell: 100% cotton",
+   "pid": "587299711",
+   "name": "RELAXED FIT FROCK COAT 100% WOOL",
+   "url": "https://www.zara.com/ge/en/100-wool-relaxed-fit-frock-coat-p06006573.html?v1=587299711",
+   "price": 299.0,
+   "old": 499.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / COATS",
+   "family": "COAT",
+   "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/5eb9/4068/04df41e284be/df3e0b12bf46/03409307809-e1/03409307809-e1.jpg?ts=1788429704078&w=750",
-   "color": "Mid-grey",
+   "img": "https://static.zara.net/assets/public/1050/53cc/0dc44de0a732/8008ab638b8e/06006573803-000-e1/06006573803-000-e1.jpg?ts=1793709474214&w=750",
+   "color": "Grey marl",
    "mine": [
-    "38",
-    "40"
+    "L",
+    "M",
+    "S"
    ],
-   "size_class": "bottom",
+   "size_class": "top",
    "verdict": "ok",
    "reason": "",
    "store": "Zara",
    "colors": [
     {
-     "color": "Mid-grey",
-     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=555861857",
-     "img": "https://static.zara.net/assets/public/5eb9/4068/04df41e284be/df3e0b12bf46/03409307809-e1/03409307809-e1.jpg?ts=1788429704078&w=750",
+     "color": "Grey marl",
+     "url": "https://www.zara.com/ge/en/100-wool-relaxed-fit-frock-coat-p06006573.html?v1=587299711",
+     "img": "https://static.zara.net/assets/public/1050/53cc/0dc44de0a732/8008ab638b8e/06006573803-000-e1/06006573803-000-e1.jpg?ts=1793709474214&w=750",
      "mine": [
-      "38",
-      "40"
+      "S",
+      "M",
+      "L"
      ],
-     "price": 99.0
-    },
-    {
-     "color": "Light blue",
-     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=575689539",
-     "img": "https://static.zara.net/assets/public/7350/e388/3fa44f42955b/f08592e708a2/00840399406-e1/00840399406-e1.jpg?ts=1788764390216&w=750",
-     "mine": [
-      "38",
-      "40"
-     ],
-     "price": 99.0
+     "price": 299.0
     }
    ]
   },
   {
-   "pid": "549169925",
-   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
-   "price": 159.0,
-   "old": 259.0,
-   "disc": 39,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
+   "pid": "568124901",
+   "name": "PADDED RELAXED FIT PARKA",
+   "url": "https://www.zara.com/ge/en/padded-relaxed-fit-parka-p08281195.html?v1=568124901",
+   "price": 197.0,
+   "old": 329.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
    "family": "WIND-JACKET",
-   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
+   "comp": "Outer Shell: 100% cotton; Lining: 80% polyester, 20% cotton; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
-   "color": "Red",
+   "img": "https://static.zara.net/assets/public/d074/6643/c43f4a83a853/da89d33ea136/08281195922-e1/08281195922-e1.jpg?ts=1792420801064&w=750",
+   "color": "Dark grey",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Dark grey",
+     "url": "https://www.zara.com/ge/en/padded-relaxed-fit-parka-p08281195.html?v1=568124901",
+     "img": "https://static.zara.net/assets/public/d074/6643/c43f4a83a853/da89d33ea136/08281195922-e1/08281195922-e1.jpg?ts=1792420801064&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 197.0
+    }
+   ]
+  },
+  {
+   "pid": "569115245",
+   "name": "RELAXED FIT UTILITY POCKET JACKET",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-utility-pocket-jacket-p04365342.html?v1=569115245",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton, 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/1f3b/cf38/e6ef41bab044/a9f0ee31a7c4/04365342822-e1/04365342822-e1.jpg?ts=1788417197739&w=750",
+   "color": "Charcoal",
    "mine": [
     "L",
     "M"
@@ -10853,40 +10723,151 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Red",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
-     "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
-     "mine": [
-      "L"
-     ],
-     "price": 159.0
-    },
-    {
-     "color": "Navy blue",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169924",
-     "img": "https://static.zara.net/assets/public/b3a4/747c/092a4aa8a5da/f54e183e04b3/04302370401-e1/04302370401-e1.jpg?ts=1788425811688&w=750",
+     "color": "Charcoal",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-utility-pocket-jacket-p04365342.html?v1=569115245",
+     "img": "https://static.zara.net/assets/public/1f3b/cf38/e6ef41bab044/a9f0ee31a7c4/04365342822-e1/04365342822-e1.jpg?ts=1788417197739&w=750",
      "mine": [
       "M",
       "L"
      ],
-     "price": 159.0
+     "price": 155.0
     }
    ]
   },
   {
-   "pid": "545422942",
-   "name": "COTTON-LINEN REGULAR FIT KNIT POLO SHIRT",
-   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422942",
-   "price": 99.0,
-   "old": 159.0,
-   "disc": 38,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 70% cotton, 30% linen",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/e66a/3a5a/20af4e8293e0/7ebd7349aa6b/03920398300-e1/03920398300-e1.jpg?ts=1785755554240&w=750",
-   "color": "Yellow",
+   "pid": "556783597",
+   "name": "RETRO VELOUR TRACK JACKET",
+   "url": "https://www.zara.com/ge/en/retro-velour-track-jacket-p08281422.html?v1=556783597",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 83% cotton, 17% polyester; Lining: 100% polyester",
+   "natural": 83.0,
+   "img": "https://static.zara.net/assets/public/8978/6325/49cb4051a613/78d884af39b9/08281422800-e1/08281422800-e1.jpg?ts=1789979921859&w=750",
+   "color": "Black",
    "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/retro-velour-track-jacket-p08281422.html?v1=556783597",
+     "img": "https://static.zara.net/assets/public/8978/6325/49cb4051a613/78d884af39b9/08281422800-e1/08281422800-e1.jpg?ts=1789979921859&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 131.0
+    },
+    {
+     "color": "Bluish",
+     "url": "https://www.zara.com/ge/en/retro-velour-track-jacket-p08281422.html?v1=556783596",
+     "img": "https://static.zara.net/assets/public/07f7/2fe4/862b4167b184/84e77024106f/08281422420-e1/08281422420-e1.jpg?ts=1789979923174&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 131.0
+    }
+   ]
+  },
+  {
+   "pid": "545485744",
+   "name": "RETRO COLOUR BLOCK JACKET",
+   "url": "https://www.zara.com/ge/en/retro-colour-block-jacket-p04092357.html?v1=545485744",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATSHIRTS | HOODIES / SWEATSHIRTS",
+   "family": "SWEATSHIRT",
+   "comp": "Outer Shell: 50% cotton, 5% elastane, 45% polyester, 95% cotton, 5% elastane",
+   "natural": 145.0,
+   "img": "https://static.zara.net/assets/public/e9bb/7c8f/3cc84990a0c9/4721e36404dc/04092357401-e1/04092357401-e1.jpg?ts=1784737609089&w=750",
+   "color": "Navy blue",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/retro-colour-block-jacket-p04092357.html?v1=545485744",
+     "img": "https://static.zara.net/assets/public/e9bb/7c8f/3cc84990a0c9/4721e36404dc/04092357401-e1/04092357401-e1.jpg?ts=1784737609089&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 107.0
+    }
+   ]
+  },
+  {
+   "pid": "545410220",
+   "name": "AARON LEVINE X ZARA SPLIT SUEDE LEATHER JACKET",
+   "url": "https://www.zara.com/ge/en/aaron-levine-x-zara-split-suede-jacket-p05388603.html?v1=545410220",
+   "price": 389.0,
+   "old": 649.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% buffalo leather; Lining: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/8c3d/c2a0/d4a846c58dd3/09399a6835ba/05388603800-e1/05388603800-e1.jpg?ts=1784106378597&w=750",
+   "color": "Black",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/aaron-levine-x-zara-split-suede-jacket-p05388603.html?v1=545410220",
+     "img": "https://static.zara.net/assets/public/8c3d/c2a0/d4a846c58dd3/09399a6835ba/05388603800-e1/05388603800-e1.jpg?ts=1784106378597&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 389.0
+    }
+   ]
+  },
+  {
+   "pid": "549619677",
+   "name": "BASIC DENIM JACKET",
+   "url": "https://www.zara.com/ge/en/basic-denim-jacket-p06987314.html?v1=549619677",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/5e1d/efef/a9f5496abd2a/e6c1c08dea12/06987314800-e1/06987314800-e1.jpg?ts=1785401589982&w=750",
+   "color": "Black",
+   "mine": [
+    "L",
     "M"
    ],
    "size_class": "top",
@@ -10895,87 +10876,1088 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Yellow",
-     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422942",
-     "img": "https://static.zara.net/assets/public/e66a/3a5a/20af4e8293e0/7ebd7349aa6b/03920398300-e1/03920398300-e1.jpg?ts=1785755554240&w=750",
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/basic-denim-jacket-p06987314.html?v1=549619677",
+     "img": "https://static.zara.net/assets/public/5e1d/efef/a9f5496abd2a/e6c1c08dea12/06987314800-e1/06987314800-e1.jpg?ts=1785401589982&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    },
+    {
+     "color": "Indigo",
+     "url": "https://www.zara.com/ge/en/basic-denim-jacket-p06987314.html?v1=549619678",
+     "img": "https://static.zara.net/assets/public/337d/9f0a/247740f4971f/856ed9a60b31/06987314405-e1/06987314405-e1.jpg?ts=1784098540498&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "546982277",
+   "name": "RELAXED FIT HOODED DENIM JACKET",
+   "url": "https://www.zara.com/ge/en/hooded-relaxed-fit-denim-jacket-p04365303.html?v1=546982277",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/81d6/3527/153348cd95c0/aeb412877fbc/04365303405-e1/04365303405-e1.jpg?ts=1785401559921&w=750",
+   "color": "Indigo",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Indigo",
+     "url": "https://www.zara.com/ge/en/hooded-relaxed-fit-denim-jacket-p04365303.html?v1=546982277",
+     "img": "https://static.zara.net/assets/public/81d6/3527/153348cd95c0/aeb412877fbc/04365303405-e1/04365303405-e1.jpg?ts=1785401559921&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 107.0
+    }
+   ]
+  },
+  {
+   "pid": "568748007",
+   "name": "REGULAR-FIT COTTON TRENCH COAT",
+   "url": "https://www.zara.com/ge/en/regular-fit-cotton-trench-coat-p06440400.html?v1=568748007",
+   "price": 299.0,
+   "old": 499.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / VIEW ALL",
+   "family": "TRENCH RAINCOAT",
+   "comp": "Outer Shell: 100% cotton; Lining: 69% cotton, 31% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/8c8d/376f/6b6342758e00/a3e653a96ba7/06440400505-e1/06440400505-e1.jpg?ts=1788426118273&w=750",
+   "color": "Khaki",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Khaki",
+     "url": "https://www.zara.com/ge/en/regular-fit-cotton-trench-coat-p06440400.html?v1=568748007",
+     "img": "https://static.zara.net/assets/public/8c8d/376f/6b6342758e00/a3e653a96ba7/06440400505-e1/06440400505-e1.jpg?ts=1788426118273&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 299.0
+    }
+   ]
+  },
+  {
+   "pid": "569314037",
+   "name": "FROG FASTENING HOODED JACKET",
+   "url": "https://www.zara.com/ge/en/hooded-frog-fastening-jacket-p02553401.html?v1=569314037",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/45d2/1206/de5f4ab9b0fa/f2584a0eed47/02553401800-e1/02553401800-e1.jpg?ts=1788769145129&w=750",
+   "color": "Black",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/hooded-frog-fastening-jacket-p02553401.html?v1=569314037",
+     "img": "https://static.zara.net/assets/public/45d2/1206/de5f4ab9b0fa/f2584a0eed47/02553401800-e1/02553401800-e1.jpg?ts=1788769145129&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 155.0
+    }
+   ]
+  },
+  {
+   "pid": "559750603",
+   "name": "REGULAR FIT WATER-REPELLENT TRENCH COAT",
+   "url": "https://www.zara.com/ge/en/regular-fit-water-repellent-trench-coat-p05854850.html?v1=559750603",
+   "price": 227.0,
+   "old": 379.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / VIEW ALL",
+   "family": "TRENCH RAINCOAT",
+   "comp": "Outer Shell: 97% cotton, 3% elastane; Lining: 65% polyester, 35% cotton, 100% polyester",
+   "natural": 97.0,
+   "img": "https://static.zara.net/assets/public/5390/cc66/d1e14e48a1d4/2c5d25273b34/05854850707-e1/05854850707-e1.jpg?ts=1787750985695&w=750",
+   "color": "camel",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "camel",
+     "url": "https://www.zara.com/ge/en/regular-fit-water-repellent-trench-coat-p05854850.html?v1=559750603",
+     "img": "https://static.zara.net/assets/public/5390/cc66/d1e14e48a1d4/2c5d25273b34/05854850707-e1/05854850707-e1.jpg?ts=1787750985695&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 227.0
+    },
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/regular-fit-water-repellent-trench-coat-p05854850.html?v1=559750602",
+     "img": "https://static.zara.net/assets/public/2383/5530/1e064196b0a9/4a2e3b5ff9c7/05854850800-e1/05854850800-e1.jpg?ts=1787750994665&w=750",
      "mine": [
       "M"
      ],
-     "price": 99.0
+     "price": 227.0
+    }
+   ]
+  },
+  {
+   "pid": "587708907",
+   "name": "BASIC DENIM JACKET",
+   "url": "https://www.zara.com/ge/en/basic-denim-jacket-p08062560.html?v1=587708907",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/b551/e32f/6d114871a861/4931221d977b/08062560800-e1/08062560800-e1.jpg?ts=1788262148584&w=750",
+   "color": "Black",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/basic-denim-jacket-p08062560.html?v1=587708907",
+     "img": "https://static.zara.net/assets/public/b551/e32f/6d114871a861/4931221d977b/08062560800-e1/08062560800-e1.jpg?ts=1788262148584&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "549815684",
+   "name": "WAXED-EFFECT POCKET JACKET",
+   "url": "https://www.zara.com/ge/en/waxed-effect-pocket-jacket-p04725275.html?v1=549815684",
+   "price": 257.0,
+   "old": 429.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/7b2d/a65a/ef164a58a582/de0724aad3b7/04725275323-e1/04725275323-e1.jpg?ts=1788268853402&w=750",
+   "color": "Yellow",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Yellow",
+     "url": "https://www.zara.com/ge/en/waxed-effect-pocket-jacket-p04725275.html?v1=549815684",
+     "img": "https://static.zara.net/assets/public/7b2d/a65a/ef164a58a582/de0724aad3b7/04725275323-e1/04725275323-e1.jpg?ts=1788268853402&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 257.0
+    }
+   ]
+  },
+  {
+   "pid": "549713376",
+   "name": "STRIPED COTTON-LINEN HOODED OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/cotton-linen-striped-hooded-overshirt-p07484355.html?v1=549713376",
+   "price": 119.0,
+   "old": 199.0,
+   "disc": 40,
+   "cat": "COLLECTION / OVERSHIRTS / VIEW ALL",
+   "family": "SWEATSHIRT",
+   "comp": "Outer Shell: 69% cotton, 31% linen",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/4d85/3ef9/2fab4059a754/48d0112839cd/07484355407-e1/07484355407-e1.jpg?ts=1783955062716&w=750",
+   "color": "Blue",
+   "mine": [
+    "S-M",
+    "L-XL"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Blue",
+     "url": "https://www.zara.com/ge/en/cotton-linen-striped-hooded-overshirt-p07484355.html?v1=549713376",
+     "img": "https://static.zara.net/assets/public/4d85/3ef9/2fab4059a754/48d0112839cd/07484355407-e1/07484355407-e1.jpg?ts=1783955062716&w=750",
+     "mine": [
+      "S-M",
+      "L-XL"
+     ],
+     "price": 119.0
+    }
+   ]
+  },
+  {
+   "pid": "551389609",
+   "name": "REGULAR FIT COTTON JACKET",
+   "url": "https://www.zara.com/ge/en/regular-fit-cotton-jacket-p06987340.html?v1=551389609",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/94d0/e92a/5af94509a4cd/8817bf216f18/06987340500-e1/06987340500-e1.jpg?ts=1787148936063&w=750",
+   "color": "Green",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Green",
+     "url": "https://www.zara.com/ge/en/regular-fit-cotton-jacket-p06987340.html?v1=551389609",
+     "img": "https://static.zara.net/assets/public/94d0/e92a/5af94509a4cd/8817bf216f18/06987340500-e1/06987340500-e1.jpg?ts=1787148936063&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 131.0
+    }
+   ]
+  },
+  {
+   "pid": "549815779",
+   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p06987339.html?v1=549815779",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton, 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/f858/2148/04524a3d86fe/b6adb573217d/06987339707-000-e1/06987339707-000-e1.jpg?ts=1788173486649&w=750",
+   "color": "camel",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "camel",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p06987339.html?v1=549815779",
+     "img": "https://static.zara.net/assets/public/f858/2148/04524a3d86fe/b6adb573217d/06987339707-000-e1/06987339707-000-e1.jpg?ts=1788173486649&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 131.0
+    }
+   ]
+  },
+  {
+   "pid": "557341301",
+   "name": "RELAXED FIT WASHED EFFECT TRENCH COAT",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-washed-effect-trench-coat-p02949801.html?v1=557341301",
+   "price": 257.0,
+   "old": 429.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / VIEW ALL",
+   "family": "TRENCH RAINCOAT",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/d7ae/17ff/5b744c0caebc/84c2297e15e8/02949801704-e1/02949801704-e1.jpg?ts=1789988402360&w=750",
+   "color": "camel",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "camel",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-washed-effect-trench-coat-p02949801.html?v1=557341301",
+     "img": "https://static.zara.net/assets/public/d7ae/17ff/5b744c0caebc/84c2297e15e8/02949801704-e1/02949801704-e1.jpg?ts=1789988402360&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 257.0
+    }
+   ]
+  },
+  {
+   "pid": "557774555",
+   "name": "WASHED TOPSTITCHED WAISTCOAT",
+   "url": "https://www.zara.com/ge/en/washed-topstitched-waistcoat-p00122329.html?v1=557774555",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WAISTCOAT",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton; Filling: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/5588/2b98/79f14446ac91/9bd4a855158d/00122329611-e1/00122329611-e1.jpg?ts=1787825205394&w=750",
+   "color": "Purple",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Purple",
+     "url": "https://www.zara.com/ge/en/washed-topstitched-waistcoat-p00122329.html?v1=557774555",
+     "img": "https://static.zara.net/assets/public/5588/2b98/79f14446ac91/9bd4a855158d/00122329611-e1/00122329611-e1.jpg?ts=1787825205394&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    },
+    {
+     "color": "Orange",
+     "url": "https://www.zara.com/ge/en/washed-topstitched-waistcoat-p00122329.html?v1=567907038",
+     "img": "https://static.zara.net/assets/public/49d4/ee1a/373640a18ffa/04ad70563618/00122369615-e1/00122369615-e1.jpg?ts=1788268840550&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "555104826",
+   "name": "COTTON REGULAR FIT TRENCH COAT",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-trench-coat-p04302601.html?v1=555104826",
+   "price": 227.0,
+   "old": 379.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / VIEW ALL",
+   "family": "TRENCH RAINCOAT",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/46dc/31d9/b8ab46cebbca/7cdc07c586e5/04302601712-e1/04302601712-e1.jpg?ts=1787822533856&w=750",
+   "color": "Ecru",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Ecru",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-trench-coat-p04302601.html?v1=555104826",
+     "img": "https://static.zara.net/assets/public/46dc/31d9/b8ab46cebbca/7cdc07c586e5/04302601712-e1/04302601712-e1.jpg?ts=1787822533856&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 227.0
+    }
+   ]
+  },
+  {
+   "pid": "567426540",
+   "name": "FADED-EFFECT LEATHER JACKET",
+   "url": "https://www.zara.com/ge/en/faded-effect-leather-jacket-p04416305.html?v1=567426540",
+   "price": 419.0,
+   "old": 699.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/6dbb/e392/29344957b18b/bbad79af7309/04416305626-e1/04416305626-e1.jpg?ts=1790265360559&w=750",
+   "color": "Chalk pink",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Chalk pink",
+     "url": "https://www.zara.com/ge/en/faded-effect-leather-jacket-p04416305.html?v1=567426540",
+     "img": "https://static.zara.net/assets/public/6dbb/e392/29344957b18b/bbad79af7309/04416305626-e1/04416305626-e1.jpg?ts=1790265360559&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 419.0
+    }
+   ]
+  },
+  {
+   "pid": "573062305",
+   "name": "RELAXED FIT PADDED DENIM JACKET",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-padded-denim-jacket-p06987346.html?v1=573062305",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton, 100% polyester; Filling: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/0016/f089/4e4c4dcca4ec/470f26d4dc8e/06987346405-e1/06987346405-e1.jpg?ts=1792062266527&w=750",
+   "color": "Indigo",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Indigo",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-padded-denim-jacket-p06987346.html?v1=573062305",
+     "img": "https://static.zara.net/assets/public/0016/f089/4e4c4dcca4ec/470f26d4dc8e/06987346405-e1/06987346405-e1.jpg?ts=1792062266527&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 155.0
+    }
+   ]
+  },
+  {
+   "pid": "596917005",
+   "name": "RELAXED FIT WOOL BLEND COAT",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-wool-blend-coat-p07610752.html?v1=596917005",
+   "price": 479.0,
+   "old": 799.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / COATS",
+   "family": "COAT",
+   "comp": "Outer Shell: 80% wool, 20% polyamide; Lining: 55% viscose, 45% polyester, 87% polyester, 13% viscose",
+   "natural": 80.0,
+   "img": "https://static.zara.net/assets/public/a892/7974/484c46dbb43b/f0bbea56d37d/07610752700-e1/07610752700-e1.jpg?ts=1793109144476&w=750",
+   "color": "Brown",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Brown",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-wool-blend-coat-p07610752.html?v1=596917005",
+     "img": "https://static.zara.net/assets/public/a892/7974/484c46dbb43b/f0bbea56d37d/07610752700-e1/07610752700-e1.jpg?ts=1793109144476&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 479.0
+    }
+   ]
+  },
+  {
+   "pid": "567450154",
+   "name": "RELAXED FIT SUEDE FINISH LEATHER JACKET",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-suede-leather-jacket-p04416306.html?v1=567450154",
+   "price": 359.0,
+   "old": 599.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% goat leather",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/dc42/d840/ca694d2cbe03/a431622991ee/04416306716-e1/04416306716-e1.jpg?ts=1786978555016&w=750",
+   "color": "Dark brown",
+   "mine": [
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Dark brown",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-suede-leather-jacket-p04416306.html?v1=567450154",
+     "img": "https://static.zara.net/assets/public/dc42/d840/ca694d2cbe03/a431622991ee/04416306716-e1/04416306716-e1.jpg?ts=1786978555016&w=750",
+     "mine": [
+      "S"
+     ],
+     "price": 359.0
+    }
+   ]
+  },
+  {
+   "pid": "573162454",
+   "name": "DENIM JACKET WITH UTILITY POCKETS",
+   "url": "https://www.zara.com/ge/en/utility-pockets-denim-jacket-p00122367.html?v1=573162454",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/8c24/5096/c3da4d198656/26b2766cae46/00122367427-e1/00122367427-e1.jpg?ts=1788961767911&w=750",
+   "color": "Mid-blue",
+   "mine": [
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Mid-blue",
+     "url": "https://www.zara.com/ge/en/utility-pockets-denim-jacket-p00122367.html?v1=573162454",
+     "img": "https://static.zara.net/assets/public/8c24/5096/c3da4d198656/26b2766cae46/00122367427-e1/00122367427-e1.jpg?ts=1788961767911&w=750",
+     "mine": [
+      "S",
+      "M"
+     ],
+     "price": 131.0
+    }
+   ]
+  },
+  {
+   "pid": "561397719",
+   "name": "RELAXED FIT WASHED JACKET",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-washed-jacket-p00122317.html?v1=561397719",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 80% polyester, 20% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/372b/a745/9b2747c695e5/d0ce31628858/00122317800-e1/00122317800-e1.jpg?ts=1788853318523&w=750",
+   "color": "Black",
+   "mine": [
+    "L"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-washed-jacket-p00122317.html?v1=561397719",
+     "img": "https://static.zara.net/assets/public/372b/a745/9b2747c695e5/d0ce31628858/00122317800-e1/00122317800-e1.jpg?ts=1788853318523&w=750",
+     "mine": [
+      "L"
+     ],
+     "price": 131.0
+    }
+   ]
+  },
+  {
+   "pid": "545474778",
+   "name": "REGULAR FIT KNIT POLO SHIRT",
+   "url": "https://www.zara.com/ge/en/regular-fit-knit-polo-shirt-p02142304.html?v1=545474778",
+   "price": 77.0,
+   "old": 129.0,
+   "disc": 40,
+   "cat": "COLLECTION / SUMMERY GARMENTS / KNITWEAR",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/1ced/0f72/ed41430bb22d/681625cbb7a7/02142304401-e1/02142304401-e1.jpg?ts=1783946013437&w=750",
+   "color": "Navy blue",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/regular-fit-knit-polo-shirt-p02142304.html?v1=545474778",
+     "img": "https://static.zara.net/assets/public/1ced/0f72/ed41430bb22d/681625cbb7a7/02142304401-e1/02142304401-e1.jpg?ts=1783946013437&w=750",
+     "mine": [
+      "L"
+     ],
+     "price": 77.0
+    },
+    {
+     "color": "Ecru",
+     "url": "https://www.zara.com/ge/en/regular-fit-knit-polo-shirt-p02142304.html?v1=545474780",
+     "img": "https://static.zara.net/assets/public/6d07/e668/34084533af61/8be80d919f0f/02142304712-e1/02142304712-e1.jpg?ts=1783955029653&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 77.0
+    },
+    {
+     "color": "Sky blue",
+     "url": "https://www.zara.com/ge/en/regular-fit-knit-polo-shirt-p02142304.html?v1=545474779",
+     "img": "https://static.zara.net/assets/public/54e3/3444/7f574958b0cc/1e1177f26ebc/02142304403-e1/02142304403-e1.jpg?ts=1783955034252&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 77.0
+    }
+   ]
+  },
+  {
+   "pid": "554519683",
+   "name": "REGULAR FIT WOOL BLEND JUMPER",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-wool-blend-jumper-p02893370.html?v1=554519683",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / SWEATERS",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 95% wool, 5% cashmere",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/4b86/2aec/13004ddbafae/7adcf0cc48ec/02893370500-e1/02893370500-e1.jpg?ts=1787568364656&w=750",
+   "color": "Green",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Green",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-wool-blend-jumper-p02893370.html?v1=554519683",
+     "img": "https://static.zara.net/assets/public/4b86/2aec/13004ddbafae/7adcf0cc48ec/02893370500-e1/02893370500-e1.jpg?ts=1787568364656&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 107.0
+    }
+   ]
+  },
+  {
+   "pid": "555097531",
+   "name": "FRUIT OF THE LOOM™ CABLE-KNIT CARDIGAN",
+   "url": "https://www.zara.com/ge/en/fruit-of-the-loom--cable-knit-cardigan-p03920564.html?v1=555097531",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / CARDIGANS",
+   "family": "CARDIGAN",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/8a1f/cddd/2a1b487e8ae8/7f9aa2b84826/03920564611-e1/03920564611-e1.jpg?ts=1788180566951&w=750",
+   "color": "Purple",
+   "mine": [
+    "S-M",
+    "L-XL"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Purple",
+     "url": "https://www.zara.com/ge/en/fruit-of-the-loom--cable-knit-cardigan-p03920564.html?v1=555097531",
+     "img": "https://static.zara.net/assets/public/8a1f/cddd/2a1b487e8ae8/7f9aa2b84826/03920564611-e1/03920564611-e1.jpg?ts=1788180566951&w=750",
+     "mine": [
+      "S-M",
+      "L-XL"
+     ],
+     "price": 107.0
+    }
+   ]
+  },
+  {
+   "pid": "557357372",
+   "name": "TEXTURED RELAXED FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/textured-relaxed-fit-jumper-p05536312.html?v1=557357372",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / SWEATERS",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/c7a8/fcbf/f0ad43e2b7a8/1f9d12abf259/05536312400-e1/05536312400-e1.jpg?ts=1791289362878&w=750",
+   "color": "Blue",
+   "mine": [
+    "L"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Blue",
+     "url": "https://www.zara.com/ge/en/textured-relaxed-fit-jumper-p05536312.html?v1=557357372",
+     "img": "https://static.zara.net/assets/public/c7a8/fcbf/f0ad43e2b7a8/1f9d12abf259/05536312400-e1/05536312400-e1.jpg?ts=1791289362878&w=750",
+     "mine": [
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "545461735",
+   "name": "STRIPED REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/regular-fit-striped-jumper-p02621304.html?v1=545461735",
+   "price": 77.0,
+   "old": 129.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / SWEATERS",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/b893/deaf/a3a0470c939b/27e963e65a95/02621304390-e1/02621304390-e1.jpg?ts=1785755533456&w=750",
+   "color": "Green stripe",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Green stripe",
+     "url": "https://www.zara.com/ge/en/regular-fit-striped-jumper-p02621304.html?v1=545461735",
+     "img": "https://static.zara.net/assets/public/b893/deaf/a3a0470c939b/27e963e65a95/02621304390-e1/02621304390-e1.jpg?ts=1785755533456&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 77.0
+    }
+   ]
+  },
+  {
+   "pid": "549291004",
+   "name": "REGULAR FIT CARDIGAN",
+   "url": "https://www.zara.com/ge/en/regular-fit-cardigan-p06674304.html?v1=549291004",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / CARDIGANS",
+   "family": "CARDIGAN",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/6f58/b962/92b044d29fe2/bf8f6379794c/06674304401-e1/06674304401-e1.jpg?ts=1786978438463&w=750",
+   "color": "Navy blue",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Navy blue",
+     "url": "https://www.zara.com/ge/en/regular-fit-cardigan-p06674304.html?v1=549291004",
+     "img": "https://static.zara.net/assets/public/6f58/b962/92b044d29fe2/bf8f6379794c/06674304401-e1/06674304401-e1.jpg?ts=1786978438463&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 107.0
+    }
+   ]
+  },
+  {
+   "pid": "555113528",
+   "name": "V-NECK REGULAR FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/regular-fit-v-neck-jumper-p03166311.html?v1=555113528",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / V-NECK SWEATERS",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/2008/41c6/1e4949e19bef/e240654db7de/03166311779-e1/03166311779-e1.jpg?ts=1787148908705&w=750",
+   "color": "Bone",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Bone",
+     "url": "https://www.zara.com/ge/en/regular-fit-v-neck-jumper-p03166311.html?v1=555113528",
+     "img": "https://static.zara.net/assets/public/2008/41c6/1e4949e19bef/e240654db7de/03166311779-e1/03166311779-e1.jpg?ts=1787148908705&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "545465757",
+   "name": "RELAXED FIT TEXTURED JUMPER",
+   "url": "https://www.zara.com/ge/en/textured-relaxed-fit-jumper-p02893317.html?v1=545465757",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / SWEATERS",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 95% cotton, 4% polyamide, 1% elastane",
+   "natural": 95.0,
+   "img": "https://static.zara.net/assets/public/8cff/f56c/07694fa6a483/c5a1005869e5/02893317505-e1/02893317505-e1.jpg?ts=1789988385743&w=750",
+   "color": "Khaki",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Khaki",
+     "url": "https://www.zara.com/ge/en/textured-relaxed-fit-jumper-p02893317.html?v1=545465757",
+     "img": "https://static.zara.net/assets/public/8cff/f56c/07694fa6a483/c5a1005869e5/02893317505-e1/02893317505-e1.jpg?ts=1789988385743&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "545421913",
+   "name": "REGULAR FIT COTTON BLEND KNIT POLO SHIRT",
+   "url": "https://www.zara.com/ge/en/regular-fit-cotton-blend-knit-polo-shirt-p06674445.html?v1=545421913",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "cat": "COLLECTION / SUMMERY GARMENTS / KNITWEAR",
+   "family": "SWEATER",
+   "comp": "Outer Shell: 90% cotton, 10% silk (mulberry)",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/77a1/f094/bd2a4c54b158/34595b43a205/06674445519-e1/06674445519-e1.jpg?ts=1784737535264&w=750",
+   "color": "washed green",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "washed green",
+     "url": "https://www.zara.com/ge/en/regular-fit-cotton-blend-knit-polo-shirt-p06674445.html?v1=545421913",
+     "img": "https://static.zara.net/assets/public/77a1/f094/bd2a4c54b158/34595b43a205/06674445519-e1/06674445519-e1.jpg?ts=1784737535264&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 95.0
+    }
+   ]
+  },
+  {
+   "pid": "547557968",
+   "name": "COTTON REGULAR FIT CARDIGAN",
+   "url": "https://www.zara.com/ge/en/cotton-regular-fit-cardigan-p06674302.html?v1=547557968",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / CARDIGANS",
+   "family": "CARDIGAN",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/8ed7/8ac9/80514040ae42/4968d8de6c36/06674302818-e1/06674302818-e1.jpg?ts=1786958125060&w=750",
+   "color": "Charcoal grey",
+   "mine": [
+    "L",
+    "M"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Charcoal grey",
+     "url": "https://www.zara.com/ge/en/cotton-regular-fit-cardigan-p06674302.html?v1=547557968",
+     "img": "https://static.zara.net/assets/public/8ed7/8ac9/80514040ae42/4968d8de6c36/06674302818-e1/06674302818-e1.jpg?ts=1786958125060&w=750",
+     "mine": [
+      "M",
+      "L"
+     ],
+     "price": 107.0
+    }
+   ]
+  },
+  {
+   "pid": "550533695",
+   "name": "COLOUR BLOCK WASHED CARDIGAN",
+   "url": "https://www.zara.com/ge/en/colour-block-washed-cardigan-p03920152.html?v1=550533695",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "cat": "COLLECTION / SWEATERS | CARDIGANS / CARDIGANS",
+   "family": "CARDIGAN",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/8169/cf99/51b149b59311/dfd9f66d3daa/03920152400-e1/03920152400-e1.jpg?ts=1789564326455&w=750",
+   "color": "Blue",
+   "mine": [
+    "L",
+    "M",
+    "S"
+   ],
+   "size_class": "top",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Blue",
+     "url": "https://www.zara.com/ge/en/colour-block-washed-cardigan-p03920152.html?v1=550533695",
+     "img": "https://static.zara.net/assets/public/8169/cf99/51b149b59311/dfd9f66d3daa/03920152400-e1/03920152400-e1.jpg?ts=1789564326455&w=750",
+     "mine": [
+      "S",
+      "M",
+      "L"
+     ],
+     "price": 107.0
     }
    ]
   }
  ],
  "markdowns_nosize": [
   {
-   "pid": "545490748",
-   "name": "WASHED TEXTURED RELAXED FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
-   "price": 75.0,
-   "old": 109.0,
-   "disc": 31,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 100% cotton",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/3494/085f/78704c41bfb2/e721ea2c61d8/02621311833-e1/02621311833-e1.jpg?ts=1785249611088&w=750",
-   "color": "Faded black",
-   "mine": [],
-   "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Faded black",
-     "url": "https://www.zara.com/ge/en/washed-textured-relaxed-fit-jumper-p02621311.html?v1=545490748",
-     "img": "https://static.zara.net/assets/public/3494/085f/78704c41bfb2/e721ea2c61d8/02621311833-e1/02621311833-e1.jpg?ts=1785249611088&w=750",
-     "mine": [],
-     "price": 75.0
-    }
-   ]
-  },
-  {
-   "pid": "549169926",
-   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
-   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
-   "price": 159.0,
-   "old": 259.0,
-   "disc": 39,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "WIND-JACKET",
-   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
-   "color": "Black",
-   "mine": [],
-   "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Black",
-     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
-     "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
-     "mine": [],
-     "price": 159.0
-    }
-   ]
-  },
-  {
-   "pid": "545422945",
-   "name": "COTTON-LINEN REGULAR FIT KNIT POLO SHIRT",
-   "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
-   "price": 99.0,
+   "pid": "545479445",
+   "name": "WASHED TOPSTITCHED GILET",
+   "url": "https://www.zara.com/ge/en/washed-topstitched-waistcoat-p00122331.html?v1=545479445",
+   "price": 95.0,
    "old": 159.0,
-   "disc": 38,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 70% cotton, 30% linen",
+   "disc": 40,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WAISTCOAT",
+   "comp": "Outer Shell: 100% cotton; Lining: 100% cotton; Filling: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/5482/8709/b41e4a718f9a/329cf011e31d/03920398712-e1/03920398712-e1.jpg?ts=1785755553899&w=750",
-   "color": "Ecru",
+   "img": "https://static.zara.net/assets/public/2253/7188/c7904c399010/fb104c5fe1fc/00122331505-e1/00122331505-e1.jpg?ts=1784737589940&w=750",
+   "color": "Khaki",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
@@ -10983,27 +11965,27 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Ecru",
-     "url": "https://www.zara.com/ge/en/cotton-linen-regular-fit-knit-polo-shirt-p03920398.html?v1=545422945",
-     "img": "https://static.zara.net/assets/public/5482/8709/b41e4a718f9a/329cf011e31d/03920398712-e1/03920398712-e1.jpg?ts=1785755553899&w=750",
+     "color": "Khaki",
+     "url": "https://www.zara.com/ge/en/washed-topstitched-waistcoat-p00122331.html?v1=545479445",
+     "img": "https://static.zara.net/assets/public/2253/7188/c7904c399010/fb104c5fe1fc/00122331505-e1/00122331505-e1.jpg?ts=1784737589940&w=750",
      "mine": [],
-     "price": 99.0
+     "price": 95.0
     }
    ]
   },
   {
-   "pid": "555354849",
-   "name": "REGULAR FIT COTTON-CASHMERE JUMPER",
-   "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
-   "price": 99.0,
-   "old": 179.0,
-   "disc": 45,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 80% cotton, 20% cashmere",
+   "pid": "553304201",
+   "name": "RELAXED FIT SPLIT SUEDE LEATHER COAT",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-leather-split-suede-coat-p08281432.html?v1=553304201",
+   "price": 479.0,
+   "old": 799.0,
+   "disc": 40,
+   "cat": "COLLECTION / COATS / COATS",
+   "family": "COAT",
+   "comp": "Outer Shell: 100% pig leather; Lining: 100% polyester",
    "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/a3ad/599c/424d42b08c43/41d19a8123b7/02893319800-e1/02893319800-e1.jpg?ts=1788343153201&w=750",
-   "color": "Black",
+   "img": "https://static.zara.net/assets/public/3324/89ad/890749ee93d7/b990188c8c89/08281432700-e1/08281432700-e1.jpg?ts=1792422245804&w=750",
+   "color": "Brown",
    "mine": [],
    "size_class": "top",
    "verdict": "nosize",
@@ -11011,286 +11993,339 @@
    "store": "Zara",
    "colors": [
     {
-     "color": "Black",
-     "url": "https://www.zara.com/ge/en/regular-fit-cotton-cashmere-jumper-p02893319.html?v1=555354849",
-     "img": "https://static.zara.net/assets/public/a3ad/599c/424d42b08c43/41d19a8123b7/02893319800-e1/02893319800-e1.jpg?ts=1788343153201&w=750",
+     "color": "Brown",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-leather-split-suede-coat-p08281432.html?v1=553304201",
+     "img": "https://static.zara.net/assets/public/3324/89ad/890749ee93d7/b990188c8c89/08281432700-e1/08281432700-e1.jpg?ts=1792422245804&w=750",
      "mine": [],
-     "price": 99.0
-    }
-   ]
-  },
-  {
-   "pid": "545465620",
-   "name": "COTTON REGULAR FIT JUMPER",
-   "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
-   "price": 99.0,
-   "old": 159.0,
-   "disc": 38,
-   "cat": "COLLECTION / SPECIAL PRICES / VIEW ALL",
-   "family": "SWEATER",
-   "comp": "Outer Shell: 100% cotton",
-   "natural": 100.0,
-   "img": "https://static.zara.net/assets/public/56e5/dc96/a4994c70b0a3/38091f962c9a/09598454916-e1/09598454916-e1.jpg?ts=1786958124234&w=750",
-   "color": "Grey green",
-   "mine": [],
-   "size_class": "top",
-   "verdict": "nosize",
-   "reason": "твоего размера нет",
-   "store": "Zara",
-   "colors": [
-    {
-     "color": "Grey green",
-     "url": "https://www.zara.com/ge/en/cotton-regular-fit-jumper-p09598454.html?v1=545465620",
-     "img": "https://static.zara.net/assets/public/56e5/dc96/a4994c70b0a3/38091f962c9a/09598454916-e1/09598454916-e1.jpg?ts=1786958124234&w=750",
-     "mine": [],
-     "price": 99.0
+     "price": 479.0
     }
    ]
   }
  ],
  "markdowns_rejected": [
   {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071599",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
+   "name": "PADDED LYOCELL AND COTTON JACKET",
+   "url": "https://www.zara.com/ge/en/padded-lyocell-cotton-jacket-p01437512.html?v1=553363803",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 65% lyocell, 35% cotton; Lining: 80% polyester, 20% cotton, 100% polyamide; Filling: 100% polyester",
+   "reason": "натуральных волокон 35% — меньше 80%"
+  },
+  {
+   "name": "WATER-REPELLENT 80% DOWN - 20% FEATHER JACKET",
+   "url": "https://www.zara.com/ge/en/80-down---20-feather-water-repellent-jacket-p03411001.html?v1=551082769",
+   "price": 257.0,
+   "old": 429.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "RELAXED FIT 100% LYOCELL TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071600",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
+   "name": "FORD © JACQUARD PADDED JACKET",
+   "url": "https://www.zara.com/ge/en/ford---jacquard-puffer-jacket-p03918555.html?v1=563392237",
+   "price": 197.0,
+   "old": 329.0,
+   "disc": 40,
+   "comp": "Outer Shell: 70% polyester, 30% cotton; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 30% — меньше 80%"
   },
   {
-   "name": "MONOCHROME CHUNKY TRAINERS",
-   "url": "https://www.zara.com/ge/en/monochrome-chunky-trainers-p12201820.html?v1=545422215",
-   "price": 69.0,
-   "old": 119.0,
-   "disc": 42,
-   "comp": "Upper: 100% polyurethane; Lining: 100% polyester; Sole: 100% polyurethane; Insole: 100% polyester; Tongue: 100% polyurethane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "MONOCHROME CHUNKY TRAINERS",
-   "url": "https://www.zara.com/ge/en/monochrome-chunky-trainers-p12201820.html?v1=545422214",
-   "price": 69.0,
-   "old": 119.0,
-   "disc": 42,
-   "comp": "Upper: 100% polyurethane; Lining: 100% polyester; Sole: 100% polyurethane; Insole: 100% polyester; Tongue: 100% polyurethane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "LEATHER DRESS SHOES",
-   "url": "https://www.zara.com/ge/en/leather-dress-shoes-p12429820.html?v1=545437123",
-   "price": 119.0,
+   "name": "REGULAR FIT LEATHER-EFFECT JACKET",
+   "url": "https://www.zara.com/ge/en/regular-fit-leather-effect-jacket-p03833420.html?v1=560306379",
+   "price": 131.0,
    "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 100% cow leather; Lining: 84% polyester, 16% polyurethane; Sole: 100% sbs; Insole: 100% polyurethane; Tongue: 100% cow leather",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "SLIM FIT SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "COMFORT SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773028",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "COMFORT SUIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=565424837",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071602",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071601",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "100% LYOCELL RELAXED FIT TROUSERS",
-   "url": "https://www.zara.com/ge/en/100-lyocell-relaxed-fit-trousers-p08574310.html?v1=555071597",
-   "price": 79.0,
-   "old": 159.0,
-   "disc": 50,
-   "comp": "Outer Shell: 100% lyocell",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "COMFORT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773006",
-   "price": 179.0,
-   "old": 299.0,
    "disc": 40,
-   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "COMFORT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773004",
-   "price": 179.0,
-   "old": 299.0,
-   "disc": 40,
-   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "SLIM FIT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
-   "price": 179.0,
-   "old": 299.0,
-   "disc": 40,
-   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane; Lining: 100% polyester",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "NYLON BACKPACK",
-   "url": "https://www.zara.com/ge/en/nylon-backpack-p13219820.html?v1=546982301",
-   "price": 69.0,
-   "old": 119.0,
-   "disc": 42,
-   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester; Filling: 100% polyester",
-   "reason": "натуральных волокон 0% — меньше 80%"
-  },
-  {
-   "name": "RUBBERISED CROSSBODY BAG",
-   "url": "https://www.zara.com/ge/en/rubberised-crossbody-bag-p13524820.html?v1=545474832",
-   "price": 39.0,
-   "old": 79.0,
-   "disc": 51,
    "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "RUBBERISED CROSSBODY BAG WITH BUCKLE",
-   "url": "https://www.zara.com/ge/en/rubberised-crossbody-bag-with-buckle-p13519820.html?v1=545474831",
-   "price": 55.0,
-   "old": 99.0,
-   "disc": 44,
-   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester",
+   "name": "REGULAR FIT WOOL EFFECT JACKET",
+   "url": "https://www.zara.com/ge/en/textured-regular-fit-jacket-p03286500.html?v1=549214674",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 70% polyester, 18% acrylic, 12% viscose; Lining: 100% polyester",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "CASUAL LEATHER TRAINERS",
-   "url": "https://www.zara.com/ge/en/casual-leather-trainers-p12349720.html?v1=545456761",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "LEATHER CHELSEA BOOTS",
-   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437164",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "LEATHER CHELSEA BOOTS",
-   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "LEATHER DECK SHOES",
-   "url": "https://www.zara.com/ge/en/leather-deck-shoes-p12456720.html?v1=545422634",
-   "price": 119.0,
-   "old": 199.0,
-   "disc": 40,
-   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester; Tongue: 100% cow leather",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "CASUAL LEATHER LOAFERS WITH TASSELS",
-   "url": "https://www.zara.com/ge/en/casual-leather-loafers-with-tassels-p12651720.html?v1=545409746",
-   "price": 119.0,
-   "old": 219.0,
-   "disc": 46,
-   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester",
-   "reason": "подкладка синтетическая"
-  },
-  {
-   "name": "PADDED ZIP OVERSHIRT",
-   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174087",
-   "price": 129.0,
-   "old": 219.0,
-   "disc": 41,
-   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
-   "reason": "натуральных волокон 62% — меньше 80%"
-  },
-  {
-   "name": "PADDED ZIP OVERSHIRT",
-   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174086",
-   "price": 129.0,
-   "old": 219.0,
-   "disc": 41,
-   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
-   "reason": "натуральных волокон 62% — меньше 80%"
-  },
-  {
-   "name": "WOOL BLEND REGULAR FIT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/regular-fit-wool-blend-suit-blazer-p06406191.html?v1=557175080",
+   "name": "LANDSCAPE JACQUARD PADDED JACKET",
+   "url": "https://www.zara.com/ge/en/landscape-jacquard-padded-jacket-p03918406.html?v1=552281004",
    "price": 179.0,
-   "old": 379.0,
-   "disc": 53,
-   "comp": "Outer Shell: 59% polyester, 41% wool; Lining: 100% polyester",
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 74% polyester, 26% cotton; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 26% — меньше 80%"
+  },
+  {
+   "name": "60% DOWN - 40% FEATHER WATER-REPELLENT GILET",
+   "url": "https://www.zara.com/ge/en/60-down---40-feather-water-repellent-gilet-p03411002.html?v1=560284682",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 60% grey duck down, 40% grey duck feather",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "LIGHTWEIGHT WATER-REPELLENT QUILTED GILET",
+   "url": "https://www.zara.com/ge/en/lightweight-water-repellent-quilted-gilet-p04302500.html?v1=545456424",
+   "price": 65.0,
+   "old": 109.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "RELAXED FIT WOOL BLEND TRENCH COAT",
+   "url": "https://www.zara.com/ge/en/wool-blend-relaxed-fit-trench-coat-p06014577.html?v1=580731304",
+   "price": 479.0,
+   "old": 799.0,
+   "disc": 40,
+   "comp": "Outer Shell: 55% polyester, 45% wool; Lining: 100% polyester",
+   "reason": "натуральных волокон 45% — меньше 80%"
+  },
+  {
+   "name": "WASHED LYOCELL - COTTON PARKA",
+   "url": "https://www.zara.com/ge/en/washed-lyocell---cotton-parka-p03216377.html?v1=575706629",
+   "price": 197.0,
+   "old": 329.0,
+   "disc": 40,
+   "comp": "Outer Shell: 63% lyocell, 37% cotton",
+   "reason": "натуральных волокон 37% — меньше 80%"
+  },
+  {
+   "name": "60% DOWN - 40% FEATHER WATER-REPELLENT GILET",
+   "url": "https://www.zara.com/ge/en/60-down---40-feather-water-repellent-gilet-p03411002.html?v1=560284683",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 60% grey duck down, 40% grey duck feather",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "REGULAR FIT POUCH POCKET JACKET",
+   "url": "https://www.zara.com/ge/en/regular-fit-pouch-jacket-p01437400.html?v1=547108209",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 74% cotton, 26% polyamide",
+   "reason": "натуральных волокон 74% — меньше 80%"
+  },
+  {
+   "name": "RELAXED FIT WOOL BLEND FROCK COAT",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-wool-blend-frock-coat-p00706655.html?v1=583759548",
+   "price": 257.0,
+   "old": 429.0,
+   "disc": 40,
+   "comp": "Outer Shell: 59% polyester, 41% wool",
    "reason": "натуральных волокон 41% — меньше 80%"
   },
   {
-   "name": "COMFORT SUIT BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=565424841",
-   "price": 179.0,
-   "old": 299.0,
+   "name": "WATER-REPELLENT RELAXED FIT JACKET",
+   "url": "https://www.zara.com/ge/en/water-repellent-relaxed-fit-jacket-p00155402.html?v1=552240536",
+   "price": 155.0,
+   "old": 259.0,
    "disc": 40,
-   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "comp": "Outer Shell: 100% polyamide",
    "reason": "натуральных волокон 0% — меньше 80%"
   },
   {
-   "name": "COMFORT SUIT DOUBLE-BREASTED BLAZER",
-   "url": "https://www.zara.com/ge/en/comfort-suit-double-breasted-blazer-p04457232.html?v1=555080411",
+   "name": "WASHED EFFECT REGULAR FIT JACKET",
+   "url": "https://www.zara.com/ge/en/washed-effect-regular-fit-jacket-p09621621.html?v1=551420273",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 66% cotton, 34% polyamide",
+   "reason": "натуральных волокон 66% — меньше 80%"
+  },
+  {
+   "name": "80% DOWN - 20% FEATHER WATER-REPELLENT JACKET",
+   "url": "https://www.zara.com/ge/en/80-down---20-feather-water-repellent-jacket-p03411001.html?v1=555821485",
+   "price": 257.0,
+   "old": 429.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "WASHED EFFECT REGULAR FIT JACKET",
+   "url": "https://www.zara.com/ge/en/washed-effect-regular-fit-jacket-p09621621.html?v1=551420275",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 66% cotton, 34% polyamide",
+   "reason": "натуральных волокон 66% — меньше 80%"
+  },
+  {
+   "name": "REGULAR FIT BOMBER JACKET",
+   "url": "https://www.zara.com/ge/en/regular-fit-bomber-jacket-p03918410.html?v1=545446587",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 55% polyamide, 45% cotton; Lining: 65% polyester, 35% cotton, 100% polyester",
+   "reason": "натуральных волокон 45% — меньше 80%"
+  },
+  {
+   "name": "80% DOWN - 20% FEATHER WATER-REPELLENT JACKET",
+   "url": "https://www.zara.com/ge/en/80-down---20-feather-water-repellent-jacket-p04302200.html?v1=560306371",
    "price": 179.0,
    "old": 299.0,
    "disc": 40,
-   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyester; Filling: 80% grey duck down, 20% grey duck feather",
    "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "WOOL BLEND DOUBLE-BREASTED BELTED COAT",
+   "url": "https://www.zara.com/ge/en/wool-blend-belted-double-breasted-coat-p08491806.html?v1=571614501",
+   "price": 317.0,
+   "old": 529.0,
+   "disc": 40,
+   "comp": "Outer Shell: 59% polyester, 40% wool, 1% acrylic; Lining: 100% polyester",
+   "reason": "натуральных волокон 40% — меньше 80%"
+  },
+  {
+   "name": "80% DOWN - 20% FEATHER WATER-REPELLENT JACKET",
+   "url": "https://www.zara.com/ge/en/80-down---20-feather-water-repellent-jacket-p03411001.html?v1=570993090",
+   "price": 257.0,
+   "old": 429.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "WOOL BLEND RELAXED FIT BLAZER",
+   "url": "https://www.zara.com/ge/en/wool-blend-relaxed-fit-blazer-p09621001.html?v1=576269016",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 60% viscose, 40% wool",
+   "reason": "натуральных волокон 40% — меньше 80%"
+  },
+  {
+   "name": "WATER-RESISTANT PADDED JACKET",
+   "url": "https://www.zara.com/ge/en/water-resistant-padded-jacket-p03833440.html?v1=563392167",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "WATER-REPELLENT 80% DOWN - 20% FEATHER GILET",
+   "url": "https://www.zara.com/ge/en/water-repellent-80-down-and-20-feather-gilet-p02634383.html?v1=545466113",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "TEXTURED REGULAR FIT JACKET",
+   "url": "https://www.zara.com/ge/en/textured-regular-fit-jacket-p03286500.html?v1=547261288",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 70% polyester, 18% acrylic, 12% viscose; Lining: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "80% DOWN - 20% FEATHER WATER-REPELLENT JACKET",
+   "url": "https://www.zara.com/ge/en/80-down---20-feather-water-repellent-jacket-p04302200.html?v1=560306370",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyester; Filling: 80% grey duck down, 20% grey duck feather",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "WOOL BLEND HERRINGBONE JACKET",
+   "url": "https://www.zara.com/ge/en/wool-blend-herringbone-jacket-p04302408.html?v1=569314069",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 67% polyester, 31% wool, 2% acrylic; Lining: 100% polyester",
+   "reason": "натуральных волокон 31% — меньше 80%"
+  },
+  {
+   "name": "WAXED-EFFECT REGULAR FIT JACKET",
+   "url": "https://www.zara.com/ge/en/regular-fit-waxed-effect-jacket-p03286425.html?v1=560299704",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 64% cotton, 36% polyester; Lining: 80% polyester, 20% cotton, 64% cotton, 36% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 64% — меньше 80%"
+  },
+  {
+   "name": "STRIPED SUIT WAISTCOAT",
+   "url": "https://www.zara.com/ge/en/striped-suit-waistcoat-p04696274.html?v1=587894031",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 51% polyester, 33% viscose, 2% elastane, 14% wool, 100% polyester; Lining: 100% polyester",
+   "reason": "натуральных волокон 14% — меньше 80%"
+  },
+  {
+   "name": "STRUCTURED RUNNING WINDBREAKER",
+   "url": "https://www.zara.com/ge/en/textured-running-windbreaker-p06096303.html?v1=547261284",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 77% polyamide, 23% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "Wool blend regular fit jumper",
+   "url": "https://www.zara.com/ge/en/regular-fit-wool-blend-jumper-p06674310.html?v1=561233389",
+   "price": 119.0,
+   "old": 199.0,
+   "disc": 40,
+   "comp": "Outer Shell: 41% acrylic, 36% wool, 23% linen",
+   "reason": "натуральных волокон 59% — меньше 80%"
+  },
+  {
+   "name": "JUMPER RELAXED FIT CHENILLE",
+   "url": "https://www.zara.com/ge/en/jumper-relaxed-fit-chenille-p05755310.html?v1=551323205",
+   "price": 95.0,
+   "old": 159.0,
+   "disc": 40,
+   "comp": "Outer Shell: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COLOUR BLOCK RELAXED FIT JUMPER",
+   "url": "https://www.zara.com/ge/en/soft-structured-jumper-p05755315.html?v1=545461910",
+   "price": 77.0,
+   "old": 129.0,
+   "disc": 40,
+   "comp": "Outer Shell: 50% viscose, 28% polyester, 22% polyamide",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "TEXTURED CABLE-KNIT JUMPER AARON LEVINE X ZARA",
+   "url": "https://www.zara.com/ge/en/textured-cable-knit-jumper-aaron-levine-x-zara-p05755302.html?v1=545485515",
+   "price": 107.0,
+   "old": 179.0,
+   "disc": 40,
+   "comp": "Outer Shell: 76% cotton, 24% polyamide",
+   "reason": "натуральных волокон 76% — меньше 80%"
+  },
+  {
+   "name": "WOOL BLEND TEXTURED JUMPER",
+   "url": "https://www.zara.com/ge/en/textured-wool-blend-jumper-p05755354.html?v1=565392096",
+   "price": 155.0,
+   "old": 259.0,
+   "disc": 40,
+   "comp": "Outer Shell: 63% wool, 37% polyamide",
+   "reason": "натуральных волокон 63% — меньше 80%"
+  },
+  {
+   "name": "WOOL BLEND REGULAR FIT CARDIGAN",
+   "url": "https://www.zara.com/ge/en/wool-blend-regular-fit-cardigan-p03003307.html?v1=564133500",
+   "price": 131.0,
+   "old": 219.0,
+   "disc": 40,
+   "comp": "Outer Shell: 79% wool, 21% polyamide",
+   "reason": "натуральных волокон 79% — меньше 80%"
   }
  ],
  "log": [
@@ -11309,7 +12344,7 @@
   "✓ ob-bulldog 963  размер: 38,40",
   "· vilebrequin None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ md-suede-loafer 400.0  размер: 42,42,43,43",
-  "✓ md-leather-loafer 600.0  размер: 42,43",
+  "✓ md-leather-loafer 360.0 600.0 размер: 42,43",
   "· cos-penny None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bass-larson None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cj-boston 2596  размер: 8,8.5,9",
@@ -11321,10 +12356,10 @@
   "· cos-derby None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ paraboot-chambord 1122 2222 размер: ",
   "· churchs-shannon None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-chelsea 690.0  размер: ",
+  "✓ md-chelsea 552.0 690.0 размер: ",
   "· cos-chelsea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· sl-wyatt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-suede-boot 600.0  размер: ",
+  "✓ md-suede-boot 360.0 600.0 размер: ",
   "· redwing-ir None  www.toddsnyder.com: 403",
   "· clarks-desert None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· cp-achilles None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -11340,11 +12375,11 @@
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
   "✓ sebago-dock 267 546 размер: 9 908,9.5 908,10 908,9.5 908,10 908",
   "✓ cz-laptop 259.0  размер: ONE SIZE ONLY",
-  "✓ md-tote 900.0  размер: ",
+  "✓ md-tote 720.0 900.0 размер: ",
   "✓ cc-isar 1151  размер: Default Title",
   "· porter-tanker None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bv-arco None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ md-belt 230.0  размер: 85,90",
+  "✓ md-belt 138.0 230.0 размер: 85,90",
   "· mango-belt None  shop.mango.com: 429",
   "· andersons-woven None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ seiko-srpd55 1135  размер: ",
@@ -11371,8 +12406,8 @@
   "· acne-face-beanie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· carhartt-watch-hat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· rl-cap None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "✓ cz-wool-scarf 129.0  размер: M",
-  "✓ md-fringe-scarf 290.0  размер: 01",
+  "✓ cz-wool-scarf 129.0  размер: ",
+  "✓ md-fringe-scarf 232.0 290.0 размер: 01",
   "✓ md-cash-scarf 690.0  размер: 01",
   "· cos-cash-scarf None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ begg-arran 1215  размер: Default Title",
@@ -11399,10 +12434,10 @@
   "✓ shave-blades 47  размер: ",
   "✓ shave-gel 20  размер: ",
   "✓ z-trench 379.0  размер: S,M,L",
-  "✓ z-retro 179.0  размер: 42,43",
-  "✓ z-knit-blue 159.0  размер: M,L",
-  "✓ z-track 179.0  размер: S,M,L",
-  "✓ z-cap 69.0  размер: ",
+  "✓ z-retro 107.0 179.0 размер: ",
+  "✓ z-knit-blue 95.0 159.0 размер: M,L",
+  "✓ z-track 107.0 179.0 размер: S,M,L",
+  "✓ z-cap 41.0 69.0 размер: ",
   "✓ w1-jeans~alt 332  размер: ",
   "· w5-merino~alt None  dressup.ge: цены в разметке страницы нет",
   "✓ z-retro~alt 279  размер: ",
@@ -11412,15 +12447,15 @@
   "✓ w5-sandals~alt 544  размер: ",
   "✓ sp00 460  размер: ",
   "✓ sp01 469 769 размер: Medium / Oat / Standard,Large / Oat / Standard,Extra Large / Oat / Standard",
-  "✓ sp02 219.0  размер: S,M,L",
-  "✓ sp03 179.0  размер: S,M,L",
+  "✓ sp02 131.0 219.0 размер: S,M,L",
+  "✓ sp03 107.0 179.0 размер: S,M,L",
   "✓ sp04 584  размер: ",
-  "✓ sp05 179.0  размер: ",
-  "✓ sp06 179.0  размер: M,L",
+  "✓ sp05 107.0 179.0 размер: ",
+  "✓ sp06 107.0 179.0 размер: ",
   "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
   "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
   "✓ sp09 179.0  размер: S,M,L",
-  "✓ sp10 159.0  размер: M,L",
+  "✓ sp10 95.0 159.0 размер: M",
   "✓ sp11 284 578 размер: Small / Black / Standard,Medium / Black / Standard",
   "✓ sp12 695 864 размер: Small / Stone / Standard,Medium / Stone / Standard,Large / Stone / Standard,Extra Large / Stone / Standard",
   "✓ sp14 969  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
@@ -11438,37 +12473,37 @@
   "✓ sp26 129.0  размер: S,M,L",
   "✓ sp27 848 1055 размер: Small / Heather Black / Standard,Medium / Heather Black / Standard,Large / Heather Black / Standard,Extra Large / Heather Black / Standard,XX Large / Heather Black / Standard",
   "✓ sp28 428  размер: ",
-  "✓ sp29 129.0  размер: M",
+  "✓ sp29 77.0 129.0 размер: ",
   "✓ sp30 129.0  размер: M",
   "✓ sp31 428  размер: Small / Black / Standard",
   "✓ sp32 109.0  размер: M",
   "✓ sp33 261 460 размер: Small / Black / Slim,Medium / Black / Slim,Large / Black / Slim,Extra Large / Black / Slim,XX Large / Black / Slim",
   "✓ sp34 396  размер: Small / Heather Natural / Slim,Medium / Heather Natural / Slim,Large / Heather Natural / Slim,Extra Large / Heather Natural / Slim,XX Large / Heather Natural / Slim",
-  "✓ sp35 179.0  размер: M",
+  "✓ sp35 107.0 179.0 размер: M",
   "✓ sp37 208 297 размер: ",
   "✓ sp38 109.0  размер: M",
   "✓ sp39 244  размер: ",
   "✓ sp40 333  размер: ",
-  "✓ sp42 119.0 219.0 размер: 43",
+  "✓ sp42 119.0 219.0 размер: ",
   "✓ sp43 249  размер: ",
   "· sp44 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
   "· sp45 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
   "· sp46 None  Zara: не JSON (вероятно, защита от ботов)",
-  "✓ sp47 149.0  размер: 42,43",
+  "✓ sp47 89.0 149.0 размер: 42,43",
   "✓ sp48 69.0  размер: M",
   "✓ sp49 78 130 размер: O S",
   "✓ sp50 143  размер: ",
-  "✓ sp51 99.0  размер: ONE SIZE ONLY",
-  "✓ sp52 99.0  размер: ",
+  "✓ sp51 59.0 99.0 размер: ONE SIZE ONLY",
+  "✓ sp52 99.0  размер: ONE SIZE ONLY",
   "✓ sp53 494  размер: ",
   "✓ sp54 485  размер: ",
-  "✓ sp55 530  размер: ",
+  "✓ sp55 471  размер: ",
   "✓ sp56 219.0  размер: ",
   "✓ sp57 606  размер: M,L",
   "✓ sp58 565  размер: S,M",
   "✓ sp59 1004  размер: S,M,L",
   "· sp60 None  reigningchamp.com: 404",
-  "✓ sp61 397 492 размер: Large / Oyster / Standard,Extra Large / Oyster / Standard",
+  "✓ sp61 397 492 размер: Large / Oyster / Standard",
   "✓ sp62 492  размер: Large / Heather Oatmeal / Standard",
   "✓ sp63 359  размер: ",
   "✓ sp64 359  размер: ",
@@ -11478,8 +12513,8 @@
   "✓ sp69 359  размер: ",
   "✓ sp70 199  размер: ",
   "✓ sp71 99.0  размер: S,M,L",
-  "✓ sp72 129.0  размер: M,L",
-  "✓ sp73 394 769 размер: Medium / Navy / Standard,Large / Navy / Standard",
+  "✓ sp72 77.0 129.0 размер: M,L",
+  "✓ sp73 394 769 размер: Large / Navy / Standard",
   "✓ sp74 200 492 размер: XX Large / Black / Slim",
   "✓ sp75 200 492 размер: Small / Atlantic / Slim,Medium / Atlantic / Slim,Large / Atlantic / Slim,Extra Large / Atlantic / Slim",
   "✓ sp76 969  размер: Small / Navy / Relaxed,Medium / Navy / Relaxed,Large / Navy / Relaxed,Extra Large / Navy / Relaxed,XX Large / Navy / Relaxed",
@@ -11487,34 +12522,16 @@
   "· sp78 None  Не читается сборщиком: проверять вручную",
   "✓ sp79 627  размер: S,M,L",
   "✓ sp82 399  размер: ",
-  "✓ sp83 190 238 размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard",
+  "✓ sp83 190 238 размер: Small / Navy / Standard,Large / Navy / Standard",
   "✓ sp84 265  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard",
   "✓ sp85 523  размер: S,M,L",
-  "✓ sp86 159.0  размер: M,L",
+  "✓ sp86 95.0 159.0 размер: ",
   "✓ sp87 323  размер: ",
-  "Zara: категорий для уценок — 69",
-  "Zara: уценок от 30% — 37"
+  "Zara: категорий для уценок — 68",
+  "Zara: уценок от 30% — 463"
  ],
  "weather": {
   "today": {
-   "date": "2026-11-26",
-   "weekday": "четверг",
-   "wd": 3,
-   "tmax": 7.4,
-   "tmin": 1.1,
-   "feel_max": 1.1,
-   "feel_min": -2.7,
-   "eve": 3.5,
-   "eve_feel": -0.5,
-   "precip": 0.4,
-   "pop": 45,
-   "code": 61,
-   "sky": "дождь",
-   "wind": 33.3,
-   "eff": 4.2,
-   "season": "win"
-  },
-  "tomorrow": {
    "date": "2026-11-27",
    "weekday": "пятница",
    "wd": 4,
@@ -11522,36 +12539,35 @@
    "tmin": -1.7,
    "feel_max": 7.0,
    "feel_min": -4.4,
-   "eve": 2.9,
-   "eve_feel": 0.7,
+   "eve": 2.8,
+   "eve_feel": 0.6,
+   "precip": 0.0,
+   "pop": 0,
+   "code": 1,
+   "sky": "малооблачно",
+   "wind": 7.8,
+   "eff": 8.6,
+   "season": "win"
+  },
+  "tomorrow": {
+   "date": "2026-11-28",
+   "weekday": "суббота",
+   "wd": 5,
+   "tmax": 11.9,
+   "tmin": -0.4,
+   "feel_max": 8.9,
+   "feel_min": -3.7,
+   "eve": 6.0,
+   "eve_feel": 3.6,
    "precip": 0.0,
    "pop": 0,
    "code": 3,
    "sky": "пасмурно",
-   "wind": 7.6,
-   "eff": 8.6,
-   "season": "win"
+   "wind": 9.2,
+   "eff": 10.4,
+   "season": "cm"
   },
   "recent": [
-   {
-    "date": "2026-11-05",
-    "weekday": "четверг",
-    "wd": 3,
-    "tmax": 15.5,
-    "tmin": 9.0,
-    "feel_max": 11.5,
-    "feel_min": 3.0,
-    "eve": 10.3,
-    "eve_feel": 3.5,
-    "precip": 0.9,
-    "pop": 70,
-    "code": 80,
-    "sky": "ливень",
-    "wind": 37.8,
-    "eff": 13.5,
-    "season": "cm",
-    "at": "20:56"
-   },
    {
     "date": "2026-11-06",
     "weekday": "пятница",
@@ -11931,6 +12947,25 @@
     "eff": 4.2,
     "season": "win",
     "at": "18:43"
+   },
+   {
+    "date": "2026-11-27",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 10.1,
+    "tmin": -1.7,
+    "feel_max": 7.0,
+    "feel_min": -4.4,
+    "eve": 2.8,
+    "eve_feel": 0.6,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 1,
+    "sky": "малооблачно",
+    "wind": 7.8,
+    "eff": 8.6,
+    "season": "win",
+    "at": "00:01"
    }
   ]
  }
