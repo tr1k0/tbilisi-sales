@@ -402,19 +402,19 @@
   "date": "2026-11-27",
   "weekday": "пятница",
   "wd": 4,
-  "tmax": 9.8,
+  "tmax": 10.1,
   "tmin": -2.2,
-  "feel_max": 6.9,
+  "feel_max": 7.2,
   "feel_min": -4.9,
-  "eve": 2.9,
-  "eve_feel": 0.7,
+  "eve": 3.3,
+  "eve_feel": 1.0,
   "precip": 0.0,
   "pop": 0,
   "code": 45,
   "sky": "туман",
   "wind": 8.1,
-  "eff": 8.4,
+  "eff": 8.7,
   "season": "win",
-  "at": "11:28"
+  "at": "18:42"
  }
 }
