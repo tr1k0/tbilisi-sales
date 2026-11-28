@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:50+04:00",
+ "updated": "2026-11-28T10:57+04:00",
  "sizes": "Размеры по портрету: верх S (свободный) / M (трикотаж) / L (slim, рубашки); Zara-этикетки 38–42 для брюк; пиджак EU 50–52 (плечи 48,5); низ M или 38/40, длину проверять; обувь EU 42–43 (стопа 25,5, широкая)",
  "plan": [
   {
@@ -11,9 +11,34 @@
    "plan_price": 129,
    "size": "bottom",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/jeans.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46",
+    "48"
+   ],
+   "sizes_avail": [
+    "36",
+    "40",
+    "42",
+    "44",
+    "46",
+    "48"
+   ],
+   "mine": [
+    "40"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/items/jeans.webp",
+   "cur": "GEL"
   },
   {
    "id": "w1-oxford",
@@ -24,9 +49,33 @@
    "plan_price": 109,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/oxford-blue.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Sky blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/items/oxford-blue.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-oxford",
@@ -37,9 +86,31 @@
    "plan_price": 109,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-oxford-white.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/moodi/c-oxford-white.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-merino",
@@ -50,9 +121,31 @@
    "plan_price": 230,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-merino.webp"
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-merino.webp",
+   "cur": "GEL"
   },
   {
    "id": "w1-tee",
@@ -64,7 +157,7 @@
    "size": "top",
    "group": "plan",
    "ok": false,
-   "err": "Zara: 403",
+   "err": "Zara: не JSON (вероятно, защита от ботов)",
    "img": "assets/items/tee-black.webp"
   },
   {
@@ -76,9 +169,31 @@
    "plan_price": 429,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-cash-black.webp"
+   "ok": true,
+   "price": 429.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cashmere",
+   "img": "assets/moodi/c-cash-black.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-blazer",
@@ -89,9 +204,30 @@
    "plan_price": 429,
    "size": "tailoring",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-blazer.webp"
+   "ok": true,
+   "price": 429.0,
+   "old": null,
+   "color": "Dark navy",
+   "sizes_all": [
+    "48",
+    "50",
+    "52",
+    "54"
+   ],
+   "sizes_avail": [
+    "48",
+    "50",
+    "52",
+    "54"
+   ],
+   "mine": [
+    "50",
+    "52"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool; Lining: 55% viscose, 45% polyester",
+   "img": "assets/moodi/d-blazer.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-trousers",
@@ -102,9 +238,23 @@
    "plan_price": 400,
    "size": "bottom",
    "group": "plan",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-dbl-pleated.webp"
+   "ok": true,
+   "price": 400.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-dbl-pleated.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-chino-navy",
@@ -115,9 +265,23 @@
    "plan_price": 179,
    "size": "bottom",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-chino-navy.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-chino-navy.webp",
+   "cur": "GEL"
   },
   {
    "id": "w3-overshirt",
@@ -128,9 +292,30 @@
    "plan_price": 219,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/overshirt.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/items/overshirt.webp",
+   "cur": "GEL"
   },
   {
    "id": "w3-polo",
@@ -142,7 +327,7 @@
    "size": "top",
    "group": "plan",
    "ok": false,
-   "err": "Massimo Dutti: 403",
+   "err": "Massimo Dutti: в ссылке нет номера товара (pelement)",
    "img": "assets/items/polo-navy.webp"
   },
   {
@@ -154,9 +339,33 @@
    "plan_price": 129,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-linen-cotton.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 55% linen, 45% cotton",
+   "img": "assets/cat/cz-linen-cotton.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-linen-blue",
@@ -167,9 +376,33 @@
    "plan_price": 129,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-linen-cotton.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Sky blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 55% linen, 45% cotton",
+   "img": "assets/cat/cz-linen-cotton.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-linen-navy",
@@ -180,9 +413,30 @@
    "plan_price": 219,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-linen-lyocell.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 58% linen, 42% lyocell",
+   "img": "assets/cat/cz-linen-lyocell.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-linen-tr-navy",
@@ -193,9 +447,29 @@
    "plan_price": 219,
    "size": "bottom",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-linen-trousers.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% linen",
+   "img": "assets/cat/cz-linen-trousers.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-linen-tr-white",
@@ -206,9 +480,35 @@
    "plan_price": 390,
    "size": "bottom",
    "group": "plan",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-linen.webp"
+   "ok": true,
+   "price": 390.0,
+   "old": null,
+   "color": "WHITE",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46",
+    "48"
+   ],
+   "sizes_avail": [
+    "36",
+    "38",
+    "40",
+    "44",
+    "46",
+    "48"
+   ],
+   "mine": [
+    "38",
+    "40"
+   ],
+   "need_size": true,
+   "comp": "100% linen; 100% cotton",
+   "img": "assets/cat/md-linen.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-bermuda-navy",
@@ -219,9 +519,29 @@
    "plan_price": 179,
    "size": "bottom",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-linen-bermuda.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% linen",
+   "img": "assets/cat/cz-linen-bermuda.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-polo-white~1",
@@ -234,9 +554,31 @@
    "group": "plan",
    "alt_of": "w5-polo-white",
    "alt_label": "Поло-пике, белое или голубое",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Faded blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "https://static.zara.net/assets/public/0661/f4aa/a2bc41ebb4a3/9eba99607f84/04087315428-e1/04087315428-e1.jpg?ts=1783592893039&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-polo-white~2",
@@ -249,9 +591,31 @@
    "group": "plan",
    "alt_of": "w5-polo-white",
    "alt_label": "Поло-пике, белое или голубое",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 97% cotton, 3% elastane",
+   "img": "https://static.zara.net/assets/public/ae8a/fa98/78d44e81a517/e48b34d4f749/04092401251-e1/04092401251-e1.jpg?ts=1785755533090&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-polo-white~3",
@@ -264,9 +628,33 @@
    "group": "plan",
    "alt_of": "w5-polo-white",
    "alt_label": "Поло-пике, белое или голубое",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton, 98% cotton, 2% elastane",
+   "img": "https://static.zara.net/assets/public/631b/787b/f13f44d499b9/bc095d8148a0/00526410251-e1/00526410251-e1.jpg?ts=1783938905200&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-tee-white",
@@ -277,9 +665,33 @@
    "plan_price": 158,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-heavy-tee.webp"
+   "ok": true,
+   "price": 79.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-heavy-tee.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-tee-navy",
@@ -290,9 +702,33 @@
    "plan_price": 180,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-tee.webp"
+   "ok": true,
+   "price": 180.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "assets/cat/md-tee.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-sandals~1",
@@ -305,9 +741,34 @@
    "group": "plan",
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 330.0,
+   "old": null,
+   "color": "Dark blue",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% goat leather; 100% rubber; 100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/2c5f/5ce7/0fb9449baa2c/d0fcb81d07e9/12921750407-o1/12921750407-o1.jpg?ts=1779450481674&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-sandals~2",
@@ -320,9 +781,44 @@
    "group": "plan",
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 330.0,
+   "old": null,
+   "color": "Dark blue",
+   "sizes_all": [
+    "39",
+    "39",
+    "40",
+    "40",
+    "41",
+    "41",
+    "42",
+    "42",
+    "43",
+    "43",
+    "44",
+    "44",
+    "45",
+    "45",
+    "46",
+    "46"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "40",
+    "41",
+    "42",
+    "45",
+    "46"
+   ],
+   "mine": [
+    "42"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 100% sheep leather; 100% rubber; 100% sheep leather",
+   "img": "https://static.massimodutti.net/assets/public/1e04/ae3f/5dc94e9ab809/4d5ba7422ede/12904750407-o1/12904750407-o1.jpg?ts=1773312567034&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-sandals~3",
@@ -335,9 +831,36 @@
    "group": "plan",
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 470.0,
+   "old": null,
+   "color": "OCHRE",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 100% cow leather; 100% rubber; 100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/50a9/7de2/f04c4b80b5ad/b19adee0ed44/12936750713-o1/12936750713-o1.jpg?ts=1777908007219&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-sandals~4",
@@ -350,9 +873,34 @@
    "group": "plan",
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 199.0,
+   "old": null,
+   "color": "Sand Brown",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 60% jute, 40% polyurethane",
+   "img": "https://static.zara.net/assets/public/2b28/cb26/67cd4318b8eb/61972f537d7b/12760720107-e1/12760720107-e1.jpg?ts=1783519946090&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-sandals~5",
@@ -365,9 +913,37 @@
    "group": "plan",
    "alt_of": "w5-sandals",
    "alt_label": "Кожаные сандалии или эспадрильи",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 149.0,
+   "old": null,
+   "color": "Chocolate",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester",
+   "img": "https://static.zara.net/assets/public/56ee/eb0d/449a4fee81ce/f653f50eb94b/12738720721-e1/12738720721-e1.jpg?ts=1783519943993&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-swim~1",
@@ -380,9 +956,31 @@
    "group": "plan",
    "alt_of": "w5-swim",
    "alt_label": "Однотонные плавки, тёмно-синие",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 190.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% polyamide; 100% polyester",
+   "img": "https://static.massimodutti.net/assets/public/019d/66db/bea84c0dbd20/73f5a7c551f1/00689188401-o1/00689188401-o1.jpg?ts=1779891679137&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-swim~2",
@@ -395,9 +993,28 @@
    "group": "plan",
    "alt_of": "w5-swim",
    "alt_label": "Однотонные плавки, тёмно-синие",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyester",
+   "img": "https://static.zara.net/assets/public/869d/ee65/7ad045e58735/bf0fb5aa233f/00495317401-e1/00495317401-e1.jpg?ts=1784194330757&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-belt-woven~1",
@@ -410,9 +1027,22 @@
    "group": "plan",
    "alt_of": "w5-belt-woven",
    "alt_label": "Плетёный летний ремень",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 190.0,
+   "old": null,
+   "color": "BROWN",
+   "sizes_all": [
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/b016/1bf3/6abd40158988/b7ea4ac0959c/02745305700-o1/02745305700-o1.jpg?ts=1781247783255&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-belt-woven~2",
@@ -425,9 +1055,26 @@
    "group": "plan",
    "alt_of": "w5-belt-woven",
    "alt_label": "Плетёный летний ремень",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/20d5/f6ca/aa924dd1b9b6/6f90095251cd/02533310800-o1/02533310800-o1.jpg?ts=1774351811894&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-belt-woven~3",
@@ -440,9 +1087,25 @@
    "group": "plan",
    "alt_of": "w5-belt-woven",
    "alt_label": "Плетёный летний ремень",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "S-M",
+    "L-XL"
+   ],
+   "sizes_avail": [
+    "S-M",
+    "L-XL"
+   ],
+   "mine": [
+    "S-M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cow leather",
+   "img": "https://static.zara.net/assets/public/3027/d476/14f54b45b808/1202f9cb3ba8/02823312700-e1/02823312700-e1.jpg?ts=1790759506962&w=750",
+   "cur": "GEL"
   },
   {
    "id": "w5-belt-woven~4",
@@ -455,9 +1118,25 @@
    "group": "plan",
    "alt_of": "w5-belt-woven",
    "alt_label": "Плетёный летний ремень",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": null
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Sand",
+   "sizes_all": [
+    "S-M",
+    "L-XL"
+   ],
+   "sizes_avail": [
+    "S-M",
+    "L-XL"
+   ],
+   "mine": [
+    "S-M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 55% polyester, 45% elastodiene, 100% cow leather",
+   "img": "https://static.zara.net/assets/public/e095/cb94/fab4478faed0/ecbf0232a492/02823301711-e1/02823301711-e1.jpg?ts=1784530636458&w=750",
+   "cur": "GEL"
   },
   {
    "id": "p-coat",
@@ -486,9 +1165,29 @@
    "plan_price": 1400,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-nappa-bomber.webp"
+   "ok": true,
+   "price": 1400.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% sheep leather; 77% polyester; 23% cotton",
+   "img": "assets/cat/md-nappa-bomber.webp",
+   "cur": "GEL"
   },
   {
    "id": "p-scarf",
@@ -903,8 +1602,7 @@
     "9.5",
     "10",
     "10.5",
-    "11",
-    "11.5"
+    "11"
    ],
    "mine": [
     "8",
@@ -976,9 +1674,32 @@
    "group": "plan",
    "alt_of": "m-belt",
    "alt_label": "Ремень Massimo Dutti из гладкой кожи",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [
+    "85",
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/524d/1ad9/9d694b1184df/2cf2517be310/02746305800-o1/02746305800-o1.jpg?ts=1785762338748&w=750",
+   "cur": "GEL"
   },
   {
    "id": "m-belt~2",
@@ -991,9 +1712,32 @@
    "group": "plan",
    "alt_of": "m-belt",
    "alt_label": "Ремень Massimo Dutti из гладкой кожи",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [
+    "85",
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/6ac8/c74b/0e8d4655b9c8/bfa2bbbc85fa/02320305800-o1/02320305800-o1.jpg?ts=1751534866867&w=750",
+   "cur": "GEL"
   },
   {
    "id": "m-belt~3",
@@ -1006,9 +1750,31 @@
    "group": "plan",
    "alt_of": "m-belt",
    "alt_label": "Ремень Massimo Dutti из гладкой кожи",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": null
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "85",
+    "90",
+    "95",
+    "100"
+   ],
+   "mine": [
+    "85",
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "https://static.massimodutti.net/assets/public/7566/5b0e/9a294ae1ad9f/5e035698b9df/02732305800-o1/02732305800-o1.jpg?ts=1785762338941&w=750",
+   "cur": "GEL"
   },
   {
    "id": "z-trench",
@@ -1019,9 +1785,31 @@
    "plan_price": 379,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/z-trench.webp"
+   "ok": true,
+   "price": 379.0,
+   "old": null,
+   "color": "Anthracite grey",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 52% polyamide, 48% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
+   "img": "assets/items/z-trench.webp",
+   "cur": "GEL"
   },
   {
    "id": "z-retro",
@@ -1032,9 +1820,27 @@
    "plan_price": 179,
    "size": "shoes",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/z-retro.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Grey",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "40"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 90% polyester, 10% elastane; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 90% polyester, 10% elastane",
+   "img": "assets/items/z-retro.webp",
+   "cur": "GEL"
   },
   {
    "id": "z-knit-blue",
@@ -1045,9 +1851,21 @@
    "plan_price": 159,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/z-knit-blue.webp"
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/items/z-knit-blue.webp",
+   "cur": "GEL"
   },
   {
    "id": "z-track",
@@ -1058,9 +1876,26 @@
    "plan_price": 179,
    "size": "top",
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/z-track.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Blue / Steel",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S"
+   ],
+   "mine": [
+    "S"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
+   "img": "assets/items/z-track.webp",
+   "cur": "GEL"
   },
   {
    "id": "z-cap",
@@ -1070,9 +1905,19 @@
    "url": "https://www.zara.com/ge/en/cap-with-contrast-fastening-p03920692.html?v1=568425521",
    "plan_price": 69,
    "group": "plan",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/z-cap.webp"
+   "ok": true,
+   "price": 69.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 70% cotton, 30% polyamide; Lining: 100% cotton",
+   "img": "assets/items/z-cap.webp",
+   "cur": "GEL"
   },
   {
    "id": "w1-jeans~alt",
@@ -1142,9 +1987,27 @@
    "group": "plan",
    "alt_of": "w4-trousers~alt",
    "alt_label": "Шерстяные брюки — вариант из пула",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/pool/be3d05c19b4e.webp"
+   "ok": true,
+   "price": 299.0,
+   "old": null,
+   "color": "Anthracite grey",
+   "sizes_all": [
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [
+    "38",
+    "44"
+   ],
+   "mine": [
+    "38"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/pool/be3d05c19b4e.webp",
+   "cur": "GEL"
   },
   {
    "id": "z-knit-blue~alt",
@@ -1239,9 +2102,35 @@
    "plan_price": 219,
    "size": "shoes",
    "group": "list",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/prem/x-meermin-chelsea.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "img": "assets/prem/x-meermin-chelsea.webp",
+   "cur": "GEL"
   },
   {
    "id": "w1-belt",
@@ -1251,9 +2140,22 @@
    "plan_price": 129,
    "size": "belt",
    "group": "list",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/belt.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "85 (S)",
+    "90 (M)",
+    "95 (L)",
+    "100 (XL)"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cow leather",
+   "img": "assets/items/belt.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-scarf",
@@ -1262,9 +2164,23 @@
    "url": "https://www.zara.com/ge/en/wool-blend-knit-scarf-p02142327.html",
    "plan_price": 179,
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-scarf.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Dark navy",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 90% wool, 10% cashmere",
+   "img": "assets/moodi/d-scarf.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-penny",
@@ -1274,9 +2190,29 @@
    "plan_price": 219,
    "size": "shoes",
    "group": "list",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/prem/x-meermin-loafer-black.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Burgundy Red",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "45"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% polyurethane",
+   "img": "assets/prem/x-meermin-loafer-black.webp",
+   "cur": "GEL"
   },
   {
    "id": "w1-trainers",
@@ -1287,7 +2223,7 @@
    "size": "shoes",
    "group": "list",
    "ok": false,
-   "err": "Zara: 403",
+   "err": "Zara: не JSON (вероятно, защита от ботов)",
    "img": "assets/prem/x-oc-low1.webp"
   },
   {
@@ -1298,9 +2234,25 @@
    "plan_price": 179,
    "size": "top",
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/halfzip.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "L"
+   ],
+   "mine": [
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/items/halfzip.webp",
+   "cur": "GEL"
   },
   {
    "id": "w3-jumper",
@@ -1310,9 +2262,27 @@
    "plan_price": 219,
    "size": "top",
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/items/jumper-green.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Grey green",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/items/jumper-green.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-rollneck",
@@ -1322,9 +2292,28 @@
    "plan_price": 199,
    "size": "top",
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-rollneck-white.webp"
+   "ok": true,
+   "price": 199.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/cat/cz-rollneck-white.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-polo",
@@ -1334,9 +2323,30 @@
    "plan_price": 290,
    "size": "top",
    "group": "optional",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-merino-polo.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "MOLE BROWN",
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-merino-polo.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-derby",
@@ -1346,9 +2356,27 @@
    "plan_price": 299,
    "size": "shoes",
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-derby.webp"
+   "ok": true,
+   "price": 299.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 55% cow leather, 45% polyester; Sole: 100% polyurethane thermoplastic; Insole: 100% cow leather; Tongue: 100% cow leather",
+   "img": "assets/cat/cz-derby.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-suede",
@@ -1358,9 +2386,22 @@
    "plan_price": 529,
    "size": "top",
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-suede.webp"
+   "ok": true,
+   "price": 529.0,
+   "old": null,
+   "color": "Dark navy",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% pig leather; Lining: 65% polyester, 35% cotton, 100% polyester",
+   "img": "assets/moodi/c-suede.webp",
+   "cur": "GEL"
   },
   {
    "id": "w4-suede-loafer",
@@ -1370,9 +2411,32 @@
    "plan_price": 179,
    "size": "shoes",
    "group": "list",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/prem/x-meermin-loafer-suede.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "GREENISH",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "41",
+    "42"
+   ],
+   "mine": [
+    "42"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% rubber; Insole: 86% polyamide, 14% elastane",
+   "img": "assets/prem/x-meermin-loafer-suede.webp",
+   "cur": "GEL"
   },
   {
    "id": "w5-bermuda-khaki",
@@ -1382,9 +2446,34 @@
    "plan_price": 159,
    "size": "bottom",
    "group": "optional",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-bermuda.webp"
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Light khaki",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "sizes_avail": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "mine": [
+    "38",
+    "40"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-bermuda.webp",
+   "cur": "GEL"
   },
   {
    "id": "p-watch2",
@@ -1628,9 +2717,31 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/z-white-shirt.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/moodi/z-white-shirt.webp",
+   "cur": "GEL"
   },
   {
    "id": "m-xt6",
@@ -1688,9 +2799,26 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/z-black-shirt.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S"
+   ],
+   "mine": [
+    "S"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/moodi/z-black-shirt.webp",
+   "cur": "GEL"
   },
   {
    "id": "m-ol-trousers",
@@ -1861,9 +2989,22 @@
    "plan_price": 559,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-coat.webp"
+   "ok": true,
+   "price": 559.0,
+   "old": null,
+   "color": "Dark navy",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 70% wool, 30% polyamide; Lining: 100% viscose",
+   "img": "assets/moodi/c-coat.webp",
+   "cur": "GEL"
   },
   {
    "id": "c-cable",
@@ -1873,9 +3014,21 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-cable.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 70% cotton, 30% wool",
+   "img": "assets/moodi/c-cable.webp",
+   "cur": "GEL"
   },
   {
    "id": "c-jeans",
@@ -1885,9 +3038,34 @@
    "plan_price": 179,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-jeans.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Charcoal",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "sizes_avail": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "mine": [
+    "38",
+    "40"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/moodi/c-jeans.webp",
+   "cur": "GEL"
   },
   {
    "id": "c-boots",
@@ -1897,9 +3075,25 @@
    "plan_price": 259,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-boots.webp"
+   "ok": true,
+   "price": 259.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "img": "assets/moodi/c-boots.webp",
+   "cur": "GEL"
   },
   {
    "id": "c-bag",
@@ -1908,9 +3102,19 @@
    "url": "https://www.zara.com/ge/en/leather-crossbody-bag-p13622720.html",
    "plan_price": 179,
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/c-bag.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "ONE SIZE ONLY"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 100% cow leather; Lining: 100% polyester",
+   "img": "assets/moodi/c-bag.webp",
+   "cur": "GEL"
   },
   {
    "id": "d-coat",
@@ -1920,9 +3124,22 @@
    "plan_price": 529,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-coat.webp"
+   "ok": true,
+   "price": 529.0,
+   "old": null,
+   "color": "Grey",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool; Lining: 100% polyester",
+   "img": "assets/moodi/d-coat.webp",
+   "cur": "GEL"
   },
   {
    "id": "d-rollneck",
@@ -1932,9 +3149,30 @@
    "plan_price": 129,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-rollneck.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 82% viscose, 18% polyamide",
+   "img": "assets/moodi/d-rollneck.webp",
+   "cur": "GEL"
   },
   {
    "id": "d-merino",
@@ -1944,9 +3182,21 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-merino.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/moodi/d-merino.webp",
+   "cur": "GEL"
   },
   {
    "id": "d-pleated",
@@ -1956,9 +3206,24 @@
    "plan_price": 299,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-pleated.webp"
+   "ok": true,
+   "price": 299.0,
+   "old": null,
+   "color": "Black / Brown",
+   "sizes_all": [
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [
+    "42"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/moodi/d-pleated.webp",
+   "cur": "GEL"
   },
   {
    "id": "d-trainers",
@@ -1968,9 +3233,36 @@
    "plan_price": 219,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-trainers.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 60% polyester, 40% polyurethane; Sole: 100% rubber; Insole: 100% polyester; Tongue: 100% cow leather",
+   "img": "assets/moodi/d-trainers.webp",
+   "cur": "GEL"
   },
   {
    "id": "d-belt",
@@ -1980,9 +3272,21 @@
    "plan_price": 179,
    "size": "belt",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/moodi/d-belt.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "85 (S)",
+    "90 (M)",
+    "95 (L)"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cow leather",
+   "img": "assets/moodi/d-belt.webp",
+   "cur": "GEL"
   },
   {
    "id": "p-khaki-auto",
@@ -2030,9 +3334,31 @@
    "plan_price": 1200,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-wool-coat.webp"
+   "ok": true,
+   "price": 1200.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% wool; 100% viscose",
+   "img": "assets/cat/md-wool-coat.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-df-coat",
@@ -2054,9 +3380,22 @@
    "plan_price": 599,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-manteco-jacket.webp"
+   "ok": true,
+   "price": 599.0,
+   "old": null,
+   "color": "Black / Brown",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 90% wool, 10% cashmere; Lining: 52% viscose, 48% polyester",
+   "img": "assets/cat/cz-manteco-jacket.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-pea",
@@ -2257,9 +3596,22 @@
    "plan_price": 529,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-leather.webp"
+   "ok": true,
+   "price": 529.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% sheep leather; Lining: 100% polyester",
+   "img": "assets/cat/cz-leather.webp",
+   "cur": "GEL"
   },
   {
    "id": "schott-618",
@@ -2341,9 +3693,27 @@
    "plan_price": 1300,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-suede-bomber.webp"
+   "ok": true,
+   "price": 1300.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "100% goat leather; 85% viscose; 15% polyester",
+   "img": "assets/cat/md-suede-bomber.webp",
+   "cur": "GEL"
   },
   {
    "id": "allsaints-cora-suede",
@@ -2371,9 +3741,23 @@
    "plan_price": 700,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-wool-bomber.webp"
+   "ok": true,
+   "price": 700.0,
+   "old": null,
+   "color": "DEEP BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% wool; 100% viscose",
+   "img": "assets/cat/md-wool-bomber.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-padded-bomber",
@@ -2395,9 +3779,31 @@
    "plan_price": 470,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-wool-overshirt.webp"
+   "ok": true,
+   "price": 470.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-wool-overshirt.webp",
+   "cur": "GEL"
   },
   {
    "id": "carhartt-michigan",
@@ -2532,9 +3938,31 @@
    "plan_price": 329,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-down.webp"
+   "ok": true,
+   "price": 429.0,
+   "old": null,
+   "color": "Mustard",
+   "sizes_all": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "XS",
+    "S",
+    "M",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyamide; Filling: 80% grey duck down, 20% grey duck feather",
+   "img": "assets/cat/cz-down.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-parka",
@@ -2544,9 +3972,24 @@
    "plan_price": 690,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-parka.webp"
+   "ok": true,
+   "price": 690.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "XL"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% polyester; 100% polyamide; 80% grey duck down, 20% feather",
+   "img": "assets/cat/md-parka.webp",
+   "cur": "GEL"
   },
   {
    "id": "arc-thorium",
@@ -2604,9 +4047,30 @@
    "plan_price": 800,
    "size": "tailoring",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cold-blazer.webp"
+   "ok": true,
+   "price": 800.0,
+   "old": null,
+   "color": "DEEP BLUE",
+   "sizes_all": [
+    "46",
+    "46",
+    "48",
+    "48",
+    "50",
+    "50",
+    "52",
+    "52",
+    "54",
+    "54",
+    "56",
+    "58"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% wool; 100% viscose",
+   "img": "assets/cat/md-cold-blazer.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-hound-blazer",
@@ -2616,9 +4080,26 @@
    "plan_price": 900,
    "size": "tailoring",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-hound-blazer.webp"
+   "ok": true,
+   "price": 900.0,
+   "old": null,
+   "color": "GREEN",
+   "sizes_all": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54",
+    "56"
+   ],
+   "sizes_avail": [
+    "46"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% wool; 100% viscose",
+   "img": "assets/cat/md-hound-blazer.webp",
+   "cur": "GEL"
   },
   {
    "id": "mango-turin",
@@ -2694,9 +4175,28 @@
    "plan_price": 688,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-suit-anth.webp"
+   "ok": true,
+   "price": 429.0,
+   "old": null,
+   "color": "Anthracite Grey",
+   "sizes_all": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54"
+   ],
+   "sizes_avail": [
+    "46",
+    "48",
+    "50",
+    "52"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool; Lining: 55% viscose, 45% polyester, 100% polyester",
+   "img": "assets/cat/cz-suit-anth.webp",
+   "cur": "GEL"
   },
   {
    "id": "cz-suit-black",
@@ -2706,9 +4206,29 @@
    "plan_price": 798,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-suit-black.webp"
+   "ok": true,
+   "price": 499.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54"
+   ],
+   "sizes_avail": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool; Lining: 52% viscose, 48% polyester",
+   "img": "assets/cat/cz-suit-black.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-suit-navy",
@@ -2718,9 +4238,24 @@
    "plan_price": 1870,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-suit-navy.webp"
+   "ok": true,
+   "price": 1400.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "46",
+    "48",
+    "50",
+    "52",
+    "54",
+    "56"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% wool; 100% viscose",
+   "img": "assets/cat/md-suit-navy.webp",
+   "cur": "GEL"
   },
   {
    "id": "ss-lazio",
@@ -2754,9 +4289,33 @@
    "plan_price": 690,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cash-bottle.webp"
+   "ok": true,
+   "price": 690.0,
+   "old": null,
+   "color": "BOTTLE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% cashmere",
+   "img": "assets/cat/md-cash-bottle.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-cash",
@@ -2818,9 +4377,22 @@
    "plan_price": 400,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cable.webp"
+   "ok": true,
+   "price": 400.0,
+   "old": null,
+   "color": "ANTHRACITE GREY",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-cable.webp",
+   "cur": "GEL"
   },
   {
    "id": "rl-cable-cash",
@@ -2842,9 +4414,21 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-knit-polo.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Moss green",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/cat/cz-knit-polo.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-cash-polo",
@@ -2854,9 +4438,30 @@
    "plan_price": 750,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cash-polo.webp"
+   "ok": true,
+   "price": 750.0,
+   "old": null,
+   "color": "CREAM",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% cashmere",
+   "img": "assets/cat/md-cash-polo.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-brushed-polo",
@@ -2978,9 +4583,21 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-cardigan.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/cat/cz-cardigan.webp",
+   "cur": "GEL"
   },
   {
    "id": "drakes-cardigan",
@@ -3030,9 +4647,28 @@
    "plan_price": 290,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-oxford.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "SKY BLUE",
+   "sizes_all": [
+    "S",
+    "S",
+    "M",
+    "M",
+    "L",
+    "L",
+    "XL",
+    "XL",
+    "XXL",
+    "XXL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "assets/cat/md-oxford.webp",
+   "cur": "GEL"
   },
   {
    "id": "drakes-ocbd",
@@ -3085,9 +4721,31 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-poplin.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-poplin.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-twill",
@@ -3097,9 +4755,23 @@
    "plan_price": 290,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-twill.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "WHITE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "assets/cat/md-twill.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-cotton-cash",
@@ -3109,9 +4781,27 @@
    "plan_price": 390,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cotton-cash.webp"
+   "ok": true,
+   "price": 390.0,
+   "old": null,
+   "color": "Sky blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "L"
+   ],
+   "need_size": true,
+   "comp": "85% cotton, 15% cashmere",
+   "img": "assets/cat/md-cotton-cash.webp",
+   "cur": "GEL"
   },
   {
    "id": "cz-flannel",
@@ -3121,9 +4811,28 @@
    "plan_price": 129,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-flannel.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Dark green",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-flannel.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-wool-shirt",
@@ -3133,9 +4842,31 @@
    "plan_price": 400,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-wool-shirt.webp"
+   "ok": true,
+   "price": 470.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-wool-shirt.webp",
+   "cur": "GEL"
   },
   {
    "id": "og-benoit",
@@ -3277,13 +5008,11 @@
    ],
    "sizes_avail": [
     "S",
-    "M",
-    "L"
+    "M"
    ],
    "mine": [
     "S",
-    "M",
-    "L"
+    "M"
    ],
    "need_size": true,
    "comp": "",
@@ -3298,9 +5027,31 @@
    "plan_price": 129,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-pima-polo.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Mink",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-pima-polo.webp",
+   "cur": "GEL"
   },
   {
    "id": "cz-pique-navy",
@@ -3310,9 +5061,28 @@
    "plan_price": 179,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-pique-navy.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Dark navy",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-pique-navy.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-ls-polo",
@@ -3322,9 +5092,22 @@
    "plan_price": 230,
    "size": "top",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-ls-polo.webp"
+   "ok": true,
+   "price": 190.0,
+   "old": null,
+   "color": "NAVY BLUE",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "assets/cat/md-ls-polo.webp",
+   "cur": "GEL"
   },
   {
    "id": "sunspel-riviera",
@@ -3592,9 +5375,23 @@
    "plan_price": 259,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-suit-trousers.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Anthracite Grey",
+   "sizes_all": [
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/cat/cz-suit-trousers.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-darts-black",
@@ -3604,9 +5401,31 @@
    "plan_price": 400,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-darts-black.webp"
+   "ok": true,
+   "price": 400.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "mine": [
+    "38",
+    "40"
+   ],
+   "need_size": true,
+   "comp": "100% wool",
+   "img": "assets/cat/md-darts-black.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-pleated-wool",
@@ -3640,9 +5459,31 @@
    "plan_price": 290,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cord.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "GREY",
+   "sizes_all": [
+    "38",
+    "40",
+    "42",
+    "44",
+    "46",
+    "48"
+   ],
+   "sizes_avail": [
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "mine": [
+    "40"
+   ],
+   "need_size": true,
+   "comp": "98% cotton, 2% elastane; 100% cotton",
+   "img": "assets/cat/md-cord.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-cord",
@@ -3700,9 +5541,29 @@
    "plan_price": 259,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-selvedge.webp"
+   "ok": true,
+   "price": 259.0,
+   "old": null,
+   "color": "Blue / Grey",
+   "sizes_all": [
+    "38",
+    "40",
+    "42",
+    "44"
+   ],
+   "sizes_avail": [
+    "38",
+    "40",
+    "42"
+   ],
+   "mine": [
+    "38",
+    "40"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/cat/cz-selvedge.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-relaxed-jeans",
@@ -3712,9 +5573,25 @@
    "plan_price": 290,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-relaxed-jeans.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "MEDIUM BLUE",
+   "sizes_all": [
+    "30           ",
+    "31           ",
+    "32           ",
+    "34           ",
+    "36           "
+   ],
+   "sizes_avail": [
+    "36           "
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "assets/cat/md-relaxed-jeans.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-selvedge",
@@ -3724,9 +5601,26 @@
    "plan_price": 470,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-selvedge.webp"
+   "ok": true,
+   "price": 470.0,
+   "old": null,
+   "color": "INDIGO",
+   "sizes_all": [
+    "30           ",
+    "31           ",
+    "32           ",
+    "34           ",
+    "36           "
+   ],
+   "sizes_avail": [
+    "31           ",
+    "34           "
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cotton",
+   "img": "assets/cat/md-selvedge.webp",
+   "cur": "GEL"
   },
   {
    "id": "levis-568",
@@ -3852,9 +5746,28 @@
    "plan_price": 290,
    "size": "bottom",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-linen-bermuda.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "SAND",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "100% linen; 65% polyester, 35% cotton",
+   "img": "assets/cat/md-linen-bermuda.webp",
+   "cur": "GEL"
   },
   {
    "id": "ob-bulldog",
@@ -3919,9 +5832,52 @@
    "plan_price": 400,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-suede-loafer.webp"
+   "ok": true,
+   "price": 400.0,
+   "old": null,
+   "color": "BROWN",
+   "sizes_all": [
+    "39",
+    "39",
+    "40",
+    "40",
+    "41",
+    "41",
+    "42",
+    "42",
+    "43",
+    "43",
+    "44",
+    "44",
+    "45",
+    "45",
+    "46",
+    "46"
+   ],
+   "sizes_avail": [
+    "39",
+    "40",
+    "40",
+    "41",
+    "41",
+    "42",
+    "42",
+    "43",
+    "43",
+    "45",
+    "45",
+    "46"
+   ],
+   "mine": [
+    "42",
+    "42",
+    "43",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 100% cow leather; 100% rubber; 100% cow leather",
+   "img": "assets/cat/md-suede-loafer.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-leather-loafer",
@@ -3931,9 +5887,36 @@
    "plan_price": 600,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-leather-loafer.webp"
+   "ok": true,
+   "price": 600.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_avail": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 90% cow leather, 10% polyester; 100% polyurethane thermoplastic; 100% cow leather",
+   "img": "assets/cat/md-leather-loafer.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-penny",
@@ -4070,9 +6053,32 @@
    "plan_price": 690,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-blucher.webp"
+   "ok": true,
+   "price": 690.0,
+   "old": null,
+   "color": "BROWN",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_avail": [
+    "40",
+    "42",
+    "43"
+   ],
+   "mine": [
+    "42",
+    "43"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather; 85% cow leather, 15% polyester; 52% polyurethane thermoplastic, 48% cow leather; 100% cow leather; 100% cow leather",
+   "img": "assets/cat/md-blucher.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-derby",
@@ -4159,9 +6165,26 @@
    "plan_price": 690,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-chelsea.webp"
+   "ok": true,
+   "price": 690.0,
+   "old": null,
+   "color": "BROWN",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "80% cow leather, 10% elastodiene, 10% polyester; 90% cow leather, 10% polyester; 100% polyurethane thermoplastic; 100% cow leather",
+   "img": "assets/cat/md-chelsea.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-chelsea",
@@ -4195,9 +6218,24 @@
    "plan_price": 600,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-suede-boot.webp"
+   "ok": true,
+   "price": 600.0,
+   "old": null,
+   "color": "BROWN",
+   "sizes_all": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "100% cow leather; 80% cow leather, 20% polyester; 100% rubber; 100% cow leather; 100% cow leather",
+   "img": "assets/cat/md-suede-boot.webp",
+   "cur": "GEL"
   },
   {
    "id": "redwing-ir",
@@ -4520,9 +6558,19 @@
    "url": "https://www.zara.com/ge/en/leather-laptop-case-p13723820.html",
    "plan_price": 259,
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-laptop.webp"
+   "ok": true,
+   "price": 259.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "ONE SIZE ONLY"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 100% pig leather; Lining: 100% polyester",
+   "img": "assets/cat/cz-laptop.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-tote",
@@ -4531,9 +6579,23 @@
    "url": "https://www.massimodutti.com/ge/en/nappa-leather-tote-bag-l02757310?pelement=61735897",
    "plan_price": 900,
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-tote.webp"
+   "ok": true,
+   "price": 900.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "01"
+   ],
+   "sizes_avail": [
+    "01"
+   ],
+   "mine": [
+    "01"
+   ],
+   "need_size": false,
+   "comp": "100% cow leather",
+   "img": "assets/cat/md-tote.webp",
+   "cur": "GEL"
   },
   {
    "id": "cc-isar",
@@ -4592,9 +6654,32 @@
    "plan_price": 230,
    "size": "belt",
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-belt.webp"
+   "ok": true,
+   "price": 230.0,
+   "old": null,
+   "color": "BLACK",
+   "sizes_all": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "sizes_avail": [
+    "85",
+    "90",
+    "95",
+    "100",
+    "105"
+   ],
+   "mine": [
+    "85",
+    "90"
+   ],
+   "need_size": true,
+   "comp": "100% cow leather",
+   "img": "assets/cat/md-belt.webp",
+   "cur": "GEL"
   },
   {
    "id": "mango-belt",
@@ -5333,19 +7418,15 @@
     "6.5in",
     "7in",
     "7.5in",
-    "6.5in",
     "8in",
-    "8.5in",
-    "9in"
+    "8.5in"
    ],
    "mine": [
     "6.5in",
     "7in",
     "7.5in",
-    "6.5in",
     "8in",
-    "8.5in",
-    "9in"
+    "8.5in"
    ],
    "need_size": false,
    "comp": "",
@@ -5520,9 +7601,19 @@
    "url": "https://www.zara.com/ge/en/100-wool-knit-scarf-p01942305.html",
    "plan_price": 129,
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-wool-scarf.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Red",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/cat/cz-wool-scarf.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-fringe-scarf",
@@ -5531,9 +7622,23 @@
    "url": "https://www.massimodutti.com/ge/en/wool-blend-scarf-with-fringing-l02691330?pelement=64340035",
    "plan_price": 290,
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-fringe-scarf.webp"
+   "ok": true,
+   "price": 290.0,
+   "old": null,
+   "color": "GREY MARL",
+   "sizes_all": [
+    "01"
+   ],
+   "sizes_avail": [
+    "01"
+   ],
+   "mine": [
+    "01"
+   ],
+   "need_size": false,
+   "comp": "90% wool, 10% cashmere",
+   "img": "assets/cat/md-fringe-scarf.webp",
+   "cur": "GEL"
   },
   {
    "id": "md-cash-scarf",
@@ -5542,9 +7647,23 @@
    "url": "https://www.massimodutti.com/ge/en/100-cashmere-fineknit-scarf-l02692330?pelement=64340029",
    "plan_price": 690,
    "group": "site",
-   "ok": false,
-   "err": "Massimo Dutti: 403",
-   "img": "assets/cat/md-cash-scarf.webp"
+   "ok": true,
+   "price": 690.0,
+   "old": null,
+   "color": "ANTHRACITE GREY",
+   "sizes_all": [
+    "01"
+   ],
+   "sizes_avail": [
+    "01"
+   ],
+   "mine": [
+    "01"
+   ],
+   "need_size": false,
+   "comp": "100% cashmere",
+   "img": "assets/cat/md-cash-scarf.webp",
+   "cur": "GEL"
   },
   {
    "id": "cos-cash-scarf",
@@ -5685,9 +7804,23 @@
    "store": "zara",
    "url": "https://www.zara.com/ge/en/100-silk-slim-fit-tie-p09569412.html",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/cat/cz-tie.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 100% silk (mulberry); Lining: 100% silk (mulberry)",
+   "img": "assets/cat/cz-tie.webp",
+   "cur": "GEL"
   },
   {
    "id": "bv-card",
@@ -5959,9 +8092,29 @@
    "plan_price": 259,
    "size": "shoes",
    "group": "site",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/care/run-zara.webp"
+   "ok": true,
+   "price": 259.0,
+   "old": null,
+   "color": "White",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "42"
+   ],
+   "mine": [
+    "42"
+   ],
+   "need_size": true,
+   "comp": "Upper: 70% polyurethane thermoplastic, 30% polyester; Lining: 85% polyester, 15% elastane; Sole: 100% rubber; Insole: 80% polyester, 20% ethylene vinyl acetate; Tongue: 100% polyurethane",
+   "img": "assets/care/run-zara.webp",
+   "cur": "GEL"
   },
   {
    "id": "run-peg40",
@@ -5970,9 +8123,15 @@
    "url": "https://nike.ge/product/nike-air-zoom-pegasus-40/",
    "plan_price": 195,
    "group": "site",
-   "ok": false,
-   "err": "nike.ge: цены в разметке страницы нет",
-   "img": "assets/care/run-peg40.webp"
+   "ok": true,
+   "price": 195,
+   "price_foreign": 195.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/run-peg40.webp",
+   "note": ""
   },
   {
    "id": "run-peg41gtx",
@@ -5981,9 +8140,15 @@
    "url": "https://nike.ge/product/nike-air-zoom-pegasus-41-gtx/",
    "plan_price": 200,
    "group": "site",
-   "ok": false,
-   "err": "nike.ge: цены в разметке страницы нет",
-   "img": "assets/care/run-peg41gtx.webp"
+   "ok": true,
+   "price": 200,
+   "price_foreign": 200.0,
+   "cur": "GEL",
+   "old": null,
+   "need_size": false,
+   "in_stock": true,
+   "img": "assets/care/run-peg41gtx.webp",
+   "note": ""
   },
   {
    "id": "shave-razor",
@@ -6108,9 +8273,30 @@
    "plan_price": 219.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/5c5396c35273.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 83% cotton, 17% polyester; Lining: 100% polyester",
+   "img": "assets/sport/5c5396c35273.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp03",
@@ -6120,9 +8306,26 @@
    "plan_price": 179.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/d871fca9895b.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Blue / Steel",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S"
+   ],
+   "mine": [
+    "S"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 51% cotton, 49% polyester, 98% polyester, 2% elastane",
+   "img": "assets/sport/d871fca9895b.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp04",
@@ -6150,9 +8353,21 @@
    "plan_price": 179.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/58b9999d8cf7.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% wool",
+   "img": "assets/sport/58b9999d8cf7.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp06",
@@ -6162,9 +8377,21 @@
    "plan_price": 179.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/17c0428b2cdb.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 67% cotton, 33% wool",
+   "img": "assets/sport/17c0428b2cdb.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp07",
@@ -6254,9 +8481,31 @@
    "plan_price": 179.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/6cd9a2f75a9c.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 94% polyamide, 6% polyester",
+   "img": "assets/sport/6cd9a2f75a9c.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp10",
@@ -6266,9 +8515,26 @@
    "plan_price": 159.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/733d0048de1d.webp"
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyamide, 100% polyester",
+   "img": "assets/sport/733d0048de1d.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp11",
@@ -6432,9 +8698,32 @@
    "plan_price": 129.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/71f5d4898878.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester",
+   "img": "assets/sport/71f5d4898878.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp17",
@@ -6462,9 +8751,28 @@
    "plan_price": 129.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/4a7bb150c99f.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/4a7bb150c99f.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp19",
@@ -6474,9 +8782,30 @@
    "plan_price": 109.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/712753dd151c.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 70% cotton, 30% polyester, 96% cotton, 4% elastane",
+   "img": "assets/sport/712753dd151c.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp20",
@@ -6516,9 +8845,31 @@
    "plan_price": 109.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/34d9b33e2842.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Oyster-white",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 97% cotton, 3% elastane",
+   "img": "assets/sport/34d9b33e2842.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp23",
@@ -6545,14 +8896,12 @@
    "sizes_avail": [
     "Small / Heather Natural / Standard",
     "Medium / Heather Natural / Standard",
-    "Large / Heather Natural / Standard",
     "Extra Large / Heather Natural / Standard",
     "XX Large / Heather Natural / Standard"
    ],
    "mine": [
     "Small / Heather Natural / Standard",
     "Medium / Heather Natural / Standard",
-    "Large / Heather Natural / Standard",
     "Extra Large / Heather Natural / Standard",
     "XX Large / Heather Natural / Standard"
    ],
@@ -6610,9 +8959,33 @@
    "plan_price": 179.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/99b886fe1c15.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 97% polyester, 3% elastane; Lining: 100% polyester",
+   "img": "assets/sport/99b886fe1c15.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp26",
@@ -6622,9 +8995,22 @@
    "plan_price": 129.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/18894100b642.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester; Lining: 100% polyamide; Filling: 100% polyester",
+   "img": "assets/sport/18894100b642.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp27",
@@ -6709,9 +9095,22 @@
    "plan_price": 129.0,
    "size": "bottom",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/5b0879213e62.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 86% polyamide, 14% elastane",
+   "img": "assets/sport/5b0879213e62.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp30",
@@ -6721,9 +9120,28 @@
    "plan_price": 129.0,
    "size": "bottom",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/400f4de38ff7.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% polyester",
+   "img": "assets/sport/400f4de38ff7.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp31",
@@ -6767,9 +9185,27 @@
    "plan_price": 109.0,
    "size": "bottom",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/ef934afa2265.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Navy blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "M",
+    "L"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 98% cotton, 2% elastane",
+   "img": "assets/sport/ef934afa2265.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp33",
@@ -6861,9 +9297,22 @@
    "plan_price": 179.0,
    "size": "bottom",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/79f5a78bd32a.webp"
+   "ok": true,
+   "price": 179.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 83% cotton, 17% polyester",
+   "img": "assets/sport/79f5a78bd32a.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp37",
@@ -6908,9 +9357,29 @@
    "plan_price": 109.0,
    "size": "bottom",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/02910d292c9f.webp"
+   "ok": true,
+   "price": 109.0,
+   "old": null,
+   "color": "Sand",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/02910d292c9f.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp39",
@@ -6956,9 +9425,29 @@
    "plan_price": 119.0,
    "size": "shoes",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/e01f5670c7ad.webp"
+   "ok": true,
+   "price": 119.0,
+   "old": 219.0,
+   "color": "Sand Brown",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "sizes_avail": [
+    "41"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
+   "img": "assets/sport/e01f5670c7ad.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp43",
@@ -7011,7 +9500,7 @@
    "size": "shoes",
    "group": "sp",
    "ok": false,
-   "err": "Zara: 403",
+   "err": "Zara: не JSON (вероятно, защита от ботов)",
    "img": "assets/sport/26ce5728083d.webp"
   },
   {
@@ -7022,9 +9511,29 @@
    "plan_price": 149.0,
    "size": "shoes",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/735bed7d1945.webp"
+   "ok": true,
+   "price": 149.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ],
+   "sizes_avail": [
+    "42"
+   ],
+   "mine": [
+    "42"
+   ],
+   "need_size": true,
+   "comp": "Upper: 52% polyurethane, 48% polyester; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester; Tongue: 67% polyester, 33% polyurethane",
+   "img": "assets/sport/735bed7d1945.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp48",
@@ -7033,9 +9542,23 @@
    "url": "https://www.zara.com/ge/en/washed-cotton-cap-p04988300.html?v1=553306795",
    "plan_price": 69.0,
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/4837b0057852.webp"
+   "ok": true,
+   "price": 69.0,
+   "old": null,
+   "color": "Blue / Lavender",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [
+    "M"
+   ],
+   "mine": [
+    "M"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/4837b0057852.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp49",
@@ -7088,9 +9611,19 @@
    "url": "https://www.zara.com/ge/en/nylon-crossbody-bag-p13534820.html?v1=558600208",
    "plan_price": 99.0,
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/8539e7b4a43c.webp"
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "ONE SIZE ONLY"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 100% polyamide; Lining: 100% polyester",
+   "img": "assets/sport/8539e7b4a43c.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp52",
@@ -7099,9 +9632,23 @@
    "url": "https://www.zara.com/ge/en/technical-sports-belt-bag-p13625820.html?v1=557357353",
    "plan_price": 99.0,
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/7602345ad96a.webp"
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "ONE SIZE ONLY"
+   ],
+   "sizes_avail": [
+    "ONE SIZE ONLY"
+   ],
+   "mine": [
+    "ONE SIZE ONLY"
+   ],
+   "need_size": false,
+   "comp": "Outer Shell: 100% polyamide, 100% polyester; Lining: 100% polyamide",
+   "img": "assets/sport/7602345ad96a.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp53",
@@ -7161,9 +9708,19 @@
    "url": "https://www.zara.com/ge/en/eassun-x-athleticz-sunglasses-p02618303.html?v1=545422057",
    "plan_price": 219.0,
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/1769e729eb0b.webp"
+   "ok": true,
+   "price": 219.0,
+   "old": null,
+   "color": "Brown",
+   "sizes_all": [
+    "M"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": false,
+   "comp": "Outer Shell: 100% polycarbonate",
+   "img": "assets/sport/1769e729eb0b.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp57",
@@ -7481,9 +10038,31 @@
    "plan_price": 99.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/a2b6c2d1117d.webp"
+   "ok": true,
+   "price": 99.0,
+   "old": null,
+   "color": "Light blue",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "mine": [
+    "S",
+    "M",
+    "L"
+   ],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton, 96% cotton, 4% elastane",
+   "img": "assets/sport/a2b6c2d1117d.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp72",
@@ -7493,9 +10072,23 @@
    "plan_price": 129.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/d068eaff5c4e.webp"
+   "ok": true,
+   "price": 129.0,
+   "old": null,
+   "color": "Blue",
+   "sizes_all": [
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [
+    "XL"
+   ],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 100% cotton",
+   "img": "assets/sport/d068eaff5c4e.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp73",
@@ -7851,9 +10444,22 @@
    "plan_price": 159.0,
    "size": "top",
    "group": "sp",
-   "ok": false,
-   "err": "Zara: 403",
-   "img": "assets/sport/22cd95950817.webp"
+   "ok": true,
+   "price": 159.0,
+   "old": null,
+   "color": "Black",
+   "sizes_all": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "sizes_avail": [],
+   "mine": [],
+   "need_size": true,
+   "comp": "Outer Shell: 63% polyester, 5% elastane, 32% viscose, 87% polyester, 12% polyamide, 1% elastane",
+   "img": "assets/sport/22cd95950817.webp",
+   "cur": "GEL"
   },
   {
    "id": "sp87",
@@ -7874,25 +10480,315 @@
    "note": ""
   }
  ],
- "markdowns": [],
- "markdowns_nosize": [],
- "markdowns_rejected": [],
+ "markdowns": [
+  {
+   "pid": "575689539",
+   "name": "LOOSE-FIT JEANS",
+   "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=575689539",
+   "price": 99.0,
+   "old": 179.0,
+   "disc": 45,
+   "cat": "COLLECTION / JEANS / VIEW ALL",
+   "family": "TROUSERS",
+   "comp": "Outer Shell: 100% cotton",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/7350/e388/3fa44f42955b/f08592e708a2/00840399406-e1/00840399406-e1.jpg?ts=1788764390216&w=750",
+   "color": "Light blue",
+   "mine": [
+    "38",
+    "40"
+   ],
+   "size_class": "bottom",
+   "verdict": "ok",
+   "reason": "",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Light blue",
+     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=575689539",
+     "img": "https://static.zara.net/assets/public/7350/e388/3fa44f42955b/f08592e708a2/00840399406-e1/00840399406-e1.jpg?ts=1788764390216&w=750",
+     "mine": [
+      "38",
+      "40"
+     ],
+     "price": 99.0
+    },
+    {
+     "color": "Mid-grey",
+     "url": "https://www.zara.com/ge/en/loose-fit-jeans-p03409307.html?v1=555861857",
+     "img": "https://static.zara.net/assets/public/5eb9/4068/04df41e284be/df3e0b12bf46/03409307809-e1/03409307809-e1.jpg?ts=1788429704078&w=750",
+     "mine": [
+      "38",
+      "40"
+     ],
+     "price": 99.0
+    }
+   ]
+  }
+ ],
+ "markdowns_nosize": [
+  {
+   "pid": "549169925",
+   "name": "RELAXED FIT JACKET WITH METAL FIREMAN CLASPS",
+   "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
+   "price": 159.0,
+   "old": 259.0,
+   "disc": 39,
+   "cat": "COLLECTION / JACKETS | GILETS / VIEW ALL",
+   "family": "WIND-JACKET",
+   "comp": "Outer Shell: 100% cotton; Lining: 65% polyester, 35% cotton, 100% polyester; Filling: 100% polyester",
+   "natural": 100.0,
+   "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
+   "color": "Red",
+   "mine": [],
+   "size_class": "top",
+   "verdict": "nosize",
+   "reason": "твоего размера нет",
+   "store": "Zara",
+   "colors": [
+    {
+     "color": "Red",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169925",
+     "img": "https://static.zara.net/assets/public/6889/e7be/6d704042a472/330686b283b9/04302370600-e1/04302370600-e1.jpg?ts=1787126917606&w=750",
+     "mine": [],
+     "price": 159.0
+    },
+    {
+     "color": "Black",
+     "url": "https://www.zara.com/ge/en/relaxed-fit-jacket-with-metal-fireman-clasps-p04302370.html?v1=549169926",
+     "img": "https://static.zara.net/assets/public/6cae/e76d/3ad3474bb30c/1de86681c752/04302370800-e1/04302370800-e1.jpg?ts=1787126916703&w=750",
+     "mine": [],
+     "price": 159.0
+    }
+   ]
+  }
+ ],
+ "markdowns_rejected": [
+  {
+   "name": "NYLON BACKPACK",
+   "url": "https://www.zara.com/ge/en/nylon-backpack-p13219820.html?v1=546982301",
+   "price": 69.0,
+   "old": 119.0,
+   "disc": 42,
+   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "RUBBERISED CROSSBODY BAG",
+   "url": "https://www.zara.com/ge/en/rubberised-crossbody-bag-p13524820.html?v1=545474832",
+   "price": 39.0,
+   "old": 79.0,
+   "disc": 51,
+   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "RUBBERISED CROSSBODY BAG WITH BUCKLE",
+   "url": "https://www.zara.com/ge/en/rubberised-crossbody-bag-with-buckle-p13519820.html?v1=545474831",
+   "price": 55.0,
+   "old": 99.0,
+   "disc": 44,
+   "comp": "Outer Shell: 100% polyester, 100% polyurethane; Lining: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "LEATHER DRESS SHOES",
+   "url": "https://www.zara.com/ge/en/leather-dress-shoes-p12429820.html?v1=545437123",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 100% cow leather; Lining: 84% polyester, 16% polyurethane; Sole: 100% sbs; Insole: 100% polyurethane; Tongue: 100% cow leather",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "MONOCHROME CHUNKY TRAINERS",
+   "url": "https://www.zara.com/ge/en/monochrome-chunky-trainers-p12201820.html?v1=545422215",
+   "price": 69.0,
+   "old": 119.0,
+   "disc": 42,
+   "comp": "Upper: 100% polyurethane; Lining: 100% polyester; Sole: 100% polyurethane; Insole: 100% polyester; Tongue: 100% polyurethane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "MONOCHROME CHUNKY TRAINERS",
+   "url": "https://www.zara.com/ge/en/monochrome-chunky-trainers-p12201820.html?v1=545422214",
+   "price": 69.0,
+   "old": 119.0,
+   "disc": 42,
+   "comp": "Upper: 100% polyurethane; Lining: 100% polyester; Sole: 100% polyurethane; Insole: 100% polyester; Tongue: 100% polyurethane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "SLIM FIT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773029",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=583773028",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773006",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 76% polyester, 22% viscose, 2% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "SLIM FIT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773005",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 50% polyester, 45% viscose, 5% elastane; Lining: 100% polyester",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=583773004",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "PADDED ZIP OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174087",
+   "price": 129.0,
+   "old": 219.0,
+   "disc": 41,
+   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 62% — меньше 80%"
+  },
+  {
+   "name": "PADDED ZIP OVERSHIRT",
+   "url": "https://www.zara.com/ge/en/padded-zip-overshirt-p03918540.html?v1=572174086",
+   "price": 129.0,
+   "old": 219.0,
+   "disc": 41,
+   "comp": "Outer Shell: 62% cotton, 34% polyester, 4% elastane; Lining: 100% polyester; Filling: 100% polyester",
+   "reason": "натуральных волокон 62% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-blazer-p04456999.html?v1=565424841",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04457999.html?v1=565424837",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "WOOL BLEND REGULAR FIT SUIT BLAZER",
+   "url": "https://www.zara.com/ge/en/regular-fit-wool-blend-suit-blazer-p06406191.html?v1=557175080",
+   "price": 179.0,
+   "old": 379.0,
+   "disc": 53,
+   "comp": "Outer Shell: 59% polyester, 41% wool; Lining: 100% polyester",
+   "reason": "натуральных волокон 41% — меньше 80%"
+  },
+  {
+   "name": "COMFORT SUIT TROUSERS",
+   "url": "https://www.zara.com/ge/en/comfort-suit-trousers-p04404232.html?v1=549809130",
+   "price": 79.0,
+   "old": 159.0,
+   "disc": 50,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  },
+  {
+   "name": "CASUAL LEATHER TRAINERS",
+   "url": "https://www.zara.com/ge/en/casual-leather-trainers-p12349720.html?v1=545456761",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 100% cow leather; Lining: 64% polyester, 36% cotton; Sole: 100% sbs; Insole: 65% cotton, 35% polyester; Tongue: 100% cow leather",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437164",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "LEATHER CHELSEA BOOTS",
+   "url": "https://www.zara.com/ge/en/leather-chelsea-boots-p12007820.html?v1=545437163",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 80% cow leather, 15% polyester, 5% elastodiene; Lining: 100% polyester; Sole: 100% sbs; Insole: 86% polyamide, 14% elastane",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "LEATHER DECK SHOES",
+   "url": "https://www.zara.com/ge/en/leather-deck-shoes-p12456720.html?v1=545422634",
+   "price": 119.0,
+   "old": 199.0,
+   "disc": 40,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester; Tongue: 100% cow leather",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "CASUAL LEATHER LOAFERS WITH TASSELS",
+   "url": "https://www.zara.com/ge/en/casual-leather-loafers-with-tassels-p12651720.html?v1=545409746",
+   "price": 119.0,
+   "old": 219.0,
+   "disc": 46,
+   "comp": "Upper: 100% cow leather; Lining: 100% polyester; Sole: 100% sbs; Insole: 100% polyester",
+   "reason": "подкладка синтетическая"
+  },
+  {
+   "name": "COMFORT SUIT DOUBLE-BREASTED BLAZER",
+   "url": "https://www.zara.com/ge/en/comfort-suit-double-breasted-blazer-p04457232.html?v1=555080411",
+   "price": 179.0,
+   "old": 299.0,
+   "disc": 40,
+   "comp": "Outer Shell: 54% polyester, 39% viscose, 7% elastane; Lining: 100% polyester, 95% polyester, 5% elastane",
+   "reason": "натуральных волокон 0% — меньше 80%"
+  }
+ ],
  "log": [
+  "· therow-trousers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· lp-trousers None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· cz-selvedge None  Zara: 403",
-  "· md-relaxed-jeans None  Massimo Dutti: 403",
-  "· md-selvedge None  Massimo Dutti: 403",
+  "✓ cz-selvedge 259.0  размер: 38,40",
+  "✓ md-relaxed-jeans 290.0  размер: ",
+  "✓ md-selvedge 470.0  размер: ",
   "· levis-568 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ apc-pns 861  размер: ",
   "· ol-third-cut None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ acne-1996 1804  размер: ",
   "· uq-wide-jeans None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· levis-501 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· md-linen-bermuda None  Massimo Dutti: 403",
+  "✓ md-linen-bermuda 290.0  размер: M",
   "✓ ob-bulldog 963  размер: 38,40",
   "· vilebrequin None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· md-suede-loafer None  Massimo Dutti: 403",
-  "· md-leather-loafer None  Massimo Dutti: 403",
+  "✓ md-suede-loafer 400.0  размер: 42,42,43,43",
+  "✓ md-leather-loafer 600.0  размер: 42,43",
   "· cos-penny None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bass-larson None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ cj-boston 2596  размер: 8,8.5,9",
@@ -7900,14 +10796,14 @@
   "· weston-180 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· lp-summer-walk None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· prada-monolith None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· md-blucher None  Massimo Dutti: 403",
+  "✓ md-blucher 690.0  размер: 42,43",
   "· cos-derby None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ paraboot-chambord 1122 2222 размер: ",
   "· churchs-shannon None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· md-chelsea None  Massimo Dutti: 403",
+  "✓ md-chelsea 690.0  размер: ",
   "· cos-chelsea None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· sl-wyatt None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· md-suede-boot None  Massimo Dutti: 403",
+  "✓ md-suede-boot 600.0  размер: ",
   "· redwing-ir None  www.toddsnyder.com: 403",
   "· clarks-desert None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· cp-achilles None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7922,12 +10818,12 @@
   "· asics-k14 None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· birk-boston None  birkenstock.com: цены в разметке страницы нет",
   "✓ sebago-dock 267 546 размер: 9 908,9.5 908,10 908,10 908",
-  "· cz-laptop None  Zara: 403",
-  "· md-tote None  Massimo Dutti: 403",
+  "✓ cz-laptop 259.0  размер: ",
+  "✓ md-tote 900.0  размер: 01",
   "✓ cc-isar 1151  размер: Default Title",
   "· porter-tanker None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· bv-arco None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· md-belt None  Massimo Dutti: 403",
+  "✓ md-belt 230.0  размер: 85,90",
   "· mango-belt None  shop.mango.com: 429",
   "· andersons-woven None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ seiko-srpd55 1135  размер: ",
@@ -7944,7 +10840,7 @@
   "✓ moscot-lemtosh 1103  размер: 44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,52,44,46,49,52,44,46,49,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,52,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,46,49,44,44,46",
   "· gm-lang None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ jmm-torino 4433  размер: ",
-  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,6.5in,8in,8.5in,9in",
+  "✓ vitaly-integer 254 450 размер: 6.5in,7in,7.5in,8in,8.5in",
   "· miansai-2mm None  www.toddsnyder.com: 403",
   "✓ miansai-4mm 641  размер: M,L",
   "· tomwood-cushion None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7954,16 +10850,16 @@
   "· acne-face-beanie None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· carhartt-watch-hat None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· rl-cap None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
-  "· cz-wool-scarf None  Zara: 403",
-  "· md-fringe-scarf None  Massimo Dutti: 403",
-  "· md-cash-scarf None  Massimo Dutti: 403",
+  "✓ cz-wool-scarf 129.0  размер: ",
+  "✓ md-fringe-scarf 290.0  размер: 01",
+  "✓ md-cash-scarf 690.0  размер: 01",
   "· cos-cash-scarf None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ begg-arran 1215  размер: Default Title",
   "· lp-grande-unita None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ dents-gloves 162 231 размер: S,M,L,XL,S,M,L,XL",
   "· causse-gloves None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ drakes-tie 753  размер: ONESIZE",
-  "· cz-tie None  Zara: 403",
+  "✓ cz-tie 109.0  размер: M",
   "· bv-card None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· hermes-calvi None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "· sl-wallet None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
@@ -7975,78 +10871,78 @@
   "✓ bresciani 93  размер: 9 1 2,10,10 1 2,11,11 1 2,12,12 1 2,13,9 1 2,10,10 1 2,11,11 1 2,12,12 1 2,13",
   "· jazz-club None  Магазин не отдаёт цены автоматически или закрыт защитой от ботов",
   "✓ ombre-leather 148  размер: 1.7 fl oz,0.34 fl oz,3.4 fl oz,5.0 fl oz",
-  "· run-zara None  Zara: 403",
-  "· run-peg40 None  nike.ge: цены в разметке страницы нет",
-  "· run-peg41gtx None  nike.ge: цены в разметке страницы нет",
+  "✓ run-zara 259.0  размер: 42",
+  "✓ run-peg40 195  размер: ",
+  "✓ run-peg41gtx 200  размер: ",
   "✓ shave-razor 27  размер: ",
   "✓ shave-blades 47  размер: ",
   "✓ shave-gel 20  размер: ",
-  "· z-trench None  Zara: 403",
-  "· z-retro None  Zara: 403",
-  "· z-knit-blue None  Zara: 403",
-  "· z-track None  Zara: 403",
-  "· z-cap None  Zara: 403",
+  "✓ z-trench 379.0  размер: S,M,L",
+  "✓ z-retro 179.0  размер: ",
+  "✓ z-knit-blue 159.0  размер: ",
+  "✓ z-track 179.0  размер: S",
+  "✓ z-cap 69.0  размер: ",
   "✓ w1-jeans~alt 332  размер: ",
   "· w5-merino~alt None  dressup.ge: цены в разметке страницы нет",
   "✓ z-retro~alt 279  размер: ",
-  "· w4-trousers~alt None  Zara: 403",
+  "✓ w4-trousers~alt 299.0  размер: 38",
   "· z-knit-blue~alt None  dressup.ge: цены в разметке страницы нет",
   "✓ w5-polo-white~alt 299  размер: ",
   "✓ w5-sandals~alt 544  размер: ",
   "✓ sp00 460  размер: ",
   "✓ sp01 469 769 размер: Medium / Oat / Standard,Extra Large / Oat / Standard",
-  "· sp02 None  Zara: 403",
-  "· sp03 None  Zara: 403",
+  "✓ sp02 219.0  размер: S,M,L",
+  "✓ sp03 179.0  размер: S",
   "✓ sp04 584  размер: ",
-  "· sp05 None  Zara: 403",
-  "· sp06 None  Zara: 403",
+  "✓ sp05 179.0  размер: ",
+  "✓ sp06 179.0  размер: ",
   "✓ sp07 810  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard",
   "✓ sp08 428  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
-  "· sp09 None  Zara: 403",
-  "· sp10 None  Zara: 403",
+  "✓ sp09 179.0  размер: S,M,L",
+  "✓ sp10 159.0  размер: M",
   "✓ sp11 284 578 размер: Medium / Black / Standard",
   "✓ sp12 695 864 размер: Small / Stone / Standard,Medium / Stone / Standard,Large / Stone / Standard,Extra Large / Stone / Standard",
   "✓ sp14 969  размер: Small / Navy / Standard,Medium / Navy / Standard,Large / Navy / Standard,Extra Large / Navy / Standard,XX Large / Navy / Standard",
   "✓ sp15 969  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard,XX Large / Black / Standard",
-  "· sp16 None  Zara: 403",
+  "✓ sp16 129.0  размер: S,M,L",
   "✓ sp17 764  размер: ",
-  "· sp18 None  Zara: 403",
-  "· sp19 None  Zara: 403",
+  "✓ sp18 129.0  размер: M,L",
+  "✓ sp19 109.0  размер: S,M,L",
   "· sp20 None  reigningchamp.com: 404",
   "✓ sp21 449  размер: ",
-  "· sp22 None  Zara: 403",
-  "✓ sp23 265  размер: Small / Heather Natural / Standard,Medium / Heather Natural / Standard,Large / Heather Natural / Standard,Extra Large / Heather Natural / Standard,XX Large / Heather Natural / Standard",
+  "✓ sp22 109.0  размер: S,M,L",
+  "✓ sp23 265  размер: Small / Heather Natural / Standard,Medium / Heather Natural / Standard,Extra Large / Heather Natural / Standard,XX Large / Heather Natural / Standard",
   "✓ sp24 428  размер: Small / Coffee / Standard,Medium / Coffee / Standard,Large / Coffee / Standard,Extra Large / Coffee / Standard,XX Large / Coffee / Standard",
-  "· sp25 None  Zara: 403",
-  "· sp26 None  Zara: 403",
+  "✓ sp25 179.0  размер: S,M,L",
+  "✓ sp26 129.0  размер: ",
   "✓ sp27 848 1055 размер: Small / Heather Black / Standard,Medium / Heather Black / Standard,Large / Heather Black / Standard,Extra Large / Heather Black / Standard,XX Large / Heather Black / Standard",
   "✓ sp28 428  размер: ",
-  "· sp29 None  Zara: 403",
-  "· sp30 None  Zara: 403",
+  "✓ sp29 129.0  размер: ",
+  "✓ sp30 129.0  размер: M",
   "✓ sp31 428  размер: Small / Black / Standard",
-  "· sp32 None  Zara: 403",
+  "✓ sp32 109.0  размер: M",
   "✓ sp33 261 460 размер: Small / Black / Slim,Medium / Black / Slim,Large / Black / Slim,Extra Large / Black / Slim,XX Large / Black / Slim",
   "✓ sp34 396  размер: Small / Heather Natural / Slim,Medium / Heather Natural / Slim,Large / Heather Natural / Slim,Extra Large / Heather Natural / Slim,XX Large / Heather Natural / Slim",
-  "· sp35 None  Zara: 403",
+  "✓ sp35 179.0  размер: ",
   "✓ sp37 208 297 размер: ",
-  "· sp38 None  Zara: 403",
+  "✓ sp38 109.0  размер: M",
   "✓ sp39 244  размер: ",
   "✓ sp40 333  размер: ",
-  "· sp42 None  Zara: 403",
+  "✓ sp42 119.0 219.0 размер: ",
   "✓ sp43 249  размер: ",
   "· sp44 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
   "· sp45 None  Магазин не отдаёт цены скриптам (защита от ботов): проверять вручную",
-  "· sp46 None  Zara: 403",
-  "· sp47 None  Zara: 403",
-  "· sp48 None  Zara: 403",
+  "· sp46 None  Zara: не JSON (вероятно, защита от ботов)",
+  "✓ sp47 149.0  размер: 42",
+  "✓ sp48 69.0  размер: M",
   "✓ sp49 78 130 размер: O S",
   "✓ sp50 143  размер: ",
-  "· sp51 None  Zara: 403",
-  "· sp52 None  Zara: 403",
+  "✓ sp51 99.0  размер: ",
+  "✓ sp52 99.0  размер: ONE SIZE ONLY",
   "✓ sp53 494  размер: ",
   "✓ sp54 485  размер: ",
   "✓ sp55 471  размер: ",
-  "· sp56 None  Zara: 403",
+  "✓ sp56 219.0  размер: ",
   "✓ sp57 606  размер: M,L",
   "✓ sp58 565  размер: S,M",
   "✓ sp59 1004  размер: S,M,L",
@@ -8060,8 +10956,8 @@
   "· sp68 None  dressup.ge: цены в разметке страницы нет",
   "✓ sp69 359  размер: ",
   "✓ sp70 199  размер: ",
-  "· sp71 None  Zara: 403",
-  "· sp72 None  Zara: 403",
+  "✓ sp71 99.0  размер: S,M,L",
+  "✓ sp72 129.0  размер: ",
   "· sp73 None  reigningchamp.com: 404",
   "✓ sp74 200 492 размер: XX Large / Black / Slim",
   "✓ sp75 200 492 размер: Small / Atlantic / Slim,Medium / Atlantic / Slim,Large / Atlantic / Slim,Extra Large / Atlantic / Slim",
@@ -8073,10 +10969,448 @@
   "✓ sp83 190 238 размер: Large / Navy / Standard",
   "✓ sp84 265  размер: Small / Black / Standard,Medium / Black / Standard,Large / Black / Standard,Extra Large / Black / Standard",
   "✓ sp85 523  размер: S,M,L",
-  "· sp86 None  Zara: 403",
+  "✓ sp86 159.0  размер: ",
   "✓ sp87 323  размер: ",
-  "Zara: дерево категорий недоступно: 403",
-  "Zara: категорий для уценок — 0",
-  "Zara: уценок от 30% — 0"
- ]
+  "Zara: категорий для уценок — 62",
+  "Zara: уценок от 30% — 27"
+ ],
+ "weather": {
+  "today": {
+   "date": "2026-11-28",
+   "weekday": "суббота",
+   "wd": 5,
+   "tmax": 11.8,
+   "tmin": -0.4,
+   "feel_max": 8.8,
+   "feel_min": -3.9,
+   "eve": 5.8,
+   "eve_feel": 3.6,
+   "precip": 0.0,
+   "pop": 0,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 8.0,
+   "eff": 10.3,
+   "season": "cm"
+  },
+  "tomorrow": {
+   "date": "2026-11-29",
+   "weekday": "воскресенье",
+   "wd": 6,
+   "tmax": 8.7,
+   "tmin": 1.2,
+   "feel_max": 5.1,
+   "feel_min": -1.4,
+   "eve": 4.6,
+   "eve_feel": 2.2,
+   "precip": 0.0,
+   "pop": 40,
+   "code": 3,
+   "sky": "пасмурно",
+   "wind": 11.0,
+   "eff": 6.9,
+   "season": "win"
+  },
+  "recent": [
+   {
+    "date": "2026-11-07",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 8.4,
+    "tmin": 6.3,
+    "feel_max": 6.7,
+    "feel_min": 0.9,
+    "eve": 6.7,
+    "eve_feel": 1.2,
+    "precip": 6.9,
+    "pop": 100,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 27.9,
+    "eff": 7.6,
+    "season": "win",
+    "at": "15:30"
+   },
+   {
+    "date": "2026-11-08",
+    "weekday": "воскресенье",
+    "wd": 6,
+    "tmax": 9.1,
+    "tmin": 5.0,
+    "feel_max": 1.9,
+    "feel_min": -2.6,
+    "eve": 5.1,
+    "eve_feel": -1.9,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 38.9,
+    "eff": 5.5,
+    "season": "win",
+    "at": "15:42"
+   },
+   {
+    "date": "2026-11-09",
+    "weekday": "понедельник",
+    "wd": 0,
+    "tmax": 7.9,
+    "tmin": 3.2,
+    "feel_max": -0.7,
+    "feel_min": -4.5,
+    "eve": 4.1,
+    "eve_feel": -1.8,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 44.9,
+    "eff": 3.6,
+    "season": "win",
+    "at": "17:37"
+   },
+   {
+    "date": "2026-11-10",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 8.9,
+    "tmin": 2.0,
+    "feel_max": 4.9,
+    "feel_min": -1.2,
+    "eve": 5.4,
+    "eve_feel": 2.7,
+    "precip": 0.0,
+    "pop": 5,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 18.7,
+    "eff": 6.9,
+    "season": "win",
+    "at": "17:16"
+   },
+   {
+    "date": "2026-11-11",
+    "weekday": "среда",
+    "wd": 2,
+    "tmax": 8.5,
+    "tmin": 0.1,
+    "feel_max": 4.9,
+    "feel_min": -1.9,
+    "eve": 2.1,
+    "eve_feel": -0.1,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 10.0,
+    "eff": 6.7,
+    "season": "win",
+    "at": "16:27"
+   },
+   {
+    "date": "2026-11-12",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 14.0,
+    "tmin": -1.1,
+    "feel_max": 10.5,
+    "feel_min": -4.3,
+    "eve": 7.4,
+    "eve_feel": 5.4,
+    "precip": 0.0,
+    "pop": 3,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 12.6,
+    "eff": 12.2,
+    "season": "cm",
+    "at": "17:32"
+   },
+   {
+    "date": "2026-11-14",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 20.7,
+    "tmin": 5.4,
+    "feel_max": 16.8,
+    "feel_min": 3.5,
+    "eve": 15.6,
+    "eve_feel": 12.1,
+    "precip": 0.0,
+    "pop": 58,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 30.6,
+    "eff": 18.8,
+    "season": "wm",
+    "at": "15:56"
+   },
+   {
+    "date": "2026-11-15",
+    "weekday": "воскресенье",
+    "wd": 6,
+    "tmax": 17.4,
+    "tmin": 7.4,
+    "feel_max": 11.9,
+    "feel_min": 0.4,
+    "eve": 8.5,
+    "eve_feel": 0.6,
+    "precip": 0.0,
+    "pop": 38,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 50.0,
+    "eff": 14.6,
+    "season": "cm",
+    "at": "16:30"
+   },
+   {
+    "date": "2026-11-16",
+    "weekday": "понедельник",
+    "wd": 0,
+    "tmax": 11.9,
+    "tmin": 5.7,
+    "feel_max": 9.0,
+    "feel_min": 0.5,
+    "eve": 7.0,
+    "eve_feel": 4.0,
+    "precip": 0.0,
+    "pop": 35,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 34.3,
+    "eff": 10.4,
+    "season": "cm",
+    "at": "17:22"
+   },
+   {
+    "date": "2026-11-17",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 7.4,
+    "tmin": 2.9,
+    "feel_max": 4.5,
+    "feel_min": 1.5,
+    "eve": 4.3,
+    "eve_feel": 2.5,
+    "precip": 0.0,
+    "pop": 13,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 8.7,
+    "eff": 6.0,
+    "season": "win",
+    "at": "18:07"
+   },
+   {
+    "date": "2026-11-18",
+    "weekday": "среда",
+    "wd": 2,
+    "tmax": 13.0,
+    "tmin": 0.9,
+    "feel_max": 9.4,
+    "feel_min": -1.8,
+    "eve": 6.5,
+    "eve_feel": 4.5,
+    "precip": 0.0,
+    "pop": 3,
+    "code": 45,
+    "sky": "туман",
+    "wind": 20.1,
+    "eff": 11.2,
+    "season": "cm",
+    "at": "17:40"
+   },
+   {
+    "date": "2026-11-19",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 13.4,
+    "tmin": 4.3,
+    "feel_max": 12.0,
+    "feel_min": 2.5,
+    "eve": 9.3,
+    "eve_feel": 7.8,
+    "precip": 0.7,
+    "pop": 83,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 13.9,
+    "eff": 12.7,
+    "season": "cm",
+    "at": "18:08"
+   },
+   {
+    "date": "2026-11-20",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 15.4,
+    "tmin": 8.8,
+    "feel_max": 12.1,
+    "feel_min": 5.0,
+    "eve": 11.2,
+    "eve_feel": 10.2,
+    "precip": 0.1,
+    "pop": 43,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 19.0,
+    "eff": 13.8,
+    "season": "cm",
+    "at": "17:50"
+   },
+   {
+    "date": "2026-11-21",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 13.3,
+    "tmin": 6.3,
+    "feel_max": 10.0,
+    "feel_min": 4.4,
+    "eve": 10.6,
+    "eve_feel": 7.3,
+    "precip": 1.9,
+    "pop": 90,
+    "code": 80,
+    "sky": "ливень",
+    "wind": 24.2,
+    "eff": 11.7,
+    "season": "cm",
+    "at": "21:54"
+   },
+   {
+    "date": "2026-11-22",
+    "weekday": "воскресенье",
+    "wd": 6,
+    "tmax": 13.4,
+    "tmin": 7.3,
+    "feel_max": 7.6,
+    "feel_min": 3.2,
+    "eve": 8.2,
+    "eve_feel": 4.4,
+    "precip": 0.0,
+    "pop": 25,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 32.3,
+    "eff": 10.5,
+    "season": "cm",
+    "at": "22:19"
+   },
+   {
+    "date": "2026-11-23",
+    "weekday": "понедельник",
+    "wd": 0,
+    "tmax": 12.6,
+    "tmin": 4.3,
+    "feel_max": 10.0,
+    "feel_min": 1.9,
+    "eve": 6.1,
+    "eve_feel": 4.2,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 21.3,
+    "eff": 11.3,
+    "season": "cm",
+    "at": "19:41"
+   },
+   {
+    "date": "2026-11-24",
+    "weekday": "вторник",
+    "wd": 1,
+    "tmax": 14.9,
+    "tmin": 2.5,
+    "feel_max": 12.3,
+    "feel_min": 0.4,
+    "eve": 6.8,
+    "eve_feel": 4.8,
+    "precip": 0.0,
+    "pop": 10,
+    "code": 45,
+    "sky": "туман",
+    "wind": 7.7,
+    "eff": 13.6,
+    "season": "cm",
+    "at": "19:32"
+   },
+   {
+    "date": "2026-11-25",
+    "weekday": "среда",
+    "wd": 2,
+    "tmax": 8.5,
+    "tmin": 2.8,
+    "feel_max": 4.5,
+    "feel_min": -3.4,
+    "eve": 3.5,
+    "eve_feel": -2.9,
+    "precip": 5.7,
+    "pop": 100,
+    "code": 80,
+    "sky": "ливень",
+    "wind": 39.3,
+    "eff": 6.5,
+    "season": "win",
+    "at": "19:18"
+   },
+   {
+    "date": "2026-11-26",
+    "weekday": "четверг",
+    "wd": 3,
+    "tmax": 7.4,
+    "tmin": 1.1,
+    "feel_max": 1.1,
+    "feel_min": -2.7,
+    "eve": 3.5,
+    "eve_feel": -0.5,
+    "precip": 0.4,
+    "pop": 45,
+    "code": 61,
+    "sky": "дождь",
+    "wind": 33.3,
+    "eff": 4.2,
+    "season": "win",
+    "at": "18:43"
+   },
+   {
+    "date": "2026-11-27",
+    "weekday": "пятница",
+    "wd": 4,
+    "tmax": 10.1,
+    "tmin": -2.2,
+    "feel_max": 7.2,
+    "feel_min": -4.9,
+    "eve": 3.3,
+    "eve_feel": 1.0,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 45,
+    "sky": "туман",
+    "wind": 8.1,
+    "eff": 8.7,
+    "season": "win",
+    "at": "18:42"
+   },
+   {
+    "date": "2026-11-28",
+    "weekday": "суббота",
+    "wd": 5,
+    "tmax": 11.8,
+    "tmin": -0.4,
+    "feel_max": 8.8,
+    "feel_min": -3.9,
+    "eve": 5.8,
+    "eve_feel": 3.6,
+    "precip": 0.0,
+    "pop": 0,
+    "code": 3,
+    "sky": "пасмурно",
+    "wind": 8.0,
+    "eff": 10.3,
+    "season": "cm",
+    "at": "10:57"
+   }
+  ]
+ }
 }
